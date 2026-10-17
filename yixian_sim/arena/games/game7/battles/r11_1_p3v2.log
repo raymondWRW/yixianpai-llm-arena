@@ -1,0 +1,164 @@
+gained 1 force. Now have 1 force
+turn 1a begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 2 to 80
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Gather Force
+turn 1a ends
+turn 1b begins
+  player 0 is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  player 0 finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 89 max_hp
+  healed 7 hp. Went from 80 to 87
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+turn 1b ends
+turn 2a begins
+  player 0 is playing Crash Citta-Dharma (level 2)
+    gained 3 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 4 def. Now have 3 def
+  player 0 is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 96 max_hp
+  healed 7 hp. Went from 87 to 94
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 86
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 10 def. Now have 0 def
+    reduced player 1 hp by 4 to 90
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3a ends
+turn 3b begins
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 3 qi
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 4 to 82
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 4 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 22 to 68
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 7 to 75
+    reduced player 1 hp by 3 to 72
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 67
+  player 0 finished playing Fire Spirit - Rush
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 4 to 63
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 17 to 51
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 13 to 50
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 45
+  player 0 finished playing Water Spirit - Waves
+turn 5b ends
+turn 6a begins
+  reduced player 0 hp by 3 to 42
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 1 force. Now have 6 force
+    gained 2 wound. Now have 2 wound
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 16 to 35
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 6a ends
+turn 6b begins
+  player 0 is playing Earth Spirit - Mountains (level 2)
+    reduced player 1 hp by 6 to 36
+    gained 3 def. Now have 3 def
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 31
+  player 0 finished playing Earth Spirit - Mountains
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 2 to 29
+  player 0 spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 5 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 28 to 7
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 7a ends
+turn 7b begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+  player 0 upgrades Metal Spirit - Needle (level 1) to Metal Spirit - Needle (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    reduced player 1 hp by 7 to 22
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 4 to 18
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 force. Now have 6 force
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 21 to -14
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+turn 8a ends
+player 1 loses 18 destiny, now at 20
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Gather Force (level 1)
+  Crash Citta-Dharma (level 2)
+  Crash Fist - Block (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Entangle (level 2)
+  Crash Fist - Poke (level 1)
+  Strong Force (level 2)
+  Crash Fist - Shake (level 1)
+Player 1's deck:
+  Motionless Tutelary Formation (level 1)
+  Endless Sword Formation (level 2)
+  Fire Spirit - Flame Eater (level 2)
+  Fire Spirit - Rush (level 2)
+  Water Spirit - Waves (level 2)
+  Earth Spirit - Mountains (level 2)
+  Metal Spirit - Needle (level 2)
+  Fire Spirit - Blast (level 2)

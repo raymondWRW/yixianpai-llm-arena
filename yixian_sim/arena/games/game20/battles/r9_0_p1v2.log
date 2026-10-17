@@ -1,0 +1,180 @@
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 2 internal_injury
+    reduced 吾行之(pid2) hp by 2 to 76
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1a: A(hp 83/83, def 2, qi 0) | B(hp 76/78, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 2 to 74
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 3 qi. Now have 3 qi
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 1b: A(hp 83/83, def 2, qi 0) | B(hp 74/78, def 0, qi 3, injury 2)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    reduced 吾行之(pid2) hp by 3 to 71
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 2a: A(hp 83/83, def 1, qi 2) | B(hp 71/78, def 0, qi 3, injury 2)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 2 to 69
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 82
+  gained 1 def. Now have 1 def
+  STATE after turn 2b: A(hp 82/83, def 1, qi 2) | B(hp 69/78, def 0, qi 3, injury 2)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 63
+    gained 2 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 82/83, def 0, qi 1) | B(hp 63/78, def 0, qi 3, injury 4)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 4 to 59
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 69
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 67
+  gained 1 def. Now have 1 def
+  STATE after turn 3b: A(hp 67/83, def 1, qi 1) | B(hp 59/78, def 0, qi 1, injury 4)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 吾行之(pid2) hp by 5 to 54
+    reduced 吾行之(pid2) hp by 5 to 49
+    reduced 吾行之(pid2) max_hp by 12 to 66
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 4a: A(hp 67/83, def 0, qi 0) | B(hp 49/66, def 0, qi 1, injury 4)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 4 to 45
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 54
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 52
+  gained 1 def. Now have 1 def
+  STATE after turn 4b: A(hp 52/83, def 1, qi 0) | B(hp 45/66, def 0, qi 0, injury 4)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Thunder Hexagram Rhythm (level 1)
+    reduced 吾行之(pid2) hp by 4 to 41
+  谭舒雁(pid1) finished playing Thunder Hexagram Rhythm
+  STATE after turn 5a: A(hp 52/83, def 0, qi 0) | B(hp 41/66, def 0, qi 0, injury 4)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 4 to 37
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 49
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 47
+  gained 1 def. Now have 1 def
+  STATE after turn 5b: A(hp 47/83, def 1, qi 0) | B(hp 37/66, def 0, qi 0, injury 4)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 6a: A(hp 47/83, def 4, qi 0) | B(hp 37/66, def 0, qi 0, injury 4)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 4 to 33
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 3 def. Now have 0 def
+  STATE after turn 6b: A(hp 47/83, def 0, qi 0) | B(hp 33/66, def 0, qi 0, injury 4)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 30
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 47/83, def 0, qi 0) | B(hp 30/66, def 0, qi 0, injury 4)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 4 to 26
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 1 to 46
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 44
+  gained 1 def. Now have 1 def
+  STATE after turn 7b: A(hp 44/83, def 1, qi 0) | B(hp 26/66, def 0, qi 0, injury 4)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 23
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 44/83, def 0, qi 0) | B(hp 23/66, def 0, qi 0, injury 4)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 4 to 19
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 41
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 39
+  gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp 39/83, def 1, qi 0) | B(hp 19/66, def 0, qi 0, injury 4)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 吾行之(pid2) hp by 6 to 13
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 9a: A(hp 39/83, def 0, qi 0) | B(hp 13/66, def 0, qi 0, injury 6)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 6 to 7
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 3 qi. Now have 3 qi
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 3 to 36
+  gained 1 def. Now have 1 def
+  STATE after turn 9b: A(hp 36/83, def 1, qi 0) | B(hp 7/66, def 0, qi 3, injury 6)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    reduced 吾行之(pid2) hp by 4 to 3
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 10a: A(hp 36/83, def 0, qi 2) | B(hp 3/66, def 0, qi 3, injury 6)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 6 to -3
+  STATE after turn 10b: A(hp 36/83, def 0, qi 2) | B(hp -3/66, def 0, qi 3, injury 6)
+turn 10b ends
+吾行之(pid2) loses 15 destiny, now at 47
+谭舒雁(pid1) (Tan Shuyan) wins

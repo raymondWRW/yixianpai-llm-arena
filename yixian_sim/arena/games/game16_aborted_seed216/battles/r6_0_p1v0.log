@@ -1,0 +1,175 @@
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 62/62, def 1, qi 1) | B(hp 62/62, def 0, qi 0, sword 1, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 61
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 62/62, def 1, qi 1) | B(hp 61/62, def 0, qi 0, sword 1, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 55
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 2a: A(hp 62/62, def 0, qi 0) | B(hp 55/62, def 0, qi 0, sword 1, injury 3)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  reduced 牧逸风(pid0) hp by 3 to 52
+  牧逸风(pid0) is playing Cloud Sword - Reguard (level 1)
+    gained 8 def. Now have 8 def
+    healed 3 hp. Went from 52 to 55
+  牧逸风(pid0) finished playing Cloud Sword - Reguard
+  STATE after turn 2b: A(hp 62/62, def 0, qi 0, injury 1) | B(hp 55/62, def 8, qi 0, sword 1, injury 3)
+turn 2b ends
+turn 3a begins
+  reduced 谭舒雁(pid1) hp by 1 to 61
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 5 def. Now have 3 def
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 3a: A(hp 61/62, def 1, qi 0, injury 1) | B(hp 55/62, def 3, qi 0, sword 1, injury 3)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  reduced 牧逸风(pid0) hp by 3 to 52
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 55
+    gained 1 def. Now have 1 def
+    gained 2 sword_intent. Now have 3 sword_intent
+    lost 1 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 3b: A(hp 55/62, def 1, qi 0, injury 2) | B(hp 52/62, def 1, qi 0, sword 2, injury 3)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 53
+  gained 1 def. Now have 1 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 2). They now have 1/1 qi
+  STATE after turn 4a: A(hp 53/62, def 1, qi 1, injury 2) | B(hp 52/62, def 1, qi 0, sword 2, injury 3)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 3 to 49
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 47
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 43
+    gained 1 def. Now have 1 def
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 4b: A(hp 43/62, def 1, qi 1, injury 2) | B(hp 49/62, def 0, qi 0, injury 3)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 41
+  gained 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 42
+    reduced 牧逸风(pid0) hp by 7 to 35
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 5a: A(hp 41/62, def 1, qi 0, injury 2) | B(hp 35/62, def 0, qi 0, injury 3)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 3 to 32
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 38
+    gained 1 def. Now have 1 def
+    gained 4 def. Now have 4 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 5b: A(hp 38/62, def 1, qi 0, injury 2) | B(hp 32/62, def 4, qi 0, injury 3)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 36
+  gained 1 def. Now have 1 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Golden Rooster Independence (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 36/62, def 1, qi 1, injury 2) | B(hp 32/62, def 4, qi 0, injury 3)
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 3 to 29
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 32
+    gained 1 def. Now have 1 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 6b: A(hp 32/62, def 1, qi 1, injury 2) | B(hp 29/62, def 2, qi 0, sword 3, injury 3)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 30
+  gained 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 9 to 20
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 7a: A(hp 30/62, def 1, qi 0, injury 2) | B(hp 20/62, def 0, qi 0, sword 3, injury 3)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 3 to 17
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 22
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 18
+    gained 1 def. Now have 1 def
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 7b: A(hp 18/62, def 1, qi 0, injury 2) | B(hp 17/62, def 0, qi 0, injury 3)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 16
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 10
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 8a: A(hp 16/62, def 1, qi 1, injury 2) | B(hp 10/62, def 0, qi 0, injury 3)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 3 to 7
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 3 to 13
+  gained 1 def. Now have 1 def
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 8b: A(hp 13/62, def 1, qi 1, injury 2) | B(hp 7/62, def 0, qi 0, injury 3)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 11
+  gained 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    reduced 牧逸风(pid0) hp by 10 to -3
+  STATE after turn 9a: A(hp 11/62, def 1, qi 0, injury 2) | B(hp -3/62, def 0, qi 0, injury 3)
+turn 9a ends
+牧逸风(pid0) loses 9 destiny, now at 77
+谭舒雁(pid1) (Tan Shuyan) wins

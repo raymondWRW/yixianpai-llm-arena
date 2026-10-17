@@ -1,0 +1,349 @@
+gained 1 force. Now have 1 force
+reduced player 1 hp by 6 to 106
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 2 to 104
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Gather Force
+turn 1a ends
+turn 1b begins
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 2 star_power
+    gained 1 qi. Now have 2 qi
+  player 0 finished playing Starry Moon
+turn 1b ends
+turn 2a begins
+  player 0 is playing Crash Citta-Dharma (level 2)
+    gained 3 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 2)
+    reduced player 1 hp by 6 to 100
+    reduced player 1 hp by 6 to 94
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Strike Twice (level 1)
+    gained 3 max_hp. Now have 115 max_hp
+    healed 2 hp. Went from 104 to 106
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  player 0 finished playing Strike Twice
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  player 0 finished playing Envelop In Disaster
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 4 to 102
+  player 0 is playing Stillness Citta-Dharma (level 2)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 3 stillness_citta_dharma_stacks. Now have 3 stillness_citta_dharma_stacks
+    gained 3 stillness_citta_dharma_stacks. Now have 6 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 3 to 91
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 14 to 88
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 4 to 84
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 8 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 4 to 87
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 4 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 22 to 62
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 4 to 58
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 max_hp. Now have 118 max_hp
+    healed 16 hp. Went from 58 to 74
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 3 star_power
+  player 0 finished playing Dotted Around
+turn 5b ends
+turn 6a begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 4 to 83
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 16 to 58
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 4 to 54
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 4 qi
+    gained 3 max_hp. Now have 121 max_hp
+    healed 16 hp. Went from 54 to 70
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 2 to 81
+  player 0 spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 19 to 51
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 4 to 47
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 6 qi
+    gained 3 max_hp. Now have 124 max_hp
+    healed 16 hp. Went from 47 to 63
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  player 0 finished playing Flower Sentient
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  reduced player 0 hp by 1 to 80
+  reduced player 0 hp by 4 to 76
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 force. Now have 6 force
+    gained 2 wound. Now have 2 wound
+    lost 1 force. Now have 5 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 16 to 47
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 8a ends
+turn 8b begins
+  reduced player 0 hp by 4 to 43
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 5 star_power
+    gained 1 qi. Now have 7 qi
+    gained 3 max_hp. Now have 127 max_hp
+    healed 8 hp. Went from 43 to 51
+    gained 1 qi. Now have 8 qi
+    gained 3 max_hp. Now have 130 max_hp
+    healed 8 hp. Went from 51 to 59
+  player 0 finished playing Starry Moon
+turn 8b ends
+turn 9a begins
+  reduced player 0 hp by 1 to 75
+  player 0 is playing Gather Force (level 1)
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 5 to 54
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 6 force
+  player 0 finished playing Gather Force
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 4 to 50
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 2)
+    reduced player 1 hp by 9 to 66
+    reduced player 1 hp by 9 to 57
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 6 qi
+  player 0 spent 1 qi to play Strike Twice (level 1)
+    gained 3 max_hp. Now have 133 max_hp
+    healed 2 hp. Went from 50 to 52
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  player 0 finished playing Strike Twice
+turn 9b ends
+turn 10a begins
+  reduced player 0 hp by 1 to 56
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 8 internal_injury
+  player 0 finished playing Envelop In Disaster
+turn 10a ends
+turn 10b begins
+  reduced player 0 hp by 8 to 44
+  player 0 is playing Dotted Around (level 2)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 2 qi. Now have 8 qi
+    gained 3 max_hp. Now have 136 max_hp
+    healed 16 hp. Went from 44 to 60
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 6 star_power
+    gained 2 qi. Now have 10 qi
+    gained 3 max_hp. Now have 139 max_hp
+    healed 16 hp. Went from 60 to 76
+    gained 3 def. Now have 6 def
+    gained 1 star_power. Now have 7 star_power
+  player 0 finished playing Dotted Around
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 1 to 55
+  reduced player 0 hp by 3 to 52
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 6 force
+    gained 2 def. Now have 3 def
+    gained 2 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 10 to 66
+    gained 3 def. Now have 6 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 8 to 58
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 12 qi
+    gained 3 max_hp. Now have 142 max_hp
+    healed 16 hp. Went from 58 to 74
+    gained 1 hexagram. Now have 2 hexagram
+  player 0 finished playing Wind Hexagram
+turn 11b ends
+turn 12a begins
+  lost 3 def. Now have 3 def
+  reduced player 0 hp by 1 to 51
+  reduced player 0 hp by 4 to 47
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 6 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 24 to 50
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 12a ends
+turn 12b begins
+  reduced player 0 hp by 8 to 42
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 14 qi
+    gained 3 max_hp. Now have 145 max_hp
+    healed 16 hp. Went from 42 to 58
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  player 0 finished playing Flower Sentient
+turn 12b ends
+turn 13a begins
+  lost 3 def. Now have 3 def
+  reduced player 0 hp by 2 to 45
+  reduced player 0 hp by 4 to 41
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 18 to 40
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 13a ends
+turn 13b begins
+  reduced player 0 hp by 8 to 32
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 9 star_power
+    gained 1 qi. Now have 15 qi
+    gained 3 max_hp. Now have 148 max_hp
+    healed 8 hp. Went from 32 to 40
+    gained 1 qi. Now have 16 qi
+    gained 3 max_hp. Now have 151 max_hp
+    healed 8 hp. Went from 40 to 48
+  player 0 finished playing Starry Moon
+turn 13b ends
+turn 14a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 2 to 39
+  reduced player 0 hp by 2 to 37
+  player 0 spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 21 to 27
+    gained 1 hp_cost_card_count. Now have 9 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 14a ends
+turn 14b begins
+  reduced player 0 hp by 8 to 19
+  lost 1 qi. Now have 15 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 12 to 25
+    reduced player 1 hp by 13 to 12
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 14 qi
+  player 0 spent 1 qi to play Strike Twice (level 1)
+    gained 3 max_hp. Now have 154 max_hp
+    healed 2 hp. Went from 19 to 21
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  player 0 finished playing Strike Twice
+turn 14b ends
+turn 15a begins
+  reduced player 0 hp by 2 to 10
+  reduced player 0 hp by 4 to 6
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 force. Now have 6 force
+    gained 2 wound. Now have 4 wound
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 20 to 1
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 10 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 15a ends
+turn 15b begins
+  reduced player 0 hp by 8 to -7
+turn 15b ends
+player 1 loses 17 destiny, now at 41
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Gather Force (level 1)
+  Crash Citta-Dharma (level 2)
+  Envelop In Disaster (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Entangle (level 2)
+  Strong Force (level 2)
+  Crash Fist - Shake (level 1)
+Player 1's deck:
+  Starry Moon (level 1)
+  Astral Move - Fly (level 2)
+  Strike Twice (level 1)
+  Stillness Citta-Dharma (level 2)
+  Stillness Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Wind Hexagram (level 2)
+  Flower Sentient (level 2)

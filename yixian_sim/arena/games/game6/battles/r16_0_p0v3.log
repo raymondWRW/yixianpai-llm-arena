@@ -1,0 +1,158 @@
+turn 1a begins
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 62 physique
+    gained 2 max_hp. Now have 175 max_hp
+    healed 4 hp. Went from 113 to 117
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  player 0 is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  player 0 finished playing Spirit Gather Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 3 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 104
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Heavenly Will - Comply (level 2)
+    gained 4 qi. Now have 7 qi
+    gained 3 god_opportunity_conform_stacks. Now have 3 god_opportunity_conform_stacks
+  player 0 finished playing Heavenly Will - Comply
+turn 3a ends
+turn 3b begins
+  player 0 is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 4 force
+  player 0 finished playing Gather Intense Force
+turn 3b ends
+turn 4a begins
+  lost 1 god_opportunity_conform_stacks. Now have 2 god_opportunity_conform_stacks
+  lost 7 def. Now have 6 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 9 qi
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 1 to 103
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 101
+  player 0 spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 1 qi
+    gained 3 force. Now have 7 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 30 to 80
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mighty Force
+turn 4b ends
+turn 5a begins
+  lost 1 god_opportunity_conform_stacks. Now have 1 god_opportunity_conform_stacks
+  gained 1 qi. Now have 10 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Dharma Spirit Sword (level 1)
+    lost 10 qi. Now have 0 qi
+    reduced player 1 hp by 55 to 46
+  player 0 finished playing Dharma Spirit Sword
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 5 to 41
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    reduced player 1 hp by 18 to 62
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 5b ends
+turn 6a begins
+  lost 1 god_opportunity_conform_stacks. Now have 0 god_opportunity_conform_stacks
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 5 to 36
+  player 0 spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    reduced player 1 hp by 39 to 23
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Inch Force
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 12 to 24
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 7a ends
+turn 7b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 27 to -4
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 8 force
+turn 7b ends
+player 0 loses 22 destiny, now at -4
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Transforming Spirits Rhythm (level 2)
+  Spirit Gather Citta-Dharma (level 1)
+  Giant Kun Spirit Sword (level 2)
+  Heavenly Will - Comply (level 2)
+  Cloud Sword - Pierce the Star (level 1)
+  Dharma Spirit Sword (level 1)
+  Qi Perfusion (level 1)
+  Giant Roc Spirit Sword (level 2)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Majestic Qi (level 2)
+  Gather Intense Force (level 1)
+  Mighty Force (level 2)
+  Crash Fist - Subdue Dragon (level 1)
+  Crash Fist - Inch Force (level 1)
+  Vigorous Force (level 2)
+  Overwhelming Force (level 1)

@@ -1,0 +1,365 @@
+gained 1 qi. Now have 1 qi
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Polaris Citta-Dharma (level 1)
+    gained 2 star_power. Now have 2 star_power
+  player 0 finished playing Polaris Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Spirit Absorb Fulu (level 1)
+    gained 2 qi. Now have 3 qi
+    lost 1 qi. Now have 2 qi
+  player 0 finished playing Spirit Absorb Fulu
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 3 qi
+  player 0 gained qi instead of playing Giant Kun Spirit Sword (level 2). They now have 3/3 qi
+turn 2b ends
+turn 3a begins
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 4 star_power
+    gained 1 qi. Now have 4 qi
+    gained 1 qi. Now have 5 qi
+  player 0 finished playing Starry Moon
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 1 def
+  lost 3 qi. Now have 0 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 88
+    gained 13 def. Now have 14 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 6 to 82
+    reduced player 1 hp by 6 to 76
+  player 0 finished playing Cloud Sword - Necessity
+turn 3b ends
+turn 4a begins
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 117 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 129 max_hp
+    healed 12 hp. Went from 76 to 88
+  player 0 finished playing Qi Therapy
+turn 4a ends
+turn 4b begins
+  lost 7 def. Now have 7 def
+  player 0 is playing Cloud Sword - Fleche (level 3)
+    reduced player 1 hp by 7 to 81
+    reduced player 1 hp by 7 to 74
+  player 0 finished playing Cloud Sword - Fleche
+turn 4b ends
+turn 5a begins
+  player 0 is playing Stillness Citta-Dharma (level 2)
+    gained 3 stillness_citta_dharma_stacks. Now have 3 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 5a ends
+turn 5b begins
+  lost 4 def. Now have 3 def
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 61
+  player 0 finished playing Cloud Sword - Conceal
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 120
+    reduced player 1 max_hp by 16 to 120
+  player 0 finished playing Fire Cloud Fulu
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 53
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Revitalized (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 16 to 104
+  player 0 finished playing Revitalized
+turn 7a ends
+turn 7b begins
+  player 0 is playing Cloud Sword - Moon Shade (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 increase_atk. Now have 3 increase_atk
+  player 0 finished playing Cloud Sword - Moon Shade
+turn 7b ends
+turn 8a begins
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 6 star_power
+    gained 1 qi. Now have 1 qi
+    healed 3 hp. Went from 53 to 56
+    gained 1 qi. Now have 2 qi
+    healed 3 hp. Went from 56 to 59
+  player 0 finished playing Starry Moon
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Cloud Sword - Flash Wind (level 1)
+    reduced player 1 hp by 10 to 49
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 6 def
+  player 0 finished playing Guard Qi
+turn 8b ends
+turn 9a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 145 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 31 hp. Went from 49 to 80
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 80 to 83
+  player 0 gained qi instead of playing Qi Therapy (level 2). They now have 1/1 qi
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 3 def
+  gained 1 qi. Now have 3 qi
+  player 0 gained qi instead of playing Giant Kun Spirit Sword (level 2). They now have 3/3 qi
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 157 max_hp
+    healed 14 hp. Went from 83 to 97
+  player 0 finished playing Qi Therapy
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 1 def
+  lost 3 qi. Now have 0 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 16 to 81
+    gained 13 def. Now have 14 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 9 to 72
+    reduced player 1 hp by 9 to 63
+  player 0 finished playing Cloud Sword - Necessity
+turn 10b ends
+turn 11a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 63 to 66
+  player 0 gained qi instead of playing Revitalized (level 2). They now have 1/1 qi
+turn 11a ends
+turn 11b begins
+  lost 7 def. Now have 7 def
+  player 0 is playing Cloud Sword - Fleche (level 3)
+    reduced player 1 hp by 10 to 56
+    reduced player 1 hp by 10 to 46
+  player 0 finished playing Cloud Sword - Fleche
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Revitalized (level 2)
+    lost 7 def. Now have 0 def
+    reduced player 1 hp by 26 to 78
+  player 0 finished playing Revitalized
+turn 12a ends
+turn 12b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 16 to 30
+  player 0 finished playing Cloud Sword - Conceal
+turn 12b ends
+turn 13a begins
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 8 star_power
+    gained 1 qi. Now have 1 qi
+    healed 3 hp. Went from 30 to 33
+    gained 1 qi. Now have 2 qi
+    healed 3 hp. Went from 33 to 36
+  player 0 finished playing Starry Moon
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 11 to 25
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+turn 13b ends
+turn 14a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 173 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 31 hp. Went from 25 to 56
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 56 to 59
+  player 0 gained qi instead of playing Qi Therapy (level 2). They now have 1/1 qi
+turn 14a ends
+turn 14b begins
+  player 0 is playing Cloud Sword - Moon Shade (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 increase_atk. Now have 6 increase_atk
+  player 0 finished playing Cloud Sword - Moon Shade
+turn 14b ends
+turn 15a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 185 max_hp
+    healed 17 hp. Went from 59 to 76
+  player 0 finished playing Qi Therapy
+turn 15a ends
+turn 15b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Cloud Sword - Flash Wind (level 1)
+    reduced player 1 hp by 13 to 63
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 6 def
+  player 0 finished playing Guard Qi
+turn 15b ends
+turn 16a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 63 to 66
+  player 0 gained qi instead of playing Revitalized (level 2). They now have 1/1 qi
+turn 16a ends
+turn 16b begins
+  lost 3 def. Now have 3 def
+  gained 1 qi. Now have 3 qi
+  player 0 gained qi instead of playing Giant Kun Spirit Sword (level 2). They now have 3/3 qi
+turn 16b ends
+turn 17a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Revitalized (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 47 to 31
+  player 0 finished playing Revitalized
+turn 17a ends
+turn 17b begins
+  lost 3 qi. Now have 0 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 19 to 47
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 12 to 35
+    reduced player 1 hp by 12 to 23
+  player 0 finished playing Cloud Sword - Necessity
+turn 17b ends
+turn 18a begins
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 10 star_power
+    gained 1 qi. Now have 1 qi
+    healed 3 hp. Went from 23 to 26
+    gained 1 qi. Now have 2 qi
+    healed 3 hp. Went from 26 to 29
+  player 0 finished playing Starry Moon
+turn 18a ends
+turn 18b begins
+  lost 7 def. Now have 6 def
+  player 0 is playing Cloud Sword - Fleche (level 3)
+    reduced player 1 hp by 13 to 16
+    reduced player 1 hp by 13 to 3
+  player 0 finished playing Cloud Sword - Fleche
+turn 18b ends
+turn 19a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 201 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 31 hp. Went from 3 to 34
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 34 to 37
+  player 0 gained qi instead of playing Qi Therapy (level 2). They now have 1/1 qi
+turn 19a ends
+turn 19b begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 19 to 18
+  player 0 finished playing Cloud Sword - Conceal
+turn 19b ends
+turn 20a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 213 max_hp
+    healed 16 hp. Went from 18 to 34
+  player 0 finished playing Qi Therapy
+turn 20a ends
+turn 20b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 14 to 20
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+turn 20b ends
+turn 21a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 20 to 23
+  player 0 gained qi instead of playing Revitalized (level 2). They now have 1/1 qi
+turn 21a ends
+turn 21b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Cloud Sword - Moon Shade (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 increase_atk. Now have 9 increase_atk
+  player 0 finished playing Cloud Sword - Moon Shade
+turn 21b ends
+turn 22a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Revitalized (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 65 to -34
+turn 22a ends
+player 1 loses 23 destiny, now at 23
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Polaris Citta-Dharma (level 1)
+  Spirit Absorb Fulu (level 1)
+  Starry Moon (level 1)
+  Great Spirit (level 2)
+  Qi Therapy (level 2)
+  Stillness Citta-Dharma (level 2)
+  Fire Cloud Fulu (level 2)
+  Revitalized (level 2)
+Player 1's deck:
+  Guard Qi (level 2)
+  Giant Kun Spirit Sword (level 2)
+  Cloud Sword - Necessity (level 2)
+  Cloud Sword - Fleche (level 3)
+  Cloud Sword - Conceal (level 2)
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Moon Shade (level 2)
+  Cloud Sword - Flash Wind (level 1)

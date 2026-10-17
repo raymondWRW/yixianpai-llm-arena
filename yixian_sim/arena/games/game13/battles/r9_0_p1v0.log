@@ -1,0 +1,123 @@
+gained 1 star_power. Now have 1 star_power
+gained 2 internal_injury. Now have 2 internal_injury
+gained 1 internal_injury. Now have 3 internal_injury
+turn 1a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 78/78, def 0, qi 0, star 1) | B(hp 78/78, def 0, qi 0, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 4 to 74
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 78/78, def 0, qi 0, star 1) | B(hp 74/78, def 0, qi 3, injury 4)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2a: A(hp 78/78, def 0, qi 0, star 1) | B(hp 74/78, def 0, qi 3, injury 5)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 5 to 69
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 74
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2b: A(hp 74/78, def 0, qi 0, star 1) | B(hp 69/78, def 0, qi 3, sword 2, injury 5)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 3 star_power
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 3a: A(hp 74/78, def 0, qi 0, star 3) | B(hp 69/78, def 0, qi 3, sword 2, injury 5)
+turn 3a ends
+turn 3b begins
+  reduced 牧逸风(pid0) hp by 5 to 64
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 61
+    gained 4 sword_intent. Now have 6 sword_intent
+    lost 2 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 3b: A(hp 61/78, def 0, qi 0, star 3) | B(hp 64/78, def 0, qi 2, sword 4, injury 5)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Hit (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 61/78, def 0, qi 1, star 3) | B(hp 64/78, def 0, qi 2, sword 4, injury 5)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 5 to 59
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+    lost 4 sword_intent. Now have 0 sword_intent
+    gained 4 qi. Now have 6 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 4b: A(hp 61/78, def 0, qi 1, star 3) | B(hp 59/78, def 9, qi 6, injury 5)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    lost 8 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 52
+    reduced 牧逸风(pid0) hp by 8 to 44
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 5a: A(hp 61/78, def 0, qi 0, star 3) | B(hp 44/78, def 0, qi 6, injury 5)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 5 to 39
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 20 to 41
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 5b: A(hp 41/78, def 0, qi 0, star 3) | B(hp 39/78, def 0, qi 4, injury 5)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 41/78, def 0, qi 1, star 3) | B(hp 39/78, def 0, qi 4, injury 5)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 5 to 34
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 28
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 6b: A(hp 28/78, def 0, qi 1, star 3) | B(hp 34/78, def 0, qi 3, injury 5)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 25
+    reduced 牧逸风(pid0) hp by 8 to 17
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 7a: A(hp 28/78, def 0, qi 0, star 3) | B(hp 17/78, def 0, qi 3, injury 5)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 5 to 12
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Reflexive Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 14 to 14
+    gained 10 next_turn_def. Now have 10 next_turn_def
+  牧逸风(pid0) finished playing Reflexive Sword
+  STATE after turn 7b: A(hp 14/78, def 0, qi 0, star 3) | B(hp 12/78, def 0, qi 2, injury 5)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 牧逸风(pid0) hp by 11 to 1
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 8a: A(hp 14/78, def 4, qi 0, star 3) | B(hp 1/78, def 0, qi 2, injury 5)
+turn 8a ends
+turn 8b begins
+  lost 10 next_turn_def. Now have 0 next_turn_def
+  gained 10 def. Now have 10 def
+  reduced 牧逸风(pid0) hp by 5 to -4
+  STATE after turn 8b: A(hp 14/78, def 4, qi 0, star 3) | B(hp -4/78, def 10, qi 2, injury 5)
+turn 8b ends
+牧逸风(pid0) loses 13 destiny, now at 72
+谭舒雁(pid1) (Tan Shuyan) wins

@@ -1,0 +1,96 @@
+reduced 小布(pid3) hp by 2 to 49
+turn 1a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 小布(pid3) hp by 6 to 43
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 1a: A(hp 51/51, def 0, qi 0) | B(hp 43/54, def 0, qi 0, phys 3)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 46
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 46/51, def 0, qi 0) | B(hp 43/54, def 0, qi 1, force 2, phys 3)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 1). They now have 1/1 qi
+  STATE after turn 2a: A(hp 46/51, def 0, qi 1) | B(hp 43/54, def 0, qi 1, force 2, phys 3)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 40
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 13 to 33
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2b: A(hp 33/51, def 0, qi 1) | B(hp 40/54, def 0, qi 1, force 1, phys 3)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 小布(pid3) hp by 10 to 30
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 3a: A(hp 33/51, def 0, qi 0) | B(hp 30/54, def 0, qi 1, force 1, phys 3)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 3 to 27
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 11 to 22
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 3b: A(hp 22/51, def 0, qi 0) | B(hp 27/54, def 2, qi 1, phys 3)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 22/51, def 0, qi 1) | B(hp 27/54, def 2, qi 1, phys 3)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Exercise Fist (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 13
+    gained 1 physique. Now have 4 physique
+    gained 1 max_hp. Now have 55 max_hp
+  小布(pid3) finished playing Exercise Fist
+  STATE after turn 4b: A(hp 13/51, def 0, qi 1) | B(hp 27/55, def 1, qi 1, phys 4)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 5 to 22
+    reduced 小布(pid3) hp by 5 to 17
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 5a: A(hp 13/51, def 0, qi 0) | B(hp 17/55, def 0, qi 1, phys 4)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 2 to 15
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 5
+    lost 1 qi. Now have 0 qi
+    reduced 谭舒雁(pid1) hp by 4 to 1
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 5b: A(hp 1/51, def 0, qi 0) | B(hp 15/55, def 0, qi 0, phys 4)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 2). They now have 1/1 qi
+  STATE after turn 6a: A(hp 1/51, def 0, qi 1) | B(hp 15/55, def 0, qi 0, phys 4)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 2 to 13
+  小布(pid3) spent 2 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to -9
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  STATE after turn 6b: A(hp -9/51, def 0, qi 1) | B(hp 13/55, def 0, qi 0, phys 4)
+turn 6b ends
+谭舒雁(pid1) loses 9 destiny, now at 86
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,110 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 54
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 1a: A(hp 62/62, def 0, qi 0) | B(hp 54/62, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 62/62, def 0, qi 0) | B(hp 54/62, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Zhen Hexagram (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 47
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Zhen Hexagram
+  STATE after turn 2a: A(hp 62/62, def 0, qi 0, hex 1) | B(hp 47/62, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 58
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2b: A(hp 58/62, def 0, qi 0, hex 1) | B(hp 47/62, def 0, qi 3, sword 2)
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+  STATE after turn 3a: A(hp 58/62, def 0, qi 1, hex 1) | B(hp 47/62, def 0, qi 3, sword 2)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 45
+    gained 4 sword_intent. Now have 6 sword_intent
+    lost 2 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 3b: A(hp 45/62, def 0, qi 1, hex 1) | B(hp 47/62, def 0, qi 2, sword 4)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 41
+    reduced 牧逸风(pid0) hp by 5 to 36
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 4a: A(hp 45/62, def 0, qi 0, hex 1) | B(hp 36/62, def 0, qi 2, sword 4)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+    lost 4 sword_intent. Now have 0 sword_intent
+    gained 4 qi. Now have 6 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 4b: A(hp 45/62, def 0, qi 0, hex 1) | B(hp 36/62, def 9, qi 6)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Palm Thunder (level 1)
+    lost 1 hexagram. Now have 0 hexagram
+    lost 9 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 35
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 5a: A(hp 45/62, def 0, qi 0) | B(hp 35/62, def 0, qi 6)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 32
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5b: A(hp 32/62, def 0, qi 0) | B(hp 35/62, def 0, qi 5)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 32/62, def 0, qi 1) | B(hp 35/62, def 0, qi 5)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 16 to 16
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6b: A(hp 16/62, def 0, qi 1) | B(hp 35/62, def 0, qi 3)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 25
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 7a: A(hp 16/62, def 0, qi 0) | B(hp 25/62, def 0, qi 3)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 11
+    reduced 谭舒雁(pid1) hp by 6 to 5
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 7b: A(hp 5/62, def 0, qi 0) | B(hp 25/62, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 1). They now have 1/1 qi
+  STATE after turn 8a: A(hp 5/62, def 0, qi 1) | B(hp 25/62, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to -4
+  STATE after turn 8b: A(hp -4/62, def 0, qi 1) | B(hp 25/62, def 0, qi 2)
+turn 8b ends
+谭舒雁(pid1) loses 11 destiny, now at 97
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,107 @@
+gained 1 star_power. Now have 1 star_power
+gained 2 internal_injury. Now have 2 internal_injury
+gained 1 internal_injury. Now have 3 internal_injury
+turn 1a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 80/80, def 0, qi 0, star 1) | B(hp 80/80, def 0, qi 0, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 4 to 76
+  吾行之(pid2) is playing Water Spirit Seal (level 3)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 4 qi. Now have 4 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 1b: A(hp 80/80, def 0, qi 0, star 1) | B(hp 76/80, def 0, qi 4, injury 4)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2a: A(hp 80/80, def 0, qi 0, star 1) | B(hp 76/80, def 0, qi 4, injury 5)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 5 to 71
+  吾行之(pid2) is playing Water Spirit - Billows (level 2)
+    gained 3 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 谭舒雁(pid1) hp by 3 to 77
+  STATE after turn 2b: A(hp 77/80, def 0, qi 0, star 1) | B(hp 71/80, def 0, qi 4, injury 5)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 3a: A(hp 77/80, def 0, qi 2, star 1) | B(hp 71/80, def 0, qi 4, injury 5)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 5 to 66
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 3 to 74
+  STATE after turn 3b: A(hp 74/80, def 0, qi 2, star 1) | B(hp 66/80, def 0, qi 6, injury 5)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 3 star_power
+    gained 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 4a: A(hp 74/80, def 0, qi 3, star 3) | B(hp 66/80, def 0, qi 6, injury 5)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 5 to 61
+  lost 1 qi. Now have 5 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 61
+    gained 2 force_of_water. Now have 5 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 5 to 56
+  STATE after turn 4b: A(hp 56/80, def 0, qi 3, star 3) | B(hp 61/80, def 0, qi 5, injury 5)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    reduced 吾行之(pid2) hp by 8 to 53
+    reduced 吾行之(pid2) hp by 8 to 45
+    reduced 吾行之(pid2) hp by 8 to 37
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 5a: A(hp 56/80, def 0, qi 2, star 3) | B(hp 37/80, def 0, qi 5, injury 5)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 5 to 32
+  lost 1 qi. Now have 4 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    reduced 谭舒雁(pid1) hp by 19 to 37
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 5 to 32
+  STATE after turn 5b: A(hp 32/80, def 0, qi 2, star 3) | B(hp 32/80, def 0, qi 4, injury 5)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 吾行之(pid2) hp by 9 to 23
+    reduced 吾行之(pid2) hp by 8 to 15
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 6a: A(hp 32/80, def 0, qi 1, star 3) | B(hp 15/80, def 0, qi 4, injury 5)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 5 to 10
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    reduced 谭舒雁(pid1) hp by 12 to 20
+  吾行之(pid2) finished playing World Smash
+  reduced 谭舒雁(pid1) hp by 5 to 15
+  STATE after turn 6b: A(hp 15/80, def 0, qi 1, star 3) | B(hp 10/80, def 0, qi 3, injury 5)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 吾行之(pid2) hp by 13 to -3
+  STATE after turn 7a: A(hp 15/80, def 0, qi 0, star 3) | B(hp -3/80, def 0, qi 3, injury 5)
+turn 7a ends
+吾行之(pid2) loses 15 destiny, now at 26
+谭舒雁(pid1) (Tan Shuyan) wins

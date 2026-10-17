@@ -1,0 +1,338 @@
+gained 4 max_hp. Now have 105 max_hp
+gained 1 def. Now have 1 def
+healed 4 hp. Went from 101 to 105
+gained 1 sword_intent. Now have 1 sword_intent
+gained 2 qi. Now have 2 qi
+turn 1a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 105/105, def 1, qi 1) | B(hp 101/101, def 0, qi 2, sword 1, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 100
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 9 def. Now have 9 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 3 qi
+    gained 3 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 1b: A(hp 105/105, def 1, qi 1) | B(hp 100/101, def 9, qi 3, sword 4, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 105 to 105
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 2a: A(hp 105/105, def 0, qi 0) | B(hp 100/101, def 9, qi 3, sword 4, injury 1)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 1 to 99
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 2 def. Now have 11 def
+    gained 2 sword_intent. Now have 6 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 2b: A(hp 105/105, def 0, qi 0) | B(hp 99/101, def 11, qi 5, sword 6, injury 1)
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 2). They now have 1/1 qi
+  STATE after turn 3a: A(hp 105/105, def 0, qi 1) | B(hp 99/101, def 11, qi 5, sword 6, injury 1)
+turn 3a ends
+turn 3b begins
+  lost 6 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 1 to 98
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 8 qi
+    reduced 谭舒雁(pid1) hp by 9 to 96
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 88
+    gained 1 def. Now have 1 def
+    lost 6 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 88/105, def 1, qi 1) | B(hp 98/101, def 5, qi 8, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 2)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 97
+    gained 3 internal_injury. Now have 4 internal_injury
+    reduced 牧逸风(pid0) hp by 6 to 91
+    gained 3 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4a: A(hp 88/105, def 0, qi 0) | B(hp 91/101, def 0, qi 8, injury 7)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 7 to 84
+  lost 1 qi. Now have 7 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 19 to 69
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 4b: A(hp 69/105, def 1, qi 0) | B(hp 84/101, def 0, qi 7, injury 7)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 4 hp. Went from 69 to 73
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 5a: A(hp 73/105, def 5, qi 0) | B(hp 84/101, def 0, qi 7, injury 7)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 7 to 77
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 70
+    gained 1 def. Now have 1 def
+    gained 7 sword_intent. Now have 7 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 5b: A(hp 70/105, def 1, qi 0) | B(hp 77/101, def 0, qi 7, sword 7, injury 7)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 70 to 77
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 6a: A(hp 77/105, def 1, qi 0) | B(hp 77/101, def 0, qi 7, sword 7, injury 7)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 7 to 70
+  lost 3 qi. Now have 4 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 16 to 61
+    gained 1 def. Now have 1 def
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 7 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 2 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 53
+    gained 1 def. Now have 1 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  STATE after turn 6b: A(hp 53/105, def 1, qi 0) | B(hp 70/101, def 10, qi 2, injury 7)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Decree - Defend (level 1)
+    lost 2 def. Now have 8 def
+    gained 9 def. Now have 9 def
+  谭舒雁(pid1) finished playing Heavenly Decree - Defend
+  STATE after turn 7a: A(hp 53/105, def 9, qi 0) | B(hp 70/101, def 8, qi 2, injury 7)
+turn 7a ends
+turn 7b begins
+  lost 4 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 7 to 63
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 11 def
+  gained 7 max_hp. Now have 108 max_hp
+  healed 7 hp. Went from 63 to 70
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 7b: A(hp 53/105, def 9, qi 0) | B(hp 70/108, def 11, qi 2, injury 7)
+turn 7b ends
+turn 8a begins
+  lost 5 def. Now have 4 def
+  谭舒雁(pid1) is playing Hunter Hunting Hunter (level 1)
+    gained 7 hunter_hunting_hunter_stacks. Now have 7 hunter_hunting_hunter_stacks
+  谭舒雁(pid1) finished playing Hunter Hunting Hunter
+  STATE after turn 8a: A(hp 53/105, def 4, qi 0) | B(hp 70/108, def 11, qi 2, injury 7)
+turn 8a ends
+turn 8b begins
+  lost 6 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 7 to 63
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 9 def. Now have 14 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 3 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  gained 7 def. Now have 21 def
+  gained 7 max_hp. Now have 115 max_hp
+  healed 7 hp. Went from 63 to 70
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 8b: A(hp 53/105, def 4, qi 0) | B(hp 70/115, def 21, qi 3, sword 3, injury 7)
+turn 8b ends
+turn 9a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 3 def
+    healed 7 hp. Went from 53 to 60
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 9a: A(hp 60/105, def 3, qi 0) | B(hp 70/115, def 21, qi 3, sword 3, injury 7)
+turn 9a ends
+turn 9b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 7 to 63
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 2 def. Now have 23 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 9b: A(hp 60/105, def 3, qi 0) | B(hp 63/115, def 23, qi 5, sword 5, injury 7)
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 5 def
+    gained 1 def. Now have 6 def
+    healed 4 hp. Went from 60 to 64
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 10a: A(hp 64/105, def 6, qi 0) | B(hp 63/115, def 23, qi 5, sword 5, injury 7)
+turn 10a ends
+turn 10b begins
+  lost 12 def. Now have 11 def
+  reduced 牧逸风(pid0) hp by 7 to 56
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 8 qi
+    lost 6 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 62
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 55
+    gained 1 def. Now have 1 def
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 10b: A(hp 55/105, def 1, qi 0) | B(hp 56/115, def 11, qi 8, injury 7)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 2). They now have 1/1 qi
+  STATE after turn 11a: A(hp 55/105, def 0, qi 1) | B(hp 56/115, def 11, qi 8, injury 7)
+turn 11a ends
+turn 11b begins
+  lost 6 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 7 to 49
+  lost 1 qi. Now have 7 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 19 to 36
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 11b: A(hp 36/105, def 1, qi 1) | B(hp 49/115, def 5, qi 7, injury 7)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 2)
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 48
+    gained 3 internal_injury. Now have 10 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 12a: A(hp 36/105, def 0, qi 0) | B(hp 48/115, def 0, qi 7, injury 10)
+turn 12a ends
+turn 12b begins
+  reduced 牧逸风(pid0) hp by 10 to 38
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 28
+    gained 1 def. Now have 1 def
+    gained 7 sword_intent. Now have 7 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 12b: A(hp 28/105, def 1, qi 0) | B(hp 38/115, def 0, qi 7, sword 7, injury 10)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Strike Twice (level 1). They now have 1/1 qi
+  STATE after turn 13a: A(hp 28/105, def 0, qi 1) | B(hp 38/115, def 0, qi 7, sword 7, injury 10)
+turn 13a ends
+turn 13b begins
+  reduced 牧逸风(pid0) hp by 10 to 28
+  lost 3 qi. Now have 4 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 17 to 11
+    gained 1 def. Now have 1 def
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 7 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 2 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 3
+    gained 1 def. Now have 1 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  STATE after turn 13b: A(hp 3/105, def 1, qi 1) | B(hp 28/115, def 10, qi 2, injury 10)
+turn 13b ends
+turn 14a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    gained 1 def. Now have 1 def
+    healed 2 hp. Went from 3 to 5
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 14a: A(hp 5/105, def 1, qi 0) | B(hp 28/115, def 10, qi 2, injury 10)
+turn 14a ends
+turn 14b begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 10 to 18
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 9 def. Now have 14 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 3 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 14b: A(hp 5/105, def 1, qi 0) | B(hp 18/115, def 14, qi 3, sword 3, injury 10)
+turn 14b ends
+turn 15a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 11 internal_injury
+    gained 1 qi. Now have 2 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 12 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 15a: A(hp 5/105, def 2, qi 2) | B(hp 18/115, def 14, qi 3, sword 3, injury 12)
+turn 15a ends
+turn 15b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 12 to 6
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 2 def. Now have 16 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 15b: A(hp 5/105, def 2, qi 2) | B(hp 6/115, def 16, qi 5, sword 5, injury 12)
+turn 15b ends
+turn 16a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 7 def. Now have 9 def
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 16a: A(hp 5/105, def 1, qi 1) | B(hp 6/115, def 9, qi 5, sword 5, injury 12)
+turn 16a ends
+turn 16b begins
+  lost 5 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 12 to -6
+  STATE after turn 16b: A(hp 5/105, def 1, qi 1) | B(hp -6/115, def 4, qi 5, sword 5, injury 12)
+turn 16b ends
+牧逸风(pid0) loses 18 destiny, now at 32
+谭舒雁(pid1) (Tan Shuyan) wins

@@ -1,0 +1,147 @@
+gained 3 qi. Now have 3 qi
+turn 1a begins
+  小布(pid3) is playing Crash Footwork (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  STATE after turn 1a: A(hp 105/106, def 0, qi 2, phys 1, agi 4) | B(hp 105/105, def 0, qi 3)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1b: A(hp 105/106, def 0, qi 2, phys 1, agi 4) | B(hp 105/105, def 0, qi 4)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 2 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  小布(pid3) finished playing Crash Citta-Dharma
+  STATE after turn 2a: A(hp 105/106, def 0, qi 2, force 2, phys 1, agi 4) | B(hp 105/105, def 0, qi 4)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Heavenly Spirit Forceage Formation (level 1)
+    gained 2 heavenly_spirit_forceage_formation_stacks. Now have 2 heavenly_spirit_forceage_formation_stacks
+  牧逸风(pid0) finished playing Heavenly Spirit Forceage Formation
+  STATE after turn 2b: A(hp 105/106, def 0, qi 2, force 2, phys 1, agi 4) | B(hp 105/105, def 0, qi 5)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 5 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 3a: A(hp 105/106, def 8, qi 2, force 5, phys 1, agi 4) | B(hp 105/105, def 0, qi 5)
+turn 3a ends
+turn 3b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 1 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 1 increase_atk
+  牧逸风(pid0) is playing Flying Spirit Shade Sword (level 1)
+    lost 2 def. Now have 6 def
+    lost 2 def. Now have 4 def
+    lost 2 def. Now have 2 def
+    lost 2 def. Now have 0 def
+  牧逸风(pid0) finished playing Flying Spirit Shade Sword
+  STATE after turn 3b: A(hp 105/106, def 0, qi 2, force 5, phys 1, agi 4) | B(hp 105/105, def 0, qi 5)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 103
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    gained 1 force. Now have 6 force
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    reduced 牧逸风(pid0) hp by 30 to 75
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4a: A(hp 103/106, def 0, qi 0, force 7, phys 1, agi 4) | B(hp 75/105, def 0, qi 5)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 0 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 2 increase_atk
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 11 to 92
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 13 to 79
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 4b: A(hp 79/106, def 0, qi 0, force 7, phys 1, agi 4) | B(hp 75/105, def 0, qi 3)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Overwhelming Force (level 2)
+    lost 7 force. Now have 0 force
+    gained 28 def. Now have 28 def
+    reduced 牧逸风(pid0) hp by 28 to 47
+    gained 6 agility. Now have 10 agility
+  小布(pid3) finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 8 to 71
+  小布(pid3) spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 force. Now have 1 force
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 11 to 36
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shocked
+  STATE after turn 5a: A(hp 71/106, def 28, qi 0, phys 1) | B(hp 36/105, def 0, qi 3)
+turn 5a ends
+turn 5b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 1 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 22 def. Now have 6 def
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 5b: A(hp 71/106, def 6, qi 0, phys 1) | B(hp 36/105, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 3 def. Now have 3 def
+  reduced 小布(pid3) hp by 6 to 65
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 2)
+    gained 1 force. Now have 1 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 17 to 19
+    Attacking for 9 from crash fist - shocked effect.
+    reduced 牧逸风(pid0) hp by 9 to 10
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 6a: A(hp 65/106, def 3, qi 0, phys 1) | B(hp 10/105, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  gained 1 qi. Now have 3 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 3/3 qi
+  STATE after turn 6b: A(hp 65/106, def 3, qi 0, phys 1) | B(hp 10/105, def 0, qi 3)
+turn 6b ends
+turn 7a begins
+  lost 2 def. Now have 1 def
+  小布(pid3) is playing Exercise Bones (level 1)
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    gained 1 physique. Now have 2 physique
+    gained 1 max_hp. Now have 107 max_hp
+    healed 3 hp. Went from 65 to 68
+    gained 2 exercise_bones_stacks. Now have 2 exercise_bones_stacks
+    Attacking for 9 from crash fist - shocked effect.
+    gained 1 physique. Now have 3 physique
+    gained 1 max_hp. Now have 108 max_hp
+    lost 1 exercise_bones_stacks. Now have 1 exercise_bones_stacks
+    reduced 牧逸风(pid0) hp by 12 to -2
+  STATE after turn 7a: A(hp 68/108, def 1, qi 0, phys 3) | B(hp -2/105, def 0, qi 3)
+turn 7a ends
+牧逸风(pid0) loses 26 destiny, now at -25
+小布(pid3) (Xiao Bu) wins

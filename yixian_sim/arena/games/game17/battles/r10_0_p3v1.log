@@ -1,0 +1,238 @@
+gained 1 qi. Now have 1 qi
+gained 1 internal_injury. Now have 1 internal_injury
+turn 1a begins
+  reduced 小布(pid3) hp by 1 to 79
+  小布(pid3) is playing Hexproof Formation (level 1)
+    gained 1 physique. Now have 24 physique
+    gained 1 max_hp. Now have 104 max_hp
+    healed 1 hp. Went from 79 to 80
+    gained 3 hexproof. Now have 3 hexproof
+  小布(pid3) finished playing Hexproof Formation
+  STATE after turn 1a: A(hp 80/104, def 0, qi 0, injury 1, phys 24) | B(hp 80/80, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 1b: A(hp 80/104, def 0, qi 0, injury 1, phys 24) | B(hp 80/80, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 1 to 79
+  小布(pid3) is playing Magnanimous Righteousness (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 8 def. Now have 8 def
+    gained 3 hexproof. Now have 5 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  STATE after turn 2a: A(hp 79/104, def 8, qi 1, injury 1, phys 24) | B(hp 80/80, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 4 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2b: A(hp 79/104, def 8, qi 1, injury 1, phys 24) | B(hp 80/80, def 0, qi 3)
+turn 2b ends
+turn 3a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 1 to 78
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 75
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3a: A(hp 78/104, def 4, qi 2, force 2, injury 1, phys 24) | B(hp 75/80, def 0, qi 3)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 75 to 79
+    lost 1 hexproof. Now have 3 hexproof
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 3b: A(hp 78/104, def 4, qi 2, force 2, injury 1, phys 24) | B(hp 79/80, def 4, qi 3)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 2 def
+  reduced 小布(pid3) hp by 1 to 77
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 5 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 4a: A(hp 77/104, def 2, qi 1, force 5, injury 1, phys 24, agi 6) | B(hp 79/80, def 4, qi 3)
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 2 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to 68
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 4b: A(hp 68/104, def 0, qi 1, force 5, injury 1, phys 24, agi 6) | B(hp 79/80, def 2, qi 2)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 1 to 67
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 4 force
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 19 to 60
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 6 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 5a: A(hp 67/104, def 0, qi 0, force 6, injury 1, phys 24, agi 6) | B(hp 60/80, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 小布(pid3) hp by 9 to 58
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 5b: A(hp 58/104, def 0, qi 0, force 6, injury 1, phys 24, agi 6) | B(hp 60/80, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 1 to 57
+  reduced 小布(pid3) hp by 3 to 54
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 17 to 43
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 6a: A(hp 54/104, def 0, qi 0, force 5, injury 1, phys 24, agi 6) | B(hp 43/80, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 小布(pid3) hp by 7 to 47
+    reduced 小布(pid3) hp by 7 to 40
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 6b: A(hp 40/104, def 0, qi 0, force 5, injury 1, phys 24, agi 6) | B(hp 43/80, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 1 to 39
+  reduced 小布(pid3) hp by 3 to 36
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 18 to 25
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 7a: A(hp 36/104, def 0, qi 0, force 4, injury 1, phys 24, agi 6) | B(hp 25/80, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 7b: A(hp 36/104, def 0, qi 0, force 4, injury 1, phys 24, agi 6) | B(hp 25/80, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 1 to 35
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Ghost Howling (level 1). They now have 1/1 qi
+  STATE after turn 8a: A(hp 35/104, def 0, qi 1, force 4, injury 1, phys 24, agi 6) | B(hp 25/80, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 1). They now have 1/1 qi
+  STATE after turn 8b: A(hp 35/104, def 0, qi 1, force 4, injury 1, phys 24, agi 6) | B(hp 25/80, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 1 to 34
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 19 to 6
+    lost 2 hexproof. Now have 0 hexproof
+    gained 1 weaken. Now have 1 weaken
+  小布(pid3) finished playing Ghost Howling
+  lost 1 weaken. Now have 0 weaken
+  STATE after turn 9a: A(hp 34/104, def 0, qi 0, force 3, injury 1, phys 24, agi 6) | B(hp 6/80, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 小布(pid3) hp by 3 to 31
+    reduced 小布(pid3) hp by 3 to 28
+    gained 6 def. Now have 6 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 9b: A(hp 28/104, def 0, qi 0, force 3, injury 1, phys 24, agi 6) | B(hp 6/80, def 6, qi 0)
+turn 9b ends
+turn 10a begins
+  reduced 小布(pid3) hp by 1 to 27
+  小布(pid3) is playing Hexproof Formation (level 1)
+    gained 1 physique. Now have 25 physique
+    gained 1 max_hp. Now have 105 max_hp
+    healed 1 hp. Went from 27 to 28
+    gained 3 hexproof. Now have 3 hexproof
+  小布(pid3) finished playing Hexproof Formation
+  STATE after turn 10a: A(hp 28/105, def 0, qi 0, force 3, injury 1, phys 25, agi 6) | B(hp 6/80, def 6, qi 0)
+turn 10a ends
+turn 10b begins
+  lost 3 def. Now have 3 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 10b: A(hp 28/105, def 0, qi 0, force 3, injury 1, phys 25, agi 6) | B(hp 6/80, def 3, qi 2)
+turn 10b ends
+turn 11a begins
+  reduced 小布(pid3) hp by 1 to 27
+  小布(pid3) is playing Magnanimous Righteousness (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 8 def. Now have 8 def
+    gained 3 hexproof. Now have 5 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  STATE after turn 11a: A(hp 27/105, def 8, qi 1, force 3, injury 1, phys 25, agi 6) | B(hp 6/80, def 3, qi 2)
+turn 11a ends
+turn 11b begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 4 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11b: A(hp 27/105, def 8, qi 1, force 3, injury 1, phys 25, agi 6) | B(hp 6/80, def 1, qi 2)
+turn 11b ends
+turn 12a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 1 to 26
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 2 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 1
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 4 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 12a: A(hp 26/105, def 4, qi 2, force 4, injury 1, phys 25, agi 6) | B(hp 1/80, def 0, qi 2)
+turn 12a ends
+turn 12b begins
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 1 to 5
+    lost 1 hexproof. Now have 3 hexproof
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 12b: A(hp 26/105, def 4, qi 2, force 4, injury 1, phys 25, agi 6) | B(hp 5/80, def 4, qi 2)
+turn 12b ends
+turn 13a begins
+  lost 2 def. Now have 2 def
+  reduced 小布(pid3) hp by 1 to 25
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 1 def. Now have 3 def
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 12 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 2
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 5 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 20 to -15
+    lost 1 qi. Now have 0 qi
+    gained 1 def. Now have 4 def
+    gained 2 force. Now have 6 force
+  STATE after turn 13a: A(hp 25/105, def 4, qi 0, force 6, injury 1, phys 25, agi 2) | B(hp -15/80, def 0, qi 2)
+turn 13a ends
+谭舒雁(pid1) loses 17 destiny, now at 67
+小布(pid3) (Xiao Bu) wins

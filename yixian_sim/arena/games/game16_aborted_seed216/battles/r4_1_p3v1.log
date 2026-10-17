@@ -1,0 +1,98 @@
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 49
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 51/51, def 0, qi 1, force 2) | B(hp 49/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1b: A(hp 51/51, def 0, qi 1, force 2, injury 1) | B(hp 49/51, def 1, qi 1)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 1 to 50
+  reduced 小布(pid3) hp by 3 to 47
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 1 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 40
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2a: A(hp 47/51, def 0, qi 1, force 1, injury 1) | B(hp 40/51, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 小布(pid3) hp by 5 to 42
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 2b: A(hp 42/51, def 0, qi 1, force 1, injury 1) | B(hp 40/51, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 1 to 41
+  reduced 小布(pid3) hp by 3 to 38
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 9 to 31
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 3a: A(hp 38/51, def 2, qi 1, injury 1) | B(hp 31/51, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 5 to 33
+    reduced 小布(pid3) hp by 7 to 26
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 26/51, def 0, qi 1, injury 1) | B(hp 31/51, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 1 to 25
+  reduced 小布(pid3) hp by 2 to 23
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 23
+    lost 1 qi. Now have 0 qi
+    reduced 谭舒雁(pid1) hp by 4 to 19
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 4a: A(hp 23/51, def 0, qi 0, injury 1) | B(hp 19/51, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 小布(pid3) hp by 11 to 12
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 4b: A(hp 12/51, def 0, qi 0, injury 1) | B(hp 19/51, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 1 to 11
+  reduced 小布(pid3) hp by 4 to 7
+  小布(pid3) spent 4 hp to play Mountain-Cleaving Palms (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 6
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 5a: A(hp 7/51, def 0, qi 0, injury 1) | B(hp 6/51, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 7/51, def 0, qi 0, injury 1) | B(hp 6/51, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 1 to 6
+  小布(pid3) is playing Heavenly Decree - Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 0
+    gained 3 def. Now have 3 def
+  STATE after turn 6a: A(hp 6/51, def 3, qi 0, injury 1) | B(hp 0/51, def 0, qi 1)
+turn 6a ends
+谭舒雁(pid1) loses 6 destiny, now at 84
+小布(pid3) (Xiao Bu) wins

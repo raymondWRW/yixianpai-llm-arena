@@ -1,0 +1,156 @@
+turn 1a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    gained 1 physique. Now have 9 physique
+    gained 1 max_hp. Now have 60 max_hp
+    healed 1 hp. Went from 51 to 52
+    reduced 牧逸风(pid0) hp by 9 to 42
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 1a: A(hp 52/60, def 0, qi 0, phys 9) | B(hp 42/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 52/60, def 0, qi 0, phys 9) | B(hp 42/51, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 3 to 49
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 35
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 2a: A(hp 49/60, def 2, qi 0, phys 9) | B(hp 35/51, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  lost 2 def. Now have 0 def
+  reduced 小布(pid3) hp by 2 to 47
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 2b: A(hp 47/60, def 0, qi 0, injury 1, phys 9) | B(hp 35/51, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 1 to 46
+  小布(pid3) is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 11 physique
+    gained 2 max_hp. Now have 62 max_hp
+    healed 1 hp. Went from 46 to 47
+  小布(pid3) finished playing Embracing Qi Technique
+  STATE after turn 3a: A(hp 47/62, def 0, qi 1, injury 1, phys 11) | B(hp 35/51, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 小布(pid3) hp by 4 to 43
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  reduced 小布(pid3) hp by 4 to 39
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 3b: A(hp 39/62, def 0, qi 1, injury 2, phys 11) | B(hp 35/51, def 0, qi 0, sword 2)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 37
+  reduced 小布(pid3) hp by 2 to 35
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 2 def. Now have 2 def
+    reduced 牧逸风(pid0) hp by 8 to 27
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 4a: A(hp 35/62, def 2, qi 1, injury 2, phys 11) | B(hp 27/51, def 0, qi 0, sword 2)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 6 to 29
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 4b: A(hp 29/62, def 0, qi 1, injury 2, phys 11) | B(hp 27/51, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 2 to 27
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    reduced 牧逸风(pid0) hp by 12 to 15
+    gained 1 internal_injury. Now have 3 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 5a: A(hp 27/62, def 0, qi 0, injury 3, phys 11) | B(hp 15/51, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    reduced 小布(pid3) hp by 4 to 23
+    gained 4 def. Now have 4 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 5b: A(hp 23/62, def 0, qi 0, injury 3, phys 11) | B(hp 15/51, def 4, qi 0)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 3 to 20
+  小布(pid3) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  小布(pid3) finished playing Thunderphilia Formation
+  lost 4 def. Now have 0 def
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 6a: A(hp 20/62, def 0, qi 0, injury 3, phys 11) | B(hp 15/51, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 6b: A(hp 20/62, def 0, qi 0, injury 3, phys 11) | B(hp 15/51, def 5, qi 0, sword 3)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 3 to 17
+  小布(pid3) is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  小布(pid3) finished playing Normal Attack
+  lost 2 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 2 to 13
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 7a: A(hp 17/62, def 0, qi 0, injury 3, phys 11) | B(hp 13/51, def 0, qi 0, sword 3)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 6 to 11
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 11/62, def 0, qi 0, injury 3, phys 11) | B(hp 13/51, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 3 to 8
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 10
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 8a: A(hp 8/62, def 0, qi 0, injury 3, phys 11) | B(hp 10/51, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 5
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 5/62, def 0, qi 0, injury 3, phys 11) | B(hp 10/51, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 3 to 2
+  小布(pid3) is playing Vigorous Force (level 2)
+    gained 1 physique. Now have 12 physique
+    gained 1 max_hp. Now have 63 max_hp
+    healed 1 hp. Went from 2 to 3
+    reduced 牧逸风(pid0) hp by 9 to 1
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 9a: A(hp 3/63, def 0, qi 0, injury 3, phys 12) | B(hp 1/51, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 小布(pid3) hp by 4 to -1
+    gained 2 sword_intent. Now have 2 sword_intent
+  STATE after turn 9b: A(hp -1/63, def 0, qi 0, injury 3, phys 12) | B(hp 1/51, def 0, qi 0, sword 2)
+turn 9b ends
+小布(pid3) loses 5 destiny, now at 93
+牧逸风(pid0) (Mu Yifeng) wins

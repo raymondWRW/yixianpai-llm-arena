@@ -1,0 +1,123 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 52
+    reduced player 1 max_hp by 3 to 52
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 1b ends
+turn 2a begins
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 3 qi
+    healed 4 hp. Went from 61 to 61
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 2a ends
+turn 2b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Water Hexagram
+turn 2b ends
+turn 3a begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 38
+  player 0 finished playing Five Elements Fleche
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    reduced player 1 hp by 6 to 55
+    reduced player 1 hp by 5 to 50
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced player 1 hp by 11 to 27
+    reduced player 1 hp by 3 to 24
+  player 0 finished playing Fire Spirit - Rush
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced player 1 hp by 11 to 39
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 2)
+    reduced player 1 hp by 1 to 23
+    reduced player 1 hp by 1 to 22
+    reduced player 1 hp by 1 to 21
+    healed 5 hp. Went from 39 to 44
+  player 0 finished playing Wood Spirit - Bud
+  lost 1 weaken. Now have 0 weaken
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 34
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 27
+  player 0 finished playing Sparrow's Tail
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced player 1 hp by 4 to 17
+    reduced player 1 hp by 4 to 13
+    reduced player 1 hp by 4 to 9
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 6a ends
+turn 6b begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 18
+  player 0 finished playing Incessant
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+turn 7a ends
+turn 7b begins
+  player 0 is playing Palm Thunder (level 2)
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 13 to 5
+  player 0 finished playing Palm Thunder
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced player 1 hp by 4 to 5
+    reduced player 1 hp by 4 to 1
+    reduced player 1 hp by 4 to -3
+turn 8a ends
+player 1 loses 8 destiny, now at 75
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 2)
+  Wood Spirit Seal (level 1)
+  Five Elements Fleche (level 3)
+  Fire Spirit - Rush (level 2)
+  Wood Spirit - Bud (level 2)
+  Fire Spirit - Scarlet Flame (level 1)
+  Fire Spirit - Scarlet Flame (level 1)
+  Fire Spirit - Flame Eater (level 1)
+Player 1's deck:
+  Wind Hexagram (level 1)
+  Water Hexagram (level 1)
+  Astral Move - Flank (level 1)
+  Golden Rooster Independence (level 1)
+  Sparrow's Tail (level 2)
+  Incessant (level 2)
+  Palm Thunder (level 2)
+  Heavenly Decree - Attack (level 2)

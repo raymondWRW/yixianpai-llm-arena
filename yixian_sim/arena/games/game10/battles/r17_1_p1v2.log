@@ -1,0 +1,186 @@
+gained 1 qi. Now have 1 qi
+gained 2 internal_injury. Now have 2 internal_injury
+吾行之(pid2) downgrades Fire Spirit - Blast (level 3) to Fire Spirit - Blast (level 2)
+turn 1a begins
+  谭舒雁(pid1) is playing Polaris Citta-Dharma (level 2)
+    gained 3 star_power. Now have 3 star_power
+  谭舒雁(pid1) finished playing Polaris Citta-Dharma
+  STATE after turn 1a: A(hp 122/122, def 0, qi 1, star 3) | B(hp 107/107, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 2 to 105
+  吾行之(pid2) is playing Water Spirit Seal (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 3 qi. Now have 3 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 1b: A(hp 122/122, def 0, qi 1, star 3) | B(hp 105/107, def 0, qi 3, injury 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 2a: A(hp 122/122, def 0, qi 3, star 3) | B(hp 105/107, def 0, qi 3, injury 2)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 2 to 103
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 120
+    reduced 谭舒雁(pid1) max_hp by 2 to 120
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 2b: A(hp 120/120, def 0, qi 3, star 3) | B(hp 103/107, def 0, qi 3, injury 2)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3a: A(hp 120/120, def 0, qi 3, star 3) | B(hp 103/107, def 0, qi 3, injury 3)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 3 to 100
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 118
+    reduced 谭舒雁(pid1) max_hp by 2 to 118
+    reduced 谭舒雁(pid1) hp by 3 to 115
+    reduced 谭舒雁(pid1) max_hp by 3 to 115
+    gained 1 qi. Now have 4 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 3b: A(hp 115/115, def 0, qi 3, star 3) | B(hp 100/107, def 0, qi 4, injury 3)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 9 to 91
+    gained 2 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4a: A(hp 115/115, def 0, qi 2, star 3) | B(hp 91/107, def 0, qi 4, injury 5)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 5 to 86
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 113
+    reduced 谭舒雁(pid1) max_hp by 2 to 113
+    reducing hp to max_hp of 109
+    reduced 谭舒雁(pid1) max_hp by 4 to 109
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 107
+    reduced 谭舒雁(pid1) max_hp by 2 to 107
+    gained 2 increase_atk. Now have 2 increase_atk
+    reduced 谭舒雁(pid1) hp by 9 to 98
+    reduced 谭舒雁(pid1) max_hp by 9 to 98
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 4b: A(hp 98/98, def 0, qi 2, star 3) | B(hp 86/107, def 0, qi 3, injury 5)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 9 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 5a: A(hp 98/98, def 0, qi 1, star 3) | B(hp 86/107, def 0, qi 3, injury 9)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 9 to 77
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 96
+    reduced 谭舒雁(pid1) max_hp by 2 to 96
+    reduced 谭舒雁(pid1) hp by 7 to 89
+    reduced 谭舒雁(pid1) hp by 7 to 82
+    reducing hp to max_hp of 68
+    reduced 谭舒雁(pid1) max_hp by 28 to 68
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 5b: A(hp 68/68, def 0, qi 1, star 3) | B(hp 77/107, def 0, qi 3, injury 9)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Cide (level 2)
+    reduced 吾行之(pid2) hp by 25 to 52
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+  谭舒雁(pid1) finished playing Astral Move - Cide
+  STATE after turn 6a: A(hp 68/68, def 0, qi 0, star 3) | B(hp 52/107, def 0, qi 3, injury 9)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 9 to 43
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 109 max_hp
+    healed 2 hp. Went from 43 to 45
+    gained 2 water_spirit_dive_stacks. Now have 2 water_spirit_dive_stacks
+  吾行之(pid2) finished playing Water Spirit - Dive
+  STATE after turn 6b: A(hp 68/68, def 0, qi 0, star 3) | B(hp 45/109, def 0, qi 2, injury 9)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 2). They now have 1/1 qi
+  STATE after turn 7a: A(hp 68/68, def 0, qi 1, star 3) | B(hp 45/109, def 0, qi 2, injury 9)
+turn 7a ends
+turn 7b begins
+  lost 1 water_spirit_dive_stacks. Now have 1 water_spirit_dive_stacks
+  reduced 吾行之(pid2) hp by 9 to 36
+  吾行之(pid2) is playing Water Spirit Seal (level 2)
+    gained 3 qi. Now have 5 qi
+    gained 1 activate_water_spirit_stacks. Now have 3 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 7b: A(hp 68/68, def 0, qi 1, star 3) | B(hp 36/109, def 0, qi 5, injury 9)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 吾行之(pid2) hp by 6 to 30
+    reduced 吾行之(pid2) hp by 6 to 24
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 8a: A(hp 68/68, def 0, qi 0, star 3) | B(hp 24/109, def 0, qi 5, injury 9)
+turn 8a ends
+turn 8b begins
+  lost 1 water_spirit_dive_stacks. Now have 0 water_spirit_dive_stacks
+  reduced 吾行之(pid2) hp by 9 to 15
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 66
+    reduced 谭舒雁(pid1) max_hp by 2 to 66
+    reduced 谭舒雁(pid1) hp by 3 to 63
+    reduced 谭舒雁(pid1) max_hp by 3 to 63
+    gained 1 qi. Now have 6 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 8b: A(hp 63/63, def 0, qi 0, star 3) | B(hp 15/109, def 0, qi 6, injury 9)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 2). They now have 1/1 qi
+  STATE after turn 9a: A(hp 63/63, def 0, qi 1, star 3) | B(hp 15/109, def 0, qi 6, injury 9)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 9 to 6
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 61
+    reduced 谭舒雁(pid1) max_hp by 2 to 61
+    reducing hp to max_hp of 57
+    reduced 谭舒雁(pid1) max_hp by 4 to 57
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 5 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 55
+    reduced 谭舒雁(pid1) max_hp by 2 to 55
+    gained 2 increase_atk. Now have 4 increase_atk
+    reduced 谭舒雁(pid1) hp by 11 to 44
+    reduced 谭舒雁(pid1) max_hp by 11 to 44
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 9b: A(hp 44/44, def 0, qi 1, star 3) | B(hp 6/109, def 0, qi 5, injury 9)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    reduced 吾行之(pid2) hp by 16 to -10
+  STATE after turn 10a: A(hp 44/44, def 0, qi 0, star 3) | B(hp -10/109, def 0, qi 5, injury 9)
+turn 10a ends
+吾行之(pid2) loses 26 destiny, now at -20
+谭舒雁(pid1) (Tan Shuyan) wins

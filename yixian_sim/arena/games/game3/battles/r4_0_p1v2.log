@@ -1,0 +1,120 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 1a ends
+turn 1b begins
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 48
+    reduced player 1 max_hp by 3 to 48
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 47
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 40
+  player 0 finished playing Sparrow's Tail
+turn 2a ends
+turn 2b begins
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 2 qi
+    healed 4 hp. Went from 40 to 44
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 2b ends
+turn 3a begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 35
+  player 0 finished playing Incessant
+turn 3a ends
+turn 3b begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 34
+  player 0 finished playing Five Elements Fleche
+turn 3b ends
+turn 4a begins
+  player 0 is playing Imposing (level 2)
+    gained 3 qi. Now have 4 qi
+  player 0 finished playing Imposing
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced player 1 hp by 11 to 23
+    reduced player 1 hp by 3 to 20
+  player 0 finished playing Fire Spirit - Rush
+turn 4b ends
+turn 5a begins
+  player 0 is playing Palm Thunder (level 2)
+    reduced player 1 hp by 12 to 23
+  player 0 finished playing Palm Thunder
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 2)
+    reduced player 1 hp by 3 to 17
+    reduced player 1 hp by 3 to 14
+    reduced player 1 hp by 3 to 11
+    healed 5 hp. Went from 23 to 28
+  player 0 finished playing Wood Spirit - Bud
+turn 5b ends
+turn 6a begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 19
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+turn 6b ends
+turn 7a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 16
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 9
+    reduced player 1 hp by 4 to 5
+    reduced player 1 hp by 4 to 1
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to -2
+turn 8b ends
+player 0 loses 7 destiny, now at 93
+player 1 (Wu Xingzhi) wins
+Player 0's deck:
+  Wind Hexagram (level 1)
+  Sparrow's Tail (level 2)
+  Incessant (level 2)
+  Imposing (level 2)
+  Palm Thunder (level 2)
+  Heavenly Decree - Attack (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Fire Spirit Seal (level 1)
+  Wood Spirit Seal (level 1)
+  Five Elements Fleche (level 3)
+  Fire Spirit - Rush (level 2)
+  Wood Spirit - Bud (level 2)
+  Fire Spirit - Scarlet Flame (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

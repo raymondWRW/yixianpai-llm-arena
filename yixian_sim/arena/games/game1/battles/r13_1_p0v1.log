@@ -1,0 +1,325 @@
+turn 1a begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 112
+  player 0 finished playing Cloud Sword - Riddle
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 128 max_hp
+    healed 8 hp. Went from 112 to 120
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  player 0 finished playing Cycle of Fate
+turn 1b ends
+turn 2a begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 111
+  player 0 finished playing Cloud Sword - Conceal
+turn 2a ends
+turn 2b begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 2b ends
+turn 3a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 99
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 3a ends
+turn 3b begins
+  player 0 is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 132 max_hp
+    healed 4 hp. Went from 99 to 103
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  player 0 finished playing Repel Citta-Dharma
+turn 3b ends
+turn 4a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 97
+    reduced player 0 hp by 2 to 113
+    reduced player 1 hp by 5 to 92
+    reduced player 0 hp by 2 to 111
+  player 0 finished playing Cloud Sword - Fleche
+turn 4a ends
+turn 4b begins
+  lost 1 fate_reincarnates_stacks. Now have 3 fate_reincarnates_stacks
+  lost 1 fate_reincarnates_stacks. Now have 2 fate_reincarnates_stacks
+  player 0 is playing White Crane Bright Wings (level 2)
+    reduced player 1 hp by 1 to 110
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 92 to 96
+  player 0 finished playing White Crane Bright Wings
+turn 4b ends
+turn 5a begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    reduced player 1 hp by 11 to 85
+    reduced player 0 hp by 2 to 108
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 98
+  player 0 finished playing Sparrow's Tail
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 72
+    reduced player 0 hp by 2 to 96
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 144 max_hp
+    healed 14 hp. Went from 72 to 86
+  player 0 finished playing Qi Therapy
+turn 6b ends
+turn 7a begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 9 to 77
+    reduced player 0 hp by 2 to 94
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Giant Whale Spirit Sword (level 1). They now have 2/2 qi
+turn 7a ends
+turn 7b begins
+  lost 1 fate_reincarnates_stacks. Now have 1 fate_reincarnates_stacks
+  lost 1 fate_reincarnates_stacks. Now have 0 fate_reincarnates_stacks
+  player 0 is playing White Crane Bright Wings (level 2)
+    reduced player 1 hp by 1 to 93
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 77 to 81
+  player 0 finished playing White Crane Bright Wings
+turn 7b ends
+turn 8a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced player 1 hp by 16 to 65
+    reduced player 0 hp by 2 to 91
+  player 0 finished playing Giant Whale Spirit Sword
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 81
+  player 0 finished playing Sparrow's Tail
+turn 8b ends
+turn 9a begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 57
+    reduced player 0 hp by 2 to 79
+  player 0 finished playing Cloud Sword - Riddle
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 156 max_hp
+    healed 21 hp. Went from 57 to 78
+  player 0 finished playing Qi Therapy
+turn 9b ends
+turn 10a begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 69
+    reduced player 0 hp by 2 to 77
+  player 0 finished playing Cloud Sword - Conceal
+turn 10a ends
+turn 10b begins
+  gained 1 qi. Now have 1 qi
+  healed 2 hp. Went from 69 to 71
+  player 0 gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+turn 10b ends
+turn 11a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 59
+    reduced player 0 hp by 2 to 75
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 59 to 68
+  player 0 finished playing Escape Plan
+turn 11b ends
+turn 12a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 6 def. Now have 3 def
+    reduced player 0 hp by 2 to 73
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 2 to 66
+    reduced player 0 hp by 2 to 71
+  player 0 finished playing Cloud Sword - Fleche
+turn 12a ends
+turn 12b begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 12b ends
+turn 13a begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 9 to 57
+    reduced player 0 hp by 2 to 69
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 13a ends
+turn 13b begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 61
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 57 to 61
+  player 0 finished playing White Crane Bright Wings
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 48
+    reduced player 0 hp by 2 to 59
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 14a ends
+turn 14b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 49
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 42
+  player 0 finished playing Sparrow's Tail
+turn 14b ends
+turn 15a begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 9 to 39
+    reduced player 0 hp by 2 to 40
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Giant Whale Spirit Sword (level 1). They now have 2/2 qi
+turn 15a ends
+turn 15b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 168 max_hp
+    lost 1 hexagram. Now have 0 hexagram
+    healed 22 hp. Went from 39 to 61
+  player 0 finished playing Qi Therapy
+turn 15b ends
+turn 16a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced player 1 hp by 16 to 45
+    reduced player 0 hp by 2 to 38
+  player 0 finished playing Giant Whale Spirit Sword
+turn 16a ends
+turn 16b begins
+  gained 1 qi. Now have 1 qi
+  healed 2 hp. Went from 45 to 47
+  player 0 gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+turn 16b ends
+turn 17a begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 39
+    reduced player 0 hp by 2 to 36
+  player 0 finished playing Cloud Sword - Riddle
+turn 17a ends
+turn 17b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 39 to 48
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 17b ends
+turn 18a begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    lost 9 def. Now have 0 def
+    reduced player 0 hp by 2 to 34
+  player 0 finished playing Cloud Sword - Conceal
+turn 18a ends
+turn 18b begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 18b ends
+turn 19a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    lost 2 def. Now have 0 def
+    prevented 10 damage to hp with guard up. 0 guard up remaining
+    reduced player 0 hp by 2 to 32
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 19a ends
+turn 19b begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 24
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 48 to 52
+  player 0 finished playing White Crane Bright Wings
+turn 19b ends
+turn 20a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 46
+    reduced player 0 hp by 2 to 22
+    reduced player 1 hp by 5 to 41
+    reduced player 0 hp by 2 to 20
+  player 0 finished playing Cloud Sword - Fleche
+turn 20a ends
+turn 20b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 10
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 3
+  player 0 finished playing Sparrow's Tail
+turn 20b ends
+turn 21a begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    reduced player 1 hp by 11 to 30
+    reduced player 0 hp by 2 to 1
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 21a ends
+turn 21b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 180 max_hp
+    lost 1 hexagram. Now have 0 hexagram
+    healed 22 hp. Went from 30 to 52
+  player 0 finished playing Qi Therapy
+turn 21b ends
+turn 22a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 39
+    reduced player 0 hp by 2 to -1
+turn 22a ends
+player 0 loses 20 destiny, now at 29
+player 1 (Tan Shuyan) wins
+Player 0's deck:
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Conceal (level 1)
+  Cloud Sword - Touch Sky (level 3)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Spirit Coercion (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 1)
+Player 1's deck:
+  Cycle of Fate (level 1)
+  Stillness Citta-Dharma (level 1)
+  Repel Citta-Dharma (level 1)
+  Escape Plan (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Sparrow's Tail (level 2)
+  Qi Therapy (level 2)

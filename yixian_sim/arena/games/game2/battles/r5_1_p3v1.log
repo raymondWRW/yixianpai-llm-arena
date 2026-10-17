@@ -1,0 +1,183 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 16 physique
+    gained 2 max_hp. Now have 69 max_hp
+    healed 4 hp. Went from 53 to 57
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 48
+  player 0 finished playing Incessant
+turn 1b ends
+turn 2a begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 44
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 44
+    reduced player 1 hp by 4 to 40
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 37
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    lost 1 force. Now have 1 force
+    lost 10 def. Now have 2 def
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Shifting Stars (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 32
+  player 0 finished playing Shifting Stars
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 2 to 30
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 3 def
+    lost 1 force. Now have 0 force
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 11 to 33
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 4a ends
+turn 4b begins
+  player 0 is playing Sharp Metal Fulu (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 25
+  player 0 finished playing Sharp Metal Fulu
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 3 to 22
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+  healed 3 hp. Went from 22 to 25
+  player 0 healed 3 hp from crash fist bounce
+    reduced player 1 hp by 9 to 24
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 5a ends
+turn 5b begins
+  player 0 is playing Guard Spirit Fulu (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 11 def. Now have 11 def
+  player 0 finished playing Guard Spirit Fulu
+turn 5b ends
+turn 6a begins
+  player 0 is playing Detect-Horse Palms (level 1)
+    lost 7 def. Now have 4 def
+    gained 8 def. Now have 8 def
+  player 0 finished playing Detect-Horse Palms
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Guard Spirit Fulu (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 7 def. Now have 9 def
+  player 0 finished playing Guard Spirit Fulu
+turn 6b ends
+turn 7a begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 18 physique
+    gained 2 max_hp. Now have 71 max_hp
+    healed 1 hp. Went from 25 to 26
+  player 0 finished playing Embracing Qi Technique
+turn 7a ends
+turn 7b begins
+  lost 5 def. Now have 4 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 7 to 19
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 1 def. Now have 3 def
+  player 0 finished playing Normal Attack
+  lost 1 weaken. Now have 0 weaken
+turn 8a ends
+turn 8b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 16
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 20 physique
+    gained 2 max_hp. Now have 73 max_hp
+    healed 4 hp. Went from 16 to 20
+  player 0 finished playing Embracing Qi Technique
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 11
+    healed 4 hp. Went from 24 to 28
+  player 0 finished playing Incessant
+turn 9b ends
+turn 10a begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 19
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 7
+    reduced player 1 hp by 4 to 3
+    gained 7 def. Now have 7 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 3 to 0
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 1 force
+    lost 7 def. Now have 0 def
+    reduced player 1 hp by 6 to 13
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 11a ends
+player 0 loses 8 destiny, now at 87
+player 1 (Tan Shuyan) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Vigorous Force (level 2)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Poke (level 1)
+  Detect-Horse Palms (level 1)
+  Embracing Qi Technique (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Incessant (level 2)
+  Wild Horses Part the Mane (level 2)
+  Shifting Stars (level 2)
+  Sharp Metal Fulu (level 1)
+  Guard Spirit Fulu (level 2)
+  Guard Spirit Fulu (level 1)
+  Golden Rooster Independence (level 1)
+  Normal Attack (level 1)

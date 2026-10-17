@@ -1,0 +1,321 @@
+turn 1a begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 102
+  player 0 finished playing Vigorous Force
+turn 1a ends
+turn 1b begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 104
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 1b ends
+turn 2a begins
+  player 0 is playing Standing Firm (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 force. Now have 3 force
+  player 0 finished playing Standing Firm
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 2b ends
+turn 3a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Exercise Soul (level 2)
+    lost 1 force. Now have 2 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 4 to 98
+    gained 4 physique. Now have 81 physique
+    gained 4 max_hp. Now have 188 max_hp
+    healed 4 hp. Went from 104 to 108
+    gained 1 increase_atk. Now have 1 increase_atk
+    gained 6 agility. Now have 6 agility
+  player 0 finished playing Exercise Soul
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 101
+    reduced player 1 hp by 11 to 90
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 3b ends
+turn 4a begins
+  player 0 is playing Overwhelming Force (level 2)
+    lost 2 force. Now have 0 force
+    gained 8 def. Now have 8 def
+    reduced player 1 hp by 8 to 90
+    gained 6 agility. Now have 12 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 2
+  incremented chases to 1
+  chase!!
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 86
+  player 0 finished playing Normal Attack
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 1 to 89
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 82
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 83
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 4 def. Now have 2 def
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 12 def
+    healed 5 hp. Went from 82 to 87
+  player 0 finished playing Cloud Sword - Reguard
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 4 def. Now have 8 def
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 77
+    reduced player 1 hp by 5 to 72
+  player 0 finished playing Cloud Sword - Fleche
+turn 7b ends
+turn 8a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 6 to 81
+  player 0 finished playing Vigorous Force
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 2)
+    reduced player 1 hp by 2 to 70
+    reduced player 1 hp by 2 to 68
+    reduced player 1 hp by 2 to 66
+    reduced player 1 hp by 2 to 64
+    reduced player 1 hp by 2 to 62
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 8b ends
+turn 9a begins
+  player 0 is playing Standing Firm (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 force. Now have 3 force
+  player 0 finished playing Standing Firm
+turn 9a ends
+turn 9b begins
+  player 0 is playing Toning (level 2)
+    lost 3 def. Now have 2 def
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Exercise Soul (level 2)
+    lost 1 force. Now have 2 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 8 to 73
+    gained 4 physique. Now have 85 physique
+    gained 4 max_hp. Now have 192 max_hp
+    healed 4 hp. Went from 62 to 66
+    gained 1 increase_atk. Now have 2 increase_atk
+    gained 6 agility. Now have 8 agility
+  player 0 finished playing Exercise Soul
+turn 10a ends
+turn 10b begins
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Overwhelming Force (level 2)
+    lost 2 force. Now have 0 force
+    gained 8 def. Now have 8 def
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 3 to 70
+    gained 6 agility. Now have 14 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 5 to 65
+  player 0 finished playing Normal Attack
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 1 to 65
+    reduced player 1 hp by 11 to 54
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 11b ends
+turn 12a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 5 to 60
+  player 0 finished playing Normal Attack
+turn 12a ends
+turn 12b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 45
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 12b ends
+turn 13a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 5 to 55
+  player 0 finished playing Normal Attack
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 39
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 13b ends
+turn 14a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 5 def. Now have 1 def
+  player 0 finished playing Normal Attack
+turn 14a ends
+turn 14b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 11 def
+    healed 5 hp. Went from 55 to 60
+  player 0 finished playing Cloud Sword - Reguard
+turn 14b ends
+turn 15a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 11 def. Now have 0 def
+  player 0 finished playing Vigorous Force
+turn 15a ends
+turn 15b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 33
+    reduced player 1 hp by 5 to 28
+  player 0 finished playing Cloud Sword - Fleche
+turn 15b ends
+turn 16a begins
+  player 0 is playing Standing Firm (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 force. Now have 3 force
+  player 0 finished playing Standing Firm
+turn 16a ends
+turn 16b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 2)
+    lost 2 def. Now have 3 def
+    lost 2 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 1 to 27
+    reduced player 1 hp by 2 to 25
+    reduced player 1 hp by 2 to 23
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 16b ends
+turn 17a begins
+  player 0 is playing Exercise Soul (level 2)
+    lost 1 force. Now have 2 force
+    reduced player 1 hp by 13 to 47
+    gained 4 physique. Now have 89 physique
+    gained 4 max_hp. Now have 196 max_hp
+    healed 4 hp. Went from 23 to 27
+    gained 1 increase_atk. Now have 3 increase_atk
+    gained 6 agility. Now have 10 agility
+  player 0 finished playing Exercise Soul
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Overwhelming Force (level 2)
+    lost 2 force. Now have 0 force
+    gained 8 def. Now have 8 def
+    reduced player 1 hp by 8 to 39
+    gained 6 agility. Now have 6 agility
+  player 0 finished playing Overwhelming Force
+turn 17a ends
+turn 17b begins
+  player 0 is playing Toning (level 2)
+    lost 3 def. Now have 5 def
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 17b ends
+turn 18a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 3 to 36
+  player 0 finished playing Normal Attack
+turn 18a ends
+turn 18b begins
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 18b ends
+turn 19a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Normal Attack (level 1)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 1 to 35
+  player 0 finished playing Normal Attack
+turn 19a ends
+turn 19b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 8 to 19
+    reduced player 1 hp by 11 to 8
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 19b ends
+turn 20a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 6 to 29
+  player 0 finished playing Normal Attack
+turn 20a ends
+turn 20b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to -1
+turn 20b ends
+player 0 loses 20 destiny, now at 21
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Vigorous Force (level 2)
+  Standing Firm (level 2)
+  Exercise Soul (level 2)
+  Overwhelming Force (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Toning (level 2)
+  Sword Defence (level 2)
+  Thunder Sword (level 2)
+  Cloud Sword - Touch Sky (level 2)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Reguard (level 2)
+  Cloud Sword - Fleche (level 2)
+  Flow Cloud Chaos Sword (level 2)

@@ -1,0 +1,24 @@
+{
+ "game": 28,
+ "seed": 228,
+ "rounds": 19,
+ "winner": 0,
+ "winner_name": "牧逸风",
+ "tie": false,
+ "co_winners": [
+  0
+ ],
+ "unfinished": false,
+ "standings": {
+  "0": 1,
+  "1": 0,
+  "2": 0,
+  "3": 0
+ },
+ "sidejobs": {
+  "0": 5,
+  "3": 5,
+  "2": 5,
+  "1": 7
+ }
+}

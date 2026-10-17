@@ -1,0 +1,131 @@
+turn 1a begins
+  牧逸风(pid0) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 1a: A(hp 80/80, def 0, qi 0) | B(hp 80/103, def 0, qi 0, phys 23)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Spiritage Formation (level 1)
+    gained 1 physique. Now have 24 physique
+    gained 1 max_hp. Now have 104 max_hp
+    healed 1 hp. Went from 80 to 81
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  小布(pid3) finished playing Spiritage Formation
+  STATE after turn 1b: A(hp 80/80, def 0, qi 0) | B(hp 81/104, def 0, qi 0, phys 24)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 2a: A(hp 80/80, def 0, qi 1) | B(hp 81/104, def 0, qi 0, phys 24)
+turn 2a ends
+turn 2b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  小布(pid3) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  小布(pid3) finished playing Cacopoisonous Formation
+  STATE after turn 2b: A(hp 80/80, def 0, qi 1) | B(hp 81/104, def 0, qi 2, phys 24)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 4 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 3a: A(hp 80/80, def 0, qi 4) | B(hp 81/104, def 0, qi 2, phys 24)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 4 qi
+  lost 1 qi. Now have 3 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 3 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 3b: A(hp 80/80, def 0, qi 4, injury 1) | B(hp 81/104, def 0, qi 3, force 3, phys 24, agi 6)
+turn 3b ends
+turn 4a begins
+  reduced 牧逸风(pid0) hp by 1 to 79
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 7 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 4a: A(hp 79/80, def 0, qi 7, injury 1) | B(hp 81/104, def 0, qi 3, force 3, phys 24, agi 6)
+turn 4a ends
+turn 4b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  reduced 小布(pid3) hp by 2 to 79
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 24 to 55
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4b: A(hp 55/80, def 0, qi 7, injury 2) | B(hp 79/104, def 0, qi 1, force 4, phys 24, agi 6)
+turn 4b ends
+turn 5a begins
+  reduced 牧逸风(pid0) hp by 2 to 53
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 9 qi
+    reduced 小布(pid3) hp by 9 to 70
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 65
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 5a: A(hp 53/80, def 0, qi 9, injury 2) | B(hp 65/104, def 0, qi 1, force 4, phys 24, agi 6)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 18 to 35
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 5 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 5b: A(hp 35/80, def 0, qi 9, injury 2) | B(hp 65/104, def 0, qi 0, force 5, phys 24, agi 6)
+turn 5b ends
+turn 6a begins
+  reduced 牧逸风(pid0) hp by 2 to 33
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 11 qi
+    reduced 小布(pid3) hp by 3 to 62
+    reduced 小布(pid3) hp by 3 to 59
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 54
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 6a: A(hp 33/80, def 0, qi 11, injury 2) | B(hp 54/104, def 0, qi 0, force 5, phys 24, agi 6)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 4 to 50
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 15 to 18
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 6b: A(hp 18/80, def 0, qi 11, injury 2) | B(hp 50/104, def 0, qi 0, force 4, phys 24, agi 6)
+turn 6b ends
+turn 7a begins
+  reduced 牧逸风(pid0) hp by 2 to 16
+  lost 1 qi. Now have 10 qi
+  牧逸风(pid0) spent 1 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 16 to 34
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 7a: A(hp 16/80, def 0, qi 10, injury 2) | B(hp 34/104, def 0, qi 0, force 4, phys 24, agi 6)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Ghost Howling (level 1). They now have 1/1 qi
+  STATE after turn 7b: A(hp 16/80, def 0, qi 10, injury 2) | B(hp 34/104, def 0, qi 1, force 4, phys 24, agi 6)
+turn 7b ends
+turn 8a begins
+  reduced 牧逸风(pid0) hp by 2 to 14
+  牧逸风(pid0) is playing Egret Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 35 to -1
+  STATE after turn 8a: A(hp 14/80, def 0, qi 10, injury 2) | B(hp -1/104, def 0, qi 1, force 4, phys 24, agi 6)
+turn 8a ends
+小布(pid3) loses 14 destiny, now at 58
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,112 @@
+turn 1a begins
+  player 0 is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1a ends
+turn 1b begins
+  player 0 is playing Sword Slash (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 40
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 1)
+    reduced player 1 hp by 9 to 33
+  player 0 finished playing Sparrow's Tail
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Thunder Sword (level 1). They now have 1/1 qi
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 1)
+    reduced player 1 hp by 7 to 33
+    reduced player 1 hp by 8 to 25
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    reduced player 1 hp by 7 to 26
+    reduced player 1 hp by 6 to 20
+  player 0 finished playing Astral Move - Flank
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Giant Tiger Spirit Sword (level 1). They now have 1/1 qi
+turn 4b ends
+turn 5a begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 11
+  player 0 finished playing Incessant
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced player 1 hp by 10 to 15
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Flying Fang Sword (level 1). They now have 1/1 qi
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 4
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    reduced player 1 hp by 8 to 7
+  player 0 finished playing Flying Fang Sword
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 1
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 4
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to -2
+turn 9a ends
+player 1 loses 4 destiny, now at 93
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Dotted Around (level 1)
+  Sparrow's Tail (level 1)
+  Astral Move - Flank (level 1)
+  Incessant (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Sword Slash (level 1)
+  Thunder Sword (level 1)
+  Giant Tiger Spirit Sword (level 1)
+  Flying Fang Sword (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

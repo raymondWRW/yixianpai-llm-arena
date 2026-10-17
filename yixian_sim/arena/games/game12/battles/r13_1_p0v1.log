@@ -1,0 +1,272 @@
+gained 4 internal_injury. Now have 4 internal_injury
+gained 4 max_hp. Now have 103 max_hp
+gained 1 def. Now have 1 def
+healed 4 hp. Went from 99 to 103
+turn 1a begins
+  reduced 牧逸风(pid0) hp by 4 to 98
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 1a: A(hp 98/102, def 2, qi 2, sword 2, injury 4) | B(hp 103/103, def 1, qi 0)
+turn 1a ends
+turn 1b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1b: A(hp 98/102, def 2, qi 2, sword 2, injury 5) | B(hp 103/103, def 1, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 5 to 93
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 96
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 89
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 2a: A(hp 93/102, def 1, qi 2, injury 5) | B(hp 89/103, def 1, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2b: A(hp 93/102, def 1, qi 2, injury 6) | B(hp 89/103, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 6 to 87
+  牧逸风(pid0) is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 2 increase_atk
+  牧逸风(pid0) finished playing Cloud Sword - Moon Shade
+  STATE after turn 3a: A(hp 87/102, def 1, qi 2, injury 6) | B(hp 89/103, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 2)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 3b: A(hp 87/102, def 1, qi 2, injury 6) | B(hp 89/103, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 6 to 81
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 15 to 74
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 4a: A(hp 81/102, def 0, qi 2, injury 6) | B(hp 74/103, def 1, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 74 to 76
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 4b: A(hp 81/102, def 0, qi 2, injury 6) | B(hp 76/103, def 4, qi 1)
+turn 4b ends
+turn 5a begins
+  reduced 牧逸风(pid0) hp by 6 to 75
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 72
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 66
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 5a: A(hp 75/102, def 0, qi 2, injury 6) | B(hp 66/103, def 1, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 3 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 66 to 68
+    lost 1 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 5b: A(hp 75/102, def 0, qi 2, injury 6) | B(hp 68/103, def 4, qi 1)
+turn 5b ends
+turn 6a begins
+  reduced 牧逸风(pid0) hp by 6 to 69
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 18 to 50
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6a: A(hp 69/102, def 0, qi 0, injury 6) | B(hp 50/103, def 1, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 50 to 57
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 6b: A(hp 69/102, def 0, qi 0, injury 6) | B(hp 57/103, def 1, qi 1)
+turn 6b ends
+turn 7a begins
+  reduced 牧逸风(pid0) hp by 6 to 63
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 49
+    gained 1 def. Now have 1 def
+    gained 4 qi. Now have 4 qi
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 7a: A(hp 63/102, def 0, qi 4, injury 6) | B(hp 49/103, def 1, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 111 max_hp
+    gained 1 def. Now have 1 def
+    healed 9 hp. Went from 49 to 58
+    gained 3 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 2 hp. Went from 58 to 60
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 7b: A(hp 63/102, def 0, qi 4, injury 6) | B(hp 60/111, def 5, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 牧逸风(pid0) hp by 6 to 57
+  牧逸风(pid0) is playing Divine Power Elixir (level 1)
+    gained 1 increase_atk. Now have 3 increase_atk
+  牧逸风(pid0) finished playing Divine Power Elixir
+  STATE after turn 8a: A(hp 57/102, def 0, qi 4, injury 6) | B(hp 60/111, def 5, qi 0)
+turn 8a ends
+turn 8b begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+  STATE after turn 8b: A(hp 57/102, def 0, qi 4, injury 6) | B(hp 60/111, def 2, qi 1)
+turn 8b ends
+turn 9a begins
+  reduced 牧逸风(pid0) hp by 6 to 51
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 9a: A(hp 51/102, def 2, qi 6, sword 2, injury 6) | B(hp 60/111, def 2, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 119 max_hp
+    gained 1 def. Now have 2 def
+    healed 15 hp. Went from 60 to 75
+    gained 3 def. Now have 5 def
+    gained 1 def. Now have 6 def
+    healed 2 hp. Went from 75 to 77
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 9b: A(hp 51/102, def 2, qi 6, sword 2, injury 6) | B(hp 77/119, def 6, qi 0)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 6 to 45
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 2)
+    lost 6 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 72
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 62
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 10a: A(hp 45/102, def 1, qi 6, injury 6) | B(hp 62/119, def 1, qi 0)
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10b: A(hp 45/102, def 1, qi 6, injury 7) | B(hp 62/119, def 1, qi 1)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 7 to 38
+  牧逸风(pid0) is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 5 increase_atk
+  牧逸风(pid0) finished playing Cloud Sword - Moon Shade
+  STATE after turn 11a: A(hp 38/102, def 1, qi 6, injury 7) | B(hp 62/119, def 1, qi 1)
+turn 11a ends
+turn 11b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 8 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11b: A(hp 38/102, def 1, qi 6, injury 8) | B(hp 62/119, def 0, qi 1)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 8 to 30
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 18 to 44
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 12a: A(hp 30/102, def 0, qi 6, injury 8) | B(hp 44/119, def 1, qi 1)
+turn 12a ends
+turn 12b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 2)
+    reduced 牧逸风(pid0) hp by 18 to 12
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 44 to 51
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 12b: A(hp 12/102, def 0, qi 6, injury 8) | B(hp 51/119, def 1, qi 1)
+turn 12b ends
+turn 13a begins
+  reduced 牧逸风(pid0) hp by 8 to 4
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 41
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 32
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 13a: A(hp 4/102, def 0, qi 6, injury 8) | B(hp 32/119, def 1, qi 1)
+turn 13a ends
+turn 13b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 127 max_hp
+    gained 1 def. Now have 1 def
+    healed 11 hp. Went from 32 to 43
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 13b: A(hp 4/102, def 0, qi 6, injury 8) | B(hp 43/127, def 1, qi 0)
+turn 13b ends
+turn 14a begins
+  reduced 牧逸风(pid0) hp by 8 to -4
+  STATE after turn 14a: A(hp -4/102, def 0, qi 6, injury 8) | B(hp 43/127, def 1, qi 0)
+turn 14a ends
+牧逸风(pid0) loses 21 destiny, now at 37
+谭舒雁(pid1) (Tan Shuyan) wins

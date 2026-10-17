@@ -1,0 +1,264 @@
+gained 1 force. Now have 1 force
+player 1 downgrades Detect Qi (level 2) to Detect Qi (level 1)
+gained 4 def. Now have 4 def
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 force. Now have 0 force
+    lost 2 def. Now have 2 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Gather Force
+turn 1a ends
+turn 1b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 5 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+  gained 3 def. Now have 8 def
+turn 1b ends
+turn 2a begins
+  player 0 is playing Crash Citta-Dharma (level 2)
+    gained 3 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Rule Sky Sword Formation (level 1)
+    gained 8 def. Now have 12 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Rule Sky Sword Formation
+  incremented chases to 1
+  chase!!
+  player 0 is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 15 def
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  player 0 finished playing Envelop In Disaster
+turn 3a ends
+turn 3b begins
+  lost 8 def. Now have 7 def
+  reduced player 0 hp by 4 to 110
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 4 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 10 def
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 3 to 103
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 force. Now have 5 force
+    lost 4 def. Now have 6 def
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 4a ends
+turn 4b begins
+  lost 3 def. Now have 3 def
+  reduced player 0 hp by 4 to 106
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 5 qi
+    gained 4 sword_intent. Now have 8 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 6 def
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 4 to 99
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 4 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 force. Now have 5 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 9 to 97
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 4 to 93
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 13 to 86
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 8 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 3)
+    reduced player 1 hp by 24 to 62
+  player 0 finished playing Giant Whale Spirit Sword
+turn 5b ends
+turn 6a begins
+  reduced player 0 hp by 4 to 58
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 17 to 76
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 4 to 72
+  player 0 is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    reduced player 1 hp by 3 to 55
+    reduced player 1 hp by 3 to 52
+  player 0 finished playing Spiritage Sword
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 2 to 50
+  player 0 spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 19 to 53
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 4 to 49
+  player 0 is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+  gained 3 def. Now have 7 def
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 4 to 46
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 force. Now have 6 force
+    gained 2 wound. Now have 2 wound
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 force. Now have 5 force
+    lost 6 def. Now have 1 def
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  reduced player 0 hp by 4 to 45
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Rule Sky Sword Formation (level 1)
+    gained 8 def. Now have 8 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Rule Sky Sword Formation
+  incremented chases to 1
+  chase!!
+  player 0 is playing Detect Qi (level 1)
+    gained 2 qi. Now have 5 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 11 def
+turn 8b ends
+turn 9a begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 force. Now have 4 force
+    lost 1 def. Now have 10 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 6 force
+  player 0 finished playing Gather Force
+turn 9a ends
+turn 9b begins
+  lost 5 def. Now have 5 def
+  reduced player 0 hp by 4 to 41
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 6 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 8 def
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 8 internal_injury
+  player 0 finished playing Envelop In Disaster
+turn 10a ends
+turn 10b begins
+  lost 4 def. Now have 4 def
+  reduced player 0 hp by 8 to 33
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 7 qi
+    gained 4 sword_intent. Now have 8 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 7 def
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 3 to 43
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 6 force
+    gained 2 def. Now have 3 def
+    gained 2 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 7 def. Now have 0 def
+    reduced player 1 hp by 9 to 24
+    gained 3 def. Now have 6 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 8 to 16
+  lost 2 qi. Now have 5 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 11 to 32
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 8 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 3)
+    reduced player 1 hp by 24 to 8
+  player 0 finished playing Giant Whale Spirit Sword
+turn 11b ends
+turn 12a begins
+  reduced player 0 hp by 4 to 4
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 3 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 24 to -8
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+turn 12a ends
+player 1 loses 17 destiny, now at 1
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Gather Force (level 1)
+  Crash Citta-Dharma (level 2)
+  Envelop In Disaster (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Entangle (level 2)
+  Strong Force (level 2)
+  Crash Fist - Shake (level 1)
+Player 1's deck:
+  Everything is Unadvisable (level 1)
+  Rule Sky Sword Formation (level 1)
+  Detect Qi (level 1)
+  Contemplate Spirits Rhythm (level 2)
+  Contemplate Spirits Rhythm (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 3)
+  Spiritage Sword (level 2)

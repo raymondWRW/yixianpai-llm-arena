@@ -1,0 +1,129 @@
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 37
+    reduced player 1 max_hp by 3 to 37
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  player 0 is playing Five Elements Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 9 to 28
+  player 0 finished playing Five Elements Fleche
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    reduced player 1 hp by 6 to 34
+  player 0 finished playing Astral Move - Flank
+turn 2b ends
+turn 3a begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+    reduced player 1 hp by 6 to 22
+  player 0 finished playing Metal Spirit - Needle
+turn 3a ends
+turn 3b begins
+  player 0 is playing Astral Move - Block (level 1)
+    reduced player 1 hp by 7 to 27
+    gained 2 def. Now have 2 def
+  player 0 finished playing Astral Move - Block
+turn 3b ends
+turn 4a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 1 to 21
+  player 0 finished playing Normal Attack
+turn 4a ends
+turn 4b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 24
+  player 0 finished playing Normal Attack
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 18
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 21
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 15
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 17
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 12
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 14
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 6
+    reduced player 1 max_hp by 3 to 34
+    gained 2 qi. Now have 4 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9b ends
+turn 10a begins
+  player 0 is playing Five Elements Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 9 to -3
+turn 10a ends
+player 1 loses 4 destiny, now at 96
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 2)
+  Five Elements Fleche (level 2)
+  Metal Spirit - Needle (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Dotted Around (level 1)
+  Astral Move - Flank (level 1)
+  Astral Move - Block (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

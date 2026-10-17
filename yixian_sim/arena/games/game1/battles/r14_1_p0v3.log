@@ -1,0 +1,188 @@
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+turn 1a begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 93
+  player 0 finished playing Cloud Sword - Riddle
+turn 1a ends
+turn 1b begins
+  player 0 is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 84
+  player 0 finished playing Cloud Sword - Conceal
+turn 2a ends
+turn 2b begins
+  player 0 is playing Crash Citta-Dharma (level 2)
+    gained 3 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2b ends
+turn 3a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 72
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 5 to 67
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 20 to 97
+    gained 7 later_crash_fist_poke_stacks. Now have 7 later_crash_fist_poke_stacks
+    gained 7 crash_fist_block_stacks. Now have 7 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 3b ends
+turn 4a begins
+  player 0 is playing Cloud Sword - Step Lightly (level 1)
+    reduced player 1 hp by 3 to 64
+    reduced player 1 hp by 3 to 61
+    gained 3 def. Now have 3 def
+    gained 9 def. Now have 12 def
+  player 0 finished playing Cloud Sword - Step Lightly
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 4 to 57
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 7 force
+    gained 7 bonus_atk_amt. Now have 7 bonus_atk_amt
+    gained 7 def. Now have 7 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 def. Now have 8 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 12 def. Now have 0 def
+    reduced player 1 hp by 29 to 68
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 4b ends
+turn 5a begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 3 to 54
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 4 to 50
+  player 0 spent 4 hp to play Crash Fist - Shake (level 2)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 18 to 50
+    gained 3 crash_fist_shake_stacks. Now have 3 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 5b ends
+turn 6a begins
+  player 0 is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Cloud Dance Rhythm
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 2 to 48
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 1 force. Now have 7 force
+    gained 3 def. Now have 3 def
+    gained 3 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 16 to 34
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 12 to 36
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 7a ends
+turn 7b begins
+  player 0 is playing Exercise Bones (level 1)
+    gained 1 physique. Now have 36 physique
+    gained 1 max_hp. Now have 137 max_hp
+    healed 3 hp. Went from 36 to 39
+    gained 2 exercise_bones_stacks. Now have 2 exercise_bones_stacks
+  player 0 finished playing Exercise Bones
+turn 7b ends
+turn 8a begins
+  lost 3 qi. Now have 2 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced player 1 hp by 10 to 29
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 21
+  player 0 finished playing Cloud Sword - Riddle
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    gained 1 physique. Now have 37 physique
+    gained 1 max_hp. Now have 138 max_hp
+    lost 1 exercise_bones_stacks. Now have 1 exercise_bones_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 33 to 1
+    gained 3 weaken. Now have 3 weaken
+  player 0 finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+turn 8b ends
+turn 9a begins
+  lost 5 def. Now have 5 def
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 12
+  player 0 finished playing Cloud Sword - Conceal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 6 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+  lost 1 weaken. Now have 1 weaken
+turn 9b ends
+turn 10a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 0
+turn 10a ends
+player 1 loses 16 destiny, now at 15
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Conceal (level 1)
+  Cloud Sword - Touch Sky (level 3)
+  Cloud Sword - Step Lightly (level 1)
+  Cloud Sword - Spirit Coercion (level 2)
+  Cloud Dance Rhythm (level 1)
+  Giant Tiger Spirit Sword (level 2)
+  Giant Kun Spirit Sword (level 1)
+Player 1's deck:
+  Majestic Qi (level 1)
+  Crash Citta-Dharma (level 2)
+  Crash Fist - Subdue Dragon (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Shake (level 2)
+  Crash Fist - Bounce (level 2)
+  Exercise Bones (level 1)
+  Ghost Howling (level 2)

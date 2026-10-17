@@ -1,0 +1,115 @@
+turn 1a begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    reduced 牧逸风(pid0) hp by 9 to 57
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 1a: A(hp 66/66, def 0, qi 0) | B(hp 57/66, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 1b: A(hp 66/66, def 0, qi 0) | B(hp 57/66, def 0, qi 4)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 2)
+    gained 4 penetrate. Now have 4 penetrate
+    gained 2 metal_spirit_formation_stacks. Now have 2 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 2a: A(hp 66/66, def 0, qi 0) | B(hp 57/66, def 0, qi 4)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 7 qi
+    reduced 吾行之(pid2) hp by 3 to 63
+    reduced 吾行之(pid2) hp by 3 to 60
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2b: A(hp 60/66, def 0, qi 0) | B(hp 57/66, def 0, qi 7)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 2 penetrate. Now have 6 penetrate
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 13 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 3a: A(hp 60/66, def 6, qi 0) | B(hp 57/66, def 0, qi 7)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    lost 5 def. Now have 1 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 3b: A(hp 60/66, def 1, qi 0) | B(hp 57/66, def 0, qi 7, sword 3)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 2 penetrate. Now have 15 penetrate
+    penetrating 15 damage
+    lost 15 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 22 to 35
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 4a: A(hp 60/66, def 0, qi 0) | B(hp 35/66, def 0, qi 7, sword 3)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 6 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 1)
+    reduced 吾行之(pid2) hp by 11 to 49
+    gained 3 sword_intent. Now have 6 sword_intent
+    lost 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 4b: A(hp 49/66, def 0, qi 0) | B(hp 35/66, def 0, qi 6, sword 3)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 2 penetrate. Now have 6 penetrate
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 13 to 22
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 5a: A(hp 49/66, def 0, qi 0) | B(hp 22/66, def 0, qi 6, sword 3)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 吾行之(pid2) hp by 19 to 30
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5b: A(hp 30/66, def 0, qi 0) | B(hp 22/66, def 0, qi 5)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 牧逸风(pid0) hp by 11 to 11
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 6a: A(hp 30/66, def 0, qi 0) | B(hp 11/66, def 0, qi 5)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 12 to 18
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    reduced 吾行之(pid2) hp by 11 to 7
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 6b: A(hp 7/66, def 0, qi 0) | B(hp 11/66, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 3
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 7a: A(hp 7/66, def 0, qi 0) | B(hp 3/66, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    reduced 吾行之(pid2) hp by 9 to -2
+  STATE after turn 7b: A(hp -2/66, def 0, qi 0) | B(hp 3/66, def 0, qi 2)
+turn 7b ends
+吾行之(pid2) loses 9 destiny, now at 76
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,211 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 5 to 105
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 1b ends
+turn 2a begins
+  reduced player 0 hp by 4 to 101
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 10 to 82
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 77
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 2a ends
+turn 2b begins
+  player 0 is playing Water Spirit Seal (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 3 qi. Now have 4 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  player 0 finished playing Water Spirit Seal
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 98
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 wound. Now have 1 wound
+    reduced player 1 hp by 10 to 67
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3a ends
+turn 3b begins
+  player 0 is playing Earth Spirit Seal (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 2 to 96
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 2 to 94
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 3 def
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 6 to 61
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 4a ends
+turn 4b begins
+  player 0 is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  player 0 finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 4 to 90
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+  healed 4 hp. Went from 90 to 94
+  player 0 healed 4 hp from crash fist bounce
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 14 to 47
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5a ends
+turn 5b begins
+  player 0 is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Magnanimous Righteousness (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 def. Now have 4 def
+    gained 2 hexproof. Now have 2 hexproof
+  player 0 finished playing Magnanimous Righteousness
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 1 def
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 9 to 85
+    gained 1 force_of_water. Now have 1 force_of_water
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 80
+  player 0 finished playing Water Spirit - Waves
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  reduced player 1 hp by 1 to 79
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 3 to 76
+  player 0 spent 3 hp to play Youthful Vigor (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 7 to 40
+    lost 1 qi. Now have 0 qi
+    reduced player 1 hp by 7 to 33
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Youthful Vigor
+turn 7a ends
+turn 7b begins
+  player 0 is playing Water Spirit - Great Waves (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 2 max_hp. Now have 94 max_hp
+    healed 2 hp. Went from 33 to 35
+    gained 2 force_of_water. Now have 3 force_of_water
+  player 0 finished playing Water Spirit - Great Waves
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  reduced player 1 hp by 3 to 73
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 2 to 71
+  player 0 spent 2 hp to play Strong Force (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 7 to 28
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Water Spirit - Turbulent (level 1)
+    reduced player 1 hp by 13 to 58
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 53
+  player 0 finished playing Water Spirit - Turbulent
+  reduced player 1 hp by 3 to 50
+turn 8b ends
+turn 9a begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 9a ends
+turn 9b begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 5 to 45
+    gained 1 qi. Now have 4 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+  reduced player 1 hp by 3 to 42
+turn 9b ends
+turn 10a begins
+  reduced player 0 hp by 4 to 38
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced player 1 hp by 11 to 17
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 6 to 11
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 10a ends
+turn 10b begins
+  player 0 is playing Water Spirit Seal (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 3 activate_water_spirit_stacks
+    gained 3 qi. Now have 7 qi
+    gained 1 activate_water_spirit_stacks. Now have 4 activate_water_spirit_stacks
+  player 0 finished playing Water Spirit Seal
+  reduced player 1 hp by 3 to 35
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 3 to 32
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 wound. Now have 2 wound
+    reduced player 1 hp by 11 to 0
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+turn 11a ends
+player 1 loses 19 destiny, now at 21
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Examine Body (level 1)
+  Crash Fist - Entangle (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Blitz (level 2)
+  Magnanimous Righteousness (level 1)
+  Youthful Vigor (level 2)
+  Strong Force (level 1)
+Player 1's deck:
+  Cosmos Seal (level 1)
+  Water Spirit Seal (level 2)
+  Earth Spirit Seal (level 2)
+  Scutturtle Formation (level 1)
+  Endless Sword Formation (level 1)
+  Water Spirit - Waves (level 2)
+  Water Spirit - Great Waves (level 1)
+  Water Spirit - Turbulent (level 1)

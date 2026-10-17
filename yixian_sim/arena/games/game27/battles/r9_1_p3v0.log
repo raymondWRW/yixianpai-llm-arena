@@ -1,0 +1,183 @@
+turn 1a begins
+  小布(pid3) is playing Crash Footwork (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  STATE after turn 1a: A(hp 85/89, def 0, qi 2, phys 4, agi 4) | B(hp 83/83, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 2 qi
+    reduced 小布(pid3) hp by 2 to 83
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 1b: A(hp 83/89, def 0, qi 2, phys 4, agi 4) | B(hp 83/83, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  小布(pid3) finished playing Endless Sword Formation
+  STATE after turn 2a: A(hp 83/89, def 0, qi 2, phys 4, agi 4) | B(hp 83/83, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Tri-Peak Sword (level 1)
+    reduced 小布(pid3) hp by 3 to 80
+    reduced 小布(pid3) hp by 3 to 77
+    reduced 小布(pid3) hp by 3 to 74
+  牧逸风(pid0) finished playing Tri-Peak Sword
+  STATE after turn 2b: A(hp 74/89, def 0, qi 2, phys 4, agi 4) | B(hp 83/83, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 牧逸风(pid0) hp by 5 to 78
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 2 force
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 6 to 72
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3a: A(hp 74/89, def 0, qi 3, force 1, phys 4, agi 4) | B(hp 72/83, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 小布(pid3) hp by 7 to 67
+    gained 1 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 3b: A(hp 67/89, def 0, qi 3, force 1, phys 4, agi 4) | B(hp 72/83, def 0, qi 3)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Soul Seizing (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 65
+    healed 7 hp. Went from 67 to 74
+  小布(pid3) finished playing Soul Seizing
+  STATE after turn 4a: A(hp 74/89, def 0, qi 2, force 1, phys 4, agi 4) | B(hp 65/83, def 0, qi 3)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    reduced 小布(pid3) hp by 9 to 65
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 4b: A(hp 65/89, def 0, qi 2, force 1, phys 4, agi 4) | B(hp 65/83, def 0, qi 3)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 2 to 63
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 1 qi
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 14 to 51
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 牧逸风(pid0) hp by 5 to 46
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 5a: A(hp 63/89, def 0, qi 1, phys 4, agi 4) | B(hp 46/83, def 0, qi 3)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 13 to 50
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5b: A(hp 50/89, def 0, qi 1, phys 4, agi 4) | B(hp 46/83, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 4 to 46
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 牧逸风(pid0) hp by 10 to 36
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 6a: A(hp 46/89, def 0, qi 1, phys 4, agi 4) | B(hp 36/83, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 小布(pid3) hp by 9 to 37
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 6b: A(hp 37/89, def 0, qi 1, phys 4, agi 4) | B(hp 36/83, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 5 to 32
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    reduced 牧逸风(pid0) hp by 10 to 26
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 7a: A(hp 32/89, def 0, qi 1, phys 4, agi 4) | B(hp 26/83, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 2)
+    reduced 小布(pid3) hp by 11 to 21
+    gained 11 def. Now have 11 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 7b: A(hp 21/89, def 0, qi 1, phys 4, agi 4) | B(hp 26/83, def 11, qi 1)
+turn 7b ends
+turn 8a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 2)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 11 def. Now have 0 def
+    gained 1 qi. Now have 2 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 8a: A(hp 21/89, def 0, qi 2, phys 4, agi 4) | B(hp 26/83, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Mirror Flower Sword Formation (level 1)
+    gained 3 def. Now have 3 def
+    reduced 小布(pid3) hp by 4 to 17
+  牧逸风(pid0) finished playing Mirror Flower Sword Formation
+  STATE after turn 8b: A(hp 17/89, def 0, qi 2, phys 4, agi 4) | B(hp 26/83, def 3, qi 1)
+turn 8b ends
+turn 9a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 24
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 9a: A(hp 17/89, def 0, qi 3, force 2, phys 4, agi 4) | B(hp 24/83, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 3 qi
+    reduced 小布(pid3) hp by 4 to 13
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 9b: A(hp 13/89, def 0, qi 3, force 2, phys 4, agi 4) | B(hp 24/83, def 0, qi 3)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Soul Seizing (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 16
+    healed 8 hp. Went from 13 to 21
+  小布(pid3) finished playing Soul Seizing
+  STATE after turn 10a: A(hp 21/89, def 0, qi 2, force 2, phys 4, agi 4) | B(hp 16/83, def 0, qi 3)
+turn 10a ends
+turn 10b begins
+  牧逸风(pid0) is playing Tri-Peak Sword (level 1)
+    reduced 小布(pid3) hp by 4 to 17
+    reduced 小布(pid3) hp by 4 to 13
+    reduced 小布(pid3) hp by 4 to 9
+  牧逸风(pid0) finished playing Tri-Peak Sword
+  STATE after turn 10b: A(hp 9/89, def 0, qi 2, force 2, phys 4, agi 4) | B(hp 16/83, def 0, qi 3)
+turn 10b ends
+turn 11a begins
+  reduced 小布(pid3) hp by 2 to 7
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 1 qi
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 15 to 1
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 11a: A(hp 7/89, def 0, qi 1, force 1, phys 4, agi 4) | B(hp 1/83, def 0, qi 3)
+turn 11a ends
+turn 11b begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 小布(pid3) hp by 8 to -1
+    gained 5 qi. Now have 8 qi
+  STATE after turn 11b: A(hp -1/89, def 0, qi 1, force 1, phys 4, agi 4) | B(hp 1/83, def 0, qi 8)
+turn 11b ends
+小布(pid3) loses 10 destiny, now at 52
+牧逸风(pid0) (Mu Yifeng) wins

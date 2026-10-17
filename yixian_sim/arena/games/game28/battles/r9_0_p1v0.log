@@ -1,0 +1,166 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Wind Hexagram
+  STATE after turn 1a: A(hp 86/86, def 0, qi 1, hex 1) | B(hp 78/78, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 1b: A(hp 86/86, def 0, qi 1, hex 1) | B(hp 78/78, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing White Snake (level 1)
+    lost 1 hexagram. Now have 0 hexagram
+    gained 2 flaw. Now have 2 flaw
+    reduced 牧逸风(pid0) hp by 8 to 70
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 2a: A(hp 86/86, def 0, qi 1) | B(hp 70/78, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  lost 1 flaw. Now have 1 flaw
+  STATE after turn 2b: A(hp 86/86, def 0, qi 1) | B(hp 70/78, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 62
+    gained 2 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 86/86, def 0, qi 0) | B(hp 62/78, def 0, qi 1, injury 2)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  reduced 牧逸风(pid0) hp by 2 to 60
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  lost 1 flaw. Now have 0 flaw
+  STATE after turn 3b: A(hp 86/86, def 0, qi 0, injury 1) | B(hp 60/78, def 2, qi 3, sword 2, injury 2)
+turn 3b ends
+turn 4a begins
+  reduced 谭舒雁(pid1) hp by 1 to 85
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Revitalized (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 85/86, def 0, qi 1, injury 1) | B(hp 60/78, def 2, qi 3, sword 2, injury 2)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  reduced 牧逸风(pid0) hp by 2 to 58
+  牧逸风(pid0) is playing Cloud Sword - Flash Wind (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 79
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 7 to 72
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 65
+    gained 1 qi. Now have 4 qi
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 60
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 4b: A(hp 60/86, def 0, qi 1, injury 2) | B(hp 58/78, def 1, qi 4, injury 2)
+turn 4b ends
+turn 5a begins
+  reduced 谭舒雁(pid1) hp by 2 to 58
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 9 to 49
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 5a: A(hp 58/86, def 0, qi 0, injury 2) | B(hp 49/78, def 0, qi 4, injury 2)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 2 to 47
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 11 to 47
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 5b: A(hp 47/86, def 0, qi 0, injury 2) | B(hp 47/78, def 0, qi 3, injury 2)
+turn 5b ends
+turn 6a begins
+  reduced 谭舒雁(pid1) hp by 2 to 45
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 2). They now have 1/1 qi
+  STATE after turn 6a: A(hp 45/86, def 0, qi 1, injury 2) | B(hp 47/78, def 0, qi 3, injury 2)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 2 to 45
+  lost 2 qi. Now have 1 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 16 to 29
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6b: A(hp 29/86, def 0, qi 1, injury 2) | B(hp 45/78, def 0, qi 1, injury 2)
+turn 6b ends
+turn 7a begins
+  reduced 谭舒雁(pid1) hp by 2 to 27
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 牧逸风(pid0) hp by 10 to 35
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7a: A(hp 27/86, def 0, qi 0, injury 2) | B(hp 35/78, def 0, qi 1, injury 2)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 2 to 33
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 11 to 16
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 7b: A(hp 16/86, def 0, qi 0, injury 2) | B(hp 33/78, def 0, qi 0, injury 2)
+turn 7b ends
+turn 8a begins
+  reduced 谭舒雁(pid1) hp by 2 to 14
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 2). They now have 1/1 qi
+  STATE after turn 8a: A(hp 14/86, def 0, qi 1, injury 2) | B(hp 33/78, def 0, qi 0, injury 2)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 2 to 31
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 8b: A(hp 14/86, def 0, qi 1, injury 2) | B(hp 31/78, def 2, qi 2, sword 2, injury 2)
+turn 8b ends
+turn 9a begins
+  reduced 谭舒雁(pid1) hp by 2 to 12
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 15 to 16
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 9a: A(hp 12/86, def 0, qi 0, injury 2) | B(hp 16/78, def 0, qi 2, sword 2, injury 2)
+turn 9a ends
+turn 9b begins
+  reduced 牧逸风(pid0) hp by 2 to 14
+  牧逸风(pid0) is playing Cloud Sword - Flash Wind (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 6
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to -1
+    gained 3 qi. Now have 5 qi
+  STATE after turn 9b: A(hp -1/86, def 0, qi 0, injury 2) | B(hp 14/78, def 0, qi 5, injury 2)
+turn 9b ends
+谭舒雁(pid1) loses 12 destiny, now at 73
+牧逸风(pid0) (Mu Yifeng) wins

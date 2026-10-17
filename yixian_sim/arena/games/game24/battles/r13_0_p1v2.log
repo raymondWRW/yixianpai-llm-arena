@@ -1,0 +1,280 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 def. Now have 4 def
+gained 3 qi. Now have 3 qi
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 107/107, def 2, qi 0) | B(hp 99/99, def 0, qi 3, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 2 to 97
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 106 max_hp
+  healed 7 hp. Went from 97 to 104
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 1b: A(hp 107/107, def 2, qi 0) | B(hp 104/106, def 7, qi 3, injury 2)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Propitious Omen (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 3 qi. Now have 5 qi
+  谭舒雁(pid1) finished playing Propitious Omen
+  STATE after turn 2a: A(hp 107/107, def 1, qi 5) | B(hp 104/106, def 7, qi 3, injury 2)
+turn 2a ends
+turn 2b begins
+  lost 4 def. Now have 3 def
+  reduced 吾行之(pid2) hp by 2 to 102
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 5 qi
+    gained 2 max_hp. Now have 108 max_hp
+    healed 2 hp. Went from 102 to 104
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 115 max_hp
+  healed 7 hp. Went from 104 to 111
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 106
+  STATE after turn 2b: A(hp 106/107, def 0, qi 5) | B(hp 111/115, def 10, qi 5, injury 2)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    lost 7 def. Now have 3 def
+    gained 1 qi. Now have 6 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 3a: A(hp 106/107, def 0, qi 6) | B(hp 111/115, def 3, qi 5, injury 2)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 2 to 109
+  lost 2 qi. Now have 3 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 5 force_of_water
+    gained 11 max_hp. Now have 126 max_hp
+    healed 11 hp. Went from 109 to 120
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 5 to 101
+  STATE after turn 3b: A(hp 101/107, def 0, qi 6) | B(hp 120/126, def 1, qi 3, injury 2)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 1)
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 119
+    reduced 吾行之(pid2) hp by 2 to 117
+    healed 4 hp. Went from 101 to 105
+  谭舒雁(pid1) finished playing Hunter Becomes Preyer
+  STATE after turn 4a: A(hp 105/107, def 0, qi 6) | B(hp 117/126, def 0, qi 3, injury 2)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 2 to 115
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 5 to 100
+  STATE after turn 4b: A(hp 100/107, def 0, qi 6) | B(hp 115/126, def 10, qi 3, injury 2)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 5 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Cide (level 1)
+    lost 10 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 6 to 109
+  谭舒雁(pid1) finished playing Astral Move - Cide
+  STATE after turn 5a: A(hp 100/107, def 0, qi 5) | B(hp 109/126, def 0, qi 3, injury 2)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 2 to 107
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 6 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 5 to 95
+  STATE after turn 5b: A(hp 95/107, def 0, qi 5) | B(hp 107/126, def 10, qi 3, injury 2)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 4 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 6 def. Now have 4 def
+    lost 2 hexproof. Now have 4 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 6a: A(hp 95/107, def 0, qi 4) | B(hp 107/126, def 4, qi 3, injury 2)
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 2 to 105
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 84
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 5 to 79
+  STATE after turn 6b: A(hp 79/107, def 0, qi 4) | B(hp 105/126, def 2, qi 3, injury 2)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 7a: A(hp 79/107, def 4, qi 4) | B(hp 105/126, def 2, qi 3, injury 2)
+turn 7a ends
+turn 7b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 2 to 103
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 75
+  吾行之(pid2) finished playing World Smash
+  reduced 谭舒雁(pid1) hp by 5 to 70
+  STATE after turn 7b: A(hp 70/107, def 0, qi 4) | B(hp 103/126, def 1, qi 2, injury 2)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Stillness Citta-Dharma
+  STATE after turn 8a: A(hp 70/107, def 0, qi 4) | B(hp 103/126, def 1, qi 2, injury 2)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  reduced 吾行之(pid2) hp by 2 to 101
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Fire Spirit - Blazing Prairie (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 1 to 69
+    reduced 谭舒雁(pid1) hp by 6 to 63
+    reduced 谭舒雁(pid1) hp by 6 to 57
+  吾行之(pid2) finished playing Fire Spirit - Blazing Prairie
+  reduced 谭舒雁(pid1) hp by 5 to 52
+  STATE after turn 8b: A(hp 52/107, def 0, qi 4) | B(hp 101/126, def 0, qi 0, injury 2)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 3 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 9a: A(hp 52/107, def 0, qi 4) | B(hp 101/126, def 0, qi 0, injury 2)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 2 to 99
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 max_hp. Now have 128 max_hp
+    healed 2 hp. Went from 99 to 101
+    gained 1 force_of_water. Now have 6 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  reduced 谭舒雁(pid1) hp by 6 to 46
+  STATE after turn 9b: A(hp 46/107, def 0, qi 4) | B(hp 101/128, def 0, qi 2, injury 2)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Propitious Omen (level 1)
+    gained 2 qi. Now have 6 qi
+    healed 4 hp. Went from 46 to 50
+    gained 3 qi. Now have 9 qi
+    healed 6 hp. Went from 50 to 56
+  谭舒雁(pid1) finished playing Propitious Omen
+  STATE after turn 10a: A(hp 56/107, def 0, qi 9) | B(hp 101/128, def 0, qi 2, injury 2)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 2 to 99
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 9 force_of_water
+    gained 15 max_hp. Now have 143 max_hp
+    healed 15 hp. Went from 99 to 114
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 9 to 47
+  STATE after turn 10b: A(hp 47/107, def 0, qi 9) | B(hp 114/143, def 0, qi 0, injury 2)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 吾行之(pid2) hp by 7 to 107
+    gained 1 qi. Now have 10 qi
+    healed 2 hp. Went from 47 to 49
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 11a: A(hp 49/107, def 0, qi 10) | B(hp 107/143, def 0, qi 0, injury 2)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 2 to 105
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 6 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 9 to 40
+  STATE after turn 11b: A(hp 40/107, def 0, qi 10) | B(hp 105/143, def 10, qi 0, injury 2)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 1)
+    lost 2 def. Now have 8 def
+    lost 2 def. Now have 6 def
+    healed 4 hp. Went from 40 to 44
+    lost 6 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 104
+  谭舒雁(pid1) finished playing Hunter Becomes Preyer
+  STATE after turn 12a: A(hp 44/107, def 0, qi 10) | B(hp 104/143, def 0, qi 0, injury 2)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 2 to 102
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 9 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 9 to 35
+  STATE after turn 12b: A(hp 35/107, def 0, qi 10) | B(hp 102/143, def 10, qi 0, injury 2)
+turn 12b ends
+turn 13a begins
+  lost 1 qi. Now have 9 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Cide (level 1)
+    lost 10 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 6 to 96
+  谭舒雁(pid1) finished playing Astral Move - Cide
+  STATE after turn 13a: A(hp 35/107, def 0, qi 9) | B(hp 96/143, def 0, qi 0, injury 2)
+turn 13a ends
+turn 13b begins
+  reduced 吾行之(pid2) hp by 2 to 94
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 24
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 9 to 15
+  STATE after turn 13b: A(hp 15/107, def 0, qi 9) | B(hp 94/143, def 0, qi 0, injury 2)
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 8 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 88
+    lost 2 hexproof. Now have 7 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 14a: A(hp 15/107, def 0, qi 8) | B(hp 88/143, def 0, qi 0, injury 2)
+turn 14a ends
+turn 14b begins
+  reduced 吾行之(pid2) hp by 2 to 86
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing World Smash (level 1). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 9 to 6
+  STATE after turn 14b: A(hp 6/107, def 0, qi 8) | B(hp 86/143, def 0, qi 1, injury 2)
+turn 14b ends
+turn 15a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 15a: A(hp 6/107, def 4, qi 8) | B(hp 86/143, def 0, qi 1, injury 2)
+turn 15a ends
+turn 15b begins
+  reduced 吾行之(pid2) hp by 2 to 84
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 2
+  吾行之(pid2) finished playing World Smash
+  reduced 谭舒雁(pid1) hp by 9 to -7
+  STATE after turn 15b: A(hp -7/107, def 0, qi 8) | B(hp 84/143, def 0, qi 0, injury 2)
+turn 15b ends
+谭舒雁(pid1) loses 22 destiny, now at 1
+吾行之(pid2) (Wu Xingzhi) wins

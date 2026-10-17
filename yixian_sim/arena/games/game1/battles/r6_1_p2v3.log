@@ -1,0 +1,107 @@
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 52
+    reduced player 1 max_hp by 3 to 74
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  reduced player 0 hp by 4 to 48
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    reduced player 1 hp by 10 to 50
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 1b ends
+turn 2a begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    reduced player 1 hp by 12 to 36
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 3 to 33
+  player 0 spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 13 to 37
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 2b ends
+turn 3a begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 24
+    gained 1 qi. Now have 3 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 2 to 22
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 15 to 22
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 3b ends
+turn 4a begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 13
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 4 to 9
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 1)
+  healed 4 hp. Went from 9 to 13
+  player 0 healed 4 hp from crash fist bounce
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 8 to 14
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 4b ends
+turn 5a begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    reduced player 1 hp by 7 to 6
+  player 0 finished playing Earth Spirit - Smash
+turn 5a ends
+turn 5b begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 5
+    gained 1 physique. Now have 23 physique
+    gained 1 max_hp. Now have 75 max_hp
+  player 0 finished playing Exercise Fist
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 2)
+    reduced player 1 hp by 3 to 3
+    reduced player 1 hp by 3 to 0
+    reduced player 1 hp by 3 to -3
+turn 6a ends
+player 1 loses 8 destiny, now at 80
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 2)
+  Metal Spirit Seal (level 3)
+  Cosmos Seal (level 2)
+  Heavenly Decree - Attack (level 2)
+  Earth Spirit - Smash (level 2)
+  Wood Spirit - Bud (level 2)
+  Wood Spirit Seal (level 2)
+  Fire Spirit - Scarlet Flame (level 1)
+Player 1's deck:
+  Crash Fist - Shake (level 1)
+  Crash Fist - Poke (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Blitz (level 1)
+  Exercise Fist (level 2)
+  Embracing Qi Technique (level 2)
+  Exercise Tendons (level 2)
+  Strong Force (level 1)

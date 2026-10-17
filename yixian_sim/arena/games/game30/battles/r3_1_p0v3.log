@@ -1,0 +1,89 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    reduced 小布(pid3) hp by 3 to 41
+    reduced 小布(pid3) hp by 3 to 38
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1a: A(hp 49/49, def 0, qi 3) | B(hp 38/46, def 0, qi 0, phys 2)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 牧逸风(pid0) hp by 5 to 44
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 44/49, def 0, qi 3) | B(hp 38/46, def 0, qi 1, force 2, phys 2)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 5 to 33
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2a: A(hp 44/49, def 0, qi 3, sword 3) | B(hp 33/46, def 0, qi 1, force 2, phys 2)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 30
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 10 to 34
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2b: A(hp 34/49, def 0, qi 3, sword 3) | B(hp 30/46, def 0, qi 1, force 1, phys 2)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 3a: A(hp 34/49, def 4, qi 3, sword 5) | B(hp 30/46, def 0, qi 1, force 1, phys 2)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 3 to 27
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 0 force
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 29
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 3b: A(hp 29/49, def 0, qi 3, sword 5) | B(hp 27/46, def 2, qi 1, phys 2)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 11 to 16
+    lost 5 sword_intent. Now have 0 sword_intent
+    gained 5 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 4a: A(hp 29/49, def 0, qi 2, sword 5) | B(hp 16/46, def 0, qi 1, phys 2)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Exercise Fist (level 2)
+    reduced 牧逸风(pid0) hp by 9 to 20
+    gained 1 physique. Now have 3 physique
+    gained 1 max_hp. Now have 47 max_hp
+  小布(pid3) finished playing Exercise Fist
+  STATE after turn 4b: A(hp 20/49, def 0, qi 2, sword 5) | B(hp 16/47, def 0, qi 1, phys 3)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 15 to 1
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5a: A(hp 20/49, def 0, qi 1) | B(hp 1/47, def 0, qi 1, phys 3)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 3 to -2
+  小布(pid3) spent 3 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 10
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  STATE after turn 5b: A(hp 10/49, def 0, qi 1) | B(hp -2/47, def 0, qi 1, phys 3)
+turn 5b ends
+小布(pid3) loses 6 destiny, now at 86
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,120 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 35
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 1a: A(hp 40/40, def 0, qi 0) | B(hp 35/40, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 35
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 1b: A(hp 35/40, def 0, qi 0) | B(hp 35/40, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 吾行之(pid2) hp by 8 to 27
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 2a: A(hp 35/40, def 4, qi 0) | B(hp 27/40, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 33
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 2b: A(hp 33/40, def 0, qi 0) | B(hp 27/40, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 吾行之(pid2) hp by 6 to 21
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 3a: A(hp 33/40, def 0, qi 0) | B(hp 21/40, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 27
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 3b: A(hp 27/40, def 0, qi 0) | B(hp 21/40, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 18
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 4a: A(hp 27/40, def 0, qi 0) | B(hp 18/40, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 24
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 4b: A(hp 24/40, def 0, qi 0) | B(hp 18/40, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 15
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 5a: A(hp 24/40, def 0, qi 0) | B(hp 15/40, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 21
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 5b: A(hp 21/40, def 0, qi 0) | B(hp 15/40, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 12
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 21/40, def 0, qi 0) | B(hp 12/40, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 18
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 6b: A(hp 18/40, def 0, qi 0) | B(hp 12/40, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 9
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 18/40, def 0, qi 0) | B(hp 9/40, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 15
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7b: A(hp 15/40, def 0, qi 0) | B(hp 9/40, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 6
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 15/40, def 0, qi 0) | B(hp 6/40, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 12
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8b: A(hp 12/40, def 0, qi 0) | B(hp 6/40, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 1
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 9a: A(hp 12/40, def 0, qi 1) | B(hp 1/40, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 4
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 9b: A(hp 4/40, def 0, qi 1) | B(hp 1/40, def 0, qi 0)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 吾行之(pid2) hp by 8 to -7
+    gained 4 def. Now have 4 def
+  STATE after turn 10a: A(hp 4/40, def 4, qi 1) | B(hp -7/40, def 0, qi 0)
+turn 10a ends
+吾行之(pid2) loses 4 destiny, now at 96
+谭舒雁(pid1) (Tan Shuyan) wins

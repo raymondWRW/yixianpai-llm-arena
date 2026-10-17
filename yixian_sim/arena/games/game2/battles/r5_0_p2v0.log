@@ -1,0 +1,159 @@
+gained 1 qi. Now have 1 qi
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to 46
+  player 0 finished playing Earth Spirit - Smash
+turn 1a ends
+turn 1b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Cracking Voice (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 9 to 37
+  player 0 finished playing Cracking Voice
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 2b ends
+turn 3a begins
+  player 0 is playing Metal Spirit Seal (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 4 to 33
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 13 to 40
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced player 1 hp by 8 to 32
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 26
+  player 0 finished playing Cloud Sword - Fleche
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 17
+  player 0 finished playing Cloud Sword - Conceal
+turn 5b ends
+turn 6a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+  player 0 upgrades Water Spirit - Waves (level 2) to Water Spirit - Waves (level 3)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    reduced player 1 hp by 16 to 17
+    gained 1 force_of_water. Now have 1 force_of_water
+  player 0 finished playing Water Spirit - Waves
+  reduced player 1 hp by 1 to 16
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 9
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+turn 6b ends
+turn 7a begins
+  player 0 is playing Earth Spirit - Mountains (level 2)
+    reduced player 1 hp by 6 to 10
+    gained 3 def. Now have 3 def
+  player 0 finished playing Earth Spirit - Mountains
+  reduced player 1 hp by 1 to 9
+turn 7a ends
+turn 7b begins
+  player 0 is playing Cloud Sword - Reguard (level 1)
+    gained 8 def. Now have 8 def
+    healed 3 hp. Went from 9 to 12
+  player 0 finished playing Cloud Sword - Reguard
+turn 7b ends
+turn 8a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 1 qi
+    healed 4 hp. Went from 9 to 13
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  lost 1 def. Now have 7 def
+turn 8a ends
+turn 8b begins
+  lost 4 def. Now have 3 def
+  player 0 is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 5 to 8
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 1 to 11
+    reduced player 1 hp by 4 to 7
+    reduced player 1 hp by 4 to 3
+  player 0 finished playing Fire Spirit - Scarlet Flame
+  reduced player 1 hp by 1 to 2
+turn 9a ends
+turn 9b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 4 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 9b ends
+turn 10a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  player 0 finished playing Normal Attack
+  lost 1 def. Now have 1 def
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 10b ends
+turn 11a begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to -5
+turn 11a ends
+player 1 loses 8 destiny, now at 84
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Earth Spirit - Smash (level 2)
+  Cracking Voice (level 2)
+  Metal Spirit Seal (level 1)
+  Water Spirit - Waves (level 3)
+  Earth Spirit - Mountains (level 2)
+  Wood Spirit Seal (level 1)
+  Fire Spirit - Scarlet Flame (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Guard Qi (level 2)
+  Examine Body (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Conceal (level 1)
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Reguard (level 1)
+  Normal Attack (level 1)

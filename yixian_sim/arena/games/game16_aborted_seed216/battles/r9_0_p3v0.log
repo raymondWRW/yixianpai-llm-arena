@@ -1,0 +1,131 @@
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  小布(pid3) is playing Exercise Bones (level 1)
+    gained 1 physique. Now have 13 physique
+    gained 1 max_hp. Now have 91 max_hp
+    healed 3 hp. Went from 78 to 81
+    gained 2 exercise_bones_stacks. Now have 2 exercise_bones_stacks
+  小布(pid3) finished playing Exercise Bones
+  STATE after turn 1a: A(hp 81/91, def 0, qi 0, phys 13) | B(hp 78/78, def 0, qi 0, sword 1)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 1b: A(hp 81/91, def 0, qi 0, phys 13) | B(hp 78/78, def 0, qi 0, sword 1)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 4 to 77
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 1 physique. Now have 14 physique
+    gained 1 max_hp. Now have 92 max_hp
+    lost 1 exercise_bones_stacks. Now have 1 exercise_bones_stacks
+    reduced 牧逸风(pid0) hp by 13 to 65
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 2a: A(hp 77/92, def 0, qi 0, phys 14) | B(hp 65/78, def 0, qi 0, sword 1)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 77/92, def 0, qi 0, phys 14) | B(hp 65/78, def 0, qi 0, sword 1)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 4 to 73
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 wound. Now have 1 wound
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    gained 1 physique. Now have 15 physique
+    gained 1 max_hp. Now have 93 max_hp
+    lost 1 exercise_bones_stacks. Now have 0 exercise_bones_stacks
+    reduced 牧逸风(pid0) hp by 18 to 47
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 3a: A(hp 73/93, def 0, qi 0, phys 15) | B(hp 47/78, def 0, qi 0, sword 1)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced 小布(pid3) hp by 4 to 69
+    reduced 小布(pid3) hp by 4 to 65
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 6 to 59
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 59/93, def 0, qi 0, phys 15) | B(hp 47/78, def 0, qi 4)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 3 to 56
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 牧逸风(pid0) hp by 8 to 39
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 4a: A(hp 56/93, def 2, qi 0, phys 15) | B(hp 39/78, def 0, qi 4)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 6 qi
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 8 qi
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 6 to 50
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 45
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 4b: A(hp 45/93, def 0, qi 0, phys 15) | B(hp 39/78, def 0, qi 8)
+turn 4b ends
+turn 5a begins
+  小布(pid3) spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    reduced 牧逸风(pid0) hp by 14 to 25
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 5a: A(hp 45/93, def 0, qi 0, phys 15) | B(hp 25/78, def 0, qi 8)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 7 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 1)
+    reduced 小布(pid3) hp by 8 to 37
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 5b: A(hp 37/93, def 0, qi 0, phys 15) | B(hp 25/78, def 0, qi 7, sword 3)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 2 to 35
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 14
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 6a: A(hp 35/93, def 0, qi 0, phys 15) | B(hp 14/78, def 0, qi 7, sword 3)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 5 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 23 to 12
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6b: A(hp 12/93, def 0, qi 0, phys 15) | B(hp 14/78, def 0, qi 5)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 7a: A(hp 12/93, def 0, qi 1, phys 15) | B(hp 14/78, def 0, qi 5)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 2)
+    reduced 小布(pid3) hp by 13 to -1
+    lost 2 qi. Now have 0 qi
+  STATE after turn 7b: A(hp -1/93, def 0, qi 0, phys 15) | B(hp 14/78, def 0, qi 4)
+turn 7b ends
+小布(pid3) loses 12 destiny, now at 63
+牧逸风(pid0) (Mu Yifeng) wins

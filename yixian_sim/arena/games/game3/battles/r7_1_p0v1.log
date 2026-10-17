@@ -1,0 +1,178 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Toning (level 1)
+    reduced player 1 hp by 3 to 65
+    gained 1 qi. Now have 1 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 1a ends
+turn 1b begins
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 61
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 2a ends
+turn 2b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Water Hexagram
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 5 sword_intent
+  player 0 finished playing Sword Defence
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 2 to 62
+    reduced player 1 hp by 7 to 55
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 11 to 50
+    reduced player 1 hp by 13 to 37
+    lost 5 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced player 1 hp by 11 to 44
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 4b ends
+turn 5a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 1)
+    reduced player 1 hp by 3 to 34
+  player 0 finished playing Cloud Sword - Touch Sky
+  lost 1 weaken. Now have 0 weaken
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 34
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 27
+  player 0 finished playing Sparrow's Tail
+turn 5b ends
+turn 6a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 28
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 6a ends
+turn 6b begins
+  player 0 is playing Incessant (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 3 to 24
+  player 0 finished playing Incessant
+turn 6b ends
+turn 7a begins
+  player 0 is playing Cloud Sword - Reguard (level 1)
+    gained 8 def. Now have 8 def
+    healed 3 hp. Went from 24 to 27
+  player 0 finished playing Cloud Sword - Reguard
+turn 7a ends
+turn 7b begins
+  player 0 is playing Palm Thunder (level 2)
+    lost 1 hexagram. Now have 0 hexagram
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 5 to 22
+  player 0 finished playing Palm Thunder
+turn 7b ends
+turn 8a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 22
+    reduced player 1 hp by 5 to 17
+  player 0 finished playing Cloud Sword - Fleche
+turn 8a ends
+turn 8b begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 13
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Toning (level 1)
+    lost 3 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 13
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 10a ends
+turn 10b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 2 qi
+  player 0 finished playing Water Hexagram
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 5 sword_intent
+  player 0 finished playing Sword Defence
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 2 to 11
+    reduced player 1 hp by 7 to 4
+  player 0 finished playing Astral Move - Flank
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 11 to 2
+    reduced player 1 hp by 13 to -11
+    lost 5 sword_intent. Now have 0 sword_intent
+turn 12a ends
+player 1 loses 10 destiny, now at 65
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Toning (level 1)
+  Sword Slash (level 1)
+  Sword Defence (level 2)
+  Thunder Sword (level 2)
+  Cloud Sword - Touch Sky (level 1)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Reguard (level 1)
+  Cloud Sword - Fleche (level 2)
+Player 1's deck:
+  Wind Hexagram (level 1)
+  Water Hexagram (level 1)
+  Astral Move - Flank (level 2)
+  Golden Rooster Independence (level 1)
+  Sparrow's Tail (level 2)
+  Incessant (level 2)
+  Palm Thunder (level 2)
+  Heavenly Decree - Attack (level 2)

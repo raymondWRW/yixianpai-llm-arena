@@ -1,0 +1,162 @@
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sailing through Sky (level 1). They now have 1/1 qi
+  STATE after turn 1a: A(hp 99/110, def 0, qi 1, phys 11) | B(hp 99/99, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  STATE after turn 1b: A(hp 99/110, def 0, qi 1, phys 11) | B(hp 99/99, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 1 physique. Now have 12 physique
+    gained 1 max_hp. Now have 111 max_hp
+    healed 1 hp. Went from 99 to 100
+    gained 3 force. Now have 3 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 2a: A(hp 100/111, def 0, qi 0, force 3, phys 12, agi 6) | B(hp 99/99, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit - Shuttle (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    reduced 小布(pid3) hp by 4 to 96
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 91
+  吾行之(pid2) finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 4 max_hp. Now have 103 max_hp
+    healed 4 hp. Went from 99 to 103
+    gained 3 qi. Now have 3 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 2b: A(hp 91/111, def 0, qi 0, force 3, phys 12, agi 6) | B(hp 103/103, def 0, qi 3)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  小布(pid3) finished playing Crash Citta-Dharma
+  STATE after turn 3a: A(hp 91/111, def 0, qi 0, force 5, phys 12, agi 6) | B(hp 103/103, def 0, qi 3)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 小布(pid3) hp by 2 to 89
+  STATE after turn 3b: A(hp 89/111, def 0, qi 0, force 5, phys 12, agi 6) | B(hp 103/103, def 0, qi 3)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 87
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 吾行之(pid2) hp by 17 to 86
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4a: A(hp 87/111, def 0, qi 0, force 5, phys 12, agi 6) | B(hp 86/103, def 0, qi 3)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    reduced 小布(pid3) hp by 16 to 71
+    gained 3 force_of_water. Now have 5 force_of_water
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 66
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 5 to 61
+  STATE after turn 4b: A(hp 61/111, def 0, qi 0, force 5, phys 12, agi 6) | B(hp 86/103, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 5 to 56
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 吾行之(pid2) hp by 16 to 70
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 5a: A(hp 56/111, def 0, qi 0, force 5, phys 12, agi 6) | B(hp 70/103, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Earth Spirit - Steep (level 1)
+    gained 12 def. Now have 12 def
+  吾行之(pid2) finished playing Earth Spirit - Steep
+  reduced 小布(pid3) hp by 5 to 51
+  STATE after turn 5b: A(hp 51/111, def 0, qi 0, force 5, phys 12, agi 6) | B(hp 70/103, def 12, qi 2)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 5 to 46
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 force. Now have 6 force
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 force. Now have 5 force
+    lost 12 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 21 to 49
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 6a: A(hp 46/111, def 5, qi 0, force 5, phys 12, agi 6) | B(hp 49/103, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    lost 5 def. Now have 0 def
+    reduced 小布(pid3) hp by 14 to 32
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 27
+  吾行之(pid2) finished playing World Smash
+  reduced 小布(pid3) hp by 5 to 22
+  STATE after turn 6b: A(hp 22/111, def 0, qi 0, force 5, phys 12, agi 6) | B(hp 49/103, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 force. Now have 4 force
+    reduced 吾行之(pid2) hp by 16 to 33
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 7a: A(hp 22/111, def 0, qi 0, force 4, phys 12, agi 6) | B(hp 33/103, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    reduced 小布(pid3) hp by 7 to 15
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  reduced 小布(pid3) hp by 5 to 10
+  STATE after turn 7b: A(hp 10/111, def 0, qi 0, force 4, phys 12, agi 6) | B(hp 33/103, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 6 to 4
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 1 force. Now have 5 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 4 force
+    reduced 吾行之(pid2) hp by 22 to 11
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 8a: A(hp 4/111, def 0, qi 0, force 4, phys 12, agi 6) | B(hp 11/103, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Metal Spirit - Shuttle (level 1)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 4 to 0
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  STATE after turn 8b: A(hp 0/111, def 0, qi 0, force 4, phys 12, agi 6) | B(hp 11/103, def 0, qi 1)
+turn 8b ends
+小布(pid3) loses 17 destiny, now at 31
+吾行之(pid2) (Wu Xingzhi) wins

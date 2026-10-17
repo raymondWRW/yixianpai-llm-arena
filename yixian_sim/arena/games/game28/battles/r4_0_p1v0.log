@@ -1,0 +1,129 @@
+reduced 牧逸风(pid0) hp by 2 to 49
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 43
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 1a: A(hp 51/51, def 0, qi 0) | B(hp 43/51, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 47
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1b: A(hp 47/51, def 0, qi 0) | B(hp 43/51, def 0, qi 1, sword 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 37
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 2a: A(hp 47/51, def 0, qi 0) | B(hp 37/51, def 0, qi 1, sword 2)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 2b: A(hp 47/51, def 0, qi 0) | B(hp 37/51, def 4, qi 1, sword 4)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 34
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 3a: A(hp 47/51, def 0, qi 1) | B(hp 34/51, def 0, qi 1, sword 4)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Wind Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 40
+    reduced 谭舒雁(pid1) hp by 7 to 33
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Wind Sword
+  STATE after turn 3b: A(hp 33/51, def 0, qi 1) | B(hp 34/51, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 28
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 4a: A(hp 33/51, def 0, qi 2) | B(hp 28/51, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 23
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4b: A(hp 23/51, def 0, qi 2) | B(hp 28/51, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 19
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 5a: A(hp 23/51, def 0, qi 1) | B(hp 19/51, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 17
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5b: A(hp 17/51, def 0, qi 1) | B(hp 19/51, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 13
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 6a: A(hp 17/51, def 0, qi 1) | B(hp 13/51, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 14
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6b: A(hp 14/51, def 0, qi 1) | B(hp 13/51, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 10
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 14/51, def 0, qi 1) | B(hp 10/51, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 11
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 11/51, def 0, qi 1) | B(hp 10/51, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 7
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 11/51, def 0, qi 1) | B(hp 7/51, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 8
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 8/51, def 0, qi 1) | B(hp 7/51, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 1
+    healed 2 hp. Went from 8 to 10
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 9a: A(hp 10/51, def 0, qi 1) | B(hp 1/51, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 6
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 9b: A(hp 6/51, def 0, qi 1) | B(hp 1/51, def 0, qi 0, sword 2)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 牧逸风(pid0) hp by 6 to -5
+    healed 2 hp. Went from 6 to 8
+  STATE after turn 10a: A(hp 8/51, def 0, qi 1) | B(hp -5/51, def 0, qi 0, sword 2)
+turn 10a ends
+牧逸风(pid0) loses 7 destiny, now at 84
+谭舒雁(pid1) (Tan Shuyan) wins

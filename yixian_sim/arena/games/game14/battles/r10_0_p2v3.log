@@ -1,0 +1,159 @@
+gained 2 qi. Now have 2 qi
+gained 1 qi. Now have 1 qi
+reduced 小布(pid3) hp by 2 to 78
+turn 1a begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    reduced 小布(pid3) hp by 9 to 77
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 1a: A(hp 78/80, def 0, qi 2) | B(hp 77/92, def 0, qi 1, phys 6)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 1b: A(hp 78/80, def 0, qi 2) | B(hp 77/92, def 0, qi 4, phys 6)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 2)
+    gained 4 penetrate. Now have 4 penetrate
+    gained 2 metal_spirit_formation_stacks. Now have 2 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 2a: A(hp 78/80, def 0, qi 2) | B(hp 77/92, def 0, qi 4, phys 6)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 吾行之(pid2) hp by 5 to 73
+    gained 1 qi. Now have 5 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2b: A(hp 73/80, def 0, qi 2) | B(hp 77/92, def 0, qi 5, force 2, phys 6)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 2 penetrate. Now have 6 penetrate
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 13 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 3a: A(hp 73/80, def 6, qi 2) | B(hp 77/92, def 0, qi 5, force 2, phys 6)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 5 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 3b: A(hp 73/80, def 6, qi 2) | B(hp 77/92, def 0, qi 4, force 5, phys 6, agi 6)
+turn 3b ends
+turn 4a begins
+  lost 3 def. Now have 3 def
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 2 penetrate. Now have 15 penetrate
+    penetrating 15 damage
+    lost 15 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 22 to 55
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 4a: A(hp 73/80, def 3, qi 2) | B(hp 55/92, def 0, qi 4, force 5, phys 6, agi 6)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 53
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 3 qi
+    lost 1 force. Now have 4 force
+    lost 3 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 18 to 55
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 4b: A(hp 55/80, def 0, qi 2) | B(hp 53/92, def 0, qi 3, force 4, phys 6, agi 6)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 2 penetrate. Now have 6 penetrate
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 13 to 40
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 5a: A(hp 55/80, def 0, qi 2) | B(hp 40/92, def 0, qi 3, force 4, phys 6, agi 6)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 3 physique. Now have 9 physique
+    gained 3 max_hp. Now have 95 max_hp
+    gained 2 entangle. Now have 2 entangle
+    gained 10 def. Now have 10 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 1 entangle
+  STATE after turn 5b: A(hp 55/80, def 0, qi 2) | B(hp 40/95, def 10, qi 3, force 4, phys 9, agi 6)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 1)
+    gained 2 penetrate. Now have 2 penetrate
+    lost 1 ignore_def. Now have 0 ignore_def
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 8 to 32
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 6a: A(hp 55/80, def 0, qi 2) | B(hp 32/95, def 10, qi 3, force 4, phys 9, agi 6)
+turn 6a ends
+turn 6b begins
+  lost 5 def. Now have 5 def
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 3 force
+    reduced 吾行之(pid2) hp by 21 to 34
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  lost 1 entangle. Now have 0 entangle
+  STATE after turn 6b: A(hp 34/80, def 0, qi 2) | B(hp 32/95, def 5, qi 2, force 3, injury 1, phys 9, agi 6)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 5 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 10 to 22
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 7a: A(hp 34/80, def 0, qi 2) | B(hp 22/95, def 0, qi 2, force 3, injury 1, phys 9, agi 6)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 1 to 21
+  reduced 小布(pid3) hp by 4 to 17
+  小布(pid3) spent 4 hp to play Crash Fist - Truncate (level 1)
+    lost 1 internal_injury. Now have 0 internal_injury
+    gained 1 internal_injury. Now have 1 internal_injury
+    lost 1 force. Now have 2 force
+    reduced 吾行之(pid2) hp by 11 to 23
+    gained 1 crash_fist_truncate_stacks. Now have 1 crash_fist_truncate_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Truncate
+  STATE after turn 7b: A(hp 23/80, def 0, qi 2, injury 1) | B(hp 17/95, def 0, qi 2, force 2, phys 9, agi 6)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 1 to 22
+  吾行之(pid2) is playing Impact Formation (level 1)
+    reduced 小布(pid3) hp by 6 to 11
+    reduced 小布(pid3) hp by 2 to 9
+  吾行之(pid2) finished playing Impact Formation
+  STATE after turn 8a: A(hp 22/80, def 0, qi 2, injury 1) | B(hp 9/95, def 0, qi 2, force 2, phys 9, agi 6)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 16
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 8b: A(hp 16/80, def 0, qi 2, injury 1) | B(hp 9/95, def 0, qi 2, force 2, phys 9, agi 6)
+turn 8b ends
+turn 9a begins
+  reduced 吾行之(pid2) hp by 1 to 15
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 2 penetrate. Now have 2 penetrate
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 11 to -2
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  STATE after turn 9a: A(hp 15/80, def 0, qi 2, injury 1) | B(hp -2/95, def 0, qi 2, force 2, phys 9, agi 6)
+turn 9a ends
+小布(pid3) loses 15 destiny, now at 61
+吾行之(pid2) (Wu Xingzhi) wins

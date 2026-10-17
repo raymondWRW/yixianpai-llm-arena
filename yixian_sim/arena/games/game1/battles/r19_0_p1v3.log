@@ -1,0 +1,404 @@
+gained 5 def. Now have 5 def
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+turn 1a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Finishing Touch (level 1)
+    gained 3 finishing_touch_stacks. Now have 3 finishing_touch_stacks
+  player 0 finished playing Finishing Touch
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 136 max_hp
+    healed 4 hp. Went from 132 to 136
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  player 0 finished playing Repel Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Majestic Qi (level 2)
+  player 0 upgrades Majestic Qi (level 2) to Majestic Qi (level 3)
+  lost 1 finishing_touch_stacks. Now have 2 finishing_touch_stacks
+    gained 4 qi. Now have 4 qi
+    gained 1 force. Now have 2 force
+    gained 4 majestic_qi_stacks. Now have 4 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 3a ends
+turn 3b begins
+  player 0 is playing Crash Citta-Dharma (level 2)
+  player 0 upgrades Crash Citta-Dharma (level 2) to Crash Citta-Dharma (level 3)
+  lost 1 finishing_touch_stacks. Now have 1 finishing_touch_stacks
+    gained 4 force. Now have 6 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 3b ends
+turn 4a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Heavenly Decree - Defend (level 2)
+    reduced player 1 hp by 3 to 112
+    gained 12 def. Now have 14 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 5 to 107
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 2)
+  player 0 upgrades Crash Fist - Subdue Dragon (level 2) to Crash Fist - Subdue Dragon (level 3)
+  lost 1 finishing_touch_stacks. Now have 0 finishing_touch_stacks
+    gained 1 force. Now have 7 force
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 13 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced player 0 hp by 1 to 106
+    gained 9 later_crash_fist_poke_stacks. Now have 9 later_crash_fist_poke_stacks
+    gained 9 crash_fist_block_stacks. Now have 9 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing White Crane Bright Wings (level 2)
+    reduced player 1 hp by 7 to 99
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 136 to 136
+  player 0 finished playing White Crane Bright Wings
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 4 to 95
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 7 force
+    gained 9 bonus_atk_amt. Now have 9 bonus_atk_amt
+    gained 9 def. Now have 9 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 10 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 28 to 108
+    lost 2 def. Now have 8 def
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 2)
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 14 to 81
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+  player 0 finished playing Astral Move - Cide
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 4 to 77
+  player 0 spent 4 hp to play Crash Fist - Shake (level 2)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 8 to 100
+    lost 1 def. Now have 0 def
+    reduced player 0 hp by 1 to 76
+    gained 3 crash_fist_shake_stacks. Now have 3 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 100 to 109
+  player 0 finished playing Escape Plan
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 30 to 79
+    reduced player 0 hp by 2 to 74
+    gained 3 weaken. Now have 3 weaken
+  player 0 finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+turn 7b ends
+turn 8a begins
+  lost 5 def. Now have 4 def
+  player 0 is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 7 def
+    healed 2 hp. Went from 79 to 81
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  player 0 finished playing Heavenly Fortune - Shun Misfortune
+turn 8a ends
+turn 8b begins
+  player 0 is playing Majestic Qi (level 3)
+    gained 4 qi. Now have 7 qi
+    gained 1 force. Now have 7 force
+    gained 4 majestic_qi_stacks. Now have 4 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+  lost 1 weaken. Now have 1 weaken
+turn 8b ends
+turn 9a begins
+  lost 4 def. Now have 3 def
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 8 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 5 to 69
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 3)
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 7 force
+    gained 3 def. Now have 4 def
+    gained 3 force. Now have 7 force
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+    gained 1 def. Now have 5 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 2 to 79
+    lost 2 def. Now have 3 def
+    gained 9 later_crash_fist_poke_stacks. Now have 9 later_crash_fist_poke_stacks
+    gained 9 crash_fist_block_stacks. Now have 9 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+  lost 1 weaken. Now have 0 weaken
+turn 9b ends
+turn 10a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 3 def. Now have 0 def
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 79 to 83
+    gained 3 def. Now have 3 def
+    healed 2 hp. Went from 83 to 85
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  player 0 finished playing White Crane Bright Wings
+turn 10a ends
+turn 10b begins
+  reduced player 0 hp by 4 to 65
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 7 force
+    gained 9 bonus_atk_amt. Now have 9 bonus_atk_amt
+    gained 9 def. Now have 9 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 10 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 27 to 58
+    lost 2 def. Now have 8 def
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 2)
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 14 to 51
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+  player 0 finished playing Astral Move - Cide
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 4 to 47
+  player 0 spent 4 hp to play Crash Fist - Shake (level 2)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 8 to 50
+    lost 1 def. Now have 0 def
+    reduced player 0 hp by 1 to 46
+    gained 3 crash_fist_shake_stacks. Now have 3 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 50 to 59
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 12a ends
+turn 12b begins
+  lost 1 qi. Now have 6 qi
+  player 0 spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    prevented 30 damage to hp with guard up. 0 guard up remaining
+    reduced player 0 hp by 2 to 44
+    gained 3 weaken. Now have 3 weaken
+  player 0 finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+turn 12b ends
+turn 13a begins
+  lost 5 def. Now have 4 def
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 9 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 13a ends
+turn 13b begins
+  player 0 is playing Majestic Qi (level 3)
+    gained 4 qi. Now have 10 qi
+    gained 1 force. Now have 7 force
+    gained 4 majestic_qi_stacks. Now have 4 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+  lost 1 weaken. Now have 1 weaken
+turn 13b ends
+turn 14a begins
+  lost 5 def. Now have 4 def
+  player 0 is playing White Crane Bright Wings (level 2)
+    reduced player 1 hp by 6 to 38
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 59 to 63
+  player 0 finished playing White Crane Bright Wings
+turn 14a ends
+turn 14b begins
+  reduced player 0 hp by 5 to 33
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 3)
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 7 force
+    gained 3 def. Now have 4 def
+    gained 3 force. Now have 7 force
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+    gained 1 def. Now have 5 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 6 to 57
+    lost 2 def. Now have 3 def
+    gained 9 later_crash_fist_poke_stacks. Now have 9 later_crash_fist_poke_stacks
+    gained 9 crash_fist_block_stacks. Now have 9 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+  lost 1 weaken. Now have 0 weaken
+turn 14b ends
+turn 15a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 19 to 14
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+  player 0 finished playing Astral Move - Cide
+turn 15a ends
+turn 15b begins
+  reduced player 0 hp by 8 to 6
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 2)
+    gained 1 force. Now have 7 force
+    gained 9 bonus_atk_amt. Now have 9 bonus_atk_amt
+    gained 9 def. Now have 9 def
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 10 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 32 to 25
+    lost 2 def. Now have 8 def
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 15b ends
+turn 16a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 25 to 34
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 16a ends
+turn 16b begins
+  lost 4 def. Now have 4 def
+  reduced player 0 hp by 4 to 2
+  player 0 spent 4 hp to play Crash Fist - Shake (level 2)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 5 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 8 def. Now have 1 def
+    lost 2 def. Now have 3 def
+    gained 3 crash_fist_shake_stacks. Now have 3 crash_fist_shake_stacks
+    Attacking for 23 from crash fist - shocked effect.
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 1 def. Now have 0 def
+    prevented 38 damage to hp with guard up. 0 guard up remaining
+    lost 2 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 9 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 16b ends
+turn 17a begins
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 17a ends
+turn 17b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 9 qi
+  player 0 spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 19 to 15
+    reduced player 0 hp by 2 to 0
+    gained 3 weaken. Now have 3 weaken
+turn 17b ends
+player 1 loses 23 destiny, now at -22
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Repel Citta-Dharma (level 1)
+  Everything is Unadvisable (level 2)
+  Heavenly Decree - Defend (level 2)
+  White Crane Bright Wings (level 2)
+  Astral Move - Cide (level 2)
+  Escape Plan (level 1)
+  Heavenly Fortune - Shun Misfortune (level 1)
+Player 1's deck:
+  Finishing Touch (level 1)
+  Majestic Qi (level 3)
+  Crash Citta-Dharma (level 3)
+  Crash Fist - Subdue Dragon (level 3)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Shocked (level 2)
+  Crash Fist - Shake (level 2)
+  Ghost Howling (level 2)

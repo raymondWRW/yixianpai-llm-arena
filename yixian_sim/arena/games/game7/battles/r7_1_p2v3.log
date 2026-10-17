@@ -1,0 +1,130 @@
+gained 1 force. Now have 1 force
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Blast (level 1). They now have 1/1 qi
+turn 1a ends
+turn 1b begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 2 to 62
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Gather Force
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 1 increase_atk
+  player 0 finished playing Fire Spirit - Blast
+turn 2a ends
+turn 2b begins
+  player 0 is playing Standing Firm (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 force. Now have 5 force
+    lost 1 qi. Now have 0 qi
+    healed 5 hp. Went from 71 to 72
+  player 0 finished playing Standing Firm
+turn 2b ends
+turn 3a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 2 qi
+    reduced player 1 hp by 3 to 69
+    reduced player 1 max_hp by 3 to 69
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Vigorous Force (level 1)
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 16 to 46
+  player 0 finished playing Vigorous Force
+turn 3b ends
+turn 4a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced player 1 hp by 3 to 66
+    reduced player 1 max_hp by 3 to 66
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 3 to 63
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    lost 1 force. Now have 3 force
+    reduced player 1 hp by 12 to 34
+    gained 3 def. Now have 4 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 4b ends
+turn 5a begins
+  player 0 is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 4 to 59
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 3 def. Now have 5 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 2 force
+    reduced player 1 hp by 18 to 16
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 13 to 46
+  player 0 finished playing Fire Spirit - Rush
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 4 to 42
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 12 to 4
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 6b ends
+turn 7a begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 17 to 25
+  player 0 finished playing Water Spirit - Waves
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 3 to 22
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 2 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced player 1 hp by 11 to -7
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 7b ends
+player 0 loses 12 destiny, now at 80
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Fire Spirit - Blast (level 1)
+  Fire Spirit - Flame Eater (level 1)
+  Fire Spirit - Flame Eater (level 1)
+  Fraccide Formation (level 1)
+  Fire Spirit - Rush (level 2)
+  Water Spirit - Waves (level 2)
+  Earth Spirit - Dust (level 1)
+  Earth Spirit - Cliff (level 1)
+Player 1's deck:
+  Gather Force (level 1)
+  Standing Firm (level 2)
+  Vigorous Force (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Shake (level 1)
+  Crash Fist - Poke (level 1)
+  Strong Force (level 1)

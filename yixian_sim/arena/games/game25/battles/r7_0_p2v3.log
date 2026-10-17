@@ -1,0 +1,141 @@
+turn 1a begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1a: A(hp 64/64, def 0, qi 2) | B(hp 64/78, def 0, qi 0, phys 14)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 1 physique. Now have 15 physique
+    gained 1 max_hp. Now have 79 max_hp
+    healed 1 hp. Went from 64 to 65
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 64/64, def 0, qi 2) | B(hp 65/79, def 0, qi 2, force 1, phys 15)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 小布(pid3) hp by 2 to 63
+  STATE after turn 2a: A(hp 64/64, def 0, qi 3) | B(hp 63/79, def 0, qi 2, force 1, phys 15)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 2 to 61
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 1 qi
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 15 to 49
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 2b: A(hp 49/64, def 0, qi 3) | B(hp 61/79, def 0, qi 1, force 1, phys 15)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Water Spirit - Rhythm Wood (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 2 qi. Now have 6 qi
+    healed 12 hp. Went from 49 to 61
+  吾行之(pid2) finished playing Water Spirit - Rhythm Wood
+  reduced 小布(pid3) hp by 2 to 59
+  STATE after turn 3a: A(hp 61/64, def 0, qi 6) | B(hp 59/79, def 0, qi 1, force 1, phys 15)
+turn 3a ends
+turn 3b begins
+  小布(pid3) spent 0 hp to play Mountain-Cleaving Palms (level 1)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 12 to 49
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 3b: A(hp 49/64, def 0, qi 6) | B(hp 59/79, def 0, qi 1, force 1, phys 15)
+turn 3b ends
+turn 4a begins
+  lost 2 qi. Now have 4 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 5 qi
+    reduced 小布(pid3) hp by 13 to 46
+    gained 1 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 小布(pid3) hp by 3 to 43
+  STATE after turn 4a: A(hp 49/64, def 0, qi 5) | B(hp 43/79, def 0, qi 1, force 1, phys 15)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 4 to 39
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 15 to 34
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 4b: A(hp 34/64, def 0, qi 5) | B(hp 39/79, def 0, qi 1, phys 15)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 4 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 5 qi
+    reduced 小布(pid3) hp by 13 to 26
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 3 to 23
+  STATE after turn 5a: A(hp 34/64, def 0, qi 5) | B(hp 23/79, def 0, qi 1, phys 15)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  小布(pid3) finished playing Fraccide Formation
+  STATE after turn 5b: A(hp 34/64, def 0, qi 5) | B(hp 23/79, def 0, qi 1, phys 15)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 70 max_hp
+    healed 7 hp. Went from 34 to 41
+  吾行之(pid2) finished playing Cure Formation
+  reduced 小布(pid3) hp by 3 to 20
+  STATE after turn 6a: A(hp 41/70, def 0, qi 5) | B(hp 20/79, def 0, qi 1, phys 15)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 3 to 17
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced 吾行之(pid2) hp by 12 to 29
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 6b: A(hp 29/70, def 0, qi 5) | B(hp 17/79, def 0, qi 1, phys 15)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    reduced 小布(pid3) hp by 7 to 10
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  reduced 小布(pid3) hp by 3 to 7
+  STATE after turn 7a: A(hp 29/70, def 0, qi 5) | B(hp 7/79, def 0, qi 1, phys 15)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 3 to 4
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 吾行之(pid2) hp by 12 to 17
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 7b: A(hp 17/70, def 0, qi 5) | B(hp 4/79, def 2, qi 1, phys 15)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 1
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 小布(pid3) hp by 3 to -2
+  STATE after turn 8a: A(hp 17/70, def 0, qi 5) | B(hp -2/79, def 0, qi 1, phys 15)
+turn 8a ends
+小布(pid3) loses 11 destiny, now at 85
+吾行之(pid2) (Wu Xingzhi) wins

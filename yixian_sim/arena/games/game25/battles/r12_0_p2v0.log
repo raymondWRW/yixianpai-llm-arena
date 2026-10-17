@@ -1,0 +1,243 @@
+gained 3 qi. Now have 3 qi
+turn 1a begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 99 max_hp
+    healed 2 hp. Went from 97 to 99
+  吾行之(pid2) finished playing Water Spirit - Dive
+  STATE after turn 1a: A(hp 99/99, def 0, qi 2) | B(hp 97/97, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1b: A(hp 99/99, def 0, qi 2) | B(hp 97/97, def 3, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 108 max_hp
+    healed 9 hp. Went from 99 to 108
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 3 def. Now have 0 def
+  STATE after turn 2a: A(hp 108/108, def 0, qi 0) | B(hp 97/97, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 2b: A(hp 108/108, def 0, qi 0) | B(hp 97/97, def 0, qi 3)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  吾行之(pid2) finished playing Cacopoisonous Formation
+  reduced 牧逸风(pid0) hp by 3 to 94
+  STATE after turn 3a: A(hp 108/108, def 0, qi 0) | B(hp 94/97, def 0, qi 3)
+turn 3a ends
+turn 3b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 5 qi
+    reduced 吾行之(pid2) hp by 3 to 105
+    reduced 吾行之(pid2) hp by 3 to 102
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 102/108, def 0, qi 0) | B(hp 94/97, def 0, qi 5)
+turn 3b ends
+turn 4a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 牧逸风(pid0) hp by 3 to 91
+  STATE after turn 4a: A(hp 102/108, def 0, qi 2) | B(hp 91/97, def 0, qi 5, injury 1)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 1 to 90
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 17 to 85
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 4b: A(hp 85/108, def 0, qi 2) | B(hp 90/97, def 0, qi 6, injury 1)
+turn 4b ends
+turn 5a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 85
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 3 to 82
+  STATE after turn 5a: A(hp 85/108, def 0, qi 2) | B(hp 82/97, def 0, qi 6, injury 2)
+turn 5a ends
+turn 5b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 80
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 75
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 5 def. Now have 15 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 5b: A(hp 75/108, def 0, qi 2) | B(hp 80/97, def 15, qi 5, injury 2)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 12 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 3 def. Now have 9 def
+  STATE after turn 6a: A(hp 75/108, def 0, qi 2) | B(hp 80/97, def 9, qi 5, injury 2)
+turn 6a ends
+turn 6b begins
+  lost 5 def. Now have 4 def
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 78
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 9 to 66
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 63
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6b: A(hp 63/108, def 0, qi 2) | B(hp 78/97, def 4, qi 5, injury 2)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 1 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 2 to 76
+  STATE after turn 7a: A(hp 63/108, def 0, qi 2) | B(hp 76/97, def 0, qi 5, injury 2)
+turn 7a ends
+turn 7b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 74
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 7 qi
+    reduced 吾行之(pid2) hp by 3 to 60
+    reduced 吾行之(pid2) hp by 3 to 57
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 7b: A(hp 57/108, def 0, qi 2) | B(hp 74/97, def 0, qi 7, injury 2)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 71
+  吾行之(pid2) finished playing Normal Attack
+  reduced 牧逸风(pid0) hp by 3 to 68
+  STATE after turn 8a: A(hp 57/108, def 0, qi 2) | B(hp 68/97, def 0, qi 7, injury 2)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 66
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 21 to 36
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 8b: A(hp 36/108, def 0, qi 2) | B(hp 66/97, def 0, qi 8, injury 2)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 110 max_hp
+    healed 2 hp. Went from 36 to 38
+  吾行之(pid2) finished playing Water Spirit - Dive
+  reduced 牧逸风(pid0) hp by 3 to 63
+  STATE after turn 9a: A(hp 38/110, def 0, qi 1) | B(hp 63/97, def 0, qi 8, injury 2)
+turn 9a ends
+turn 9b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 61
+  lost 2 qi. Now have 6 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 28
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 7 qi
+    gained 5 def. Now have 15 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 9b: A(hp 28/110, def 0, qi 1) | B(hp 61/97, def 15, qi 7, injury 2)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  lost 3 def. Now have 12 def
+  STATE after turn 10a: A(hp 28/110, def 0, qi 2) | B(hp 61/97, def 12, qi 7, injury 2)
+turn 10a ends
+turn 10b begins
+  lost 6 def. Now have 6 def
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 59
+  lost 1 qi. Now have 7 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 9 to 19
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 16
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 10b: A(hp 16/110, def 0, qi 2) | B(hp 59/97, def 6, qi 7, injury 2)
+turn 10b ends
+turn 11a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 6 force_of_water
+    gained 12 max_hp. Now have 122 max_hp
+    healed 12 hp. Went from 16 to 28
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 6 def. Now have 0 def
+  STATE after turn 11a: A(hp 28/122, def 0, qi 0) | B(hp 59/97, def 0, qi 7, injury 2)
+turn 11a ends
+turn 11b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 57
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 9 qi
+    reduced 吾行之(pid2) hp by 3 to 25
+    reduced 吾行之(pid2) hp by 3 to 22
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 11b: A(hp 22/122, def 0, qi 0) | B(hp 57/97, def 0, qi 9, injury 2)
+turn 11b ends
+turn 12a begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 牧逸风(pid0) hp by 6 to 51
+  STATE after turn 12a: A(hp 22/122, def 0, qi 2) | B(hp 51/97, def 0, qi 9, injury 2)
+turn 12a ends
+turn 12b begins
+  gained 1 qi. Now have 10 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 49
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 25 to -3
+  STATE after turn 12b: A(hp -3/122, def 0, qi 2) | B(hp 49/97, def 0, qi 10, injury 2)
+turn 12b ends
+吾行之(pid2) loses 21 destiny, now at 34
+牧逸风(pid0) (Mu Yifeng) wins

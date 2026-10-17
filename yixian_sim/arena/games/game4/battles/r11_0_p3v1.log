@@ -1,0 +1,170 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1a ends
+turn 1b begins
+  player 0 is playing Shifting Stars (level 2)
+    reduced player 1 hp by 8 to 86
+  player 0 finished playing Shifting Stars
+turn 1b ends
+turn 2a begins
+  reduced player 0 hp by 4 to 82
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 10 to 85
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 80
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 2a ends
+turn 2b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 79
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 wound. Now have 1 wound
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 7 to 73
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 3 to 76
+    reduced player 1 hp by 6 to 70
+    reduced player 1 hp by 6 to 64
+  player 0 finished playing Astral Move - Hit
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 2 to 62
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 3 def
+    reduced player 1 hp by 12 to 61
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 4a ends
+turn 4b begins
+  player 0 is playing Earth Hexagram (level 1)
+    gained 2 def. Now have 2 def
+    gained 2 hexagram. Now have 2 hexagram
+  player 0 finished playing Earth Hexagram
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 4 to 58
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+  healed 4 hp. Went from 58 to 62
+  player 0 healed 4 hp from crash fist bounce
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 14 to 47
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 9 to 53
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 46
+  player 0 finished playing Sparrow's Tail
+turn 5b ends
+turn 6a begins
+  player 0 is playing Magnanimous Righteousness (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 def. Now have 4 def
+    gained 2 hexproof. Now have 2 hexproof
+  player 0 finished playing Magnanimous Righteousness
+turn 6a ends
+turn 6b begins
+  player 0 is playing Thunder Fulu (level 3)
+    lost 1 hexagram. Now have 0 hexagram
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 14 to 32
+  player 0 finished playing Thunder Fulu
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 3 to 29
+  player 0 spent 3 hp to play Youthful Vigor (level 2)
+    reduced player 1 hp by 11 to 36
+    lost 1 qi. Now have 0 qi
+    reduced player 1 hp by 7 to 29
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Youthful Vigor
+turn 7a ends
+turn 7b begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 25
+    reduced player 1 hp by 4 to 21
+  player 0 finished playing Ice Incantation
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 2 to 19
+  player 0 spent 2 hp to play Strong Force (level 1)
+    reduced player 1 hp by 10 to 19
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Cloud Fulu (level 2). They now have 1/1 qi
+turn 8b ends
+turn 9a begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 3
+    reduced player 1 max_hp by 16 to 88
+  player 0 finished playing Fire Cloud Fulu
+turn 9b ends
+turn 10a begins
+  reduced player 0 hp by 4 to -1
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced player 1 hp by 11 to 8
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 6 to 2
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+turn 10a ends
+player 0 loses 13 destiny, now at 46
+player 1 (Tan Shuyan) wins
+Player 0's deck:
+  Examine Body (level 1)
+  Crash Fist - Entangle (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Blitz (level 2)
+  Magnanimous Righteousness (level 1)
+  Youthful Vigor (level 2)
+  Strong Force (level 1)
+Player 1's deck:
+  Shifting Stars (level 2)
+  Dotted Around (level 2)
+  Astral Move - Hit (level 1)
+  Earth Hexagram (level 1)
+  Sparrow's Tail (level 2)
+  Thunder Fulu (level 3)
+  Ice Incantation (level 1)
+  Fire Cloud Fulu (level 2)

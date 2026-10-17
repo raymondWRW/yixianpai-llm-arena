@@ -1,0 +1,287 @@
+gained 1 internal_injury. Now have 1 internal_injury
+turn 1a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 112/112, def 0, qi 0) | B(hp 117/117, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 2 to 115
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 1b: A(hp 112/112, def 0, qi 0) | B(hp 115/117, def 0, qi 0, injury 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 112/112, def 1, qi 1) | B(hp 115/117, def 0, qi 0, injury 2)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 2 to 113
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 112/112, def 1, qi 1) | B(hp 113/117, def 0, qi 0, injury 2)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    lost 2 hexproof. Now have 0 hexproof
+    reduced 牧逸风(pid0) hp by 2 to 111
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 3a: A(hp 112/112, def 0, qi 1) | B(hp 111/117, def 0, qi 0, injury 2)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  reduced 牧逸风(pid0) hp by 2 to 109
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 3b: A(hp 112/112, def 0, qi 1) | B(hp 109/117, def 0, qi 3, injury 2)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 112 to 112
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 4a: A(hp 112/112, def 0, qi 0) | B(hp 109/117, def 0, qi 3, injury 2)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 5 qi
+  reduced 牧逸风(pid0) hp by 2 to 107
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 12 to 100
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 16 to 84
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 4b: A(hp 84/112, def 0, qi 0) | B(hp 107/117, def 0, qi 3, injury 2)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 2 internal_injury. Now have 4 internal_injury
+    reduced 牧逸风(pid0) hp by 4 to 103
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 牧逸风(pid0) hp by 6 to 97
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 5a: A(hp 84/112, def 0, qi 0) | B(hp 97/117, def 0, qi 3, injury 6)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 6 to 91
+  lost 2 qi. Now have 1 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 74
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 5b: A(hp 74/112, def 0, qi 0) | B(hp 91/117, def 10, qi 2, sword 3, injury 6)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 74/112, def 0, qi 1) | B(hp 91/117, def 10, qi 2, sword 3, injury 6)
+turn 6a ends
+turn 6b begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 6 to 85
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 6b: A(hp 74/112, def 0, qi 1) | B(hp 85/117, def 5, qi 4, sword 3, injury 6)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 84
+    gained 2 internal_injury. Now have 8 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 7a: A(hp 74/112, def 0, qi 0) | B(hp 84/117, def 0, qi 4, sword 3, injury 8)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 8 to 76
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 7b: A(hp 74/112, def 0, qi 0) | B(hp 76/117, def 10, qi 4, sword 3, injury 8)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+  STATE after turn 8a: A(hp 74/112, def 0, qi 1) | B(hp 76/117, def 10, qi 4, sword 3, injury 8)
+turn 8a ends
+turn 8b begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 8 to 68
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 15 to 59
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 16 to 43
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 8b: A(hp 43/112, def 0, qi 1) | B(hp 68/117, def 5, qi 2, injury 8)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 43 to 52
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 9a: A(hp 52/112, def 9, qi 0) | B(hp 68/117, def 5, qi 2, injury 8)
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 8 to 60
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    lost 9 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 51
+    gained 10 def. Now have 12 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 9b: A(hp 51/112, def 0, qi 0) | B(hp 60/117, def 12, qi 1, sword 3, injury 8)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 2). They now have 1/1 qi
+  STATE after turn 10a: A(hp 51/112, def 0, qi 1) | B(hp 60/117, def 12, qi 1, sword 3, injury 8)
+turn 10a ends
+turn 10b begins
+  lost 6 def. Now have 6 def
+  reduced 牧逸风(pid0) hp by 8 to 52
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 10b: A(hp 51/112, def 0, qi 1) | B(hp 52/117, def 6, qi 3, sword 3, injury 8)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 6 to 46
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 11a: A(hp 51/112, def 0, qi 0) | B(hp 46/117, def 0, qi 3, sword 3, injury 8)
+turn 11a ends
+turn 11b begins
+  reduced 牧逸风(pid0) hp by 8 to 38
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 6 hexproof
+    gained 10 def. Now have 10 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 11b: A(hp 51/112, def 0, qi 0) | B(hp 38/117, def 10, qi 3, sword 3, injury 8)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 5 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 12a: A(hp 51/112, def 0, qi 0) | B(hp 38/117, def 10, qi 3, sword 3, injury 8)
+turn 12a ends
+turn 12b begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 8 to 30
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 15 to 36
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 16 to 20
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 12b: A(hp 20/112, def 0, qi 0) | B(hp 30/117, def 5, qi 1, injury 8)
+turn 12b ends
+turn 13a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    lost 1 hexproof. Now have 4 hexproof
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 13a: A(hp 20/112, def 1, qi 1) | B(hp 30/117, def 5, qi 1, injury 8)
+turn 13a ends
+turn 13b begins
+  lost 3 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 8 to 22
+  gained 1 qi. Now have 2 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 2/2 qi
+  STATE after turn 13b: A(hp 20/112, def 1, qi 1) | B(hp 22/117, def 2, qi 2, injury 8)
+turn 13b ends
+turn 14a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    lost 2 hexproof. Now have 2 hexproof
+    reduced 牧逸风(pid0) hp by 8 to 14
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 14a: A(hp 20/112, def 0, qi 1) | B(hp 14/117, def 2, qi 2, injury 8)
+turn 14a ends
+turn 14b begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 8 to 6
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 10
+    gained 10 def. Now have 11 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 14b: A(hp 10/112, def 0, qi 1) | B(hp 6/117, def 11, qi 1, sword 3, injury 8)
+turn 14b ends
+turn 15a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 10 to 12
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 15a: A(hp 12/112, def 0, qi 0) | B(hp 6/117, def 11, qi 1, sword 3, injury 8)
+turn 15a ends
+turn 15b begins
+  lost 6 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 8 to -2
+  STATE after turn 15b: A(hp 12/112, def 0, qi 0) | B(hp -2/117, def 5, qi 1, sword 3, injury 8)
+turn 15b ends
+牧逸风(pid0) loses 20 destiny, now at -19
+谭舒雁(pid1) (Tan Shuyan) wins

@@ -1,0 +1,93 @@
+turn 1a begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 36
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 1a: A(hp 42/42, def 0, qi 0) | B(hp 36/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    reduced 小布(pid3) hp by 4 to 38
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 1b: A(hp 38/42, def 0, qi 0) | B(hp 36/42, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 3 to 35
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 29
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 2a: A(hp 35/42, def 2, qi 0) | B(hp 29/42, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 31
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 2b: A(hp 31/42, def 0, qi 0) | B(hp 29/42, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 21
+    gained 1 qi. Now have 1 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 3a: A(hp 31/42, def 0, qi 1) | B(hp 21/42, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 小布(pid3) hp by 7 to 24
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 3b: A(hp 24/42, def 0, qi 1) | B(hp 21/42, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 22
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 13
+    lost 1 qi. Now have 0 qi
+    reduced 谭舒雁(pid1) hp by 4 to 9
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 4a: A(hp 22/42, def 0, qi 0) | B(hp 9/42, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 小布(pid3) hp by 10 to 12
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 4b: A(hp 12/42, def 0, qi 0) | B(hp 9/42, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 6
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 5a: A(hp 12/42, def 0, qi 0) | B(hp 6/42, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 8
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 5b: A(hp 8/42, def 0, qi 0) | B(hp 6/42, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 3
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6a: A(hp 8/42, def 0, qi 0) | B(hp 3/42, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 4
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6b: A(hp 4/42, def 0, qi 0) | B(hp 3/42, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 0
+  STATE after turn 7a: A(hp 4/42, def 0, qi 0) | B(hp 0/42, def 0, qi 0)
+turn 7a ends
+谭舒雁(pid1) loses 3 destiny, now at 97
+小布(pid3) (Xiao Bu) wins

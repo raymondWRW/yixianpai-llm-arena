@@ -1,0 +1,233 @@
+turn 1a begins
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 2 max_hp. Now have 107 max_hp
+    healed 2 hp. Went from 105 to 107
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  reduced 小布(pid3) hp by 1 to 108
+  STATE after turn 1a: A(hp 107/107, def 0, qi 2) | B(hp 108/118, def 0, qi 0, phys 9)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 7 to 101
+  小布(pid3) spent 7 hp to play Crash Fist - Blink (level 1)
+    reduced 吾行之(pid2) hp by 5 to 102
+    gained 7 agility. Now have 7 agility
+    gained 7 crash_fist_blink_stacks. Now have 7 crash_fist_blink_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blink
+  STATE after turn 1b: A(hp 102/107, def 0, qi 2) | B(hp 101/118, def 0, qi 0, phys 9, agi 7)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Wood Spirit - Willow Leaf (level 1)
+    gained 4 max_hp. Now have 111 max_hp
+    healed 4 hp. Went from 102 to 106
+    gained 1 increase_atk. Now have 1 increase_atk
+    healed 3 hp. Went from 106 to 109
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Wood Spirit - Willow Leaf
+  incremented chases to 1
+  chase!!
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  reduced 小布(pid3) hp by 1 to 100
+  STATE after turn 2a: A(hp 109/111, def 0, qi 3) | B(hp 100/118, def 0, qi 0, phys 9, agi 7)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Intense Force (level 2)
+    gained 10 def. Now have 10 def
+    gained 4 max_force. Now have 10 max_force
+    gained 4 force. Now have 4 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 2b: A(hp 109/111, def 0, qi 3) | B(hp 100/118, def 10, qi 0, force 4, phys 9, agi 7)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 2 max_hp. Now have 113 max_hp
+    healed 2 hp. Went from 109 to 111
+    gained 2 water_spirit_dive_stacks. Now have 2 water_spirit_dive_stacks
+  吾行之(pid2) finished playing Water Spirit - Dive
+  lost 1 def. Now have 9 def
+  STATE after turn 3a: A(hp 111/113, def 0, qi 3) | B(hp 100/118, def 9, qi 0, force 4, phys 9, agi 7)
+turn 3a ends
+turn 3b begins
+  lost 5 def. Now have 4 def
+  小布(pid3) is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 6 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  小布(pid3) finished playing Crash Citta-Dharma
+  STATE after turn 3b: A(hp 111/113, def 0, qi 3) | B(hp 100/118, def 4, qi 0, force 6, phys 9, agi 7)
+turn 3b ends
+turn 4a begins
+  lost 1 water_spirit_dive_stacks. Now have 1 water_spirit_dive_stacks
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 3 force_of_water. Now have 4 force_of_water
+    gained 10 max_hp. Now have 123 max_hp
+    healed 10 hp. Went from 111 to 121
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 4 def. Now have 0 def
+  STATE after turn 4a: A(hp 121/123, def 0, qi 2) | B(hp 100/118, def 0, qi 0, force 6, phys 9, agi 7)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 5 to 95
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 force. Now have 7 force
+    gained 7 agility. Now have 14 agility
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 20 to 101
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 6 to 89
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 22 to 79
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 4b: A(hp 79/123, def 0, qi 2) | B(hp 89/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 4b ends
+turn 5a begins
+  lost 1 water_spirit_dive_stacks. Now have 0 water_spirit_dive_stacks
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    gained 1 qi. Now have 2 qi
+    reduced 小布(pid3) hp by 19 to 70
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 4 to 66
+  STATE after turn 5a: A(hp 79/123, def 0, qi 2) | B(hp 66/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 2 to 64
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 26 to 53
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 5b: A(hp 53/123, def 0, qi 2) | B(hp 64/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    gained 1 qi. Now have 2 qi
+    reduced 小布(pid3) hp by 19 to 45
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 4 to 41
+  STATE after turn 6a: A(hp 53/123, def 0, qi 2) | B(hp 41/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 5 to 36
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+  healed 5 hp. Went from 36 to 41
+  小布(pid3) healed 5 hp from crash fist bounce
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 17 to 36
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 6b: A(hp 36/123, def 0, qi 2) | B(hp 41/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  reduced 小布(pid3) hp by 4 to 37
+  STATE after turn 7a: A(hp 36/123, def 0, qi 2) | B(hp 37/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 2 to 35
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 20 to 16
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 7b: A(hp 16/123, def 0, qi 2) | B(hp 35/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 2 qi. Now have 5 qi
+    gained 2 max_hp. Now have 125 max_hp
+    healed 2 hp. Went from 16 to 18
+    gained 2 force_of_water. Now have 6 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  reduced 小布(pid3) hp by 6 to 29
+  STATE after turn 8a: A(hp 18/125, def 0, qi 5) | B(hp 29/118, def 0, qi 0, force 6, phys 9, agi 4)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 7 to 22
+  小布(pid3) spent 7 hp to play Crash Fist - Blink (level 1)
+    gained 1 force. Now have 7 force
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 17 to 1
+    gained 7 agility. Now have 11 agility
+    gained 7 crash_fist_blink_stacks. Now have 7 crash_fist_blink_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blink
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Gather Intense Force (level 2)
+    gained 10 def. Now have 15 def
+    gained 4 max_force. Now have 14 max_force
+    gained 4 force. Now have 10 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 8b: A(hp 1/125, def 0, qi 5) | B(hp 22/118, def 15, qi 0, force 10, phys 9, agi 1)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 4 qi
+  吾行之(pid2) spent 1 qi to play Wood Spirit - Willow Leaf (level 1)
+    gained 4 max_hp. Now have 129 max_hp
+    healed 4 hp. Went from 1 to 5
+    gained 1 increase_atk. Now have 2 increase_atk
+    healed 3 hp. Went from 5 to 8
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Wood Spirit - Willow Leaf
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 2 max_hp. Now have 131 max_hp
+    healed 2 hp. Went from 8 to 10
+    gained 2 water_spirit_dive_stacks. Now have 2 water_spirit_dive_stacks
+  吾行之(pid2) finished playing Water Spirit - Dive
+  lost 6 def. Now have 9 def
+  STATE after turn 9a: A(hp 10/131, def 0, qi 4) | B(hp 22/118, def 9, qi 0, force 10, phys 9, agi 1)
+turn 9a ends
+turn 9b begins
+  lost 5 def. Now have 4 def
+  reduced 小布(pid3) hp by 5 to 17
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 force. Now have 11 force
+    gained 7 agility. Now have 8 agility
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 force. Now have 10 force
+    reduced 吾行之(pid2) hp by 28 to -18
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+  STATE after turn 9b: A(hp -18/131, def 0, qi 4) | B(hp 17/118, def 4, qi 0, force 10, phys 9, agi 8)
+turn 9b ends
+吾行之(pid2) loses 23 destiny, now at -4
+小布(pid3) (Xiao Bu) wins

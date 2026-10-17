@@ -1,0 +1,237 @@
+turn 1a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 46 physique
+    gained 2 max_hp. Now have 148 max_hp
+    healed 4 hp. Went from 102 to 106
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 4 star_power
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Starry Moon
+turn 2a ends
+turn 2b begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 11 to 95
+    reduced player 1 hp by 11 to 84
+  player 0 finished playing Astral Move - Flank
+turn 3a ends
+turn 3b begins
+  player 0 is playing Surging Waves (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 5 force. Now have 6 force
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Surging Waves
+turn 3b ends
+turn 4a begins
+  player 0 is playing Astral Move - Stand (level 2)
+    reduced player 1 hp by 12 to 72
+    gained 2 qi. Now have 4 qi
+  player 0 finished playing Astral Move - Stand
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 70
+  player 0 spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 3 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 4 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 32 to 79
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mighty Force
+turn 4b ends
+turn 5a begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 1 to 69
+    gained 1 qi. Now have 5 qi
+  player 0 finished playing Shifting Stars
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 4 to 65
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 16 to 63
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 1)
+    reduced player 1 hp by 6 to 59
+    reduced player 1 hp by 6 to 53
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    reduced player 1 hp by 5 to 48
+    reduced player 1 hp by 5 to 43
+  player 0 finished playing Astral Move - Hit
+turn 6a ends
+turn 6b begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 5 force. Now have 0 force
+    gained 20 def. Now have 20 def
+    reduced player 1 hp by 15 to 48
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 1 force
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 9 to 39
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 15 def
+    lost 5 def. Now have 10 def
+    reduced player 1 max_hp by 3 to 145
+  player 0 finished playing Cutting Weeds
+turn 7a ends
+turn 7b begins
+  lost 5 def. Now have 5 def
+  player 0 is playing Overwhelming Force (level 1)
+    lost 2 force. Now have 0 force
+    gained 8 def. Now have 13 def
+    reduced player 1 hp by 6 to 33
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Overwhelming Force
+turn 7b ends
+turn 8a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 4 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 5 star_power
+  player 0 finished playing Dotted Around
+turn 8a ends
+turn 8b begins
+  lost 7 def. Now have 6 def
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 48 physique
+    gained 2 max_hp. Now have 147 max_hp
+    healed 4 hp. Went from 43 to 47
+  player 0 finished playing Embracing Qi Technique
+turn 8b ends
+turn 9a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 8 star_power
+    gained 1 qi. Now have 5 qi
+    gained 1 qi. Now have 6 qi
+  player 0 finished playing Starry Moon
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 5 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 12 to 35
+    reduced player 1 hp by 15 to 20
+  player 0 finished playing Astral Move - Flank
+turn 10a ends
+turn 10b begins
+  player 0 is playing Surging Waves (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 1 def. Now have 1 def
+    gained 6 force. Now have 6 force
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Surging Waves
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  reduced player 0 hp by 2 to 18
+  player 0 spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 3 qi
+    gained 3 def. Now have 4 def
+    gained 3 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 5 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 32 to 1
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Mighty Force
+turn 10b ends
+turn 11a begins
+  player 0 is playing Astral Move - Stand (level 2)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 11 to 7
+    gained 2 qi. Now have 7 qi
+  player 0 finished playing Astral Move - Stand
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 4 to 3
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 2 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 16 to -15
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 11b ends
+player 0 loses 17 destiny, now at 32
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Dotted Around (level 2)
+  Starry Moon (level 2)
+  Astral Move - Flank (level 2)
+  Astral Move - Stand (level 2)
+  Shifting Stars (level 1)
+  Astral Move - Fly (level 1)
+  Astral Move - Hit (level 1)
+  Cutting Weeds (level 1)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Majestic Qi (level 2)
+  Surging Waves (level 1)
+  Mighty Force (level 2)
+  Crash Fist - Shake (level 1)
+  Overwhelming Force (level 1)
+  Vigorous Force (level 2)
+  Overwhelming Force (level 1)

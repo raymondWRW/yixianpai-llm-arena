@@ -1,0 +1,115 @@
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 1)
+    gained 1 physique. Now have 2 physique
+    gained 1 max_hp. Now have 53 max_hp
+    healed 1 hp. Went from 51 to 52
+    reduced 牧逸风(pid0) hp by 2 to 49
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 52/53, def 0, qi 1, force 2, phys 2) | B(hp 49/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 1b: A(hp 52/53, def 0, qi 1, force 2, phys 2) | B(hp 49/51, def 0, qi 1, sword 3)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 3 to 49
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 10 to 39
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2a: A(hp 49/53, def 0, qi 1, force 1, phys 2) | B(hp 39/51, def 0, qi 1, sword 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 8 to 41
+    gained 3 sword_intent. Now have 6 sword_intent
+    lost 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2b: A(hp 41/53, def 0, qi 1, force 1, phys 2) | B(hp 39/51, def 0, qi 1, sword 3)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 2 to 39
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 11 to 28
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 3a: A(hp 39/53, def 0, qi 1, phys 2) | B(hp 28/51, def 0, qi 1, sword 3)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Cure Formation (level 1)
+    healed 7 hp. Went from 28 to 35
+  牧逸风(pid0) finished playing Cure Formation
+  STATE after turn 3b: A(hp 39/53, def 0, qi 1, phys 2) | B(hp 35/51, def 0, qi 1, sword 3)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 3 to 36
+  小布(pid3) spent 3 hp to play Youthful Vigor (level 2)
+    reduced 牧逸风(pid0) hp by 10 to 25
+    lost 1 qi. Now have 0 qi
+    reduced 牧逸风(pid0) hp by 6 to 19
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 4a: A(hp 36/53, def 0, qi 0, phys 2) | B(hp 19/51, def 0, qi 1, sword 3)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 小布(pid3) hp by 11 to 25
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 4b: A(hp 25/53, def 0, qi 0, phys 2) | B(hp 19/51, def 0, qi 0, sword 3)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 3 to 22
+  小布(pid3) spent 3 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 9
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 5a: A(hp 22/53, def 0, qi 0, phys 2) | B(hp 9/51, def 0, qi 0, sword 3)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 5b: A(hp 22/53, def 0, qi 0, phys 2) | B(hp 9/51, def 0, qi 2, sword 3)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 6
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6a: A(hp 22/53, def 0, qi 0, phys 2) | B(hp 6/51, def 0, qi 2, sword 3)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 19 to 3
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6b: A(hp 3/53, def 0, qi 0, phys 2) | B(hp 6/51, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 3
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7a: A(hp 3/53, def 0, qi 0, phys 2) | B(hp 3/51, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 0
+  STATE after turn 7b: A(hp 0/53, def 0, qi 0, phys 2) | B(hp 3/51, def 0, qi 0)
+turn 7b ends
+小布(pid3) loses 5 destiny, now at 93
+牧逸风(pid0) (Mu Yifeng) wins

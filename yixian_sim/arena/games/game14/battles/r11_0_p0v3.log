@@ -1,0 +1,183 @@
+gained 1 qi. Now have 1 qi
+gained 4 def. Now have 4 def
+turn 1a begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1a: A(hp 82/82, def 0, qi 1) | B(hp 88/97, def 4, qi 1, phys 9)
+turn 1a ends
+turn 1b begins
+  lost 2 def. Now have 2 def
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 1b: A(hp 82/82, def 0, qi 1) | B(hp 88/97, def 2, qi 4, phys 9)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 5 qi
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 1 to 87
+    reduced 小布(pid3) hp by 3 to 84
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2a: A(hp 82/82, def 0, qi 5) | B(hp 84/97, def 0, qi 4, phys 9)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 牧逸风(pid0) hp by 5 to 77
+    gained 1 qi. Now have 5 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2b: A(hp 77/82, def 0, qi 5) | B(hp 84/97, def 0, qi 5, force 2, phys 9)
+turn 2b ends
+turn 3a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 3a: A(hp 77/82, def 0, qi 5) | B(hp 84/97, def 0, qi 5, force 2, phys 9)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 5 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 3b: A(hp 77/82, def 0, qi 5) | B(hp 84/97, def 0, qi 4, force 5, phys 9, agi 6)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 12 to 72
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 67
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 小布(pid3) hp by 16 to 51
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 46
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4a: A(hp 77/82, def 0, qi 3) | B(hp 46/97, def 0, qi 4, force 5, phys 9, agi 6)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 44
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 3 qi
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 19 to 58
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 4b: A(hp 58/82, def 0, qi 3) | B(hp 44/97, def 0, qi 3, force 4, phys 9, agi 6)
+turn 4b ends
+turn 5a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Tri-Peak Sword (level 2)
+    reduced 小布(pid3) hp by 4 to 40
+    reduced 小布(pid3) hp by 4 to 36
+    reduced 小布(pid3) hp by 4 to 32
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 27
+  牧逸风(pid0) finished playing Tri-Peak Sword
+  STATE after turn 5a: A(hp 58/82, def 0, qi 3) | B(hp 27/97, def 0, qi 3, force 4, phys 9, agi 6)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  小布(pid3) finished playing Everything is Unadvisable
+  STATE after turn 5b: A(hp 58/82, def 0, qi 3) | B(hp 27/97, def 4, qi 3, force 4, phys 9, agi 6)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 4 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 2 def. Now have 2 def
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 6a: A(hp 58/82, def 0, qi 3) | B(hp 27/97, def 2, qi 3, force 4, phys 9, agi 6)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 21 to 37
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 6b: A(hp 37/82, def 0, qi 3) | B(hp 27/97, def 1, qi 2, force 3, injury 1, phys 9, agi 6)
+turn 6b ends
+turn 7a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 23
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 7a: A(hp 37/82, def 0, qi 2) | B(hp 23/97, def 0, qi 2, force 3, injury 1, phys 9, agi 6)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 1 to 22
+  reduced 小布(pid3) hp by 4 to 18
+  小布(pid3) spent 4 hp to play Crash Fist - Truncate (level 1)
+    lost 1 internal_injury. Now have 0 internal_injury
+    gained 1 internal_injury. Now have 1 internal_injury
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 11 to 26
+    gained 1 crash_fist_truncate_stacks. Now have 1 crash_fist_truncate_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Truncate
+  STATE after turn 7b: A(hp 26/82, def 0, qi 2, injury 1) | B(hp 18/97, def 0, qi 2, force 2, phys 9, agi 6)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 1 to 25
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced 小布(pid3) hp by 3 to 15
+    reduced 小布(pid3) hp by 3 to 12
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 8a: A(hp 25/82, def 0, qi 6, injury 1) | B(hp 12/97, def 0, qi 2, force 2, phys 9, agi 6)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 3 physique. Now have 12 physique
+    gained 3 max_hp. Now have 100 max_hp
+    gained 2 entangle. Now have 2 entangle
+    gained 10 def. Now have 10 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 1 entangle
+  STATE after turn 8b: A(hp 25/82, def 0, qi 6, injury 1) | B(hp 12/100, def 10, qi 2, force 2, phys 12, agi 6)
+turn 8b ends
+turn 9a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 1 to 24
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 10 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 10
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 小布(pid3) hp by 16 to -6
+  STATE after turn 9a: A(hp 24/82, def 0, qi 3, injury 1) | B(hp -6/100, def 0, qi 2, force 2, phys 12, agi 6)
+turn 9a ends
+小布(pid3) loses 17 destiny, now at 44
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,150 @@
+gained 1 smash_def. Now have 1 smash_def
+gained 4 max_hp. Now have 78 max_hp
+healed 4 hp. Went from 74 to 78
+turn 1a begins
+  player 0 is playing Fraccide Formation (level 2)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1b ends
+turn 2a begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  player 0 is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 2a ends
+turn 2b begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    lost 1 smash_def. Now have 0 smash_def
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 6 to 60
+    gained 4 penetrate. Now have 4 penetrate
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 9 to 51
+  player 0 finished playing Metal Spirit - Needle
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 1 to 77
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 37
+  player 0 finished playing Five Elements Fleche
+turn 3b ends
+turn 4a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 23 to 54
+  player 0 finished playing Giant Whale Spirit Sword
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 52
+  player 0 is playing Metal Spirit - Needle (level 2)
+    reduced player 1 hp by 7 to 30
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 4b ends
+turn 5a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced player 1 hp by 16 to 36
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 3 to 33
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Rush (level 2). They now have 1/1 qi
+turn 5b ends
+turn 6a begins
+  player 0 is playing Impact Formation (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 11 to 22
+    reduced player 1 hp by 3 to 19
+  player 0 finished playing Impact Formation
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 3 to 16
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 15 to 15
+  player 0 finished playing Fire Spirit - Rush
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Earth Evil Sword (level 1). They now have 1/1 qi
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 3 to 13
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 12
+    reduced player 1 max_hp by 3 to 63
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Earth Evil Sword (level 1)
+    reduced player 1 hp by 8 to 5
+    gained 8 def. Now have 8 def
+  player 0 finished playing Earth Evil Sword
+turn 8a ends
+turn 8b begins
+  reduced player 0 hp by 3 to 2
+  player 0 is playing Heavenly Decree - Attack (level 1)
+    lost 6 def. Now have 2 def
+    gained 3 def. Now have 3 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Sword Slash (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 2 to 0
+    gained 3 sword_intent. Now have 3 sword_intent
+turn 9a ends
+player 1 loses 11 destiny, now at 69
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Fraccide Formation (level 2)
+  Cacopoisonous Formation (level 2)
+  Qi Perfusion (level 2)
+  Giant Whale Spirit Sword (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Impact Formation (level 2)
+  Earth Evil Sword (level 1)
+  Sword Slash (level 2)
+Player 1's deck:
+  Examine Body (level 1)
+  Metal Spirit - Needle (level 2)
+  Five Elements Fleche (level 3)
+  Metal Spirit - Needle (level 2)
+  Fire Spirit - Rush (level 2)
+  Fire Spirit Seal (level 2)
+  Heavenly Decree - Attack (level 1)
+  Lucky Start (level 1)

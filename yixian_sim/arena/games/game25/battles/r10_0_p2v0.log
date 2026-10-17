@@ -1,0 +1,336 @@
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Dive (level 1). They now have 1/1 qi
+  STATE after turn 1a: A(hp 80/80, def 0, qi 1) | B(hp 80/80, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 80/80, def 0, qi 1) | B(hp 80/80, def 3, qi 2)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 82 max_hp
+    healed 2 hp. Went from 80 to 82
+  吾行之(pid2) finished playing Water Spirit - Dive
+  STATE after turn 2a: A(hp 82/82, def 0, qi 0) | B(hp 80/80, def 3, qi 2)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 9 to 73
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  STATE after turn 2b: A(hp 73/82, def 0, qi 0) | B(hp 80/80, def 3, qi 0)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 3a: A(hp 73/82, def 0, qi 0) | B(hp 80/80, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Egret Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 73/82, def 0, qi 0) | B(hp 80/80, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 77
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 4a: A(hp 73/82, def 0, qi 0) | B(hp 77/80, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 5 to 68
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 4b: A(hp 68/82, def 0, qi 0) | B(hp 77/80, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 74
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 5a: A(hp 68/82, def 0, qi 0) | B(hp 74/80, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 1/3 qi
+  STATE after turn 5b: A(hp 68/82, def 0, qi 0) | B(hp 74/80, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 71
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 6a: A(hp 68/82, def 0, qi 0) | B(hp 71/80, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 2 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 2/3 qi
+  STATE after turn 6b: A(hp 68/82, def 0, qi 0) | B(hp 71/80, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 68
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7a: A(hp 68/82, def 0, qi 0) | B(hp 68/80, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 3 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 3/3 qi
+  STATE after turn 7b: A(hp 68/82, def 0, qi 0) | B(hp 68/80, def 0, qi 3)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 65
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8a: A(hp 68/82, def 0, qi 0) | B(hp 65/80, def 0, qi 3)
+turn 8a ends
+turn 8b begins
+  lost 3 qi. Now have 0 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 58
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 吾行之(pid2) hp by 4 to 54
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 8b: A(hp 54/82, def 0, qi 0) | B(hp 65/80, def 10, qi 0)
+turn 8b ends
+turn 9a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 7 def
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 9a: A(hp 54/82, def 0, qi 0) | B(hp 65/80, def 7, qi 0)
+turn 9a ends
+turn 9b begins
+  lost 4 def. Now have 3 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 51
+  牧逸风(pid0) finished playing Normal Attack
+  reduced 吾行之(pid2) hp by 4 to 47
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 9b: A(hp 47/82, def 0, qi 0) | B(hp 65/80, def 3, qi 0)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Dive (level 1). They now have 1/1 qi
+  STATE after turn 10a: A(hp 47/82, def 0, qi 1) | B(hp 65/80, def 3, qi 0)
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 1 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 44
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 10b: A(hp 44/82, def 0, qi 1) | B(hp 65/80, def 1, qi 0)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 84 max_hp
+    healed 2 hp. Went from 44 to 46
+  吾行之(pid2) finished playing Water Spirit - Dive
+  STATE after turn 11a: A(hp 46/84, def 0, qi 0) | B(hp 65/80, def 1, qi 0)
+turn 11a ends
+turn 11b begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 43
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 11b: A(hp 43/84, def 0, qi 0) | B(hp 65/80, def 0, qi 0)
+turn 11b ends
+turn 12a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 62
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 12a: A(hp 43/84, def 0, qi 0) | B(hp 62/80, def 0, qi 0)
+turn 12a ends
+turn 12b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 12b: A(hp 43/84, def 0, qi 0) | B(hp 62/80, def 3, qi 2)
+turn 12b ends
+turn 13a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 13a: A(hp 43/84, def 0, qi 0) | B(hp 62/80, def 0, qi 2)
+turn 13a ends
+turn 13b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 9 to 34
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  STATE after turn 13b: A(hp 34/84, def 0, qi 0) | B(hp 62/80, def 0, qi 0)
+turn 13b ends
+turn 14a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 59
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 14a: A(hp 34/84, def 0, qi 0) | B(hp 59/80, def 0, qi 0)
+turn 14a ends
+turn 14b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Egret Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 14b: A(hp 34/84, def 0, qi 0) | B(hp 59/80, def 0, qi 1)
+turn 14b ends
+turn 15a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 56
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 15a: A(hp 34/84, def 0, qi 0) | B(hp 56/80, def 0, qi 1)
+turn 15a ends
+turn 15b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 5 to 29
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 15b: A(hp 29/84, def 0, qi 0) | B(hp 56/80, def 0, qi 0)
+turn 15b ends
+turn 16a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 53
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 16a: A(hp 29/84, def 0, qi 0) | B(hp 53/80, def 0, qi 0)
+turn 16a ends
+turn 16b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 1/3 qi
+  STATE after turn 16b: A(hp 29/84, def 0, qi 0) | B(hp 53/80, def 0, qi 1)
+turn 16b ends
+turn 17a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 50
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 17a: A(hp 29/84, def 0, qi 0) | B(hp 50/80, def 0, qi 1)
+turn 17a ends
+turn 17b begins
+  gained 1 qi. Now have 2 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 2/3 qi
+  STATE after turn 17b: A(hp 29/84, def 0, qi 0) | B(hp 50/80, def 0, qi 2)
+turn 17b ends
+turn 18a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 47
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 18a: A(hp 29/84, def 0, qi 0) | B(hp 47/80, def 0, qi 2)
+turn 18a ends
+turn 18b begins
+  gained 1 qi. Now have 3 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 3/3 qi
+  STATE after turn 18b: A(hp 29/84, def 0, qi 0) | B(hp 47/80, def 0, qi 3)
+turn 18b ends
+turn 19a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Dive (level 1). They now have 1/1 qi
+  STATE after turn 19a: A(hp 29/84, def 0, qi 1) | B(hp 47/80, def 0, qi 3)
+turn 19a ends
+turn 19b begins
+  lost 3 qi. Now have 0 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 19
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 16
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 19b: A(hp 16/84, def 0, qi 1) | B(hp 47/80, def 10, qi 0)
+turn 19b ends
+turn 20a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 86 max_hp
+    healed 2 hp. Went from 16 to 18
+  吾行之(pid2) finished playing Water Spirit - Dive
+  STATE after turn 20a: A(hp 18/86, def 0, qi 0) | B(hp 47/80, def 10, qi 0)
+turn 20a ends
+turn 20b begins
+  lost 5 def. Now have 5 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 15
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 20b: A(hp 15/86, def 0, qi 0) | B(hp 47/80, def 5, qi 0)
+turn 20b ends
+turn 21a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 21a: A(hp 15/86, def 0, qi 0) | B(hp 47/80, def 2, qi 0)
+turn 21a ends
+turn 21b begins
+  lost 1 def. Now have 1 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 12
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 21b: A(hp 12/86, def 0, qi 0) | B(hp 47/80, def 1, qi 0)
+turn 21b ends
+turn 22a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 45
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 22a: A(hp 12/86, def 0, qi 0) | B(hp 45/80, def 0, qi 0)
+turn 22a ends
+turn 22b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 22b: A(hp 12/86, def 0, qi 0) | B(hp 45/80, def 3, qi 2)
+turn 22b ends
+turn 23a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 23a: A(hp 12/86, def 0, qi 0) | B(hp 45/80, def 0, qi 2)
+turn 23a ends
+turn 23b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 9 to 3
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  STATE after turn 23b: A(hp 3/86, def 0, qi 0) | B(hp 45/80, def 0, qi 0)
+turn 23b ends
+turn 24a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 42
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 24a: A(hp 3/86, def 0, qi 0) | B(hp 42/80, def 0, qi 0)
+turn 24a ends
+turn 24b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Egret Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 24b: A(hp 3/86, def 0, qi 0) | B(hp 42/80, def 0, qi 1)
+turn 24b ends
+turn 25a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 39
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 25a: A(hp 3/86, def 0, qi 0) | B(hp 39/80, def 0, qi 1)
+turn 25a ends
+turn 25b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 5 to -2
+  STATE after turn 25b: A(hp -2/86, def 0, qi 0) | B(hp 39/80, def 0, qi 0)
+turn 25b ends
+吾行之(pid2) loses 18 destiny, now at 55
+牧逸风(pid0) (Mu Yifeng) wins

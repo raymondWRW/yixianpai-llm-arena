@@ -1,0 +1,146 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 1a: A(hp 51/51, def 2, qi 1, star 1) | B(hp 51/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit - Rhythm Wood (level 1)
+  吾行之(pid2) finished playing Water Spirit - Rhythm Wood
+  STATE after turn 1b: A(hp 51/51, def 2, qi 1, star 1) | B(hp 51/51, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 吾行之(pid2) hp by 10 to 41
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 2a: A(hp 51/51, def 1, qi 0, star 1) | B(hp 41/51, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+  STATE after turn 2b: A(hp 51/51, def 1, qi 0, star 1) | B(hp 41/51, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 1). They now have 1/1 qi
+  STATE after turn 3a: A(hp 51/51, def 0, qi 1, star 1) | B(hp 41/51, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  STATE after turn 3b: A(hp 51/51, def 0, qi 1, star 1) | B(hp 41/51, def 0, qi 2)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 吾行之(pid2) hp by 4 to 37
+    reduced 吾行之(pid2) hp by 4 to 33
+    gained 1 def. Now have 1 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 4a: A(hp 51/51, def 1, qi 0, star 1) | B(hp 33/51, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 42
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 1 to 41
+  STATE after turn 4b: A(hp 41/51, def 0, qi 0, star 1) | B(hp 33/51, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Astral Fleche (level 1)
+    reduced 吾行之(pid2) hp by 5 to 28
+    gained 1 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 5a: A(hp 41/51, def 0, qi 0, star 2) | B(hp 28/51, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+  reduced 谭舒雁(pid1) hp by 1 to 40
+  STATE after turn 5b: A(hp 40/51, def 0, qi 0, star 2) | B(hp 28/51, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 吾行之(pid2) hp by 6 to 22
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 6a: A(hp 40/51, def 0, qi 0, star 2) | B(hp 22/51, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  reduced 谭舒雁(pid1) hp by 1 to 39
+  STATE after turn 6b: A(hp 39/51, def 0, qi 0, star 2) | B(hp 22/51, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Palm Thunder (level 1)
+    reduced 吾行之(pid2) hp by 10 to 12
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 7a: A(hp 39/51, def 0, qi 0, star 2) | B(hp 12/51, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 29
+    gained 1 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 2 to 27
+  STATE after turn 7b: A(hp 27/51, def 0, qi 0, star 2) | B(hp 12/51, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 9
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 27/51, def 0, qi 0, star 2) | B(hp 9/51, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 2 to 25
+  STATE after turn 8b: A(hp 25/51, def 0, qi 0, star 2) | B(hp 9/51, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 6
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 25/51, def 0, qi 0, star 2) | B(hp 6/51, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced 谭舒雁(pid1) hp by 9 to 16
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  reduced 谭舒雁(pid1) hp by 2 to 14
+  STATE after turn 9b: A(hp 14/51, def 0, qi 0, star 2) | B(hp 6/51, def 0, qi 0)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 3 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 10a: A(hp 14/51, def 2, qi 1, star 3) | B(hp 6/51, def 0, qi 0)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 4
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  reduced 谭舒雁(pid1) hp by 2 to 2
+  STATE after turn 10b: A(hp 2/51, def 0, qi 1, star 3) | B(hp 6/51, def 0, qi 0)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 吾行之(pid2) hp by 10 to -4
+  STATE after turn 11a: A(hp 2/51, def 0, qi 0, star 3) | B(hp -4/51, def 0, qi 0)
+turn 11a ends
+吾行之(pid2) loses 6 destiny, now at 80
+谭舒雁(pid1) (Tan Shuyan) wins

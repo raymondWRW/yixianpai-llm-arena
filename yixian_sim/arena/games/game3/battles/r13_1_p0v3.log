@@ -1,0 +1,476 @@
+turn 1a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 102
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 69 physique
+    gained 2 max_hp. Now have 174 max_hp
+    healed 4 hp. Went from 102 to 106
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 2a ends
+turn 2b begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 3 to 106
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 9 to 97
+    reduced player 1 hp by 11 to 86
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 3a ends
+turn 3b begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 4 force
+  player 0 finished playing Standing Firm
+turn 3b ends
+turn 4a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 5 to 81
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 4a ends
+turn 4b begins
+  player 0 is playing Exercise Soul (level 1)
+    lost 1 force. Now have 3 force
+    reduced player 1 hp by 5 to 101
+    gained 3 physique. Now have 72 physique
+    gained 3 max_hp. Now have 177 max_hp
+    gained 1 increase_atk. Now have 1 increase_atk
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Exercise Soul
+turn 4b ends
+turn 5a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 75
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 5a ends
+turn 5b begins
+  player 0 is playing Crane Footwork (level 1)
+    healed 4 hp. Went from 75 to 79
+    gained 10 agility. Now have 15 agility
+  player 0 finished playing Crane Footwork
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  player 0 is playing Surging Waves (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 force. Now have 4 force
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Surging Waves
+turn 5b ends
+turn 6a begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 14 def
+    healed 5 hp. Went from 101 to 106
+  player 0 finished playing Cloud Sword - Reguard
+turn 6a ends
+turn 6b begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 12 def. Now have 2 def
+    gained 5 agility. Now have 15 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 12 to 94
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 6b ends
+turn 7a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 6 def. Now have 10 def
+    lost 5 def. Now have 5 def
+  player 0 finished playing Cloud Sword - Fleche
+turn 7a ends
+turn 7b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 74 physique
+    gained 2 max_hp. Now have 179 max_hp
+    healed 2 hp. Went from 79 to 81
+    healed 4 hp. Went from 81 to 85
+  player 0 finished playing Embracing Qi Technique
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 83
+    reduced player 1 hp by 2 to 81
+    reduced player 1 hp by 2 to 79
+    reduced player 1 hp by 2 to 77
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 8a ends
+turn 8b begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 10 to 84
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 8b ends
+turn 9a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 74
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 9a ends
+turn 9b begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 4 force
+    lost 1 qi. Now have 0 qi
+    healed 5 hp. Went from 74 to 79
+  player 0 finished playing Standing Firm
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Exercise Soul (level 1)
+    lost 1 force. Now have 3 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 1 to 83
+    gained 3 physique. Now have 77 physique
+    gained 3 max_hp. Now have 182 max_hp
+    healed 3 hp. Went from 79 to 82
+    gained 1 increase_atk. Now have 2 increase_atk
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Exercise Soul
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Crane Footwork (level 1)
+    healed 4 hp. Went from 82 to 86
+    gained 10 agility. Now have 10 agility
+  player 0 finished playing Crane Footwork
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 79
+    reduced player 1 hp by 11 to 68
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 11a ends
+turn 11b begins
+  player 0 is playing Surging Waves (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 force. Now have 4 force
+    gained 5 agility. Now have 15 agility
+  player 0 finished playing Surging Waves
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  player 0 is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    reduced player 1 hp by 12 to 71
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Overwhelming Force
+turn 11b ends
+turn 12a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    lost 9 def. Now have 7 def
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 12a ends
+turn 12b begins
+  lost 4 def. Now have 3 def
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    reduced player 1 hp by 15 to 56
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 79 physique
+    gained 2 max_hp. Now have 184 max_hp
+    healed 2 hp. Went from 68 to 70
+    healed 4 hp. Went from 70 to 74
+  player 0 finished playing Embracing Qi Technique
+turn 12b ends
+turn 13a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 3 to 71
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 13a ends
+turn 13b begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 5 to 51
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 13b ends
+turn 14a begins
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 11 def
+    healed 5 hp. Went from 51 to 56
+  player 0 finished playing Cloud Sword - Reguard
+turn 14a ends
+turn 14b begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 4 force
+    lost 1 qi. Now have 0 qi
+    healed 5 hp. Went from 71 to 76
+  player 0 finished playing Standing Firm
+turn 14b ends
+turn 15a begins
+  lost 6 def. Now have 5 def
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 2 to 74
+    reduced player 1 hp by 5 to 69
+  player 0 finished playing Cloud Sword - Fleche
+turn 15a ends
+turn 15b begins
+  player 0 is playing Exercise Soul (level 1)
+    lost 1 force. Now have 3 force
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 3 to 53
+    gained 3 physique. Now have 82 physique
+    gained 3 max_hp. Now have 187 max_hp
+    healed 3 hp. Went from 69 to 72
+    gained 1 increase_atk. Now have 3 increase_atk
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Exercise Soul
+turn 15b ends
+turn 16a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 2)
+    reduced player 1 hp by 2 to 70
+    reduced player 1 hp by 2 to 68
+    reduced player 1 hp by 2 to 66
+    reduced player 1 hp by 2 to 64
+    reduced player 1 hp by 2 to 62
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 16a ends
+turn 16b begins
+  player 0 is playing Crane Footwork (level 1)
+    healed 4 hp. Went from 62 to 66
+    gained 10 agility. Now have 15 agility
+  player 0 finished playing Crane Footwork
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  player 0 is playing Surging Waves (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 force. Now have 4 force
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Surging Waves
+turn 16b ends
+turn 17a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 63
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 17a ends
+turn 17b begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 9 to 44
+    gained 5 agility. Now have 15 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    reduced player 1 hp by 16 to 28
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 17b ends
+turn 18a begins
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 18a ends
+turn 18b begins
+  lost 8 def. Now have 8 def
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 84 physique
+    gained 2 max_hp. Now have 189 max_hp
+    healed 2 hp. Went from 63 to 65
+    healed 4 hp. Went from 65 to 69
+  player 0 finished playing Embracing Qi Technique
+turn 18b ends
+turn 19a begins
+  lost 3 def. Now have 2 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 1 to 68
+    reduced player 1 hp by 11 to 57
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 19a ends
+turn 19b begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 10 to 18
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 19b ends
+turn 20a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 48
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 20a ends
+turn 20b begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 4 force
+    lost 1 qi. Now have 0 qi
+    healed 5 hp. Went from 48 to 53
+  player 0 finished playing Standing Firm
+turn 20b ends
+turn 21a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 2 to 51
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 21a ends
+turn 21b begins
+  player 0 is playing Exercise Soul (level 1)
+    lost 1 force. Now have 3 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 3 to 15
+    gained 3 physique. Now have 87 physique
+    gained 3 max_hp. Now have 192 max_hp
+    healed 3 hp. Went from 51 to 54
+    gained 1 increase_atk. Now have 4 increase_atk
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Exercise Soul
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Crane Footwork (level 1)
+    healed 4 hp. Went from 54 to 58
+    gained 10 agility. Now have 10 agility
+  player 0 finished playing Crane Footwork
+turn 21b ends
+turn 22a begins
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 11 def
+    healed 5 hp. Went from 15 to 20
+  player 0 finished playing Cloud Sword - Reguard
+turn 22a ends
+turn 22b begins
+  player 0 is playing Surging Waves (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 force. Now have 4 force
+    gained 5 agility. Now have 15 agility
+  player 0 finished playing Surging Waves
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  player 0 is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 1 to 19
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Overwhelming Force
+turn 22b ends
+turn 23a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 6 def. Now have 10 def
+    lost 5 def. Now have 5 def
+  player 0 finished playing Cloud Sword - Fleche
+turn 23a ends
+turn 23b begins
+  lost 3 def. Now have 2 def
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    reduced player 1 hp by 17 to 2
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 89 physique
+    gained 2 max_hp. Now have 194 max_hp
+    healed 2 hp. Went from 58 to 60
+    healed 4 hp. Went from 60 to 64
+  player 0 finished playing Embracing Qi Technique
+turn 23b ends
+turn 24a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 62
+    reduced player 1 hp by 2 to 60
+    reduced player 1 hp by 2 to 58
+    reduced player 1 hp by 2 to 56
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 24a ends
+turn 24b begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 13 to -11
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+turn 24b ends
+player 0 loses 23 destiny, now at 21
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Toning (level 2)
+  Sword Defence (level 2)
+  Thunder Sword (level 2)
+  Cloud Sword - Touch Sky (level 2)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Reguard (level 2)
+  Cloud Sword - Fleche (level 2)
+  Flow Cloud Chaos Sword (level 2)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Vigorous Force (level 2)
+  Standing Firm (level 1)
+  Exercise Soul (level 1)
+  Crane Footwork (level 1)
+  Surging Waves (level 1)
+  Overwhelming Force (level 1)
+  Mountain-Cleaving Palms (level 2)

@@ -1,0 +1,597 @@
+NEW GAME seed=77 me=林小月 vs ['姜袭明', '风绪', '炎尘', '曜灵', '姬方生', '吴策', '叶冥冥']
+  deal 轻剑, 云剑·厚土, 剑挡, 云剑·飞刺, 灵气灌注
+  . hand=轻剑|云剑·厚土|剑挡|云剑·飞刺|灵气灌注 board= rr=3 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  . hand=轻剑|云剑·厚土|剑挡|云剑·飞刺|灵气灌注 board= rr=3 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 云剑·厚土 -> 云剑·飞刺
+  roll 云剑·飞刺 -> 巨虎灵剑
+  . hand=轻剑|剑挡|灵气灌注|云剑·飞刺|巨虎灵剑 board= rr=1 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 云剑·飞刺 -> 青铜猫
+  fx 好奇心: 随机惊喜 青铜猫, 换牌机会+1
+  . hand=轻剑|剑挡|灵气灌注|巨虎灵剑|青铜猫 board= rr=1 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 巨虎灵剑 -> 破空雕
+  fx 好奇心: 随机惊喜 破空雕, 换牌机会+1
+  . hand=轻剑|剑挡|灵气灌注|青铜猫|破空雕 board= rr=1 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 破空雕 -> 玄银甲
+  fx 好奇心: 随机惊喜 玄银甲, 换牌机会+1
+  . hand=轻剑|剑挡|灵气灌注|青铜猫|玄银甲 board= rr=1 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 轻剑 -> 云剑·飞砂
+  fx 好奇心: 随机惊喜 云剑·飞砂, 换牌机会+1
+  . hand=剑挡|灵气灌注|青铜猫|玄银甲|云剑·飞砂 board= rr=1 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 云剑·飞砂 -> 青铜猫
+  fx 好奇心: 随机惊喜 青铜猫, 换牌机会+1
+  . hand=剑挡|灵气灌注|青铜猫|玄银甲|青铜猫 board= rr=1 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  merge -> 青铜猫+1 (+1 修为 = 1)
+  . hand=剑挡|灵气灌注|玄银甲|青铜猫+1 board= rr=1 cult=1 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 玄银甲 -> 猫薄荷
+  fx 好奇心: 随机惊喜 猫薄荷, 换牌机会+1
+  . hand=剑挡|灵气灌注|青铜猫+1|猫薄荷 board= rr=1 cult=1 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  sim => avg 命 margin +0.0, wins 0/7   board=['剑挡', '青铜猫+1', '灵气灌注']
+  board = ['剑挡', '青铜猫+1', '灵气灌注']
+  sim => avg 命 margin +0.0, wins 0/7   board=['剑挡', '青铜猫+1', '灵气灌注']
+  . hand=猫薄荷 board=剑挡|青铜猫+1|灵气灌注 rr=1 cult=1 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+--- R1 battles:
+  pid2 vs pid4: margin -6 (b won)
+  pid6 vs pid0: margin +0 (a won)
+  pid1 vs pid5: margin -2 (b won)
+  pid3 vs pid7: margin -2 (b won)
+  R1 vs pid6 吴策 (they act first): DRAW margin -0 → my 命 100
+  standings: pid0:100, pid1:98, pid2:94, pid3:98, pid4:100, pid5:100, pid6:100, pid7:100
+  deal 护身灵气, 震雷剑, 练笔
+  . hand=猫薄荷|护身灵气|震雷剑|练笔 board=剑挡|青铜猫+1|灵气灌注 rr=4 cult=3 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  . hand=猫薄荷|护身灵气|震雷剑|练笔 board=剑挡|青铜猫+1|灵气灌注 rr=4 cult=3 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  roll 练笔 -> 轻剑
+  fx 练笔[置换]: 换牌机会+2
+  . hand=猫薄荷|护身灵气|震雷剑|轻剑 board=剑挡|青铜猫+1|灵气灌注 rr=5 cult=3 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  roll 轻剑 -> 云剑·厚土
+  . hand=猫薄荷|护身灵气|震雷剑|云剑·厚土 board=剑挡|青铜猫+1|灵气灌注 rr=4 cult=3 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  roll 云剑·厚土 -> 练笔
+  . hand=猫薄荷|护身灵气|震雷剑|练笔 board=剑挡|青铜猫+1|灵气灌注 rr=3 cult=3 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  roll 练笔 -> 剑挡
+  fx 练笔[置换]: 换牌机会+2
+  . hand=猫薄荷|护身灵气|震雷剑|剑挡 board=剑挡|青铜猫+1|灵气灌注 rr=4 cult=3 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  take 剑挡
+  . hand=猫薄荷|护身灵气|震雷剑|剑挡|剑挡 board=青铜猫+1|灵气灌注 rr=4 cult=3 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  merge -> 剑挡+1 (+1 修为 = 4)
+  . hand=猫薄荷|护身灵气|震雷剑|剑挡+1 board=青铜猫+1|灵气灌注 rr=4 cult=4 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  roll 护身灵气 -> 骤风剑
+  . hand=猫薄荷|震雷剑|剑挡+1|骤风剑 board=青铜猫+1|灵气灌注 rr=3 cult=4 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+  sim => avg 命 margin +7.1, wins 7/7   board=['剑挡+1', '青铜猫+1', '震雷剑', '骤风剑']
+  sim => avg 命 margin +7.1, wins 7/7   board=['剑挡+1', '青铜猫+1', '骤风剑', '震雷剑']
+  sim => avg 命 margin +7.0, wins 6/7   board=['剑挡+1', '青铜猫+1', '灵气灌注', '震雷剑']
+  sim => avg 命 margin +5.6, wins 6/7   board=['剑挡+1', '灵气灌注', '青铜猫+1', '骤风剑']
+  sim => avg 命 margin +5.3, wins 6/7   board=['青铜猫+1', '剑挡+1', '震雷剑', '骤风剑']
+  board = ['剑挡+1', '青铜猫+1', '震雷剑', '骤风剑']
+  sim => avg 命 margin +7.1, wins 7/7   board=['剑挡+1', '青铜猫+1', '震雷剑', '骤风剑']
+  . hand=灵气灌注|猫薄荷 board=剑挡+1|青铜猫+1|震雷剑|骤风剑 rr=3 cult=4 realm=1 hp=42 destiny=100 slots=4 talents=好奇心
+--- R2 battles:
+  pid5 vs pid4: margin -7 (b won)
+  pid2 vs pid7: margin -9 (b won)
+  pid3 vs pid0: margin -8 (b won)
+  pid1 vs pid6: margin -7 (b won)
+  R2 vs pid3 炎尘 (they act first): WIN margin +8 → my 命 100
+  standings: pid0:100, pid1:91, pid2:85, pid3:90, pid4:100, pid5:93, pid6:100, pid7:100
+  deal 飞牙剑, 震雷剑, 研墨
+  . hand=灵气灌注|猫薄荷|飞牙剑|震雷剑|研墨 board=剑挡+1|青铜猫+1|震雷剑|骤风剑 rr=6 cult=6 realm=1 hp=44 destiny=100 slots=5 talents=好奇心
+  . hand=灵气灌注|猫薄荷|飞牙剑|震雷剑|研墨 board=剑挡+1|青铜猫+1|震雷剑|骤风剑 rr=6 cult=6 realm=1 hp=44 destiny=100 slots=5 talents=好奇心
+  take 震雷剑
+  . hand=灵气灌注|猫薄荷|飞牙剑|震雷剑|研墨|震雷剑 board=剑挡+1|青铜猫+1|骤风剑 rr=6 cult=6 realm=1 hp=44 destiny=100 slots=5 talents=好奇心
+  merge -> 震雷剑+1 (+1 修为 = 7)
+  . hand=灵气灌注|猫薄荷|飞牙剑|研墨|震雷剑+1 board=剑挡+1|青铜猫+1|骤风剑 rr=6 cult=7 realm=1 hp=44 destiny=100 slots=5 talents=好奇心
+  roll 研墨 -> 调色
+  . hand=灵气灌注|猫薄荷|飞牙剑|震雷剑+1|调色 board=剑挡+1|青铜猫+1|骤风剑 rr=5 cult=7 realm=1 hp=44 destiny=100 slots=5 talents=好奇心
+  roll 调色 -> 剑挡
+  . hand=灵气灌注|猫薄荷|飞牙剑|震雷剑+1|剑挡 board=剑挡+1|青铜猫+1|骤风剑 rr=4 cult=7 realm=1 hp=44 destiny=100 slots=5 talents=好奇心
+  sim => avg 命 margin +7.4, wins 6/7   board=['剑挡+1', '剑挡', '青铜猫+1', '震雷剑+1', '飞牙剑']
+  sim => avg 命 margin +8.1, wins 7/7   board=['剑挡+1', '青铜猫+1', '飞牙剑', '震雷剑+1', '骤风剑']
+  sim => avg 命 margin +7.0, wins 6/7   board=['剑挡+1', '剑挡', '青铜猫+1', '飞牙剑', '震雷剑+1']
+  sim => avg 命 margin +8.3, wins 7/7   board=['震雷剑+1', '骤风剑', '剑挡+1', '青铜猫+1', '飞牙剑']
+  sim => avg 命 margin +9.1, wins 7/7   board=['剑挡+1', '青铜猫+1', '震雷剑+1', '剑挡', '飞牙剑']
+  board = ['剑挡+1', '青铜猫+1', '震雷剑+1', '剑挡', '飞牙剑']
+  sim => avg 命 margin +9.1, wins 7/7   board=['剑挡+1', '青铜猫+1', '震雷剑+1', '剑挡', '飞牙剑']
+  . hand=骤风剑|灵气灌注|猫薄荷 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=4 cult=7 realm=1 hp=44 destiny=100 slots=5 talents=好奇心
+--- R3 battles:
+  pid4 vs pid0: margin -7 (b won)
+  pid3 vs pid1: margin +6 (a won)
+  pid6 vs pid2: margin +6 (a won)
+  pid7 vs pid5: margin -6 (b won)
+  R3 vs pid4 曜灵 (they act first): WIN margin +7 → my 命 100
+  standings: pid0:100, pid1:85, pid2:79, pid3:90, pid4:107, pid5:93, pid6:100, pid7:94
+  道韵 offer: [(0, '自在随心(draw 1 now)'), (1000040, '云剑·月影'), (1000034, '聚灵心法'), (6000013, '画龙点睛')]
+  -> picked 6000013:画龙点睛
+  deal 骤风剑, 灵气灌注, 调色
+  . hand=骤风剑|灵气灌注|猫薄荷|骤风剑|灵气灌注|调色 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=7 cult=9 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  . hand=骤风剑|灵气灌注|猫薄荷|骤风剑|灵气灌注|调色 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=7 cult=9 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  merge -> 骤风剑+1 (+1 修为 = 10)
+  . hand=灵气灌注|猫薄荷|灵气灌注|调色|骤风剑+1 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=7 cult=10 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  merge -> 灵气灌注+1 (+1 修为 = 11)
+  . hand=猫薄荷|调色|骤风剑+1|灵气灌注+1 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=7 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  roll 调色 -> 调色
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|调色 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=6 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  roll 调色 -> 灵气灌注
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|灵气灌注 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=5 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  roll 灵气灌注 -> 骤风剑
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|骤风剑 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=4 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  roll 骤风剑 -> 剑劈
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|剑劈 board=剑挡+1|青铜猫+1|震雷剑+1|剑挡|飞牙剑 rr=3 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  take 剑挡
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|剑劈|剑挡 board=剑挡+1|青铜猫+1|震雷剑+1|飞牙剑 rr=3 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  roll 剑挡 -> 练笔
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|剑劈|练笔 board=剑挡+1|青铜猫+1|震雷剑+1|飞牙剑 rr=2 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  roll 练笔 -> 骤风剑
+  fx 练笔[置换]: 换牌机会+2
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|剑劈|骤风剑 board=剑挡+1|青铜猫+1|震雷剑+1|飞牙剑 rr=3 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  roll 骤风剑 -> 剑劈
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|剑劈|剑劈 board=剑挡+1|青铜猫+1|震雷剑+1|飞牙剑 rr=2 cult=11 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  merge -> 剑劈+1 (+1 修为 = 12)
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|剑劈+1 board=剑挡+1|青铜猫+1|震雷剑+1|飞牙剑 rr=2 cult=12 realm=1 hp=46 destiny=100 slots=6 talents=好奇心
+  sim => avg 命 margin +10.0, wins 7/7   board=['剑劈+1', '剑挡+1', '青铜猫+1', '震雷剑+1', '骤风剑+1', '飞牙剑']
+  天命 offer @realm2: 44:猫爪, 12:顿悟, 13:储纳灵气, 6:变换之道
+  -> picked 44:猫爪 (preference)
+  BREAKTHROUGH 境1 -> 境2; HP 51; 天命 ['好奇心', '猫爪']
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|剑劈+1|云剑·猫爪 board=剑挡+1|青铜猫+1|震雷剑+1|飞牙剑 rr=2 cult=12 realm=2 hp=51 destiny=100 slots=6 talents=好奇心|猫爪
+  sim => avg 命 margin +10.6, wins 7/7   board=['剑劈+1', '剑挡+1', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '飞牙剑']
+  sim => avg 命 margin +10.4, wins 7/7   board=['剑劈+1', '剑挡+1', '青铜猫+1', '震雷剑+1', '骤风剑+1', '云剑·猫爪']
+  board = ['剑劈+1', '剑挡+1', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '飞牙剑']
+  sim => avg 命 margin +10.6, wins 7/7   board=['剑劈+1', '剑挡+1', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '飞牙剑']
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1 board=剑劈+1|剑挡+1|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑 rr=2 cult=12 realm=2 hp=51 destiny=100 slots=6 talents=好奇心|猫爪
+--- R4 battles:
+  pid2 vs pid0: margin -12 (b won)
+  pid1 vs pid5: margin -9 (b won)
+  pid3 vs pid4: margin -9 (b won)
+  pid7 vs pid6: margin -9 (b won)
+  R4 vs pid2 风绪 (they act first): WIN margin +12 → my 命 100
+  standings: pid0:100, pid1:76, pid2:67, pid3:81, pid4:107, pid5:93, pid6:100, pid7:85
+  deal 护身灵气, 云剑·回守, 笔走龙蛇
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|护身灵气|云剑·回守|笔走龙蛇 board=剑劈+1|剑挡+1|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑 rr=5 cult=14 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|护身灵气|云剑·回守|笔走龙蛇 board=剑劈+1|剑挡+1|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑 rr=5 cult=14 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+  roll 笔走龙蛇 -> 凝意诀
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|护身灵气|云剑·回守|凝意诀 board=剑劈+1|剑挡+1|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑 rr=4 cult=14 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+  roll 云剑·回守 -> 巨鲸灵剑
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|护身灵气|凝意诀|巨鲸灵剑 board=剑劈+1|剑挡+1|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑 rr=3 cult=14 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+  roll 护身灵气 -> 巨虎灵剑
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|凝意诀|巨鲸灵剑|巨虎灵剑 board=剑劈+1|剑挡+1|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑 rr=2 cult=14 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+  roll 巨虎灵剑 -> 剑挡
+  . hand=猫薄荷|骤风剑+1|灵气灌注+1|凝意诀|巨鲸灵剑|剑挡 board=剑劈+1|剑挡+1|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑 rr=1 cult=14 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+  sim => avg 命 margin +11.9, wins 7/7   board=['剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '飞牙剑', '剑劈+1']
+  sim => avg 命 margin +11.6, wins 7/7   board=['剑劈+1', '剑挡+1', '凝意诀', '青铜猫+1', '飞牙剑', '云剑·猫爪', '巨鲸灵剑']
+  sim => avg 命 margin +12.3, wins 7/7   board=['剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '骤风剑+1', '剑劈+1']
+  board = ['剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '骤风剑+1', '剑劈+1']
+  sim => avg 命 margin +12.3, wins 7/7   board=['剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '骤风剑+1', '剑劈+1']
+  . hand=飞牙剑|猫薄荷|灵气灌注+1|巨鲸灵剑|剑挡 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=1 cult=14 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+  absorb 剑挡 -> 修为 15
+  absorb 巨鲸灵剑 -> 修为 16
+  . hand=飞牙剑|猫薄荷|灵气灌注+1 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=1 cult=16 realm=2 hp=53 destiny=100 slots=7 talents=好奇心|猫爪
+--- R5 battles:
+  pid3 vs pid6: margin -11 (b won)
+  pid4 vs pid7: margin -8 (b won)
+  pid1 vs pid0: margin -12 (b won)
+  pid2 vs pid5: margin -9 (b won)
+  R5 vs pid1 姜袭明 (they act first): WIN margin +12 → my 命 100
+  standings: pid0:100, pid1:72, pid2:58, pid3:70, pid4:99, pid5:93, pid6:100, pid7:85
+  deal 化灵诀, 云剑·极意, 画饼充饥
+  . hand=飞牙剑|猫薄荷|灵气灌注+1|化灵诀|云剑·极意|画饼充饥 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=4 cult=18 realm=2 hp=55 destiny=100 slots=8 talents=好奇心|猫爪
+  . hand=飞牙剑|猫薄荷|灵气灌注+1|化灵诀|云剑·极意|画饼充饥 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=4 cult=18 realm=2 hp=55 destiny=100 slots=8 talents=好奇心|猫爪
+  roll 化灵诀 -> 狂剑·一式
+  . hand=飞牙剑|猫薄荷|灵气灌注+1|云剑·极意|画饼充饥|狂剑·一式 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=3 cult=18 realm=2 hp=55 destiny=100 slots=8 talents=好奇心|猫爪
+  roll 狂剑·一式 -> 笔走龙蛇
+  . hand=飞牙剑|猫薄荷|灵气灌注+1|云剑·极意|画饼充饥|笔走龙蛇 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=2 cult=18 realm=2 hp=55 destiny=100 slots=8 talents=好奇心|猫爪
+  roll 笔走龙蛇 -> 引气剑
+  . hand=飞牙剑|猫薄荷|灵气灌注+1|云剑·极意|画饼充饥|引气剑 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=1 cult=18 realm=2 hp=55 destiny=100 slots=8 talents=好奇心|猫爪
+  absorb 引气剑 -> 修为 19
+  absorb 画饼充饥 -> 修为 20
+  absorb 灵气灌注+1 -> 修为 21
+  . hand=飞牙剑|猫薄荷|云剑·极意 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=1 cult=21 realm=2 hp=55 destiny=100 slots=8 talents=好奇心|猫爪
+  天命 offer @realm3: 45:猫魂庇佑, 53:机缘造化, 4:感悟丛生, 116:剑阵传承
+  -> picked 45:猫魂庇佑 (preference)
+  BREAKTHROUGH 境2 -> 境3; HP 62; 天命 ['好奇心', '猫爪', '猫魂庇佑']
+  . hand=飞牙剑|猫薄荷|云剑·极意 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=1 cult=21 realm=3 hp=62 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  sim => avg 命 margin +12.9, wins 7/7   board=['剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '骤风剑+1', '剑劈+1', '飞牙剑']
+  sim => avg 命 margin +12.9, wins 7/7   board=['云剑·猫爪', '剑劈+1', '剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·极意', '骤风剑+1']
+  board = ['剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '骤风剑+1', '剑劈+1', '飞牙剑']
+  sim => avg 命 margin +12.9, wins 7/7   board=['剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '骤风剑+1', '剑劈+1', '飞牙剑']
+  . hand=猫薄荷|云剑·极意 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1|飞牙剑 rr=1 cult=21 realm=3 hp=62 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  absorb 云剑·极意 -> 修为 22
+  . hand=猫薄荷 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1|飞牙剑 rr=1 cult=22 realm=3 hp=62 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+--- R6 battles:
+  pid3 vs pid2: margin -11 (b won)
+  pid5 vs pid6: margin -9 (b won)
+  pid7 vs pid0: margin -9 (b won)
+  pid4 vs pid1: margin +12 (a won)
+  R6 vs pid7 叶冥冥 (they act first): WIN margin +9 → my 命 100
+  standings: pid0:100, pid1:60, pid2:58, pid3:59, pid4:99, pid5:84, pid6:118, pid7:76
+  deal 云舞诀, 反身剑, 挥毫泼墨
+  . hand=猫薄荷|云舞诀|反身剑|挥毫泼墨 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1|飞牙剑 rr=4 cult=24 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  . hand=猫薄荷|云舞诀|反身剑|挥毫泼墨 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1|飞牙剑 rr=4 cult=24 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  roll 挥毫泼墨 -> 云剑·汇灵
+  . hand=猫薄荷|云舞诀|反身剑|云剑·汇灵 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1|飞牙剑 rr=3 cult=24 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  roll 云剑·汇灵 -> 飞牙剑
+  . hand=猫薄荷|云舞诀|反身剑|飞牙剑 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1|飞牙剑 rr=2 cult=24 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  take 飞牙剑
+  . hand=猫薄荷|云舞诀|反身剑|飞牙剑|飞牙剑 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=2 cult=24 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  merge -> 飞牙剑+1 (+1 修为 = 25)
+  . hand=猫薄荷|云舞诀|反身剑|飞牙剑+1 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=2 cult=25 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  sim => avg 命 margin +13.0, wins 7/7   board=['剑挡+1', '凝意诀', '震雷剑+1', '骤风剑+1', '云剑·猫爪', '剑劈+1', '青铜猫+1', '飞牙剑+1']
+  sim => avg 命 margin +14.4, wins 7/7   board=['剑劈+1', '剑挡+1', '云舞诀', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '飞牙剑+1']
+  sim => avg 命 margin +14.3, wins 7/7   board=['剑挡+1', '青铜猫+1', '云舞诀', '飞牙剑+1', '云剑·猫爪', '反身剑', '剑劈+1', '凝意诀']
+  roll 反身剑 -> 画饼充饥
+  . hand=猫薄荷|云舞诀|飞牙剑+1|画饼充饥 board=剑挡+1|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|骤风剑+1|剑劈+1 rr=1 cult=25 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  board = ['剑劈+1', '剑挡+1', '云舞诀', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '飞牙剑+1']
+  sim => avg 命 margin +14.4, wins 7/7   board=['剑劈+1', '剑挡+1', '云舞诀', '凝意诀', '青铜猫+1', '震雷剑+1', '云剑·猫爪', '飞牙剑+1']
+  . hand=骤风剑+1|猫薄荷|画饼充饥 board=剑劈+1|剑挡+1|云舞诀|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑+1 rr=1 cult=25 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  absorb 画饼充饥 -> 修为 26
+  . hand=骤风剑+1|猫薄荷 board=剑劈+1|剑挡+1|云舞诀|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑+1 rr=1 cult=26 realm=3 hp=64 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+--- R7 battles:
+  pid3 vs pid7: margin -15 (b won)
+  pid4 vs pid6: margin -11 (b won)
+  pid2 vs pid0: margin -15 (b won)
+  pid1 vs pid5: margin -14 (b won)
+  R7 vs pid2 风绪 (they act first): WIN margin +15 → my 命 100
+  standings: pid0:100, pid1:46, pid2:43, pid3:44, pid4:88, pid5:84, pid6:118, pid7:76
+  deal 云剑·柔心, 剑劈, 灵感迸发
+  . hand=骤风剑+1|猫薄荷|云剑·柔心|剑劈|灵感迸发 board=剑劈+1|剑挡+1|云舞诀|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑+1 rr=4 cult=28 realm=3 hp=66 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  . hand=骤风剑+1|猫薄荷|云剑·柔心|剑劈|灵感迸发 board=剑劈+1|剑挡+1|云舞诀|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑+1 rr=4 cult=28 realm=3 hp=66 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  roll 灵感迸发 -> 以画入道
+  roll 云剑·柔心 -> 云剑·探云
+  . hand=骤风剑+1|猫薄荷|剑劈|以画入道|云剑·探云 board=剑劈+1|剑挡+1|云舞诀|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑+1 rr=2 cult=28 realm=3 hp=66 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  roll 以画入道 -> 引气剑
+  fx 以画入道[置换]: 获得门派牌(境3) 巨鹏灵剑
+  . hand=骤风剑+1|猫薄荷|剑劈|云剑·探云|巨鹏灵剑|引气剑 board=剑劈+1|剑挡+1|云舞诀|凝意诀|青铜猫+1|震雷剑+1|云剑·猫爪|飞牙剑+1 rr=1 cult=28 realm=3 hp=66 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  sim => avg 命 margin +15.0, wins 7/7   board=['剑劈+1', '云舞诀', '剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '飞牙剑+1', '云剑·猫爪']
+  sim => avg 命 margin +14.3, wins 7/7   board=['凝意诀', '青铜猫+1', '云剑·猫爪', '云舞诀', '巨鹏灵剑', '剑挡+1', '飞牙剑+1', '剑劈+1']
+  board = ['剑劈+1', '云舞诀', '剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '飞牙剑+1', '云剑·猫爪']
+  sim => avg 命 margin +15.0, wins 7/7   board=['剑劈+1', '云舞诀', '剑挡+1', '凝意诀', '青铜猫+1', '震雷剑+1', '飞牙剑+1', '云剑·猫爪']
+  . hand=骤风剑+1|猫薄荷|剑劈|云剑·探云|巨鹏灵剑|引气剑 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪 rr=1 cult=28 realm=3 hp=66 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  absorb 云剑·探云 -> 修为 29
+  absorb 引气剑 -> 修为 30
+  absorb 巨鹏灵剑 -> 修为 31
+  . hand=骤风剑+1|猫薄荷|剑劈 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪 rr=1 cult=31 realm=3 hp=66 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+--- R8 battles:
+  pid7 vs pid6: margin -9 (b won)
+  pid4 vs pid3: margin +12 (a won)
+  pid1 vs pid0: margin -18 (b won)
+  pid2 vs pid5: margin -16 (b won)
+  R8 vs pid1 姜袭明 (they act first): WIN margin +18 → my 命 100
+  standings: pid0:100, pid1:28, pid2:27, pid3:44, pid4:88, pid5:84, pid6:118, pid7:67
+  deal 镜花剑阵, 形意剑, 画蛇添足
+  . hand=骤风剑+1|猫薄荷|剑劈|镜花剑阵|形意剑|画蛇添足 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪 rr=4 cult=33 realm=3 hp=68 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  . hand=骤风剑+1|猫薄荷|剑劈|镜花剑阵|形意剑|画蛇添足 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪 rr=4 cult=33 realm=3 hp=68 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  roll 画蛇添足 -> 云剑·回守
+  . hand=骤风剑+1|猫薄荷|剑劈|镜花剑阵|形意剑|云剑·回守 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪 rr=3 cult=33 realm=3 hp=68 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  absorb 云剑·回守 -> 修为 34
+  absorb 骤风剑+1 -> 修为 35
+  absorb 剑劈 -> 修为 36
+  . hand=猫薄荷|镜花剑阵|形意剑 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪 rr=3 cult=36 realm=3 hp=68 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑
+  天命 offer @realm4: 46:灵猫乱剑, 12:顿悟, 57:剑阵守护, 70:狂之执念
+  -> picked 46:灵猫乱剑 (preference)
+  BREAKTHROUGH 境3 -> 境4; HP 78; 天命 ['好奇心', '猫爪', '猫魂庇佑', '灵猫乱剑']
+  . hand=猫薄荷|镜花剑阵|形意剑|灵猫乱剑 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪 rr=3 cult=36 realm=4 hp=78 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  absorb 猫薄荷 -> 修为 37
+  fx 猫薄荷[炼化]: 升级1级牌 云剑·猫爪
+  . hand=镜花剑阵|形意剑|灵猫乱剑 board=剑劈+1|云舞诀|剑挡+1|凝意诀|青铜猫+1|震雷剑+1|飞牙剑+1|云剑·猫爪+1 rr=3 cult=37 realm=4 hp=78 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  sim => avg 命 margin +17.1, wins 7/7   board=['剑劈+1', '青铜猫+1', '云舞诀', '剑挡+1', '飞牙剑+1', '凝意诀', '震雷剑+1', '云剑·猫爪+1']
+  sim => avg 命 margin +16.3, wins 7/7   board=['云剑·猫爪+1', '镜花剑阵', '剑挡+1', '凝意诀', '青铜猫+1', '云舞诀', '震雷剑+1', '飞牙剑+1']
+  sim => avg 命 margin +17.3, wins 7/7   board=['剑挡+1', '青铜猫+1', '云舞诀', '飞牙剑+1', '震雷剑+1', '云剑·猫爪+1', '凝意诀', '灵猫乱剑']
+  sim => avg 命 margin +16.4, wins 7/7   board=['凝意诀', '飞牙剑+1', '云剑·猫爪+1', '灵猫乱剑', '震雷剑+1', '形意剑', '剑挡+1', '青铜猫+1']
+  board = ['剑挡+1', '青铜猫+1', '云舞诀', '飞牙剑+1', '震雷剑+1', '云剑·猫爪+1', '凝意诀', '灵猫乱剑']
+  sim => avg 命 margin +17.3, wins 7/7   board=['剑挡+1', '青铜猫+1', '云舞诀', '飞牙剑+1', '震雷剑+1', '云剑·猫爪+1', '凝意诀', '灵猫乱剑']
+  . hand=剑劈+1|镜花剑阵|形意剑 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=3 cult=37 realm=4 hp=78 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  absorb 剑劈+1 -> 修为 38
+  absorb 镜花剑阵 -> 修为 39
+  absorb 形意剑 -> 修为 40
+  . hand= board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=3 cult=40 realm=4 hp=78 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+--- R9 battles:
+  pid0 vs pid2: margin +18 (a won)
+  pid6 vs pid3: margin +15 (a won)
+  pid4 vs pid5: margin -13 (b won)
+  pid7 vs pid1: margin +19 (a won)
+  R9 vs pid2 风绪 (I act first): WIN margin +18 → my 命 100
+  standings: pid0:100, pid1:33, pid2:9, pid3:29, pid4:75, pid5:84, pid6:118, pid7:83
+  deal 灵犀剑阵, 流云乱剑, 练笔
+  . hand=灵犀剑阵|流云乱剑|练笔 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=7 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  . hand=灵犀剑阵|流云乱剑|练笔 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=7 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 练笔 -> 三峰剑
+  fx 练笔[置换]: 换牌机会+2
+  . hand=灵犀剑阵|流云乱剑|三峰剑 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=8 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 灵犀剑阵 -> 巨鹏灵剑
+  . hand=流云乱剑|三峰剑|巨鹏灵剑 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=7 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 巨鹏灵剑 -> 水月剑阵
+  . hand=流云乱剑|三峰剑|水月剑阵 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=6 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 水月剑阵 -> 云剑·无锋
+  . hand=流云乱剑|三峰剑|云剑·无锋 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=5 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 云剑·无锋 -> 凝意诀
+  . hand=流云乱剑|三峰剑|凝意诀 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|凝意诀|灵猫乱剑 rr=4 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  take 凝意诀
+  . hand=流云乱剑|三峰剑|凝意诀|凝意诀 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|灵猫乱剑 rr=4 cult=42 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  merge -> 凝意诀+1 (+1 修为 = 43)
+  . hand=流云乱剑|三峰剑|凝意诀+1 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|灵猫乱剑 rr=4 cult=43 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  sim => avg 命 margin +19.4, wins 7/7   board=['云舞诀', '剑挡+1', '青铜猫+1', '凝意诀+1', '飞牙剑+1', '震雷剑+1', '云剑·猫爪+1', '灵猫乱剑']
+  sim => avg 命 margin +20.1, wins 7/7   board=['凝意诀+1', '青铜猫+1', '剑挡+1', '飞牙剑+1', '三峰剑', '云剑·猫爪+1', '灵猫乱剑', '云舞诀']
+  sim => avg 命 margin +20.7, wins 7/7   board=['凝意诀+1', '青铜猫+1', '云舞诀', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '灵猫乱剑', '剑挡+1']
+  sim => avg 命 margin +19.4, wins 7/7   board=['凝意诀+1', '青铜猫+1', '云舞诀', '飞牙剑+1', '流云乱剑', '三峰剑', '云剑·猫爪+1', '灵猫乱剑']
+  roll 三峰剑 -> 神来之笔
+  . hand=流云乱剑|凝意诀+1|神来之笔 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|灵猫乱剑 rr=3 cult=43 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 神来之笔 -> 云舞诀
+  . hand=流云乱剑|凝意诀+1|云舞诀 board=剑挡+1|青铜猫+1|云舞诀|飞牙剑+1|震雷剑+1|云剑·猫爪+1|灵猫乱剑 rr=2 cult=43 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  take 云舞诀
+  . hand=流云乱剑|凝意诀+1|云舞诀|云舞诀 board=剑挡+1|青铜猫+1|飞牙剑+1|震雷剑+1|云剑·猫爪+1|灵猫乱剑 rr=2 cult=43 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  merge -> 云舞诀+1 (+1 修为 = 44)
+  . hand=流云乱剑|凝意诀+1|云舞诀+1 board=剑挡+1|青铜猫+1|飞牙剑+1|震雷剑+1|云剑·猫爪+1|灵猫乱剑 rr=2 cult=44 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  board = ['凝意诀+1', '青铜猫+1', '云舞诀+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '灵猫乱剑', '剑挡+1']
+  sim => avg 命 margin +20.1, wins 7/7   board=['凝意诀+1', '青铜猫+1', '云舞诀+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '灵猫乱剑', '剑挡+1']
+  . hand=震雷剑+1 board=凝意诀+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|灵猫乱剑|剑挡+1 rr=2 cult=44 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  sim => avg 命 margin +21.3, wins 7/7   board=['剑挡+1', '青铜猫+1', '云舞诀+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '凝意诀+1', '灵猫乱剑']
+  board = ['剑挡+1', '青铜猫+1', '云舞诀+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '凝意诀+1', '灵猫乱剑']
+  sim => avg 命 margin +21.3, wins 7/7   board=['剑挡+1', '青铜猫+1', '云舞诀+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '凝意诀+1', '灵猫乱剑']
+  . hand=震雷剑+1 board=剑挡+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=2 cult=44 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  absorb 震雷剑+1 -> 修为 45
+  . hand= board=剑挡+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=2 cult=45 realm=4 hp=80 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+--- R10 battles:
+  pid4 vs pid1: margin +19 (a won)
+  pid0 vs pid5: margin +20 (a won)
+  pid2 vs pid6: margin -18 (b won)
+  pid7 vs pid3: margin +19 (a won)
+  R10 vs pid5 姬方生 (I act first): WIN margin +20 → my 命 100
+  standings: pid0:100, pid1:14, pid2:0, pid3:10, pid4:75, pid5:64, pid6:118, pid7:83
+  deal 狂剑·一式, 云剑·无妄, 挥毫泼墨
+  . hand=狂剑·一式|云剑·无妄|挥毫泼墨 board=剑挡+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=6 cult=47 realm=4 hp=82 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  . hand=狂剑·一式|云剑·无妄|挥毫泼墨 board=剑挡+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=6 cult=47 realm=4 hp=82 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 挥毫泼墨 -> 落纸云烟
+  roll 狂剑·一式 -> 地煞剑
+  . hand=云剑·无妄|落纸云烟|地煞剑 board=剑挡+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=4 cult=47 realm=4 hp=82 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  roll 落纸云烟 -> 震雷剑
+  roll 地煞剑 -> 云剑·闪风
+  . hand=云剑·无妄|震雷剑|云剑·闪风 board=剑挡+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=2 cult=47 realm=4 hp=82 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  sim => avg 命 margin +21.5, wins 6/6   board=['凝意诀+1', '云舞诀+1', '青铜猫+1', '飞牙剑+1', '流云乱剑', '云剑·无妄', '剑挡+1', '灵猫乱剑']
+  sim => avg 命 margin +21.5, wins 6/6   board=['剑挡+1', '云舞诀+1', '青铜猫+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '凝意诀+1', '灵猫乱剑']
+  sim => avg 命 margin +19.8, wins 6/6   board=['凝意诀+1', '云舞诀+1', '青铜猫+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '云剑·无妄', '灵猫乱剑']
+  roll 震雷剑 -> 镜花剑阵
+  . hand=云剑·无妄|云剑·闪风|镜花剑阵 board=剑挡+1|青铜猫+1|云舞诀+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=1 cult=47 realm=4 hp=82 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  board = ['剑挡+1', '云舞诀+1', '青铜猫+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '凝意诀+1', '灵猫乱剑']
+  sim => avg 命 margin +21.5, wins 6/6   board=['剑挡+1', '云舞诀+1', '青铜猫+1', '飞牙剑+1', '流云乱剑', '云剑·猫爪+1', '凝意诀+1', '灵猫乱剑']
+  . hand=云剑·无妄|云剑·闪风|镜花剑阵 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=1 cult=47 realm=4 hp=82 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  absorb 云剑·无妄 -> 修为 48
+  absorb 云剑·闪风 -> 修为 49
+  absorb 镜花剑阵 -> 修为 50
+  . hand= board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=1 cult=50 realm=4 hp=82 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+--- R11 battles:
+  pid3 vs pid5: margin -17 (b won)
+  pid4 vs pid0: margin -20 (b won)
+  pid7 vs pid6: margin -13 (b won)
+  R11 vs pid4 曜灵 (they act first): WIN margin +20 → my 命 100
+  standings: pid0:100, pid1:14, pid2:0, pid3:0, pid4:55, pid5:64, pid6:118, pid7:94
+  deal 流云乱剑, 云剑·极意, 云剑·回守, 落纸云烟
+  . hand=流云乱剑|云剑·极意|云剑·回守|落纸云烟 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=5 cult=52 realm=4 hp=84 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  . hand=流云乱剑|云剑·极意|云剑·回守|落纸云烟 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|流云乱剑|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=5 cult=52 realm=4 hp=84 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  take 流云乱剑
+  . hand=流云乱剑|云剑·极意|云剑·回守|落纸云烟|流云乱剑 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=5 cult=52 realm=4 hp=84 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  merge -> 流云乱剑+1 (+1 修为 = 53)
+  . hand=云剑·极意|云剑·回守|落纸云烟|流云乱剑+1 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=5 cult=53 realm=4 hp=84 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  absorb 云剑·回守 -> 修为 54
+  absorb 落纸云烟 -> 修为 55
+  . hand=云剑·极意|流云乱剑+1 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=5 cult=55 realm=4 hp=84 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑
+  天命 offer @realm5: 15:灵猫踏云, 69:云之道, 188:副职兼修, 57:剑阵守护
+  -> picked 15:灵猫踏云 (preference)
+  BREAKTHROUGH 境4 -> 境5; HP 97; 天命 ['好奇心', '猫爪', '猫魂庇佑', '灵猫乱剑', '灵猫踏云']
+  . hand=云剑·极意|流云乱剑+1|云剑·闪风|画龙点睛 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=5 cult=54 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 云剑·极意 -> 云剑·无妄
+  roll 云剑·闪风 -> 剑挡
+  . hand=流云乱剑+1|画龙点睛|云剑·无妄|剑挡 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=3 cult=54 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 云剑·无妄 -> 暗鸦灵剑
+  roll 剑挡 -> 狂剑·零式
+  . hand=流云乱剑+1|画龙点睛|暗鸦灵剑|狂剑·零式 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=1 cult=54 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 暗鸦灵剑 -> 逗猫棒
+  fx 好奇心: 随机惊喜 逗猫棒, 换牌机会+1
+  . hand=流云乱剑+1|画龙点睛|狂剑·零式|逗猫棒 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=1 cult=54 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 狂剑·零式 -> 猫薄荷
+  fx 好奇心: 随机惊喜 猫薄荷, 换牌机会+1
+  . hand=流云乱剑+1|画龙点睛|逗猫棒|猫薄荷 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=1 cult=54 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  absorb 逗猫棒 -> 修为 55
+  fx 逗猫棒[炼化]: 换牌机会+1
+  . hand=流云乱剑+1|画龙点睛|猫薄荷 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑 rr=2 cult=55 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  absorb 猫薄荷 -> 修为 56
+  fx 猫薄荷[炼化]: 升级1级牌 灵猫乱剑
+  . hand=流云乱剑+1|画龙点睛 board=剑挡+1|云舞诀+1|青铜猫+1|飞牙剑+1|云剑·猫爪+1|凝意诀+1|灵猫乱剑+1 rr=2 cult=56 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +24.2, wins 5/5   board=['剑挡+1', '云舞诀+1', '凝意诀+1', '青铜猫+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '飞牙剑+1']
+  sim => avg 命 margin +23.2, wins 5/5   board=['画龙点睛', '剑挡+1', '云舞诀+1', '凝意诀+1', '青铜猫+1', '飞牙剑+1', '云剑·猫爪+1', '灵猫乱剑+1']
+  board = ['剑挡+1', '云舞诀+1', '凝意诀+1', '青铜猫+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '飞牙剑+1']
+  sim => avg 命 margin +24.2, wins 5/5   board=['剑挡+1', '云舞诀+1', '凝意诀+1', '青铜猫+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '飞牙剑+1']
+  . hand=画龙点睛 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=2 cult=56 realm=5 hp=97 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+--- R12 battles:
+  pid7 vs pid4: margin -18 (b won)
+  pid1 vs pid6: margin -22 (b won)
+  pid0 vs pid5: margin +24 (a won)
+  R12 vs pid5 姬方生 (I act first): WIN margin +24 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:55, pid5:40, pid6:118, pid7:124
+  deal 反身剑, 震雷剑, 云剑·月影, 触类旁通
+  . hand=画龙点睛|反身剑|震雷剑|云剑·月影|触类旁通 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=8 cult=58 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=画龙点睛|反身剑|震雷剑|云剑·月影|触类旁通 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=8 cult=58 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 触类旁通 -> 地煞剑
+  fx 触类旁通[置换]: 换牌机会+1, 获得副职牌 厄劫缠身
+  . hand=画龙点睛|反身剑|震雷剑|云剑·月影|厄劫缠身|地煞剑 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=8 cult=58 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 地煞剑 -> 云剑·柔心
+  roll 震雷剑 -> 白鹭灵剑
+  roll 反身剑 -> 云剑·探云
+  . hand=画龙点睛|云剑·月影|厄劫缠身|云剑·柔心|白鹭灵剑|云剑·探云 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=5 cult=58 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 云剑·柔心 -> 灵犀剑阵
+  roll 云剑·探云 -> 云剑·点星
+  roll 白鹭灵剑 -> 触类旁通
+  . hand=画龙点睛|云剑·月影|厄劫缠身|灵犀剑阵|云剑·点星|触类旁通 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=2 cult=58 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 触类旁通 -> 连环剑阵
+  fx 触类旁通[置换]: 换牌机会+1, 获得副职牌 洗髓丹
+  . hand=画龙点睛|云剑·月影|厄劫缠身|灵犀剑阵|云剑·点星|洗髓丹|连环剑阵 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=2 cult=58 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  absorb 洗髓丹 -> 修为 89
+  fx 洗髓丹[炼化]: 额外+30 修为 (修为 89)
+  . hand=画龙点睛|云剑·月影|厄劫缠身|灵犀剑阵|云剑·点星|连环剑阵 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=2 cult=89 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 灵犀剑阵 -> 云剑·游龙
+  . hand=画龙点睛|云剑·月影|厄劫缠身|云剑·点星|连环剑阵|云剑·游龙 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=1 cult=89 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 云剑·游龙 -> 逗猫棒
+  fx 好奇心: 随机惊喜 逗猫棒, 换牌机会+1
+  . hand=画龙点睛|云剑·月影|厄劫缠身|云剑·点星|连环剑阵|逗猫棒 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=1 cult=89 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  absorb 逗猫棒 -> 修为 90
+  fx 逗猫棒[炼化]: 换牌机会+1
+  . hand=画龙点睛|云剑·月影|厄劫缠身|云剑·点星|连环剑阵 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=2 cult=90 realm=5 hp=99 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +24.2, wins 4/4   board=['剑挡+1', '云舞诀+1', '凝意诀+1', '青铜猫+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '飞牙剑+1']
+  sim => avg 命 margin +24.2, wins 4/4   board=['凝意诀+1', '云舞诀+1', '青铜猫+1', '灵猫乱剑+1', '流云乱剑+1', '厄劫缠身', '云剑·猫爪+1', '剑挡+1']
+--- R13 battles:
+  pid7 vs pid6: margin -20 (b won)
+  pid0 vs pid4: margin +24 (a won)
+  R13 vs pid4 曜灵 (I act first): WIN margin +24 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:31, pid5:40, pid6:118, pid7:104
+  道韵 offer: [(0, '自在随心(draw 1 now)'), (1000059, '白鹭灵剑'), (1000040, '云剑·月影'), (1000025, '御空剑阵')]
+  -> picked 1000025:御空剑阵
+  deal 白鹭灵剑, 剑意激荡, 云剑·无锋, 研墨
+  . hand=画龙点睛|云剑·月影|厄劫缠身|云剑·点星|连环剑阵|御空剑阵|白鹭灵剑|剑意激荡|云剑·无锋|研墨 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=8 cult=92 realm=5 hp=101 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=画龙点睛|云剑·月影|厄劫缠身|云剑·点星|连环剑阵|御空剑阵|白鹭灵剑|剑意激荡|云剑·无锋|研墨 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=8 cult=92 realm=5 hp=101 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +27.2, wins 4/4   board=['剑挡+1', '青铜猫+1', '凝意诀+1', '剑意激荡', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  sim => avg 命 margin +26.0, wins 4/4   board=['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡', '御空剑阵', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1']
+  roll 云剑·月影 -> 万法归灵剑
+  roll 云剑·点星 -> 笔走龙蛇
+  roll 连环剑阵 -> 妙笔生花
+  roll 云剑·无锋 -> 云剑·凌波
+  roll 研墨 -> 御空剑阵
+  roll 厄劫缠身 -> 笔走龙蛇
+  . hand=画龙点睛|御空剑阵|白鹭灵剑|剑意激荡|万法归灵剑|笔走龙蛇|妙笔生花|云剑·凌波|御空剑阵|笔走龙蛇 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=2 cult=92 realm=5 hp=101 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 妙笔生花 -> 云剑·探云
+  fx 妙笔生花[置换]: 获得升级牌 画龙点睛+1
+  . hand=画龙点睛|御空剑阵|白鹭灵剑|剑意激荡|万法归灵剑|笔走龙蛇|云剑·凌波|御空剑阵|笔走龙蛇|画龙点睛+1|云剑·探云 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=1 cult=92 realm=5 hp=101 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  merge -> 御空剑阵+1 (+1 修为 = 93)
+  . hand=画龙点睛|白鹭灵剑|剑意激荡|万法归灵剑|笔走龙蛇|云剑·凌波|笔走龙蛇|画龙点睛+1|云剑·探云|御空剑阵+1 board=剑挡+1|云舞诀+1|凝意诀+1|青铜猫+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|飞牙剑+1 rr=1 cult=93 realm=5 hp=101 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +26.2, wins 4/4   board=['凝意诀+1', '青铜猫+1', '云舞诀+1', '剑意激荡', '流云乱剑+1', '灵猫乱剑+1', '万法归灵剑', '云剑·猫爪+1']
+  sim => avg 命 margin +22.5, wins 4/4   board=['云剑·猫爪+1', '万法归灵剑', '凝意诀+1', '剑挡+1', '云舞诀+1', '剑意激荡', '青铜猫+1', '灵猫乱剑+1']
+  board = ['剑挡+1', '青铜猫+1', '凝意诀+1', '剑意激荡', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  sim => avg 命 margin +27.2, wins 4/4   board=['剑挡+1', '青铜猫+1', '凝意诀+1', '剑意激荡', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  . hand=飞牙剑+1|画龙点睛|白鹭灵剑|万法归灵剑|笔走龙蛇|云剑·凌波|笔走龙蛇|画龙点睛+1|云剑·探云|御空剑阵+1 board=剑挡+1|青铜猫+1|凝意诀+1|剑意激荡|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=1 cult=93 realm=5 hp=101 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+--- R14 battles:
+  pid7 vs pid0: margin -26 (b won)
+  pid4 vs pid5: margin -19 (b won)
+  R14 vs pid7 叶冥冥 (they act first): WIN margin +26 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:12, pid5:40, pid6:118, pid7:78
+  deal 万法归灵剑, 凝意诀, 剑劈, 落纸云烟
+  . hand=飞牙剑+1|画龙点睛|白鹭灵剑|万法归灵剑|笔走龙蛇|云剑·凌波|笔走龙蛇|画龙点睛+1|云剑·探云|御空剑阵+1|万法归灵剑|凝意诀|剑劈|落纸云烟 board=剑挡+1|青铜猫+1|凝意诀+1|剑意激荡|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=7 cult=95 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=飞牙剑+1|画龙点睛|白鹭灵剑|万法归灵剑|笔走龙蛇|云剑·凌波|笔走龙蛇|画龙点睛+1|云剑·探云|御空剑阵+1|万法归灵剑|凝意诀|剑劈|落纸云烟 board=剑挡+1|青铜猫+1|凝意诀+1|剑意激荡|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=7 cult=95 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  merge -> 万法归灵剑+1 (+1 修为 = 96)
+  . hand=飞牙剑+1|画龙点睛|白鹭灵剑|笔走龙蛇|云剑·凌波|笔走龙蛇|画龙点睛+1|云剑·探云|御空剑阵+1|凝意诀|剑劈|落纸云烟|万法归灵剑+1 board=剑挡+1|青铜猫+1|凝意诀+1|剑意激荡|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=7 cult=96 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +24.5, wins 4/4   board=['云舞诀+1', '剑挡+1', '青铜猫+1', '凝意诀+1', '剑意激荡', '云剑·猫爪+1', '灵猫乱剑+1', '万法归灵剑+1']
+  sim => avg 命 margin +28.8, wins 4/4   board=['剑挡+1', '青铜猫+1', '凝意诀+1', '剑意激荡', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  roll 笔走龙蛇 -> 万法归灵剑
+  roll 笔走龙蛇 -> 流云乱剑
+  roll 云剑·探云 -> 巨鲸灵剑
+  roll 落纸云烟 -> 引气剑
+  roll 白鹭灵剑 -> 以画入道
+  roll 云剑·凌波 -> 触类旁通
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|以画入道|触类旁通 board=剑挡+1|青铜猫+1|凝意诀+1|剑意激荡|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=1 cult=96 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 触类旁通 -> 形意剑
+  fx 触类旁通[置换]: 换牌机会+1, 获得副职牌 天命·飞逝
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|以画入道|天命·飞逝|形意剑 board=剑挡+1|青铜猫+1|凝意诀+1|剑意激荡|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=1 cult=96 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 以画入道 -> 神来之笔
+  fx 以画入道[置换]: 获得门派牌(境5) 剑意激荡
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|天命·飞逝|形意剑|剑意激荡|神来之笔 board=剑挡+1|青铜猫+1|凝意诀+1|剑意激荡|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=96 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  take 剑意激荡
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|天命·飞逝|形意剑|剑意激荡|神来之笔|剑意激荡 board=剑挡+1|青铜猫+1|凝意诀+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=96 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  merge -> 剑意激荡+1 (+1 修为 = 97)
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|天命·飞逝|形意剑|神来之笔|剑意激荡+1 board=剑挡+1|青铜猫+1|凝意诀+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=97 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +29.0, wins 4/4   board=['剑挡+1', '青铜猫+1', '凝意诀+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  sim => avg 命 margin +29.0, wins 4/4   board=['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  board = ['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  sim => avg 命 margin +29.0, wins 4/4   board=['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|天命·飞逝|形意剑|神来之笔 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=97 realm=5 hp=103 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+--- R15 battles:
+  pid0 vs pid6: margin +29 (a won)
+  pid7 vs pid5: margin -20 (b won)
+  R15 vs pid6 吴策 (I act first): WIN margin +29 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:12, pid5:40, pid6:89, pid7:58
+  deal 巨鲸灵剑, 聚灵心法, 云剑·闪风, 运笔如飞
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|天命·飞逝|形意剑|神来之笔|巨鲸灵剑|聚灵心法|云剑·闪风|运笔如飞 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=99 realm=5 hp=105 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|巨鲸灵剑|引气剑|天命·飞逝|形意剑|神来之笔|巨鲸灵剑|聚灵心法|云剑·闪风|运笔如飞 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=99 realm=5 hp=105 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 巨鲸灵剑 -> 灵感剑
+  roll 巨鲸灵剑 -> 云舞诀
+  roll 引气剑 -> 百鸟灵剑诀
+  roll 神来之笔 -> 镜花剑阵
+  roll 聚灵心法 -> 云剑·点星
+  roll 云剑·闪风 -> 灵感剑
+  . hand=飞牙剑+1|画龙点睛|画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|天命·飞逝|形意剑|运笔如飞|灵感剑|云舞诀|百鸟灵剑诀|镜花剑阵|云剑·点星|灵感剑 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=99 realm=5 hp=105 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +24.2, wins 4/4   board=['镜花剑阵', '剑挡+1', '凝意诀+1', '云舞诀+1', '青铜猫+1', '剑意激荡+1', '云剑·猫爪+1', '灵猫乱剑+1']
+  sim => avg 命 margin +30.8, wins 4/4   board=['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+--- R16 battles:
+  pid0 vs pid4: margin +31 (a won)
+  pid7 vs pid6: margin -22 (b won)
+  R16 vs pid4 曜灵 (I act first): WIN margin +31 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:0, pid5:40, pid6:89, pid7:36
+  deal 剑意激荡, 巨鲲灵剑, 化灵诀, 画饼充饥
+  . hand=画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|天命·飞逝|形意剑|运笔如飞|灵感剑|云舞诀|百鸟灵剑诀|镜花剑阵|云剑·点星|灵感剑|剑意激荡|巨鲲灵剑|化灵诀|画饼充饥 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=101 realm=5 hp=107 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|天命·飞逝|形意剑|运笔如飞|灵感剑|云舞诀|百鸟灵剑诀|镜花剑阵|云剑·点星|灵感剑|剑意激荡|巨鲲灵剑|化灵诀|画饼充饥 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=101 realm=5 hp=107 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 灵感剑 -> 云剑·汇灵
+  roll 灵感剑 -> 暗鸦灵剑
+  roll 百鸟灵剑诀 -> 暗鸦灵剑
+  roll 巨鲲灵剑 -> 画龙点睛
+  roll 化灵诀 -> 画蛇添足
+  roll 画饼充饥 -> 画饼充饥
+  . hand=画龙点睛+1|御空剑阵+1|凝意诀|剑劈|万法归灵剑+1|万法归灵剑|流云乱剑|天命·飞逝|形意剑|运笔如飞|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|暗鸦灵剑|暗鸦灵剑|画龙点睛|画蛇添足|画饼充饥 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=101 realm=5 hp=107 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+--- R17 battles:
+  pid0 vs pid6: margin +31 (a won)
+  pid7 vs pid5: margin +22 (a won)
+  R17 vs pid6 吴策 (I act first): WIN margin +31 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:0, pid5:18, pid6:58, pid7:36
+  deal 云剑·汇灵, 三峰剑, 剑劈, 神来之笔
+  . hand=万法归灵剑+1|万法归灵剑|流云乱剑|天命·飞逝|形意剑|运笔如飞|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|暗鸦灵剑|暗鸦灵剑|画龙点睛|画蛇添足|画饼充饥|云剑·汇灵|三峰剑|剑劈|神来之笔 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=103 realm=5 hp=109 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=万法归灵剑+1|万法归灵剑|流云乱剑|天命·飞逝|形意剑|运笔如飞|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|暗鸦灵剑|暗鸦灵剑|画龙点睛|画蛇添足|画饼充饥|云剑·汇灵|三峰剑|剑劈|神来之笔 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=103 realm=5 hp=109 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 天命·飞逝 -> 妙笔生花
+  roll 画蛇添足 -> 以画入道
+  roll 画饼充饥 -> 飞灵闪影剑
+  roll 神来之笔 -> 剑劈
+  roll 暗鸦灵剑 -> 形意剑
+  roll 暗鸦灵剑 -> 运笔如飞
+  . hand=万法归灵剑+1|万法归灵剑|流云乱剑|形意剑|运笔如飞|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|剑劈|妙笔生花|以画入道|飞灵闪影剑|剑劈|形意剑|运笔如飞 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=103 realm=5 hp=109 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  merge -> 剑劈+1 (+1 修为 = 104)
+  . hand=万法归灵剑+1|万法归灵剑|流云乱剑|形意剑|运笔如飞|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|妙笔生花|以画入道|飞灵闪影剑|形意剑|运笔如飞|剑劈+1 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=104 realm=5 hp=109 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +33.0, wins 3/3   board=['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  sim => avg 命 margin +32.7, wins 3/3   board=['云剑·猫爪+1', '凝意诀+1', '剑挡+1', '云舞诀+1', '青铜猫+1', '剑意激荡+1', '飞灵闪影剑', '灵猫乱剑+1']
+  absorb 万法归灵剑+1 -> 修为 105
+  absorb 万法归灵剑 -> 修为 106
+  absorb 形意剑 -> 修为 107
+  absorb 形意剑 -> 修为 108
+  absorb 运笔如飞 -> 修为 109
+  absorb 运笔如飞 -> 修为 110
+  . hand=流云乱剑|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|妙笔生花|以画入道|飞灵闪影剑|剑劈+1 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=110 realm=5 hp=109 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+--- R18 battles:
+  pid7 vs pid6: margin -25 (b won)
+  pid0 vs pid5: margin +34 (a won)
+  R18 vs pid5 姬方生 (I act first): WIN margin +34 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:0, pid5:0, pid6:58, pid7:11
+  deal 狂剑·零式, 聚灵心法, 水月剑阵, 以画入道
+  . hand=流云乱剑|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|妙笔生花|以画入道|飞灵闪影剑|剑劈+1|狂剑·零式|聚灵心法|水月剑阵|以画入道 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=112 realm=5 hp=111 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=流云乱剑|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|妙笔生花|以画入道|飞灵闪影剑|剑劈+1|狂剑·零式|聚灵心法|水月剑阵|以画入道 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=112 realm=5 hp=111 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 妙笔生花 -> 巨鲲灵剑
+  fx 妙笔生花[置换]: 获得升级牌 云剑·无妄+1
+  roll 以画入道 -> 妙笔生花
+  fx 以画入道[置换]: 获得门派牌(境5) 狂剑·零式
+  roll 以画入道 -> 聚灵心法
+  fx 以画入道[置换]: 获得门派牌(境5) 狂剑·零式
+  roll 狂剑·零式 -> 连环剑阵
+  roll 聚灵心法 -> 云剑·点星
+  roll 水月剑阵 -> 灵气灌注
+  . hand=流云乱剑|云舞诀|镜花剑阵|云剑·点星|剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|飞灵闪影剑|剑劈+1|云剑·无妄+1|巨鲲灵剑|狂剑·零式|妙笔生花|狂剑·零式|聚灵心法|连环剑阵|云剑·点星|灵气灌注 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=112 realm=5 hp=111 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +33.0, wins 2/2   board=['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+--- R19 battles:
+  pid7 vs pid0: margin -31 (b won)
+  R19 vs pid7 叶冥冥 (they act first): WIN margin +31 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:0, pid5:0, pid6:58, pid7:0
+  deal 百鸟灵剑诀, 凝意诀, 形意剑, 妙笔生花
+  . hand=剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|飞灵闪影剑|剑劈+1|云剑·无妄+1|巨鲲灵剑|狂剑·零式|妙笔生花|狂剑·零式|聚灵心法|连环剑阵|云剑·点星|灵气灌注|百鸟灵剑诀|凝意诀|形意剑|妙笔生花 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=114 realm=5 hp=113 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  . hand=剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|飞灵闪影剑|剑劈+1|云剑·无妄+1|巨鲲灵剑|狂剑·零式|妙笔生花|狂剑·零式|聚灵心法|连环剑阵|云剑·点星|灵气灌注|百鸟灵剑诀|凝意诀|形意剑|妙笔生花 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=6 cult=114 realm=5 hp=113 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  roll 妙笔生花 -> 引气剑
+  fx 妙笔生花[置换]: 获得升级牌 巨鲲灵剑+1
+  roll 妙笔生花 -> 运笔如飞
+  fx 妙笔生花[置换]: 获得升级牌 水月剑阵+1
+  roll 狂剑·零式 -> 云舞诀
+  roll 狂剑·零式 -> 飞牙剑
+  roll 聚灵心法 -> 破气剑
+  roll 连环剑阵 -> 画龙点睛
+  . hand=剑意激荡|云剑·汇灵|画龙点睛|云剑·汇灵|三峰剑|飞灵闪影剑|剑劈+1|云剑·无妄+1|巨鲲灵剑|云剑·点星|灵气灌注|百鸟灵剑诀|凝意诀|形意剑|巨鲲灵剑+1|引气剑|水月剑阵+1|运笔如飞|云舞诀|飞牙剑|破气剑|画龙点睛 board=凝意诀+1|剑挡+1|青铜猫+1|剑意激荡+1|流云乱剑+1|云剑·猫爪+1|灵猫乱剑+1|云舞诀+1 rr=0 cult=114 realm=5 hp=113 destiny=100 slots=8 talents=好奇心|猫爪|猫魂庇佑|灵猫乱剑|灵猫踏云
+  sim => avg 命 margin +37.0, wins 1/1   board=['凝意诀+1', '剑挡+1', '青铜猫+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '云舞诀+1']
+  sim => avg 命 margin +37.0, wins 1/1   board=['凝意诀+1', '青铜猫+1', '剑挡+1', '剑意激荡+1', '流云乱剑+1', '云剑·猫爪+1', '灵猫乱剑+1', '剑劈+1']
+--- R20 battles:
+  pid0 vs pid6: margin +35 (a won)
+  R20 vs pid6 吴策 (I act first): WIN margin +35 → my 命 100
+  standings: pid0:100, pid1:0, pid2:0, pid3:0, pid4:0, pid5:0, pid6:23, pid7:0
+GAME OVER after R20. Alive: [(0, 100), (6, 23)]  me alive=True 命=100

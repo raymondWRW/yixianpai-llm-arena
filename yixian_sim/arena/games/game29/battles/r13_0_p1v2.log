@@ -1,0 +1,224 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 99/99, def 2, qi 0) | B(hp 99/99, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 2 to 97
+  吾行之(pid2) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  STATE after turn 1b: A(hp 99/99, def 2, qi 0) | B(hp 97/99, def 0, qi 0, injury 2)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 99/99, def 2, qi 1) | B(hp 97/99, def 0, qi 0, injury 3)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 3 to 94
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 3 qi. Now have 3 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 2b: A(hp 99/99, def 2, qi 1) | B(hp 94/99, def 0, qi 3, injury 3)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 88
+    gained 2 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 99/99, def 1, qi 0) | B(hp 88/99, def 0, qi 3, injury 5)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 5 to 83
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 12 to 87
+    gained 2 force_of_water. Now have 2 force_of_water
+    gained 1 force_of_water. Now have 3 force_of_water
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 82
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 3 to 79
+  STATE after turn 3b: A(hp 79/99, def 0, qi 0) | B(hp 83/99, def 0, qi 1, injury 5)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 4a: A(hp 79/99, def 4, qi 0) | B(hp 83/99, def 0, qi 1, injury 5)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 5 to 78
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  lost 3 def. Now have 1 def
+  STATE after turn 4b: A(hp 79/99, def 1, qi 0) | B(hp 78/99, def 0, qi 2, injury 5)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 103 max_hp
+    healed 4 hp. Went from 79 to 83
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 5a: A(hp 83/103, def 0, qi 0) | B(hp 78/99, def 0, qi 2, injury 5)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 5 to 73
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 6 force_of_water
+    gained 12 max_hp. Now have 111 max_hp
+    healed 12 hp. Went from 73 to 85
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 6 to 77
+  STATE after turn 5b: A(hp 77/103, def 0, qi 0) | B(hp 85/111, def 0, qi 0, injury 5)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Astral Move - Point (level 2)
+    reduced 吾行之(pid2) hp by 10 to 75
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 6a: A(hp 77/103, def 0, qi 0) | B(hp 75/111, def 0, qi 0, injury 5)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 5 to 70
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Turbulent (level 2). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 6 to 71
+  STATE after turn 6b: A(hp 71/103, def 0, qi 0) | B(hp 70/111, def 0, qi 1, injury 5)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Golden Rooster Independence (level 2). They now have 1/1 qi
+  STATE after turn 7a: A(hp 71/103, def 0, qi 1) | B(hp 70/111, def 0, qi 1, injury 5)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 5 to 65
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 14 to 57
+    reduced 吾行之(pid2) hp by 2 to 63
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 1 to 56
+    reduced 吾行之(pid2) hp by 2 to 61
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 6 to 50
+  STATE after turn 7b: A(hp 50/103, def 0, qi 1) | B(hp 61/111, def 0, qi 0, injury 5)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 2)
+    reduced 吾行之(pid2) hp by 15 to 46
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 8a: A(hp 50/103, def 0, qi 0) | B(hp 46/111, def 0, qi 0, injury 5)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 5 to 41
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 118 max_hp
+  healed 7 hp. Went from 41 to 48
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  reduced 谭舒雁(pid1) hp by 6 to 44
+  STATE after turn 8b: A(hp 44/103, def 0, qi 0) | B(hp 48/118, def 7, qi 0, injury 5)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 2). They now have 1/1 qi
+  STATE after turn 9a: A(hp 44/103, def 0, qi 1) | B(hp 48/118, def 7, qi 0, injury 5)
+turn 9a ends
+turn 9b begins
+  lost 4 def. Now have 3 def
+  reduced 吾行之(pid2) hp by 5 to 43
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 33
+    lost 2 def. Now have 1 def
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 28
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 42
+  吾行之(pid2) finished playing Five Elements Fleche
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 125 max_hp
+  healed 7 hp. Went from 42 to 49
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  reduced 谭舒雁(pid1) hp by 6 to 22
+  STATE after turn 9b: A(hp 22/103, def 0, qi 1) | B(hp 49/125, def 7, qi 0, injury 5)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    lost 4 def. Now have 3 def
+    lost 3 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 48
+    gained 11 def. Now have 11 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 10a: A(hp 22/103, def 11, qi 0) | B(hp 48/125, def 0, qi 0, injury 5)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 5 to 43
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Turbulent (level 1). They now have 1/1 qi
+  lost 6 def. Now have 5 def
+  STATE after turn 10b: A(hp 22/103, def 5, qi 0) | B(hp 43/125, def 0, qi 1, injury 5)
+turn 10b ends
+turn 11a begins
+  lost 3 def. Now have 2 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11a: A(hp 22/103, def 2, qi 0) | B(hp 43/125, def 0, qi 1, injury 6)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 6 to 37
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 14 to 8
+    reduced 吾行之(pid2) hp by 2 to 35
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 6 to 2
+  STATE after turn 11b: A(hp 2/103, def 0, qi 0) | B(hp 35/125, def 0, qi 0, injury 6)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 12a: A(hp 2/103, def 1, qi 1) | B(hp 35/125, def 0, qi 0, injury 7)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 7 to 28
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 5 to -3
+  STATE after turn 12b: A(hp -3/103, def 0, qi 1) | B(hp 28/125, def 0, qi 3, injury 7)
+turn 12b ends
+谭舒雁(pid1) loses 20 destiny, now at 87
+吾行之(pid2) (Wu Xingzhi) wins

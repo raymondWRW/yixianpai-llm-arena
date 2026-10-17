@@ -1,0 +1,143 @@
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 18 physique
+    gained 2 max_hp. Now have 75 max_hp
+    healed 4 hp. Went from 57 to 61
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Grinding Ink (level 1). They now have 1/1 qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 37
+    gained 1 physique. Now have 19 physique
+    gained 1 max_hp. Now have 76 max_hp
+  player 0 finished playing Exercise Fist
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Grinding Ink (level 1)
+    reduced player 1 hp by 8 to 53
+    gained 1 qi. Now have 1 qi
+  player 0 finished playing Grinding Ink
+turn 2b ends
+turn 3a begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 28
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 3a ends
+turn 3b begins
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 49
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 3b ends
+turn 4a begins
+  player 0 is playing Sword Bamboo (level 2)
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 4 to 24
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 4 to 20
+  player 0 finished playing Sword Bamboo
+turn 4a ends
+turn 4b begins
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 5 sword_intent
+  player 0 finished playing Sword Defence
+turn 4b ends
+turn 5a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 8 to 12
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 1)
+    reduced player 1 hp by 11 to 38
+    lost 5 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 5b ends
+turn 6a begins
+  reduced player 0 hp by 2 to 36
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 1)
+    reduced player 1 hp by 8 to 4
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 30
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 3 def
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 24
+    reduced player 1 hp by 5 to 19
+  player 0 finished playing Cloud Sword - Fleche
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 2 to 2
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 16
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 21 physique
+    gained 2 max_hp. Now have 78 max_hp
+    healed 4 hp. Went from 16 to 20
+  player 0 finished playing Embracing Qi Technique
+turn 9a ends
+turn 9b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 17
+  player 0 finished playing Normal Attack
+turn 9b ends
+turn 10a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to -7
+    gained 1 physique. Now have 22 physique
+    gained 1 max_hp. Now have 79 max_hp
+    healed 1 hp. Went from 17 to 18
+turn 10a ends
+player 1 loses 9 destiny, now at 78
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Exercise Fist (level 2)
+  Vigorous Force (level 2)
+  Sword Bamboo (level 2)
+  Mountain-Cleaving Palms (level 2)
+  Crash Fist - Bounce (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Grinding Ink (level 1)
+  Sword Slash (level 1)
+  Sword Defence (level 2)
+  Cloud Sword - Touch Sky (level 1)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Fleche (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

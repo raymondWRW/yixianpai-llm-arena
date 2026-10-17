@@ -1,0 +1,240 @@
+turn 1a begins
+  牧逸风(pid0) is playing Light Sword (level 2)
+    reduced 吾行之(pid2) hp by 4 to 93
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 1a: A(hp 97/97, def 0, qi 2) | B(hp 93/97, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 95
+    reduced 牧逸风(pid0) max_hp by 2 to 95
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 1b: A(hp 95/95, def 0, qi 2) | B(hp 93/97, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Sword - Softheart (level 1)
+    gained 2 cloud_sword_softheart_stacks. Now have 2 cloud_sword_softheart_stacks
+  牧逸风(pid0) finished playing Cloud Sword - Softheart
+  STATE after turn 2a: A(hp 95/95, def 0, qi 2) | B(hp 93/97, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 93
+    reduced 牧逸风(pid0) max_hp by 2 to 93
+    reduced 牧逸风(pid0) hp by 3 to 90
+    reduced 牧逸风(pid0) max_hp by 3 to 90
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 2b: A(hp 90/90, def 0, qi 2) | B(hp 93/97, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Cloud Sword - Dragon Roam (level 1)
+    healed 2 hp. Went from 90 to 90
+    reduced 吾行之(pid2) hp by 2 to 91
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    reduced 吾行之(pid2) hp by 2 to 89
+    gained 1 this_card_chases. Now have 2 this_card_chases
+    gained 3 def. Now have 3 def
+  牧逸风(pid0) finished playing Cloud Sword - Dragon Roam
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Cloud Sword - Dragon Roam (level 1)
+    healed 2 hp. Went from 90 to 90
+    reduced 吾行之(pid2) hp by 2 to 87
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    reduced 吾行之(pid2) hp by 2 to 85
+    gained 1 this_card_chases. Now have 2 this_card_chases
+    gained 3 def. Now have 6 def
+  牧逸风(pid0) finished playing Cloud Sword - Dragon Roam
+  STATE after turn 3a: A(hp 90/90, def 6, qi 2) | B(hp 85/97, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 88
+    reduced 牧逸风(pid0) max_hp by 2 to 88
+    gained 2 qi. Now have 3 qi
+    reduced 牧逸风(pid0) hp by 3 to 85
+    reduced 牧逸风(pid0) max_hp by 3 to 85
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 3b: A(hp 85/85, def 6, qi 2) | B(hp 85/97, def 0, qi 3)
+turn 3b ends
+turn 4a begins
+  lost 3 def. Now have 3 def
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    reduced 吾行之(pid2) hp by 8 to 77
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 4a: A(hp 85/85, def 3, qi 2, sword 2) | B(hp 77/97, def 0, qi 3)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 83
+    reduced 牧逸风(pid0) max_hp by 2 to 83
+    reducing hp to max_hp of 79
+    reduced 牧逸风(pid0) max_hp by 4 to 79
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 77
+    reduced 牧逸风(pid0) max_hp by 2 to 77
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced 牧逸风(pid0) hp by 8 to 69
+    reduced 牧逸风(pid0) max_hp by 8 to 69
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 4b: A(hp 69/69, def 3, qi 2, sword 2) | B(hp 77/97, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 18 to 59
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 5a: A(hp 69/69, def 1, qi 0) | B(hp 59/97, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 67
+    reduced 牧逸风(pid0) max_hp by 2 to 67
+    gained 1 increase_atk. Now have 2 increase_atk
+    reduced 牧逸风(pid0) hp by 9 to 58
+    reduced 牧逸风(pid0) max_hp by 9 to 58
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 5b: A(hp 58/58, def 1, qi 0) | B(hp 59/97, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Form-Intention Sword (level 2). They now have 1/1 qi
+  STATE after turn 6a: A(hp 58/58, def 0, qi 1) | B(hp 59/97, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 56
+    reduced 牧逸风(pid0) max_hp by 2 to 56
+    reduced 牧逸风(pid0) hp by 3 to 53
+    reduced 牧逸风(pid0) max_hp by 3 to 53
+    gained 1 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 6b: A(hp 53/53, def 0, qi 1) | B(hp 59/97, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 吾行之(pid2) hp by 11 to 48
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 7a: A(hp 53/53, def 0, qi 0, sword 4) | B(hp 48/97, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 51
+    reduced 牧逸风(pid0) max_hp by 2 to 51
+    reduced 牧逸风(pid0) hp by 6 to 45
+    reduced 牧逸风(pid0) hp by 6 to 39
+    reduced 牧逸风(pid0) hp by 6 to 33
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  STATE after turn 7b: A(hp 33/51, def 0, qi 0, sword 4) | B(hp 48/97, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Thunder Sword (level 1). They now have 1/1 qi
+  STATE after turn 8a: A(hp 33/51, def 0, qi 1, sword 4) | B(hp 48/97, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 31
+    reduced 牧逸风(pid0) max_hp by 2 to 49
+    reduced 牧逸风(pid0) hp by 3 to 28
+    reduced 牧逸风(pid0) max_hp by 3 to 46
+    gained 1 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 8b: A(hp 28/46, def 0, qi 1, sword 4) | B(hp 48/97, def 0, qi 2)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 吾行之(pid2) hp by 9 to 39
+    reduced 吾行之(pid2) hp by 10 to 29
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 9a: A(hp 28/46, def 0, qi 0) | B(hp 29/97, def 0, qi 2)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 26
+    reduced 牧逸风(pid0) max_hp by 2 to 44
+    gained 2 qi. Now have 4 qi
+    reduced 牧逸风(pid0) hp by 3 to 23
+    reduced 牧逸风(pid0) max_hp by 3 to 41
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 9b: A(hp 23/41, def 0, qi 0) | B(hp 29/97, def 0, qi 4)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Light Sword (level 2)
+    reduced 吾行之(pid2) hp by 4 to 25
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 10a: A(hp 23/41, def 0, qi 2) | B(hp 25/97, def 0, qi 4)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 21
+    reduced 牧逸风(pid0) max_hp by 2 to 39
+    reduced 牧逸风(pid0) max_hp by 4 to 35
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 19
+    reduced 牧逸风(pid0) max_hp by 2 to 33
+    gained 1 increase_atk. Now have 3 increase_atk
+    reduced 牧逸风(pid0) hp by 10 to 9
+    reduced 牧逸风(pid0) max_hp by 10 to 23
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 10b: A(hp 9/23, def 0, qi 2) | B(hp 25/97, def 0, qi 3)
+turn 10b ends
+turn 11a begins
+  牧逸风(pid0) is playing Cloud Sword - Dragon Roam (level 1)
+    healed 2 hp. Went from 9 to 11
+    reduced 吾行之(pid2) hp by 2 to 23
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    reduced 吾行之(pid2) hp by 2 to 21
+    gained 1 this_card_chases. Now have 2 this_card_chases
+  牧逸风(pid0) finished playing Cloud Sword - Dragon Roam
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Cloud Sword - Dragon Roam (level 1)
+    healed 2 hp. Went from 11 to 13
+    reduced 吾行之(pid2) hp by 2 to 19
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    reduced 吾行之(pid2) hp by 2 to 17
+    gained 1 this_card_chases. Now have 2 this_card_chases
+    gained 3 def. Now have 3 def
+  牧逸风(pid0) finished playing Cloud Sword - Dragon Roam
+  STATE after turn 11a: A(hp 13/23, def 3, qi 2) | B(hp 17/97, def 0, qi 3)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 11
+    reduced 牧逸风(pid0) max_hp by 2 to 21
+    gained 1 increase_atk. Now have 4 increase_atk
+    reduced 牧逸风(pid0) hp by 11 to 0
+    reduced 牧逸风(pid0) max_hp by 11 to 10
+  STATE after turn 11b: A(hp 0/10, def 3, qi 2) | B(hp 17/97, def 0, qi 2)
+turn 11b ends
+牧逸风(pid0) loses 17 destiny, now at 45
+吾行之(pid2) (Wu Xingzhi) wins

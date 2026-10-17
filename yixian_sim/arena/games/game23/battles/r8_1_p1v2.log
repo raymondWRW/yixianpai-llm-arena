@@ -1,0 +1,210 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 76/76, def 1, qi 1) | B(hp 66/66, def 0, qi 0, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 1 to 65
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 1b: A(hp 76/76, def 1, qi 1) | B(hp 65/66, def 0, qi 0, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 59
+    lost 2 hexproof. Now have 1 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 2a: A(hp 76/76, def 0, qi 0) | B(hp 59/66, def 0, qi 0, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 1 to 58
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 2b: A(hp 76/76, def 0, qi 0) | B(hp 58/66, def 0, qi 2, injury 1)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Zhen Hexagram (level 1)
+    reduced 吾行之(pid2) hp by 4 to 54
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Zhen Hexagram
+  STATE after turn 3a: A(hp 76/76, def 0, qi 0, hex 1) | B(hp 54/66, def 0, qi 2, injury 1)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 1 to 53
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 70
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 3b: A(hp 70/76, def 1, qi 0, hex 1) | B(hp 53/66, def 0, qi 2, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Cutting Weeds (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 70/76, def 0, qi 1, hex 1) | B(hp 53/66, def 0, qi 2, injury 1)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 1 to 52
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 61
+    gained 1 def. Now have 1 def
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 4b: A(hp 61/76, def 1, qi 1, hex 1) | B(hp 52/66, def 0, qi 2, injury 1)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 吾行之(pid2) hp by 5 to 47
+    reduced 吾行之(pid2) hp by 5 to 42
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 吾行之(pid2) max_hp by 13 to 53
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 5a: A(hp 61/76, def 0, qi 0) | B(hp 42/53, def 0, qi 2, injury 1)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 1 to 41
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 50
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 5b: A(hp 50/76, def 1, qi 0) | B(hp 41/53, def 0, qi 2, injury 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    reduced 吾行之(pid2) hp by 7 to 34
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 6a: A(hp 50/76, def 0, qi 2) | B(hp 34/53, def 0, qi 2, injury 1)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 1 to 33
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 42
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 6b: A(hp 42/76, def 1, qi 2) | B(hp 33/53, def 0, qi 2, injury 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 吾行之(pid2) hp by 10 to 23
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7a: A(hp 42/76, def 0, qi 1) | B(hp 23/53, def 0, qi 2, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 1 to 22
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 13 to 29
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  STATE after turn 7b: A(hp 29/76, def 0, qi 1) | B(hp 22/53, def 0, qi 1, injury 1)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 吾行之(pid2) hp by 6 to 16
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 8a: A(hp 29/76, def 0, qi 0) | B(hp 16/53, def 0, qi 1, injury 1)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 1 to 15
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 11 to 18
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  STATE after turn 8b: A(hp 18/76, def 0, qi 0) | B(hp 15/53, def 0, qi 1, injury 1)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 12
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 18/76, def 0, qi 0) | B(hp 12/53, def 0, qi 1, injury 1)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 1 to 11
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 4 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 1 to 17
+  gained 1 def. Now have 1 def
+  STATE after turn 9b: A(hp 17/76, def 1, qi 0) | B(hp 11/53, def 10, qi 1, injury 1)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    lost 1 hexproof. Now have 3 hexproof
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10a: A(hp 17/76, def 1, qi 1) | B(hp 11/53, def 10, qi 1, injury 1)
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 1 to 10
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 12
+    gained 1 def. Now have 1 def
+    gained 2 penetrate. Now have 2 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  lost 1 def. Now have 0 def
+  STATE after turn 10b: A(hp 12/76, def 0, qi 1) | B(hp 10/53, def 5, qi 1, injury 1)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 5 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 9
+    lost 2 hexproof. Now have 1 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 11a: A(hp 12/76, def 0, qi 0) | B(hp 9/53, def 0, qi 1, injury 1)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 1 to 8
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 11 to 1
+    gained 1 def. Now have 1 def
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  lost 1 def. Now have 0 def
+  STATE after turn 11b: A(hp 1/76, def 0, qi 0) | B(hp 8/53, def 0, qi 1, injury 1)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Zhen Hexagram (level 1)
+    reduced 吾行之(pid2) hp by 4 to 4
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Zhen Hexagram
+  STATE after turn 12a: A(hp 1/76, def 0, qi 0, hex 1) | B(hp 4/53, def 0, qi 1, injury 1)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 1 to 3
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to -10
+    gained 1 def. Now have 1 def
+  STATE after turn 12b: A(hp -10/76, def 1, qi 0, hex 1) | B(hp 3/53, def 0, qi 1, injury 1)
+turn 12b ends
+谭舒雁(pid1) loses 11 destiny, now at 70
+吾行之(pid2) (Wu Xingzhi) wins

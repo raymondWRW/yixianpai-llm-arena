@@ -1,0 +1,175 @@
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 74
+  player 0 finished playing Cloud Sword - Riddle
+turn 1b ends
+turn 2a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 67
+  player 0 finished playing Cloud Sword - Conceal
+turn 2b ends
+turn 3a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 64
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 67 to 71
+  player 0 finished playing White Crane Bright Wings
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 59
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 60
+    reduced player 1 hp by 4 to 56
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 6 def. Now have 6 def
+    lost 5 def. Now have 1 def
+  player 0 finished playing Cloud Sword - Fleche
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 46
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 39
+  player 0 finished playing Sparrow's Tail
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced player 1 hp by 7 to 52
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 5b ends
+turn 6a begins
+  player 0 is playing Imposing (level 1)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 52 to 56
+  player 0 finished playing Imposing
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 43
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 30
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 5 to 38
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Giant Whale Spirit Sword (level 1). They now have 2/2 qi
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    reduced player 1 hp by 5 to 25
+    reduced player 1 hp by 5 to 20
+    reduced player 1 max_hp by 11 to 61
+  player 0 finished playing Cutting Weeds
+turn 8a ends
+turn 8b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced player 1 hp by 16 to 22
+  player 0 finished playing Giant Whale Spirit Sword
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 9a ends
+turn 9b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 16
+  player 0 finished playing Cloud Sword - Riddle
+turn 9b ends
+turn 10a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 12
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 16 to 20
+  player 0 finished playing White Crane Bright Wings
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 11
+  player 0 finished playing Cloud Sword - Conceal
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 8
+    reduced player 1 hp by 4 to 4
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 11a ends
+turn 11b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    lost 12 def. Now have 0 def
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to -6
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to -13
+turn 12a ends
+player 1 loses 13 destiny, now at 67
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Wild Horses Part the Mane (level 2)
+  Sparrow's Tail (level 2)
+  Imposing (level 1)
+  Heavenly Decree - Attack (level 2)
+  Cutting Weeds (level 1)
+Player 1's deck:
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Conceal (level 1)
+  Cloud Sword - Touch Sky (level 3)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Spirit Coercion (level 1)
+  Giant Tiger Spirit Sword (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 1)

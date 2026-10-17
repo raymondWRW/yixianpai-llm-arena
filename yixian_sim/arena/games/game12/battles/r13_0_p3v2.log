@@ -1,0 +1,149 @@
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+gained 3 qi. Now have 3 qi
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 5 to 106
+    gained 1 qi. Now have 4 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 99/103, def 0, qi 4, force 2, phys 4) | B(hp 106/111, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Cosmos Seal (level 2)
+    reduced 小布(pid3) hp by 9 to 90
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 2 cosmos_seal_stacks
+  吾行之(pid2) finished playing Cosmos Seal
+  STATE after turn 1b: A(hp 90/103, def 0, qi 4, force 2, phys 4) | B(hp 106/111, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  STATE after turn 2a: A(hp 90/103, def 0, qi 5, force 2, phys 4) | B(hp 106/111, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    reduced 小布(pid3) hp by 6 to 84
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 2b: A(hp 84/103, def 0, qi 5, force 2, phys 4) | B(hp 106/111, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 1 def. Now have 1 def
+    gained 6 force. Now have 7 force
+    gained 5 agility. Now have 9 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 3a: A(hp 84/103, def 1, qi 6, force 7, phys 4) | B(hp 106/111, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 3 activate_metal_spirit_stacks
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 8 to 76
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 3b: A(hp 76/103, def 0, qi 6, force 7, phys 4) | B(hp 106/111, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 74
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 3 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 34 to 72
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4a: A(hp 74/103, def 3, qi 3, force 6, phys 4) | B(hp 72/111, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    lost 3 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 8 to 66
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 4b: A(hp 66/103, def 0, qi 3, force 6, phys 4) | B(hp 72/111, def 0, qi 1)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 2 def. Now have 2 def
+    gained 3 force. Now have 7 force
+    gained 6 agility. Now have 15 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 2 to 64
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 1 qi
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 22 to 50
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 5a: A(hp 64/103, def 2, qi 1, force 6, phys 4) | B(hp 50/111, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Octgates Lock Formation (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 10 to 54
+    gained 3 octgates_lock_formation_stacks. Now have 3 octgates_lock_formation_stacks
+  吾行之(pid2) finished playing Octgates Lock Formation
+  STATE after turn 5b: A(hp 54/103, def 0, qi 1, force 6, phys 4) | B(hp 50/111, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 5 force
+    reduced 吾行之(pid2) hp by 24 to 26
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 7 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 6a: A(hp 54/103, def 0, qi 0, force 7, phys 4) | B(hp 26/111, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Metal Spirit - Giant Tripod (level 1)
+    gained 1 metal_spirit_giant_tripod_stacks. Now have 1 metal_spirit_giant_tripod_stacks
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 22 to 32
+    lost 1 metal_spirit_giant_tripod_stacks. Now have 0 metal_spirit_giant_tripod_stacks
+  吾行之(pid2) finished playing Metal Spirit - Giant Tripod
+  STATE after turn 6b: A(hp 32/103, def 0, qi 0, force 7, phys 4) | B(hp 26/111, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 2 to 30
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    lost 1 force. Now have 6 force
+    reduced 吾行之(pid2) hp by 18 to 8
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 7a: A(hp 30/103, def 0, qi 0, force 6, phys 4) | B(hp 8/111, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced 小布(pid3) hp by 11 to 19
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 7b: A(hp 19/103, def 0, qi 0, force 6, phys 4) | B(hp 8/111, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 5 force
+    reduced 吾行之(pid2) hp by 8 to 0
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 7 force
+  STATE after turn 8a: A(hp 19/103, def 0, qi 1, force 7, phys 4) | B(hp 0/111, def 0, qi 0)
+turn 8a ends
+吾行之(pid2) loses 18 destiny, now at 51
+小布(pid3) (Xiao Bu) wins

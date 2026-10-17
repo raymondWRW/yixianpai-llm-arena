@@ -1,0 +1,24 @@
+{
+ "game": 29,
+ "seed": 229,
+ "rounds": 18,
+ "winner": 1,
+ "winner_name": "谭舒雁",
+ "tie": false,
+ "co_winners": [
+  1
+ ],
+ "unfinished": false,
+ "standings": {
+  "0": 0,
+  "1": 87,
+  "2": 0,
+  "3": 0
+ },
+ "sidejobs": {
+  "0": 5,
+  "2": 5,
+  "1": 7,
+  "3": 5
+ }
+}

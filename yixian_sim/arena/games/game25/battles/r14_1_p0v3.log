@@ -1,0 +1,293 @@
+healed 4 hp. Went from 101 to 105
+turn 1a begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1a: A(hp 101/101, def 3, qi 1) | B(hp 105/128, def 0, qi 0, phys 27)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 28 physique
+    gained 1 max_hp. Now have 129 max_hp
+    healed 1 hp. Went from 105 to 106
+    gained 3 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 101/101, def 3, qi 1) | B(hp 106/129, def 0, qi 3, force 1, phys 28)
+turn 1b ends
+turn 2a begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 2a: A(hp 101/101, def 3, qi 3) | B(hp 106/129, def 0, qi 3, force 1, phys 28)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 4 force. Now have 5 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 2b: A(hp 101/101, def 3, qi 3) | B(hp 106/129, def 0, qi 4, force 5, phys 28, agi 5)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 1 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 5 qi
+    reduced 小布(pid3) hp by 3 to 103
+    reduced 小布(pid3) hp by 3 to 100
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3a: A(hp 101/101, def 1, qi 5) | B(hp 100/129, def 0, qi 4, force 5, phys 28, agi 5)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 2 to 98
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 2 qi
+    gained 1 def. Now have 1 def
+    gained 2 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 2 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 24 to 77
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3b: A(hp 77/101, def 0, qi 5) | B(hp 98/129, def 2, qi 2, force 5, phys 28, agi 5)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Rule Sky Sword Formation (level 1)
+    gained 8 def. Now have 8 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Rule Sky Sword Formation
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Raven Spirit Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 94
+    gained 10 def. Now have 18 def
+  牧逸风(pid0) finished playing Raven Spirit Sword
+  STATE after turn 4a: A(hp 77/101, def 18, qi 5) | B(hp 94/129, def 0, qi 2, force 5, phys 28, agi 5)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 2 def. Now have 2 def
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 5 to 89
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 3 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 18 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 4 to 73
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 4b: A(hp 73/101, def 0, qi 5) | B(hp 89/129, def 3, qi 1, force 5, phys 28, agi 1)
+turn 4b ends
+turn 5a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 7 to 82
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 11 to 71
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 5a: A(hp 73/101, def 10, qi 3) | B(hp 71/129, def 0, qi 1, force 5, phys 28, agi 1)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 4 to 67
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 10 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 25 to 48
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 5b: A(hp 48/101, def 0, qi 3) | B(hp 67/129, def 0, qi 1, force 5, phys 28, agi 1)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 4 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 9 to 58
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 5 qi
+    reduced 小布(pid3) hp by 3 to 55
+    reduced 小布(pid3) hp by 3 to 52
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 6a: A(hp 48/101, def 0, qi 5) | B(hp 52/129, def 0, qi 1, force 5, phys 28, agi 1)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 5 to 47
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 15 to 33
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 6b: A(hp 33/101, def 0, qi 5) | B(hp 47/129, def 0, qi 1, force 4, phys 28, agi 1)
+turn 6b ends
+turn 7a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Rule Sky Sword Formation (level 1)
+    gained 8 def. Now have 8 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Rule Sky Sword Formation
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Raven Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 6 to 41
+    gained 8 def. Now have 16 def
+  牧逸风(pid0) finished playing Raven Spirit Sword
+  STATE after turn 7a: A(hp 33/101, def 16, qi 4) | B(hp 41/129, def 0, qi 1, force 4, phys 28, agi 1)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 4 to 37
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 force. Now have 3 force
+    lost 16 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 28
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 7b: A(hp 28/101, def 0, qi 4) | B(hp 37/129, def 5, qi 1, force 3, phys 28, agi 1)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    lost 5 def. Now have 0 def
+    reduced 小布(pid3) hp by 5 to 32
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 11 to 21
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 8a: A(hp 28/101, def 10, qi 3) | B(hp 21/129, def 0, qi 1, force 3, phys 28, agi 1)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 29 physique
+    gained 1 max_hp. Now have 130 max_hp
+    healed 1 hp. Went from 21 to 22
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 4 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 8b: A(hp 28/101, def 10, qi 3) | B(hp 22/130, def 0, qi 4, force 4, phys 29, agi 1)
+turn 8b ends
+turn 9a begins
+  lost 5 def. Now have 5 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 9 to 13
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced 小布(pid3) hp by 3 to 10
+    reduced 小布(pid3) hp by 3 to 7
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9a: A(hp 28/101, def 5, qi 4) | B(hp 7/130, def 0, qi 4, force 4, phys 29, agi 1)
+turn 9a ends
+turn 9b begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 3 def. Now have 3 def
+    gained 5 force. Now have 6 force
+    gained 5 agility. Now have 6 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 9b: A(hp 28/101, def 5, qi 4) | B(hp 7/130, def 3, qi 5, force 6, phys 29, agi 6)
+turn 9b ends
+turn 10a begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Rule Sky Sword Formation (level 1)
+    gained 8 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Rule Sky Sword Formation
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Raven Spirit Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 4
+    gained 10 def. Now have 20 def
+  牧逸风(pid0) finished playing Raven Spirit Sword
+  STATE after turn 10a: A(hp 28/101, def 20, qi 5) | B(hp 4/130, def 0, qi 5, force 6, phys 29, agi 6)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 2 to 2
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 3 qi
+    gained 2 def. Now have 2 def
+    gained 2 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 3 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 20 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 23
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 10b: A(hp 23/101, def 0, qi 5) | B(hp 2/130, def 3, qi 3, force 5, phys 29, agi 6)
+turn 10b ends
+turn 11a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 7 to -5
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  STATE after turn 11a: A(hp 23/101, def 10, qi 3) | B(hp -5/130, def 0, qi 3, force 5, phys 29, agi 6)
+turn 11a ends
+小布(pid3) loses 20 destiny, now at 27
+牧逸风(pid0) (Mu Yifeng) wins

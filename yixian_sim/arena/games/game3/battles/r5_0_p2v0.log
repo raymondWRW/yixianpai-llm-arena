@@ -1,0 +1,124 @@
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 50
+    reduced player 1 max_hp by 3 to 50
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 55
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 1b ends
+turn 2a begins
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 3 qi
+    healed 4 hp. Went from 55 to 59
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 2a ends
+turn 2b begins
+  player 0 is playing Toning (level 1)
+    reduced player 1 hp by 5 to 54
+    gained 1 qi. Now have 1 qi
+    gained 3 def. Now have 3 def
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Toning
+turn 2b ends
+turn 3a begins
+  player 0 is playing Five Elements Fleche (level 3)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 11 to 39
+  player 0 finished playing Five Elements Fleche
+turn 3a ends
+turn 3b begins
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 6 to 33
+    reduced player 1 hp by 3 to 30
+  player 0 finished playing Fire Spirit - Rush
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 9 to 45
+    reduced player 1 hp by 11 to 34
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 2)
+    reduced player 1 hp by 3 to 27
+    reduced player 1 hp by 3 to 24
+    reduced player 1 hp by 3 to 21
+    healed 5 hp. Went from 34 to 39
+  player 0 finished playing Wood Spirit - Bud
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 1)
+    reduced player 1 hp by 6 to 33
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced player 1 hp by 4 to 17
+    reduced player 1 hp by 4 to 13
+    reduced player 1 hp by 4 to 9
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 27
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+turn 7a ends
+turn 7b begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 21
+    reduced player 1 hp by 5 to 16
+  player 0 finished playing Cloud Sword - Fleche
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 1 to 8
+    reduced player 1 hp by 4 to 4
+    reduced player 1 hp by 4 to 0
+turn 8a ends
+player 1 loses 9 destiny, now at 69
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 2)
+  Wood Spirit Seal (level 1)
+  Five Elements Fleche (level 3)
+  Fire Spirit - Rush (level 2)
+  Wood Spirit - Bud (level 2)
+  Fire Spirit - Scarlet Flame (level 1)
+  Fire Spirit - Scarlet Flame (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Sword Slash (level 1)
+  Toning (level 1)
+  Sword Defence (level 2)
+  Thunder Sword (level 2)
+  Cloud Sword - Touch Sky (level 1)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Fleche (level 2)
+  Normal Attack (level 1)

@@ -1,0 +1,104 @@
+turn 1a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 吾行之(pid2) hp by 9 to 31
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 1a: A(hp 40/40, def 0, qi 0) | B(hp 31/40, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+  STATE after turn 1b: A(hp 40/40, def 0, qi 0) | B(hp 31/40, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Wind Sword (level 1)
+    reduced 吾行之(pid2) hp by 3 to 28
+    reduced 吾行之(pid2) hp by 3 to 25
+  牧逸风(pid0) finished playing Wind Sword
+  STATE after turn 2a: A(hp 40/40, def 0, qi 0) | B(hp 25/40, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  STATE after turn 2b: A(hp 40/40, def 0, qi 0) | B(hp 25/40, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Light Sword (level 1)
+    reduced 吾行之(pid2) hp by 4 to 21
+    gained 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 3a: A(hp 40/40, def 0, qi 1) | B(hp 21/40, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 30
+  吾行之(pid2) finished playing Water Spirit - Waves
+  STATE after turn 3b: A(hp 30/40, def 0, qi 1) | B(hp 21/40, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 18
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 4a: A(hp 30/40, def 0, qi 1) | B(hp 18/40, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 24
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 4b: A(hp 24/40, def 0, qi 1) | B(hp 18/40, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 15
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 5a: A(hp 24/40, def 0, qi 1) | B(hp 15/40, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 19
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 5b: A(hp 19/40, def 0, qi 1) | B(hp 15/40, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 12
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6a: A(hp 19/40, def 0, qi 1) | B(hp 12/40, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 16
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 6b: A(hp 16/40, def 0, qi 1) | B(hp 12/40, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 9
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 16/40, def 0, qi 1) | B(hp 9/40, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 13
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7b: A(hp 13/40, def 0, qi 1) | B(hp 9/40, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 6
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 13/40, def 0, qi 1) | B(hp 6/40, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 10
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8b: A(hp 10/40, def 0, qi 1) | B(hp 6/40, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 吾行之(pid2) hp by 9 to -3
+  STATE after turn 9a: A(hp 10/40, def 0, qi 1) | B(hp -3/40, def 0, qi 0)
+turn 9a ends
+吾行之(pid2) loses 4 destiny, now at 96
+牧逸风(pid0) (Mu Yifeng) wins

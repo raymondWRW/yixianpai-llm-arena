@@ -1,0 +1,188 @@
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 62/62, def 1, qi 1) | B(hp 62/62, def 0, qi 0, sword 1, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 61
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 1b: A(hp 62/62, def 1, qi 1) | B(hp 61/62, def 0, qi 1, sword 4, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 52
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 2a: A(hp 62/62, def 0, qi 0) | B(hp 52/62, def 0, qi 1, sword 4, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 1 to 51
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    reduced 谭舒雁(pid1) hp by 7 to 55
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 49
+    gained 1 def. Now have 1 def
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2b: A(hp 49/62, def 1, qi 0) | B(hp 51/62, def 0, qi 3, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Point (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 45
+    lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 3a: A(hp 49/62, def 0, qi 0) | B(hp 45/62, def 0, qi 2, injury 1)
+turn 3a ends
+turn 3b begins
+  reduced 牧逸风(pid0) hp by 1 to 44
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 44
+    gained 1 def. Now have 1 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 3b: A(hp 44/62, def 1, qi 0) | B(hp 44/62, def 0, qi 2, sword 3, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 39
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4a: A(hp 44/62, def 0, qi 0) | B(hp 39/62, def 0, qi 2, sword 3, injury 1)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 1 to 38
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 37
+    gained 1 def. Now have 1 def
+    gained 4 def. Now have 4 def
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 4b: A(hp 37/62, def 1, qi 0) | B(hp 38/62, def 4, qi 2, injury 1)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 2). They now have 1/1 qi
+  STATE after turn 5a: A(hp 37/62, def 0, qi 1) | B(hp 38/62, def 4, qi 2, injury 1)
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 1 to 37
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 29
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 5b: A(hp 29/62, def 1, qi 1) | B(hp 37/62, def 2, qi 1, injury 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 32
+    reduced 牧逸风(pid0) hp by 7 to 25
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 6a: A(hp 29/62, def 0, qi 0) | B(hp 25/62, def 0, qi 1, injury 1)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 1 to 24
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 23
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 19
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 6b: A(hp 19/62, def 1, qi 0) | B(hp 24/62, def 0, qi 1, injury 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Palm Thunder (level 2)
+    reduced 牧逸风(pid0) hp by 6 to 18
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 7a: A(hp 19/62, def 0, qi 0) | B(hp 18/62, def 0, qi 1, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 1 to 17
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    reduced 谭舒雁(pid1) hp by 9 to 10
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 7b: A(hp 10/62, def 1, qi 0) | B(hp 17/62, def 0, qi 1, injury 1)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 10 to 12
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 8a: A(hp 12/62, def 4, qi 0) | B(hp 17/62, def 0, qi 1, injury 1)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 1 to 16
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 6
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 8b: A(hp 6/62, def 1, qi 0) | B(hp 16/62, def 0, qi 0, injury 1)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 13
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 6 to 8
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 8/62, def 4, qi 0) | B(hp 13/62, def 0, qi 0, injury 1)
+turn 9a ends
+turn 9b begins
+  reduced 牧逸风(pid0) hp by 1 to 12
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 9b: A(hp 8/62, def 4, qi 0) | B(hp 12/62, def 0, qi 1, sword 3, injury 1)
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 3 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10a: A(hp 8/62, def 3, qi 1) | B(hp 12/62, def 0, qi 1, sword 3, injury 2)
+turn 10a ends
+turn 10b begins
+  reduced 牧逸风(pid0) hp by 2 to 10
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 5
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 0
+    gained 1 def. Now have 1 def
+    lost 3 sword_intent. Now have 0 sword_intent
+  STATE after turn 10b: A(hp 0/62, def 1, qi 1) | B(hp 10/62, def 0, qi 3, injury 2)
+turn 10b ends
+谭舒雁(pid1) loses 8 destiny, now at 86
+牧逸风(pid0) (Mu Yifeng) wins

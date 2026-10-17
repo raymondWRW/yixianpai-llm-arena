@@ -1,0 +1,244 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 101 max_hp
+    healed 4 hp. Went from 97 to 101
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 1a: A(hp 101/101, def 0, qi 0) | B(hp 84/84, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 1b: A(hp 101/101, def 0, qi 0) | B(hp 84/84, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 2 internal_injury
+    reduced 吾行之(pid2) hp by 2 to 82
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 2a: A(hp 101/101, def 0, qi 0) | B(hp 82/84, def 0, qi 0, injury 2)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 2 to 80
+  吾行之(pid2) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  吾行之(pid2) finished playing Fraccide Formation
+  STATE after turn 2b: A(hp 101/101, def 0, qi 0) | B(hp 80/84, def 0, qi 0, injury 2)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 吾行之(pid2) hp by 6 to 74
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 3a: A(hp 101/101, def 0, qi 0) | B(hp 74/84, def 0, qi 0, injury 2)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 2 to 72
+  吾行之(pid2) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 4 hexproof
+    gained 14 def. Now have 14 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 3b: A(hp 101/101, def 0, qi 0) | B(hp 72/84, def 14, qi 0, injury 2)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 101/101, def 0, qi 1) | B(hp 72/84, def 14, qi 0, injury 2)
+turn 4a ends
+turn 4b begins
+  lost 7 def. Now have 7 def
+  reduced 吾行之(pid2) hp by 2 to 70
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 17 to 84
+    lost 2 def. Now have 5 def
+    gained 8 penetrate. Now have 8 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 4b: A(hp 84/101, def 0, qi 1) | B(hp 70/84, def 5, qi 0, injury 2)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 5 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 69
+    lost 2 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 5a: A(hp 84/101, def 0, qi 0) | B(hp 69/84, def 0, qi 0, injury 2)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 2 to 67
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    penetrating 8 damage
+    lost 8 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 22 to 62
+    reduced 吾行之(pid2) hp by 2 to 65
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 5b: A(hp 62/101, def 0, qi 0) | B(hp 65/84, def 0, qi 0, injury 2)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 109 max_hp
+    healed 8 hp. Went from 62 to 70
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 6a: A(hp 70/109, def 0, qi 0) | B(hp 65/84, def 0, qi 0, injury 2)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 2 to 63
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 谭舒雁(pid1) hp by 7 to 63
+    reduced 吾行之(pid2) hp by 2 to 61
+    reduced 谭舒雁(pid1) hp by 4 to 59
+    reduced 吾行之(pid2) hp by 2 to 59
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 6b: A(hp 59/109, def 0, qi 0) | B(hp 59/84, def 0, qi 0, injury 2)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 2)
+    reduced 吾行之(pid2) hp by 3 to 56
+    reduced 吾行之(pid2) hp by 3 to 53
+    healed 6 hp. Went from 59 to 65
+  谭舒雁(pid1) finished playing Hunter Becomes Preyer
+  STATE after turn 7a: A(hp 65/109, def 0, qi 0) | B(hp 53/84, def 0, qi 0, injury 2)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 2 to 51
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 10 to 55
+    reduced 吾行之(pid2) hp by 2 to 49
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 7b: A(hp 55/109, def 0, qi 0) | B(hp 49/84, def 0, qi 0, injury 2)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 8a: A(hp 55/109, def 2, qi 1, star 1) | B(hp 49/84, def 0, qi 0, injury 2)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 2 to 47
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 2 def. Now have 0 def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 6 to 49
+    reduced 吾行之(pid2) hp by 2 to 45
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 8b: A(hp 49/109, def 0, qi 1, star 1) | B(hp 45/84, def 0, qi 0, injury 2)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 42
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 49/109, def 0, qi 1, star 1) | B(hp 42/84, def 0, qi 0, injury 2)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 2 to 40
+  吾行之(pid2) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 6 hexproof
+    gained 14 def. Now have 14 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 9b: A(hp 49/109, def 0, qi 1, star 1) | B(hp 40/84, def 14, qi 0, injury 2)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    lost 2 hexproof. Now have 4 hexproof
+    reduced 吾行之(pid2) hp by 2 to 38
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 10a: A(hp 49/109, def 0, qi 1, star 1) | B(hp 38/84, def 14, qi 0, injury 2)
+turn 10a ends
+turn 10b begins
+  lost 7 def. Now have 7 def
+  reduced 吾行之(pid2) hp by 2 to 36
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 1 ignore_def. Now have 0 ignore_def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 10 to 39
+    lost 2 def. Now have 5 def
+    gained 5 penetrate. Now have 5 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 10b: A(hp 39/109, def 0, qi 1, star 1) | B(hp 36/84, def 5, qi 0, injury 2)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    lost 5 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 34
+    healed 2 hp. Went from 39 to 41
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 11a: A(hp 41/109, def 0, qi 1, star 1) | B(hp 34/84, def 0, qi 0, injury 2)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 2 to 32
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 16 to 25
+    reduced 吾行之(pid2) hp by 2 to 30
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 11b: A(hp 25/109, def 0, qi 1, star 1) | B(hp 30/84, def 0, qi 0, injury 2)
+turn 11b ends
+turn 12a begins
+  lost 1 fate_reincarnates_stacks. Now have 3 fate_reincarnates_stacks
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 2)
+    reduced 吾行之(pid2) hp by 4 to 26
+    reduced 吾行之(pid2) hp by 4 to 22
+    healed 6 hp. Went from 25 to 31
+    reduced 吾行之(pid2) hp by 11 to 11
+  谭舒雁(pid1) finished playing Hunter Becomes Preyer
+  STATE after turn 12a: A(hp 31/109, def 0, qi 1, star 1) | B(hp 11/84, def 0, qi 0, injury 2)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 2 to 9
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 27
+    reduced 吾行之(pid2) hp by 2 to 7
+    reduced 谭舒雁(pid1) hp by 4 to 23
+    reduced 吾行之(pid2) hp by 2 to 5
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 12b: A(hp 23/109, def 0, qi 1, star 1) | B(hp 5/84, def 0, qi 0, injury 2)
+turn 12b ends
+turn 13a begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 13a: A(hp 23/109, def 2, qi 2, star 2) | B(hp 5/84, def 0, qi 0, injury 2)
+turn 13a ends
+turn 13b begins
+  reduced 吾行之(pid2) hp by 2 to 3
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 2 def. Now have 0 def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 8 to 15
+    reduced 吾行之(pid2) hp by 2 to 1
+    gained 1 activate_metal_spirit_stacks. Now have 3 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 13b: A(hp 15/109, def 0, qi 2, star 2) | B(hp 1/84, def 0, qi 0, injury 2)
+turn 13b ends
+turn 14a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to -2
+  STATE after turn 14a: A(hp 15/109, def 0, qi 2, star 2) | B(hp -2/84, def 0, qi 0, injury 2)
+turn 14a ends
+吾行之(pid2) loses 17 destiny, now at 26
+谭舒雁(pid1) (Tan Shuyan) wins

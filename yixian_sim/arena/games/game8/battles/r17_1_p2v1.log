@@ -1,0 +1,167 @@
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Blast (level 3). They now have 1/1 qi
+  STATE after turn 1a: A(hp 120/120, def 0, qi 1) | B(hp 134/134, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Polaris Citta-Dharma (level 1)
+    gained 2 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Polaris Citta-Dharma
+  STATE after turn 1b: A(hp 120/120, def 0, qi 1) | B(hp 134/134, def 0, qi 0, star 2)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 3)
+    gained 3 increase_atk. Now have 3 increase_atk
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 2a: A(hp 120/120, def 0, qi 0) | B(hp 134/134, def 0, qi 0, star 2)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 2). They now have 1/1 qi
+  STATE after turn 2b: A(hp 120/120, def 0, qi 0) | B(hp 134/134, def 0, qi 1, star 2)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 127
+    reduced 谭舒雁(pid1) hp by 7 to 120
+    reducing hp to max_hp of 106
+    reduced 谭舒雁(pid1) max_hp by 28 to 106
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 3a: A(hp 120/120, def 0, qi 0) | B(hp 106/106, def 0, qi 1, star 2)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 吾行之(pid2) hp by 9 to 111
+    reduced 吾行之(pid2) hp by 9 to 102
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 102/120, def 0, qi 0) | B(hp 106/106, def 0, qi 0, star 2)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Fire Spirit Formation (level 2)
+    reduced 谭舒雁(pid1) hp by 3 to 103
+    reduced 谭舒雁(pid1) max_hp by 3 to 103
+    gained 3 fire_spirit_formation_stacks. Now have 3 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 4a: A(hp 102/120, def 0, qi 0) | B(hp 103/103, def 0, qi 0, star 2)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 吾行之(pid2) hp by 10 to 92
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4b: A(hp 92/120, def 0, qi 0) | B(hp 103/103, def 0, qi 1, star 2)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 3 to 100
+    reduced 谭舒雁(pid1) max_hp by 3 to 100
+    reduced 谭舒雁(pid1) hp by 3 to 97
+    reduced 谭舒雁(pid1) max_hp by 3 to 97
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 5a: A(hp 92/120, def 0, qi 2) | B(hp 97/97, def 0, qi 1, star 2)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 5b: A(hp 92/120, def 0, qi 2) | B(hp 97/97, def 0, qi 1, star 2)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 94
+    reduced 谭舒雁(pid1) max_hp by 3 to 94
+    gained 2 qi. Now have 4 qi
+    reduced 谭舒雁(pid1) hp by 3 to 91
+    reduced 谭舒雁(pid1) max_hp by 3 to 91
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 6a: A(hp 92/120, def 0, qi 4) | B(hp 91/91, def 0, qi 1, star 2)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Fly (level 2)
+    reduced 吾行之(pid2) hp by 6 to 86
+    reduced 吾行之(pid2) hp by 6 to 80
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Astral Move - Point (level 1)
+    reduced 吾行之(pid2) hp by 8 to 72
+    lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 6b: A(hp 72/120, def 0, qi 3) | B(hp 91/91, def 0, qi 0, star 2)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 2)
+    reduced 谭舒雁(pid1) hp by 3 to 88
+    reduced 谭舒雁(pid1) max_hp by 3 to 88
+    reducing hp to max_hp of 80
+    reduced 谭舒雁(pid1) max_hp by 8 to 80
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Fire Spirit - Blazing Prairie (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 77
+    reduced 谭舒雁(pid1) max_hp by 3 to 77
+    reduced 谭舒雁(pid1) hp by 9 to 68
+    reduced 谭舒雁(pid1) hp by 9 to 59
+    reduced 谭舒雁(pid1) hp by 9 to 50
+    reducing hp to max_hp of 48
+    reduced 谭舒雁(pid1) max_hp by 29 to 48
+  吾行之(pid2) finished playing Fire Spirit - Blazing Prairie
+  STATE after turn 7a: A(hp 72/120, def 0, qi 1) | B(hp 48/48, def 0, qi 0, star 2)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Heavenly Decree - Attack (level 1)
+    reduced 吾行之(pid2) hp by 8 to 64
+    gained 3 def. Now have 3 def
+  谭舒雁(pid1) finished playing Heavenly Decree - Attack
+  STATE after turn 7b: A(hp 64/120, def 0, qi 1) | B(hp 48/48, def 3, qi 0, star 2)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 45
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8a: A(hp 64/120, def 0, qi 1) | B(hp 45/48, def 0, qi 0, star 2)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Astral Fleche (level 1)
+    reduced 吾行之(pid2) hp by 7 to 57
+    gained 1 star_power. Now have 3 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 8b: A(hp 57/120, def 0, qi 1) | B(hp 45/48, def 0, qi 0, star 3)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 3)
+    reduced 谭舒雁(pid1) hp by 3 to 42
+    reduced 谭舒雁(pid1) max_hp by 3 to 45
+    gained 3 increase_atk. Now have 6 increase_atk
+    reduced 谭舒雁(pid1) hp by 13 to 29
+    reduced 谭舒雁(pid1) max_hp by 13 to 32
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 9a: A(hp 57/120, def 0, qi 0) | B(hp 29/32, def 0, qi 0, star 3)
+turn 9a ends
+turn 9b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 2). They now have 1/1 qi
+  STATE after turn 9b: A(hp 57/120, def 0, qi 0) | B(hp 29/32, def 0, qi 1, star 3)
+turn 9b ends
+turn 10a begins
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 26
+    reduced 谭舒雁(pid1) max_hp by 3 to 29
+    reduced 谭舒雁(pid1) hp by 10 to 16
+    reduced 谭舒雁(pid1) hp by 10 to 6
+    reducing hp to max_hp of 0
+    reduced 谭舒雁(pid1) max_hp by 40 to 0
+  STATE after turn 10a: A(hp 57/120, def 0, qi 0) | B(hp 0/0, def 0, qi 1, star 3)
+turn 10a ends
+谭舒雁(pid1) loses 26 destiny, now at 12
+吾行之(pid2) (Wu Xingzhi) wins

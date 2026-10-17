@@ -1,0 +1,179 @@
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 81
+    reduced player 1 max_hp by 3 to 128
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 49 physique
+    gained 2 max_hp. Now have 130 max_hp
+    healed 4 hp. Went from 81 to 85
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced player 1 hp by 11 to 74
+    reduced player 1 hp by 3 to 71
+  player 0 finished playing Fire Spirit - Rush
+turn 2a ends
+turn 2b begins
+  player 0 is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 2 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2b ends
+turn 3a begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 57
+  player 0 finished playing Five Elements Fleche
+turn 3a ends
+turn 3b begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 13 to 71
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 3 force
+  player 0 finished playing Vigorous Force
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    reduced player 1 hp by 5 to 52
+    reduced player 1 hp by 5 to 47
+    reduced player 1 hp by 6 to 41
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 4a ends
+turn 4b begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 5 force
+  player 0 finished playing Standing Firm
+turn 4b ends
+turn 5a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 3 qi
+    reduced player 1 hp by 4 to 37
+    reduced player 1 max_hp by 4 to 126
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Overwhelming Force (level 1)
+    lost 5 force. Now have 0 force
+    gained 20 def. Now have 22 def
+    reduced player 1 hp by 15 to 56
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Overwhelming Force
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 19 def
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  lost 10 def. Now have 9 def
+  player 0 is playing Sword Bamboo (level 2)
+    reduced player 1 hp by 4 to 52
+    reduced player 1 hp by 4 to 48
+  player 0 finished playing Sword Bamboo
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 6 def
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 39
+    gained 1 physique. Now have 50 physique
+    gained 1 max_hp. Now have 127 max_hp
+  player 0 finished playing Exercise Fist
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    gained 1 force. Now have 1 force
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 14 to 25
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 8b ends
+turn 9a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 34
+    reduced player 1 max_hp by 3 to 124
+    gained 2 qi. Now have 5 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 52 physique
+    gained 2 max_hp. Now have 126 max_hp
+    healed 4 hp. Went from 34 to 38
+  player 0 finished playing Embracing Qi Technique
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced player 1 hp by 11 to 27
+    reduced player 1 hp by 3 to 24
+  player 0 finished playing Fire Spirit - Rush
+turn 10a ends
+turn 10b begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 16
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 10b ends
+turn 11a begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 10
+  player 0 finished playing Five Elements Fleche
+turn 11a ends
+turn 11b begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 4 force
+  player 0 finished playing Standing Firm
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 1 to 9
+    reduced player 1 hp by 5 to 4
+    reduced player 1 hp by 6 to -2
+turn 12a ends
+player 1 loses 13 destiny, now at 63
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 2)
+  Fire Spirit - Rush (level 2)
+  Five Elements Fleche (level 3)
+  Fire Spirit - Scarlet Flame (level 2)
+  Fire Spirit - Flame Eater (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Crash Citta-Dharma (level 1)
+  Vigorous Force (level 2)
+  Standing Firm (level 1)
+  Overwhelming Force (level 1)
+  Sword Bamboo (level 2)
+  Exercise Fist (level 2)
+  Mountain-Cleaving Palms (level 2)

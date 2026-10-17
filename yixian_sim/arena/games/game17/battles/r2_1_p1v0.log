@@ -1,0 +1,116 @@
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+  STATE after turn 1a: A(hp 42/42, def 0, qi 1) | B(hp 42/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Light Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 38
+    gained 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 1b: A(hp 38/42, def 0, qi 1) | B(hp 42/42, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 33
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 2a: A(hp 38/42, def 0, qi 0) | B(hp 33/42, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 34
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 2b: A(hp 34/42, def 0, qi 0) | B(hp 33/42, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Palm Thunder (level 1)
+    reduced 牧逸风(pid0) hp by 4 to 29
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 3a: A(hp 34/42, def 0, qi 0) | B(hp 29/42, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Wind Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 4 to 30
+    reduced 谭舒雁(pid1) hp by 4 to 26
+  牧逸风(pid0) finished playing Wind Sword
+  STATE after turn 3b: A(hp 26/42, def 0, qi 0) | B(hp 29/42, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 2). They now have 1/1 qi
+  STATE after turn 4a: A(hp 26/42, def 0, qi 1) | B(hp 29/42, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 21
+    reduced 谭舒雁(pid1) hp by 6 to 15
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 4b: A(hp 15/42, def 0, qi 1) | B(hp 29/42, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 22
+    reduced 牧逸风(pid0) hp by 7 to 15
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 5a: A(hp 15/42, def 0, qi 0) | B(hp 15/42, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 12
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 5b: A(hp 12/42, def 0, qi 0) | B(hp 15/42, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 4 to 11
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 6a: A(hp 12/42, def 0, qi 1) | B(hp 11/42, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 9
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6b: A(hp 9/42, def 0, qi 1) | B(hp 11/42, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 8
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 9/42, def 0, qi 1) | B(hp 8/42, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 6
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 6/42, def 0, qi 1) | B(hp 8/42, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 5
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 6/42, def 0, qi 1) | B(hp 5/42, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 3
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 3/42, def 0, qi 1) | B(hp 5/42, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 2
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 3/42, def 0, qi 1) | B(hp 2/42, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Light Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to -1
+    gained 1 qi. Now have 1 qi
+  STATE after turn 9b: A(hp -1/42, def 0, qi 1) | B(hp 2/42, def 0, qi 1)
+turn 9b ends
+谭舒雁(pid1) loses 3 destiny, now at 97
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,240 @@
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 5 to 75
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 11 to 75
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 2b ends
+turn 3a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 67
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 75 to 79
+  player 0 finished playing White Crane Bright Wings
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 3 to 64
+  player 0 spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced player 1 hp by 20 to 59
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    lost 4 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 3 to 61
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 59
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 1 force
+    lost 12 def. Now have 0 def
+    reduced player 1 hp by 4 to 55
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 49
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 42
+  player 0 finished playing Sparrow's Tail
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 4 to 38
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+  healed 4 hp. Went from 38 to 42
+  player 0 healed 4 hp from crash fist bounce
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 15 to 40
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5b ends
+turn 6a begins
+  player 0 is playing Imposing (level 1)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 40 to 44
+  player 0 finished playing Imposing
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 4 to 38
+  player 0 spent 4 hp to play Crash Fist - Shake (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced player 1 hp by 11 to 33
+    gained 3 crash_fist_shake_stacks. Now have 3 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 98 max_hp
+    healed 18 hp. Went from 33 to 51
+  player 0 finished playing Qi Therapy
+turn 7a ends
+turn 7b begins
+  player 0 is playing Exercise Bones (level 1)
+    gained 1 physique. Now have 24 physique
+    gained 1 max_hp. Now have 104 max_hp
+    healed 3 hp. Went from 38 to 41
+    gained 2 exercise_bones_stacks. Now have 2 exercise_bones_stacks
+  player 0 finished playing Exercise Bones
+turn 7b ends
+turn 8a begins
+  player 0 is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 102 max_hp
+    healed 4 hp. Went from 51 to 55
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  player 0 finished playing Repel Citta-Dharma
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    gained 1 physique. Now have 25 physique
+    gained 1 max_hp. Now have 105 max_hp
+    lost 1 exercise_bones_stacks. Now have 1 exercise_bones_stacks
+    reduced player 1 hp by 21 to 34
+    reduced player 0 hp by 2 to 39
+    gained 3 weaken. Now have 3 weaken
+  player 0 finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 9a ends
+turn 9b begins
+  player 0 is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+  lost 1 weaken. Now have 1 weaken
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 31
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 34 to 38
+  player 0 finished playing White Crane Bright Wings
+turn 10a ends
+turn 10b begins
+  reduced player 0 hp by 5 to 26
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    gained 3 force. Now have 4 force
+    gained 1 physique. Now have 26 physique
+    gained 1 max_hp. Now have 106 max_hp
+    lost 1 exercise_bones_stacks. Now have 0 exercise_bones_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 13 to 25
+    reduced player 0 hp by 2 to 24
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+  lost 1 weaken. Now have 0 weaken
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 20
+    reduced player 1 hp by 4 to 16
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 3 to 13
+  player 0 spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    lost 12 def. Now have 0 def
+    reduced player 1 hp by 12 to 13
+    lost 2 def. Now have 3 def
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 7 to 6
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to -1
+turn 12a ends
+player 1 loses 14 destiny, now at 46
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Wild Horses Part the Mane (level 2)
+  Sparrow's Tail (level 2)
+  Imposing (level 1)
+  Qi Therapy (level 2)
+  Repel Citta-Dharma (level 1)
+Player 1's deck:
+  Majestic Qi (level 1)
+  Crash Fist - Subdue Dragon (level 1)
+  Crash Fist - Poke (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Shake (level 2)
+  Exercise Bones (level 1)
+  Ghost Howling (level 2)

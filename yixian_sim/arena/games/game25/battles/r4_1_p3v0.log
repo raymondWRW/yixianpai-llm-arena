@@ -1,0 +1,97 @@
+turn 1a begins
+  reduced 小布(pid3) hp by 3 to 48
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 1 physique. Now have 6 physique
+    gained 1 max_hp. Now have 57 max_hp
+    healed 1 hp. Went from 48 to 49
+    reduced 牧逸风(pid0) hp by 9 to 42
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 1a: A(hp 49/57, def 0, qi 0, phys 6) | B(hp 42/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 小布(pid3) hp by 4 to 45
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 1b: A(hp 45/57, def 0, qi 0, phys 6) | B(hp 42/51, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 4 to 41
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 牧逸风(pid0) hp by 16 to 26
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 2a: A(hp 41/57, def 0, qi 0, phys 6) | B(hp 26/51, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  牧逸风(pid0) finished playing Fraccide Formation
+  reduced 小布(pid3) hp by 4 to 37
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 2b: A(hp 37/57, def 0, qi 0, phys 6) | B(hp 26/51, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 3 to 34
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 牧逸风(pid0) hp by 7 to 19
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 3a: A(hp 34/57, def 2, qi 0, phys 6) | B(hp 19/51, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 34/57, def 2, qi 0, phys 6) | B(hp 19/51, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 2 to 32
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 2 def. Now have 3 def
+    reduced 牧逸风(pid0) hp by 8 to 11
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 4a: A(hp 32/57, def 3, qi 0, phys 6) | B(hp 11/51, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 12 to 20
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4b: A(hp 20/57, def 0, qi 0, phys 6) | B(hp 11/51, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 5a: A(hp 20/57, def 0, qi 1, phys 6) | B(hp 11/51, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 小布(pid3) hp by 8 to 12
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 5b: A(hp 12/57, def 0, qi 1, phys 6) | B(hp 11/51, def 0, qi 0, sword 3)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    reduced 牧逸风(pid0) hp by 12 to -1
+    gained 1 internal_injury. Now have 1 internal_injury
+  STATE after turn 6a: A(hp 12/57, def 0, qi 0, injury 1, phys 6) | B(hp -1/51, def 0, qi 0, sword 3)
+turn 6a ends
+牧逸风(pid0) loses 7 destiny, now at 88
+小布(pid3) (Xiao Bu) wins

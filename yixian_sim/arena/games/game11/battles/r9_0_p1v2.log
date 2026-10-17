@@ -1,0 +1,196 @@
+gained 5 max_hp. Now have 83 max_hp
+gained 1 def. Now have 1 def
+healed 5 hp. Went from 78 to 83
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 2 star_power
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 1a: A(hp 83/83, def 0, qi 1, star 2) | B(hp 78/78, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 81
+    gained 1 def. Now have 1 def
+    reduced 谭舒雁(pid1) max_hp by 2 to 81
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 1b: A(hp 81/81, def 1, qi 1, star 2) | B(hp 78/78, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 吾行之(pid2) hp by 8 to 70
+    reduced 吾行之(pid2) hp by 7 to 63
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 2a: A(hp 81/81, def 0, qi 0, star 2) | B(hp 63/78, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 2b: A(hp 81/81, def 0, qi 0, star 2) | B(hp 63/78, def 0, qi 3)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Astral Move - Point (level 1)
+    reduced 吾行之(pid2) hp by 8 to 55
+    lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 3a: A(hp 81/81, def 0, qi 0, star 2) | B(hp 55/78, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 2 qi. Now have 5 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 3b: A(hp 81/81, def 0, qi 0, star 2) | B(hp 55/78, def 0, qi 5)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 50
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4a: A(hp 81/81, def 0, qi 0, star 2) | B(hp 50/78, def 0, qi 5)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 2 qi. Now have 8 qi
+    gained 1 water_spirit_spring_stacks. Now have 2 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 4b: A(hp 81/81, def 0, qi 0, star 2) | B(hp 50/78, def 0, qi 8)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 2)
+    reduced 吾行之(pid2) hp by 10 to 40
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 5a: A(hp 81/81, def 0, qi 2, star 2) | B(hp 40/78, def 0, qi 8)
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 6 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 7 qi
+    reduced 谭舒雁(pid1) hp by 13 to 68
+    gained 1 def. Now have 1 def
+    gained 2 force_of_water. Now have 2 force_of_water
+    gained 1 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 66
+  gained 1 def. Now have 1 def
+  STATE after turn 5b: A(hp 66/81, def 1, qi 2, star 2) | B(hp 40/78, def 0, qi 7)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 2)
+    gained 1 def. Now have 1 def
+    healed 10 hp. Went from 66 to 76
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 6a: A(hp 76/81, def 1, qi 2, star 2) | B(hp 40/78, def 0, qi 7)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 6 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 7 qi
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 12 to 64
+    gained 1 def. Now have 1 def
+    gained 2 force_of_water. Now have 5 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 4 to 60
+  gained 1 def. Now have 1 def
+  STATE after turn 6b: A(hp 60/81, def 1, qi 2, star 2) | B(hp 40/78, def 0, qi 7)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 吾行之(pid2) hp by 14 to 26
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 7a: A(hp 60/81, def 0, qi 1, star 2) | B(hp 26/78, def 0, qi 7)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    reduced 谭舒雁(pid1) hp by 7 to 53
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 4 to 49
+  gained 1 def. Now have 1 def
+  STATE after turn 7b: A(hp 49/81, def 1, qi 1, star 2) | B(hp 26/78, def 0, qi 7)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 89 max_hp
+    gained 1 def. Now have 1 def
+    healed 15 hp. Went from 49 to 64
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 8a: A(hp 64/89, def 1, qi 0, star 2) | B(hp 26/78, def 0, qi 7)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 58
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 4 to 54
+  gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp 54/89, def 1, qi 0, star 2) | B(hp 26/78, def 0, qi 7)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 4 star_power
+    gained 1 qi. Now have 1 qi
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 9a: A(hp 54/89, def 0, qi 2, star 4) | B(hp 26/78, def 0, qi 7)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 8 qi
+    gained 2 qi. Now have 10 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 5 to 49
+  gained 1 def. Now have 1 def
+  STATE after turn 9b: A(hp 49/89, def 1, qi 2, star 4) | B(hp 26/78, def 0, qi 10)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 吾行之(pid2) hp by 10 to 16
+    reduced 吾行之(pid2) hp by 9 to 7
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 10a: A(hp 49/89, def 0, qi 1, star 4) | B(hp 7/78, def 0, qi 10)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 11 qi
+    gained 2 qi. Now have 13 qi
+    gained 1 water_spirit_spring_stacks. Now have 2 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 5 to 44
+  gained 1 def. Now have 1 def
+  STATE after turn 10b: A(hp 44/89, def 1, qi 1, star 4) | B(hp 7/78, def 0, qi 13)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Point (level 1)
+    reduced 吾行之(pid2) hp by 10 to -3
+    lost 1 qi. Now have 12 qi
+  STATE after turn 11a: A(hp 44/89, def 0, qi 1, star 4) | B(hp -3/78, def 0, qi 12)
+turn 11a ends
+吾行之(pid2) loses 16 destiny, now at 38
+谭舒雁(pid1) (Tan Shuyan) wins

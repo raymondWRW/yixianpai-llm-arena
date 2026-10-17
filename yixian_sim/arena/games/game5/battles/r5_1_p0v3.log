@@ -1,0 +1,124 @@
+turn 1a begins
+  player 0 is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 44
+    gained 1 physique. Now have 6 physique
+    gained 1 max_hp. Now have 65 max_hp
+  player 0 finished playing Exercise Fist
+turn 1b ends
+turn 2a begins
+  player 0 is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 3 to 56
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    reduced player 1 hp by 9 to 35
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 1 to 55
+  reduced player 0 hp by 3 to 52
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    reduced player 1 hp by 11 to 24
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3b ends
+turn 4a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 16 to 36
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 2 to 34
+  reduced player 0 hp by 4 to 30
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 3 def. Now have 4 def
+    reduced player 1 hp by 10 to 14
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 4b ends
+turn 5a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  player 0 is playing Sword Slash (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 6 to 24
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Slash
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 3 to 21
+  player 0 is playing Exercise Fist (level 1)
+    reduced player 1 hp by 6 to 8
+    gained 1 physique. Now have 7 physique
+    gained 1 max_hp. Now have 66 max_hp
+  player 0 finished playing Exercise Fist
+turn 5b ends
+turn 6a begins
+  player 0 is playing Impact Formation (level 2)
+    reduced player 1 hp by 11 to 10
+    reduced player 1 hp by 6 to 4
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Impact Formation
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 3 to 1
+  player 0 is playing Detect-Horse Palms (level 1)
+    reduced player 1 hp by 7 to 1
+    gained 3 def. Now have 3 def
+  player 0 finished playing Detect-Horse Palms
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Earth Evil Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to -4
+    gained 5 def. Now have 5 def
+turn 7a ends
+player 1 loses 6 destiny, now at 83
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Fraccide Formation (level 1)
+  Cacopoisonous Formation (level 2)
+  Qi Perfusion (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Sword Slash (level 2)
+  Impact Formation (level 2)
+  Earth Evil Sword (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Exercise Fist (level 2)
+  Crash Fist - Poke (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Shake (level 1)
+  Exercise Fist (level 1)
+  Detect-Horse Palms (level 1)
+  Sky-Piercing Claw (level 2)
+  Normal Attack (level 1)

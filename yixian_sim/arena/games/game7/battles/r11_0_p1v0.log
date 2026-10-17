@@ -1,0 +1,431 @@
+gained 1 qi. Now have 1 qi
+gained 1 qi. Now have 1 qi
+reduced player 1 hp by 3 to 92
+reduced player 0 hp by 3 to 79
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 2)
+    gained 3 stillness_citta_dharma_stacks. Now have 3 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 1b ends
+turn 2a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 5 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 5 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 4 def
+turn 2b ends
+turn 3a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 max_hp. Now have 98 max_hp
+    healed 10 hp. Went from 92 to 98
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 6 qi
+    gained 4 sword_intent. Now have 8 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 5 def
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 3 max_hp. Now have 101 max_hp
+    healed 10 hp. Went from 98 to 101
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 4a ends
+turn 4b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 9 qi
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 10 to 91
+    reduced player 1 hp by 11 to 80
+    lost 8 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 4b ends
+turn 5a begins
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 7 qi
+    gained 3 max_hp. Now have 104 max_hp
+    healed 10 hp. Went from 80 to 90
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  player 0 finished playing Flower Sentient
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 1 to 78
+  player 0 is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  player 0 finished playing Bad Omen
+  gained 3 def. Now have 4 def
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+  player 0 finished playing Water Hexagram
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 1 to 77
+  lost 1 qi. Now have 8 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 5 to 85
+    lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+    gained 1 wound. Now have 1 wound
+    reduced player 1 hp by 9 to 76
+  player 0 finished playing Thunder Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 4 to 73
+  player 0 finished playing Shifting Stars
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 1 to 72
+  lost 2 qi. Now have 6 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 10 to 66
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 3)
+    reduced player 1 hp by 25 to 41
+  player 0 finished playing Giant Whale Spirit Sword
+turn 7b ends
+turn 8a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 9 to 63
+    gained 3 qi. Now have 10 qi
+    gained 3 max_hp. Now have 107 max_hp
+    healed 15 hp. Went from 41 to 56
+  player 0 finished playing White Crane Bright Wings
+turn 8a ends
+turn 8b begins
+  reduced player 0 hp by 1 to 62
+  player 0 is playing Detect Qi (level 2)
+    gained 3 qi. Now have 7 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 8b ends
+turn 9a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 12 qi
+    gained 3 max_hp. Now have 110 max_hp
+    healed 10 hp. Went from 56 to 66
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9a ends
+turn 9b begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 1 to 61
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 8 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 4 def
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 14 qi
+    gained 3 max_hp. Now have 113 max_hp
+    healed 10 hp. Went from 66 to 76
+    gained 1 hexagram. Now have 3 hexagram
+  player 0 finished playing Wind Hexagram
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 1 to 60
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 9 qi
+    gained 4 sword_intent. Now have 8 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 5 def
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 16 qi
+    gained 3 max_hp. Now have 116 max_hp
+    healed 10 hp. Went from 76 to 86
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  player 0 finished playing Flower Sentient
+turn 11a ends
+turn 11b begins
+  lost 3 def. Now have 2 def
+  reduced player 0 hp by 2 to 58
+  player 0 is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 12 qi
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 10 to 76
+    reduced player 1 hp by 12 to 64
+    lost 8 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 11b ends
+turn 12a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 5 hexagram
+    gained 1 qi. Now have 17 qi
+    gained 3 max_hp. Now have 119 max_hp
+    healed 5 hp. Went from 64 to 69
+  player 0 finished playing Water Hexagram
+turn 12a ends
+turn 12b begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 2 to 56
+  player 0 is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  player 0 finished playing Bad Omen
+  gained 3 def. Now have 4 def
+turn 12b ends
+turn 13a begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 3 to 53
+    gained 1 qi. Now have 18 qi
+    gained 3 max_hp. Now have 122 max_hp
+    healed 5 hp. Went from 69 to 74
+  player 0 finished playing Shifting Stars
+turn 13a ends
+turn 13b begins
+  reduced player 0 hp by 2 to 51
+  lost 1 qi. Now have 11 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 7 to 67
+    lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+    gained 1 wound. Now have 2 wound
+    reduced player 1 hp by 10 to 57
+  player 0 finished playing Thunder Sword
+turn 13b ends
+turn 14a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 4 hexagram
+    reduced player 1 hp by 10 to 41
+    gained 3 qi. Now have 21 qi
+    gained 3 max_hp. Now have 125 max_hp
+    healed 15 hp. Went from 57 to 72
+  player 0 finished playing White Crane Bright Wings
+turn 14a ends
+turn 14b begins
+  reduced player 0 hp by 2 to 39
+  lost 2 qi. Now have 9 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 11 to 61
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 7 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 3)
+    reduced player 1 hp by 26 to 35
+  player 0 finished playing Giant Whale Spirit Sword
+turn 14b ends
+turn 15a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 23 qi
+    gained 3 max_hp. Now have 128 max_hp
+    healed 10 hp. Went from 35 to 45
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 3 star_power
+  player 0 finished playing Dotted Around
+turn 15a ends
+turn 15b begins
+  reduced player 0 hp by 2 to 37
+  player 0 is playing Detect Qi (level 2)
+    gained 3 qi. Now have 10 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 15b ends
+turn 16a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 25 qi
+    gained 3 max_hp. Now have 131 max_hp
+    healed 10 hp. Went from 45 to 55
+    gained 1 hexagram. Now have 5 hexagram
+  player 0 finished playing Wind Hexagram
+turn 16a ends
+turn 16b begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 2 to 35
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 11 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 4 def
+turn 16b ends
+turn 17a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 27 qi
+    gained 3 max_hp. Now have 134 max_hp
+    healed 10 hp. Went from 55 to 65
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 3 internal_injury
+  player 0 finished playing Flower Sentient
+turn 17a ends
+turn 17b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 3 to 32
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 12 qi
+    gained 4 sword_intent. Now have 8 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 5 def
+turn 17b ends
+turn 18a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 7 hexagram
+    gained 1 qi. Now have 28 qi
+    gained 3 max_hp. Now have 137 max_hp
+    healed 5 hp. Went from 65 to 70
+  player 0 finished playing Water Hexagram
+turn 18a ends
+turn 18b begins
+  lost 3 def. Now have 2 def
+  reduced player 0 hp by 3 to 29
+  player 0 is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 15 qi
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 12 to 58
+    reduced player 1 hp by 13 to 45
+    lost 8 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 18b ends
+turn 19a begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 23
+    gained 1 qi. Now have 29 qi
+    gained 3 max_hp. Now have 140 max_hp
+    healed 5 hp. Went from 45 to 50
+  player 0 finished playing Shifting Stars
+turn 19a ends
+turn 19b begins
+  reduced player 0 hp by 3 to 20
+  player 0 is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  player 0 finished playing Bad Omen
+  gained 3 def. Now have 3 def
+turn 19b ends
+turn 20a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 6 hexagram
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 8 to 12
+    gained 3 qi. Now have 32 qi
+    gained 3 max_hp. Now have 143 max_hp
+    healed 15 hp. Went from 50 to 65
+  player 0 finished playing White Crane Bright Wings
+turn 20a ends
+turn 20b begins
+  reduced player 0 hp by 3 to 9
+  lost 1 qi. Now have 14 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 8 to 57
+    lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+    gained 1 wound. Now have 3 wound
+    reduced player 1 hp by 11 to 46
+  player 0 finished playing Thunder Sword
+turn 20b ends
+turn 21a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 34 qi
+    gained 3 max_hp. Now have 146 max_hp
+    healed 10 hp. Went from 46 to 56
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 4 star_power
+  player 0 finished playing Dotted Around
+turn 21a ends
+turn 21b begins
+  reduced player 0 hp by 3 to 6
+  lost 2 qi. Now have 12 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 9 to 47
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 10 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 3)
+    reduced player 1 hp by 27 to 20
+  player 0 finished playing Giant Whale Spirit Sword
+turn 21b ends
+turn 22a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 36 qi
+    gained 3 max_hp. Now have 149 max_hp
+    healed 10 hp. Went from 20 to 30
+    gained 1 hexagram. Now have 7 hexagram
+  player 0 finished playing Wind Hexagram
+turn 22a ends
+turn 22b begins
+  reduced player 0 hp by 3 to 3
+  player 0 is playing Detect Qi (level 2)
+    gained 3 qi. Now have 13 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 22b ends
+turn 23a begins
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 38 qi
+    gained 3 max_hp. Now have 152 max_hp
+    healed 10 hp. Went from 30 to 40
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  player 0 finished playing Flower Sentient
+turn 23a ends
+turn 23b begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 4 to -1
+turn 23b ends
+player 1 loses 19 destiny, now at 21
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 2)
+  Stillness Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Wind Hexagram (level 2)
+  Flower Sentient (level 2)
+  Water Hexagram (level 1)
+  Shifting Stars (level 1)
+  White Crane Bright Wings (level 3)
+Player 1's deck:
+  Detect Qi (level 2)
+  Contemplate Spirits Rhythm (level 2)
+  Contemplate Spirits Rhythm (level 2)
+  Spiritage Sword (level 2)
+  Bad Omen (level 1)
+  Thunder Sword (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 3)

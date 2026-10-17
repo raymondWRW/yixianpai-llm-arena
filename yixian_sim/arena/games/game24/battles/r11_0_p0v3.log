@@ -1,0 +1,144 @@
+turn 1a begins
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1a: A(hp 82/82, def 0, qi 0) | B(hp 82/87, def 0, qi 0, phys 5)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 2 to 80
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 73
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 1b: A(hp 73/82, def 0, qi 0) | B(hp 80/87, def 0, qi 0, phys 5)
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  牧逸风(pid0) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 2a: A(hp 73/82, def 0, qi 0) | B(hp 80/87, def 0, qi 0, injury 1, phys 5)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 1 to 79
+  reduced 小布(pid3) hp by 4 to 75
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 63
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 2b: A(hp 63/82, def 0, qi 0) | B(hp 75/87, def 0, qi 0, injury 1, phys 5)
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 3a: A(hp 63/82, def 2, qi 2, sword 2) | B(hp 75/87, def 0, qi 0, injury 2, phys 5)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 2 to 73
+  reduced 小布(pid3) hp by 2 to 71
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 1 wound. Now have 1 wound
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 10 to 53
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 3b: A(hp 53/82, def 0, qi 2, sword 2) | B(hp 71/87, def 0, qi 0, injury 2, phys 5)
+turn 3b ends
+turn 4a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 15 to 56
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 7 to 49
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4a: A(hp 53/82, def 0, qi 1) | B(hp 49/87, def 0, qi 0, injury 3, phys 5)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 3 to 46
+  reduced 小布(pid3) hp by 2 to 44
+  小布(pid3) spent 2 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 42
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 4b: A(hp 42/82, def 0, qi 1) | B(hp 44/87, def 0, qi 0, injury 3, phys 5)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 小布(pid3) hp by 7 to 37
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 32
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 5a: A(hp 42/82, def 0, qi 1) | B(hp 32/87, def 0, qi 0, injury 3, phys 5)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 3 to 29
+  小布(pid3) is playing Vigorous Force (level 2)
+    reduced 牧逸风(pid0) hp by 10 to 32
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 5b: A(hp 32/82, def 0, qi 1) | B(hp 29/87, def 0, qi 0, injury 3, phys 5)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 小布(pid3) hp by 5 to 24
+    reduced 小布(pid3) hp by 3 to 21
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 16
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 6a: A(hp 32/82, def 0, qi 1) | B(hp 16/87, def 0, qi 0, injury 3, phys 5)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 3 to 13
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 6b: A(hp 32/82, def 0, qi 1) | B(hp 13/87, def 0, qi 2, force 1, injury 3, phys 5)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 小布(pid3) hp by 8 to 5
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 7a: A(hp 32/82, def 8, qi 0) | B(hp 5/87, def 0, qi 2, force 1, injury 3, phys 5)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 3 to 2
+  reduced 小布(pid3) hp by 4 to -2
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+  healed 4 hp. Went from -2 to 2
+  小布(pid3) healed 4 hp from crash fist bounce
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    lost 8 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 9 to 23
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 7b: A(hp 23/82, def 0, qi 0) | B(hp 2/87, def 0, qi 2, force 1, injury 3, phys 5)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    reduced 小布(pid3) hp by 6 to -4
+    reduced 小布(pid3) hp by 2 to -6
+  STATE after turn 8a: A(hp 23/82, def 0, qi 0) | B(hp -6/87, def 0, qi 2, force 1, injury 3, phys 5)
+turn 8a ends
+小布(pid3) loses 17 destiny, now at 43
+牧逸风(pid0) (Mu Yifeng) wins

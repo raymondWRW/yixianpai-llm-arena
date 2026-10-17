@@ -1,0 +1,251 @@
+gained 4 def. Now have 4 def
+reduced 牧逸风(pid0) hp by 6 to 93
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 1a: A(hp 99/99, def 6, qi 0) | B(hp 93/99, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1b: A(hp 99/99, def 6, qi 0) | B(hp 93/99, def 3, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 3 def. Now have 3 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 2a: A(hp 99/99, def 3, qi 1) | B(hp 93/99, def 3, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 2b: A(hp 99/99, def 3, qi 1) | B(hp 93/99, def 3, qi 3)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 3a: A(hp 99/99, def 1, qi 0) | B(hp 93/99, def 3, qi 3, injury 4)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 89
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 5 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 1 to 98
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 98/99, def 0, qi 0) | B(hp 89/99, def 1, qi 5, injury 4)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 牧逸风(pid0) hp by 6 to 83
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 98/99, def 0, qi 0) | B(hp 83/99, def 1, qi 5, injury 6)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 6 to 77
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 88
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 75
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 4b: A(hp 75/99, def 0, qi 0) | B(hp 77/99, def 10, qi 4, injury 6)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 75 to 79
+    lost 6 def. Now have 4 def
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 75
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 5a: A(hp 79/99, def 4, qi 0) | B(hp 75/99, def 0, qi 4, injury 6)
+turn 5a ends
+turn 5b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 6 to 69
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 74
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 68
+    reduced 谭舒雁(pid1) hp by 2 to 66
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 5b: A(hp 66/99, def 0, qi 0) | B(hp 69/99, def 0, qi 3, injury 6)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 107 max_hp
+    healed 8 hp. Went from 66 to 74
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 6a: A(hp 74/107, def 0, qi 0) | B(hp 69/99, def 0, qi 3, injury 6)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 4 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 6 to 63
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 71
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6b: A(hp 71/107, def 0, qi 0) | B(hp 63/99, def 0, qi 4, injury 6)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 7a: A(hp 71/107, def 2, qi 2) | B(hp 63/99, def 0, qi 4, injury 7)
+turn 7a ends
+turn 7b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 7 to 56
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 6 qi
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 70
+    reduced 谭舒雁(pid1) hp by 3 to 67
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 7b: A(hp 67/107, def 0, qi 2) | B(hp 56/99, def 0, qi 6, injury 7)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 115 max_hp
+    healed 8 hp. Went from 67 to 75
+    gained 4 fate_reincarnates_stacks. Now have 8 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 8a: A(hp 75/115, def 0, qi 2) | B(hp 56/99, def 0, qi 6, injury 7)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 7 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 7 to 49
+  lost 2 qi. Now have 5 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 65
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 15 to 50
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 8b: A(hp 50/115, def 0, qi 2) | B(hp 49/99, def 10, qi 5, injury 7)
+turn 8b ends
+turn 9a begins
+  lost 2 qi. Now have 0 qi
+  谭舒雁(pid1) spent 2 qi to play Great Spirit (level 1)
+    gained 12 max_hp. Now have 127 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 9a: A(hp 50/127, def 4, qi 0) | B(hp 49/99, def 10, qi 5, injury 7)
+turn 9a ends
+turn 9b begins
+  lost 5 def. Now have 5 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 7 to 42
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Giant Roc Spirit Sword (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 3 def. Now have 1 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 48
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 9b: A(hp 48/127, def 0, qi 0) | B(hp 42/99, def 5, qi 4, injury 7)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 10a: A(hp 48/127, def 0, qi 1) | B(hp 42/99, def 5, qi 4, injury 7)
+turn 10a ends
+turn 10b begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 7 to 35
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 45
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 10b: A(hp 45/127, def 0, qi 1) | B(hp 35/99, def 2, qi 5, injury 7)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 11 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 11a: A(hp 45/127, def 0, qi 0) | B(hp 35/99, def 2, qi 5, injury 11)
+turn 11a ends
+turn 11b begins
+  lost 1 def. Now have 1 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 11 to 24
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 7 qi
+    reduced 谭舒雁(pid1) hp by 3 to 42
+    reduced 谭舒雁(pid1) hp by 3 to 39
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 11b: A(hp 39/127, def 0, qi 0) | B(hp 24/99, def 1, qi 7, injury 11)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 13 internal_injury
+    reduced 牧逸风(pid0) hp by 13 to 11
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 12a: A(hp 39/127, def 0, qi 0) | B(hp 11/99, def 1, qi 7, injury 13)
+turn 12a ends
+turn 12b begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 13 to -2
+  STATE after turn 12b: A(hp 39/127, def 0, qi 0) | B(hp -2/99, def 0, qi 8, injury 13)
+turn 12b ends
+牧逸风(pid0) loses 21 destiny, now at 10
+谭舒雁(pid1) (Tan Shuyan) wins

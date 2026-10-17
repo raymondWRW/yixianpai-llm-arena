@@ -1,0 +1,283 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 105 max_hp
+    healed 4 hp. Went from 101 to 105
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 1a: A(hp 105/105, def 0, qi 0) | B(hp 101/101, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 108 max_hp
+  healed 7 hp. Went from 101 to 108
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 1b: A(hp 105/105, def 0, qi 0) | B(hp 108/108, def 7, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 3 internal_injury
+    reduced 吾行之(pid2) hp by 3 to 105
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 2a: A(hp 105/105, def 0, qi 0) | B(hp 105/108, def 7, qi 0, injury 3)
+turn 2a ends
+turn 2b begins
+  lost 4 def. Now have 3 def
+  reduced 吾行之(pid2) hp by 3 to 102
+  吾行之(pid2) is playing Earth Spirit - Cliff (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    gained 10 def. Now have 13 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  吾行之(pid2) finished playing Earth Spirit - Cliff
+  gained 7 def. Now have 20 def
+  gained 7 max_hp. Now have 115 max_hp
+  healed 7 hp. Went from 102 to 109
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 2b: A(hp 105/105, def 0, qi 0) | B(hp 109/115, def 20, qi 0, injury 3)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    lost 6 def. Now have 14 def
+    lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+    reduced 谭舒雁(pid1) hp by 6 to 99
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 3a: A(hp 99/105, def 0, qi 0) | B(hp 109/115, def 14, qi 0, injury 3)
+turn 3a ends
+turn 3b begins
+  lost 7 def. Now have 7 def
+  reduced 吾行之(pid2) hp by 3 to 106
+  吾行之(pid2) is playing Metal Spirit - Charge (level 1)
+    gained 4 def. Now have 11 def
+    gained 6 penetrate. Now have 6 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 3b: A(hp 99/105, def 0, qi 0) | B(hp 106/115, def 11, qi 0, injury 3)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 99/105, def 0, qi 1) | B(hp 106/115, def 11, qi 0, injury 3)
+turn 4a ends
+turn 4b begins
+  lost 6 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 3 to 103
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 4b: A(hp 99/105, def 0, qi 1) | B(hp 103/115, def 5, qi 2, injury 3)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 5 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 102
+    gained 2 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 5a: A(hp 99/105, def 0, qi 0) | B(hp 102/115, def 0, qi 2, injury 5)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 5 to 97
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 124 max_hp
+    healed 9 hp. Went from 97 to 106
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 3 to 96
+  STATE after turn 5b: A(hp 96/105, def 0, qi 0) | B(hp 106/124, def 0, qi 0, injury 5)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 113 max_hp
+    healed 8 hp. Went from 96 to 104
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 6a: A(hp 104/113, def 0, qi 0) | B(hp 106/124, def 0, qi 0, injury 5)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 5 to 101
+  吾行之(pid2) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 4 hexproof
+    gained 14 def. Now have 14 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 3 to 101
+  STATE after turn 6b: A(hp 101/113, def 0, qi 0) | B(hp 101/124, def 14, qi 0, injury 5)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 2)
+    lost 3 def. Now have 11 def
+    lost 3 def. Now have 8 def
+    healed 6 hp. Went from 101 to 107
+  谭舒雁(pid1) finished playing Hunter Becomes Preyer
+  STATE after turn 7a: A(hp 107/113, def 0, qi 0) | B(hp 101/124, def 8, qi 0, injury 5)
+turn 7a ends
+turn 7b begins
+  lost 4 def. Now have 4 def
+  reduced 吾行之(pid2) hp by 5 to 96
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 15 to 92
+    gained 3 force_of_water. Now have 6 force_of_water
+    lost 2 def. Now have 2 def
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  reduced 谭舒雁(pid1) hp by 6 to 86
+  STATE after turn 7b: A(hp 86/113, def 0, qi 0) | B(hp 96/124, def 2, qi 0, injury 5)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 8a: A(hp 86/113, def 2, qi 1, star 1) | B(hp 96/124, def 2, qi 0, injury 5)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 5 to 91
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 77
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 90
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 6 to 71
+  STATE after turn 8b: A(hp 71/113, def 0, qi 1, star 1) | B(hp 90/124, def 0, qi 0, injury 5)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 9a: A(hp 71/113, def 0, qi 1, star 1) | B(hp 90/124, def 0, qi 0, injury 5)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 5 to 85
+  吾行之(pid2) is playing Earth Spirit - Cliff (level 1)
+    gained 10 def. Now have 10 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  吾行之(pid2) finished playing Earth Spirit - Cliff
+  reduced 谭舒雁(pid1) hp by 6 to 65
+  STATE after turn 9b: A(hp 65/113, def 0, qi 1, star 1) | B(hp 85/124, def 10, qi 0, injury 5)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    lost 3 hexproof. Now have 1 hexproof
+    reduced 吾行之(pid2) hp by 5 to 80
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 10a: A(hp 65/113, def 0, qi 1, star 1) | B(hp 80/124, def 10, qi 0, injury 5)
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 5 def
+  lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+  reduced 谭舒雁(pid1) hp by 5 to 60
+  reduced 吾行之(pid2) hp by 5 to 75
+  吾行之(pid2) is playing Metal Spirit - Charge (level 1)
+    gained 4 def. Now have 9 def
+    gained 6 penetrate. Now have 6 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  reduced 谭舒雁(pid1) hp by 6 to 54
+  STATE after turn 10b: A(hp 54/113, def 0, qi 1, star 1) | B(hp 75/124, def 9, qi 0, injury 5)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    lost 7 def. Now have 2 def
+    healed 2 hp. Went from 54 to 56
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 11a: A(hp 56/113, def 0, qi 1, star 1) | B(hp 75/124, def 2, qi 0, injury 5)
+turn 11a ends
+turn 11b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 5 to 70
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 6 to 50
+  STATE after turn 11b: A(hp 50/113, def 0, qi 1, star 1) | B(hp 70/124, def 1, qi 2, injury 5)
+turn 11b ends
+turn 12a begins
+  lost 1 fate_reincarnates_stacks. Now have 3 fate_reincarnates_stacks
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 2)
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 3 to 67
+    reduced 吾行之(pid2) hp by 4 to 63
+    healed 6 hp. Went from 50 to 56
+    reduced 吾行之(pid2) hp by 11 to 52
+  谭舒雁(pid1) finished playing Hunter Becomes Preyer
+  STATE after turn 12a: A(hp 56/113, def 0, qi 1, star 1) | B(hp 52/124, def 0, qi 2, injury 5)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 5 to 47
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 9 force_of_water
+    gained 15 max_hp. Now have 139 max_hp
+    healed 15 hp. Went from 47 to 62
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 9 to 47
+  STATE after turn 12b: A(hp 47/113, def 0, qi 1, star 1) | B(hp 62/139, def 0, qi 0, injury 5)
+turn 12b ends
+turn 13a begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 13a: A(hp 47/113, def 2, qi 2, star 2) | B(hp 62/139, def 0, qi 0, injury 5)
+turn 13a ends
+turn 13b begins
+  reduced 吾行之(pid2) hp by 5 to 57
+  吾行之(pid2) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 5 hexproof
+    gained 14 def. Now have 14 def
+  吾行之(pid2) finished playing Hexproof Formation
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 40
+  STATE after turn 13b: A(hp 40/113, def 0, qi 2, star 2) | B(hp 57/139, def 14, qi 0, injury 5)
+turn 13b ends
+turn 14a begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+    lost 12 def. Now have 2 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    lost 3 hexproof. Now have 2 hexproof
+    reduced 吾行之(pid2) hp by 5 to 52
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 14a: A(hp 40/113, def 0, qi 2, star 2) | B(hp 52/139, def 2, qi 0, injury 5)
+turn 14a ends
+turn 14b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 5 to 47
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 15 to 25
+    gained 3 force_of_water. Now have 12 force_of_water
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 46
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  reduced 谭舒雁(pid1) hp by 12 to 13
+  STATE after turn 14b: A(hp 13/113, def 0, qi 2, star 2) | B(hp 46/139, def 0, qi 0, injury 5)
+turn 14b ends
+turn 15a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 吾行之(pid2) hp by 8 to 38
+    healed 2 hp. Went from 13 to 15
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 15a: A(hp 15/113, def 0, qi 2, star 2) | B(hp 38/139, def 0, qi 0, injury 5)
+turn 15a ends
+turn 15b begins
+  reduced 吾行之(pid2) hp by 5 to 33
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 4
+    reduced 吾行之(pid2) hp by 2 to 31
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 12 to -8
+  STATE after turn 15b: A(hp -8/113, def 0, qi 2, star 2) | B(hp 31/139, def 0, qi 0, injury 5)
+turn 15b ends
+谭舒雁(pid1) loses 18 destiny, now at 1
+吾行之(pid2) (Wu Xingzhi) wins

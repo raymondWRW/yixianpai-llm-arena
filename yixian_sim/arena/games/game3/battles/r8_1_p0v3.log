@@ -1,0 +1,201 @@
+turn 1a begins
+  player 0 is playing Toning (level 1)
+    reduced player 1 hp by 3 to 79
+    gained 1 qi. Now have 1 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 44 physique
+    gained 2 max_hp. Now have 126 max_hp
+    healed 4 hp. Went from 79 to 83
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 79
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 14 to 72
+    gained 3 weaken. Now have 3 weaken
+  player 0 finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 5 sword_intent
+  player 0 finished playing Sword Defence
+turn 3a ends
+turn 3b begins
+  player 0 is playing Exercise Fist (level 2)
+    lost 5 def. Now have 0 def
+    gained 1 physique. Now have 45 physique
+    gained 1 max_hp. Now have 127 max_hp
+  player 0 finished playing Exercise Fist
+  lost 1 weaken. Now have 1 weaken
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 11 to 68
+    reduced player 1 hp by 13 to 55
+    lost 5 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 4a ends
+turn 4b begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 5 to 67
+  player 0 finished playing Vigorous Force
+  lost 1 weaken. Now have 0 weaken
+turn 4b ends
+turn 5a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 46
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 5a ends
+turn 5b begins
+  player 0 is playing Sword Bamboo (level 2)
+    reduced player 1 hp by 4 to 63
+    reduced player 1 hp by 4 to 59
+  player 0 finished playing Sword Bamboo
+turn 5b ends
+turn 6a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 40
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 6a ends
+turn 6b begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 7 to 52
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 6b ends
+turn 7a begins
+  player 0 is playing Cloud Sword - Reguard (level 1)
+    gained 8 def. Now have 8 def
+    healed 3 hp. Went from 52 to 55
+  player 0 finished playing Cloud Sword - Reguard
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 2 to 38
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 1)
+    lost 8 def. Now have 0 def
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 7b ends
+turn 8a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 32
+    reduced player 1 hp by 5 to 27
+  player 0 finished playing Cloud Sword - Fleche
+turn 8a ends
+turn 8b begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 2 force
+  player 0 finished playing Standing Firm
+turn 8b ends
+turn 9a begins
+  player 0 is playing Toning (level 1)
+    lost 3 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 47 physique
+    gained 2 max_hp. Now have 129 max_hp
+    healed 4 hp. Went from 27 to 31
+  player 0 finished playing Embracing Qi Technique
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 27
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 16 to 39
+    gained 3 weaken. Now have 3 weaken
+  player 0 finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 5 sword_intent
+  player 0 finished playing Sword Defence
+turn 11a ends
+turn 11b begins
+  player 0 is playing Exercise Fist (level 2)
+    lost 1 force. Now have 0 force
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 1 to 38
+    gained 1 physique. Now have 48 physique
+    gained 1 max_hp. Now have 130 max_hp
+    healed 1 hp. Went from 27 to 28
+  player 0 finished playing Exercise Fist
+  lost 1 weaken. Now have 1 weaken
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 11 to 17
+    reduced player 1 hp by 13 to 4
+    lost 5 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 12a ends
+turn 12b begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 5 to 33
+  player 0 finished playing Vigorous Force
+  lost 1 weaken. Now have 0 weaken
+turn 12b ends
+turn 13a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to -5
+turn 13a ends
+player 1 loses 14 destiny, now at 76
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Toning (level 1)
+  Sword Slash (level 1)
+  Sword Defence (level 2)
+  Thunder Sword (level 2)
+  Cloud Sword - Touch Sky (level 2)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Reguard (level 1)
+  Cloud Sword - Fleche (level 2)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Ghost Howling (level 1)
+  Exercise Fist (level 2)
+  Vigorous Force (level 2)
+  Sword Bamboo (level 2)
+  Mountain-Cleaving Palms (level 2)
+  Crash Fist - Bounce (level 1)
+  Standing Firm (level 1)

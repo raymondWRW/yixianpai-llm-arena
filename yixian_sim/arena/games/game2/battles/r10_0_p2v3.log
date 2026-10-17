@@ -1,0 +1,205 @@
+gained 2 max_force. Now have 8 max_force
+gained 1 force. Now have 1 force
+turn 1a begins
+  player 0 is playing Earth Spirit Formation (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 earth_spirit_formation_stacks. Now have 2 earth_spirit_formation_stacks
+  player 0 finished playing Earth Spirit Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 46 physique
+    gained 2 max_hp. Now have 134 max_hp
+    healed 4 hp. Went from 88 to 92
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Earth Spirit - Smash (level 2)
+    gained 2 def. Now have 4 def
+    reduced player 1 hp by 12 to 80
+  player 0 finished playing Earth Spirit - Smash
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 4 force
+    gained 6 agility. Now have 6 agility
+  player 0 finished playing Sailing through Sky
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 2 qi. Now have 2 qi
+  player 0 finished playing Wood Spirit - Recovery
+turn 3a ends
+turn 3b begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 10 to 70
+    gained 5 agility. Now have 11 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 61
+  player 0 finished playing Vigorous Force
+turn 3b ends
+turn 4a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 13 def. Now have 3 def
+  player 0 finished playing Water Spirit - Waves
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 5 to 75
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    reduced player 1 hp by 10 to 51
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 4b ends
+turn 5a begins
+  player 0 is playing Wood Spirit Seal (level 2)
+  player 0 upgrades Wood Spirit Seal (level 2) to Wood Spirit Seal (level 3)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    gained 3 qi. Now have 3 qi
+    healed 4 hp. Went from 51 to 55
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  reduced player 0 hp by 3 to 72
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    reduced player 1 hp by 14 to 41
+    gained 3 def. Now have 8 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced player 1 hp by 8 to 64
+    reduced player 1 max_hp by 8 to 126
+  player 0 finished playing Fire Spirit - Blast
+turn 6a ends
+turn 6b begins
+  lost 4 def. Now have 4 def
+  reduced player 0 hp by 2 to 62
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 7 def
+    reduced player 1 hp by 11 to 30
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 4 def. Now have 3 def
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Detect-Horse Palms (level 1)
+    reduced player 1 hp by 7 to 23
+    gained 8 def. Now have 9 def
+  player 0 finished playing Detect-Horse Palms
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 4 def. Now have 5 def
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 48 physique
+    gained 2 max_hp. Now have 128 max_hp
+    healed 4 hp. Went from 62 to 66
+  player 0 finished playing Embracing Qi Technique
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    gained 2 def. Now have 2 def
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 60
+  player 0 finished playing Earth Spirit - Smash
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 3 force
+    gained 6 agility. Now have 7 agility
+  player 0 finished playing Sailing through Sky
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 2 qi. Now have 4 qi
+    healed 4 hp. Went from 23 to 27
+  player 0 finished playing Wood Spirit - Recovery
+turn 10a ends
+turn 10b begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 3 force. Now have 0 force
+    gained 12 def. Now have 12 def
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 8 to 19
+    gained 5 agility. Now have 12 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 2
+  incremented chases to 1
+  chase!!
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 10
+  player 0 finished playing Vigorous Force
+turn 10b ends
+turn 11a begins
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 12 def. Now have 0 def
+    reduced player 1 hp by 2 to 58
+  player 0 finished playing Water Spirit - Waves
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 5 to 53
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+  healed 5 hp. Went from 53 to 58
+  player 0 healed 5 hp from crash fist bounce
+    reduced player 1 hp by 10 to 0
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 11b ends
+player 0 loses 19 destiny, now at 31
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Earth Spirit Formation (level 1)
+  Earth Spirit - Smash (level 2)
+  Wood Spirit - Recovery (level 1)
+  Water Spirit - Waves (level 2)
+  Wood Spirit Seal (level 3)
+  Fire Spirit - Blast (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Sailing through Sky (level 1)
+  Overwhelming Force (level 1)
+  Vigorous Force (level 2)
+  Crash Fist - Subdue Dragon (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 2)
+  Detect-Horse Palms (level 1)

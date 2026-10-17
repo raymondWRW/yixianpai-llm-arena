@@ -1,0 +1,187 @@
+turn 1a begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 67
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 2 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 64
+    reduced player 1 max_hp by 3 to 73
+    gained 2 qi. Now have 3 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 64
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Shifting Stars
+turn 2b ends
+turn 3a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 6 to 58
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    reduced player 1 hp by 7 to 57
+    reduced player 1 hp by 6 to 51
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 13 to 45
+    reduced player 1 hp by 2 to 43
+  player 0 finished playing Fire Spirit - Rush
+turn 4a ends
+turn 4b begins
+  player 0 is playing Astral Move - Stand (level 2)
+    reduced player 1 hp by 8 to 43
+  player 0 finished playing Astral Move - Stand
+turn 4b ends
+turn 5a begins
+  player 0 is playing Metal Spirit - Heart Pierce (level 1)
+    reduced player 1 hp by 7 to 36
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Metal Spirit - Heart Pierce
+turn 5a ends
+turn 5b begins
+  player 0 is playing Astral Move - Block (level 1)
+    reduced player 1 hp by 6 to 37
+  player 0 finished playing Astral Move - Block
+turn 5b ends
+turn 6a begins
+  player 0 is playing Earth Spirit Seal (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 3 to 33
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 2 to 35
+    reduced player 1 hp by 6 to 29
+    reduced player 1 max_hp by 11 to 58
+  player 0 finished playing Cutting Weeds
+turn 6b ends
+turn 7a begins
+  player 0 is playing Heavenly Decree - Defend (level 2)
+    reduced player 1 hp by 3 to 30
+    gained 12 def. Now have 12 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 7a ends
+turn 7b begins
+  player 0 is playing Hunter Becomes Preyer (level 1)
+    lost 2 def. Now have 10 def
+    lost 2 def. Now have 8 def
+    healed 4 hp. Went from 30 to 34
+  player 0 finished playing Hunter Becomes Preyer
+turn 7b ends
+turn 8a begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Heavenly Decree - Attack (level 1)
+    reduced player 1 hp by 6 to 28
+    gained 3 def. Now have 7 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 4 def
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 19
+    gained 1 qi. Now have 3 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 16
+    reduced player 1 max_hp by 3 to 70
+    gained 2 qi. Now have 5 qi
+    gained 1 activate_fire_spirit_stacks. Now have 4 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Shifting Stars (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 4 to 25
+    gained 1 qi. Now have 4 qi
+  player 0 finished playing Shifting Stars
+turn 10b ends
+turn 11a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 6 to 10
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    reduced player 1 hp by 8 to 17
+    reduced player 1 hp by 7 to 10
+  player 0 finished playing Astral Move - Flank
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 13 to -3
+    reduced player 1 hp by 2 to -5
+turn 12a ends
+player 1 loses 9 destiny, now at 77
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Cosmos Seal (level 2)
+  Fire Spirit Seal (level 2)
+  Metal Spirit - Needle (level 2)
+  Fire Spirit - Rush (level 1)
+  Metal Spirit - Heart Pierce (level 1)
+  Earth Spirit Seal (level 1)
+  Heavenly Decree - Defend (level 2)
+  Heavenly Decree - Attack (level 1)
+Player 1's deck:
+  Dotted Around (level 2)
+  Shifting Stars (level 1)
+  Astral Move - Flank (level 1)
+  Astral Move - Stand (level 2)
+  Astral Move - Block (level 1)
+  Cutting Weeds (level 1)
+  Hunter Becomes Preyer (level 1)
+  Normal Attack (level 1)

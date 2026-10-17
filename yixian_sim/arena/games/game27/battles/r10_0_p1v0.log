@@ -1,0 +1,172 @@
+reduced 牧逸风(pid0) hp by 3 to 82
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 88/88, def 1, qi 1) | B(hp 82/85, def 0, qi 0, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 81
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 2 qi
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 87
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 1b: A(hp 87/88, def 0, qi 1) | B(hp 81/85, def 0, qi 2, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 75
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 2a: A(hp 87/88, def 0, qi 0) | B(hp 75/85, def 0, qi 2, injury 3)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 3 to 72
+  牧逸风(pid0) is playing Tri-Peak Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 84
+    reduced 谭舒雁(pid1) hp by 3 to 81
+    reduced 谭舒雁(pid1) hp by 3 to 78
+  牧逸风(pid0) finished playing Tri-Peak Sword
+  STATE after turn 2b: A(hp 78/88, def 0, qi 0) | B(hp 72/85, def 0, qi 2, injury 3)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 3a: A(hp 78/88, def 0, qi 0) | B(hp 72/85, def 0, qi 2, injury 3)
+turn 3a ends
+turn 3b begins
+  reduced 牧逸风(pid0) hp by 3 to 69
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 71
+    gained 1 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 3b: A(hp 71/88, def 0, qi 0) | B(hp 69/85, def 0, qi 3, injury 3)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 61
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 4a: A(hp 71/88, def 0, qi 0) | B(hp 61/85, def 0, qi 3, injury 3)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 3 to 58
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    reduced 谭舒雁(pid1) hp by 9 to 62
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 4b: A(hp 62/88, def 0, qi 0) | B(hp 58/85, def 0, qi 3, injury 3)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 55
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 5a: A(hp 62/88, def 0, qi 0) | B(hp 55/85, def 0, qi 3, injury 3)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 3 to 52
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 49
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5b: A(hp 49/88, def 0, qi 0) | B(hp 52/85, def 0, qi 2, injury 3)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 49
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 49/88, def 0, qi 0) | B(hp 49/85, def 0, qi 2, injury 3)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 3 to 46
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 40
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 6b: A(hp 40/88, def 0, qi 0) | B(hp 46/85, def 0, qi 2, injury 3)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 43
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 40/88, def 0, qi 0) | B(hp 43/85, def 0, qi 2, injury 3)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 3 to 40
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 29
+    gained 11 def. Now have 11 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 7b: A(hp 29/88, def 0, qi 0) | B(hp 40/85, def 11, qi 1, injury 3)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 8 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 29/88, def 0, qi 0) | B(hp 40/85, def 8, qi 1, injury 3)
+turn 8a ends
+turn 8b begins
+  lost 4 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 3 to 37
+  牧逸风(pid0) is playing Mirror Flower Sword Formation (level 1)
+    gained 3 def. Now have 7 def
+    reduced 谭舒雁(pid1) hp by 7 to 22
+  牧逸风(pid0) finished playing Mirror Flower Sword Formation
+  STATE after turn 8b: A(hp 22/88, def 0, qi 0) | B(hp 37/85, def 7, qi 1, injury 3)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 9a: A(hp 22/88, def 1, qi 1) | B(hp 37/85, def 7, qi 1, injury 4)
+turn 9a ends
+turn 9b begins
+  lost 4 def. Now have 3 def
+  reduced 牧逸风(pid0) hp by 4 to 33
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 3 qi
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 20
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 9b: A(hp 20/88, def 0, qi 1) | B(hp 33/85, def 3, qi 3, injury 4)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 30
+    gained 2 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 10a: A(hp 20/88, def 0, qi 0) | B(hp 30/85, def 0, qi 3, injury 6)
+turn 10a ends
+turn 10b begins
+  reduced 牧逸风(pid0) hp by 6 to 24
+  牧逸风(pid0) is playing Tri-Peak Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 17
+    reduced 谭舒雁(pid1) hp by 3 to 14
+    reduced 谭舒雁(pid1) hp by 3 to 11
+  牧逸风(pid0) finished playing Tri-Peak Sword
+  STATE after turn 10b: A(hp 11/88, def 0, qi 0) | B(hp 24/85, def 0, qi 3, injury 6)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+    reduced 牧逸风(pid0) hp by 12 to 12
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 4
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 11a: A(hp 11/88, def 0, qi 0) | B(hp 4/85, def 0, qi 3, injury 6)
+turn 11a ends
+turn 11b begins
+  reduced 牧逸风(pid0) hp by 6 to -2
+  STATE after turn 11b: A(hp 11/88, def 0, qi 0) | B(hp -2/85, def 0, qi 3, injury 6)
+turn 11b ends
+牧逸风(pid0) loses 14 destiny, now at 81
+谭舒雁(pid1) (Tan Shuyan) wins

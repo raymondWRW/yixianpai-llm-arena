@@ -1,0 +1,231 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  reduced 小布(pid3) hp by 3 to 84
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 73
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 1a: A(hp 84/104, def 2, qi 0, phys 17) | B(hp 73/80, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 1b: A(hp 84/104, def 2, qi 0, phys 17) | B(hp 73/80, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 3 to 81
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 def. Now have 3 def
+    reduced 谭舒雁(pid1) hp by 7 to 66
+    gained 2 def. Now have 5 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 2a: A(hp 81/104, def 5, qi 0, phys 17) | B(hp 66/80, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Astral Fleche (level 2)
+    lost 5 def. Now have 0 def
+    gained 2 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 2b: A(hp 81/104, def 0, qi 0, phys 17) | B(hp 66/80, def 0, qi 3, star 2)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 59
+    gained 8 def. Now have 8 def
+  小布(pid3) finished playing Detect-Horse Palms
+  STATE after turn 3a: A(hp 81/104, def 8, qi 0, phys 17) | B(hp 59/80, def 0, qi 3, star 2)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    lost 8 def. Now have 0 def
+    reduced 小布(pid3) hp by 1 to 80
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 3b: A(hp 80/104, def 0, qi 0, phys 17) | B(hp 59/80, def 0, qi 4, star 2)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 3 physique. Now have 20 physique
+    gained 3 max_hp. Now have 107 max_hp
+    gained 3 entangle. Now have 3 entangle
+    gained 11 def. Now have 11 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 2 entangle
+  STATE after turn 4a: A(hp 80/107, def 11, qi 0, phys 20) | B(hp 59/80, def 0, qi 4, star 2)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    lost 8 def. Now have 3 def
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4b: A(hp 80/107, def 3, qi 0, phys 20) | B(hp 59/80, def 0, qi 4, star 2)
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 4 to 76
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 2 def. Now have 3 def
+    reduced 谭舒雁(pid1) hp by 10 to 49
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  lost 1 entangle. Now have 1 entangle
+  STATE after turn 5a: A(hp 76/107, def 3, qi 0, phys 20) | B(hp 49/80, def 0, qi 4, star 2)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 6 to 70
+    reduced 小布(pid3) hp by 9 to 61
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 5b: A(hp 61/107, def 0, qi 0, phys 20) | B(hp 49/80, def 0, qi 3, star 2)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 6 to 55
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 13 to 36
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  lost 1 entangle. Now have 0 entangle
+  STATE after turn 6a: A(hp 55/107, def 0, qi 0, force 1, phys 20) | B(hp 36/80, def 0, qi 3, star 2)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    reduced 小布(pid3) hp by 21 to 34
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 6b: A(hp 34/107, def 0, qi 0, force 1, phys 20) | B(hp 36/80, def 0, qi 2, star 2)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 7a: A(hp 34/107, def 0, qi 2, force 2, phys 20) | B(hp 36/80, def 0, qi 2, star 2)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 小布(pid3) hp by 11 to 23
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 7b: A(hp 23/107, def 0, qi 2, force 2, phys 20) | B(hp 36/80, def 0, qi 1, star 2)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 19 to 17
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 8a: A(hp 23/107, def 0, qi 1, force 2, injury 1, phys 20) | B(hp 17/80, def 0, qi 1, star 2)
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 88 max_hp
+    healed 15 hp. Went from 17 to 32
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 8b: A(hp 23/107, def 0, qi 1, force 2, injury 1, phys 20) | B(hp 32/88, def 0, qi 0, star 2)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 1 to 22
+  reduced 小布(pid3) hp by 3 to 19
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 force. Now have 4 force
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 10 to 22
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 9a: A(hp 19/107, def 2, qi 1, force 4, injury 1, phys 20) | B(hp 22/88, def 0, qi 0, star 2)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 9b: A(hp 19/107, def 2, qi 1, force 4, injury 1, phys 20) | B(hp 22/88, def 0, qi 2, star 2)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 1 to 18
+  reduced 小布(pid3) hp by 3 to 15
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 def. Now have 3 def
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 9 to 13
+    gained 2 def. Now have 5 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 10a: A(hp 15/107, def 5, qi 1, force 3, injury 1, phys 20) | B(hp 13/88, def 0, qi 2, star 2)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Astral Fleche (level 2)
+    lost 5 def. Now have 0 def
+    gained 2 star_power. Now have 4 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 10b: A(hp 15/107, def 0, qi 1, force 3, injury 1, phys 20) | B(hp 13/88, def 0, qi 2, star 4)
+turn 10b ends
+turn 11a begins
+  reduced 小布(pid3) hp by 1 to 14
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 9 to 4
+    gained 8 def. Now have 8 def
+  小布(pid3) finished playing Detect-Horse Palms
+  STATE after turn 11a: A(hp 14/107, def 8, qi 1, force 2, injury 1, phys 20) | B(hp 4/88, def 0, qi 2, star 4)
+turn 11a ends
+turn 11b begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    lost 8 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 11
+    gained 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 11b: A(hp 11/107, def 0, qi 1, force 2, injury 1, phys 20) | B(hp 4/88, def 0, qi 3, star 4)
+turn 11b ends
+turn 12a begins
+  reduced 小布(pid3) hp by 1 to 10
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 3 physique. Now have 23 physique
+    gained 3 max_hp. Now have 110 max_hp
+    gained 2 entangle. Now have 2 entangle
+    gained 11 def. Now have 11 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 1 entangle
+  STATE after turn 12a: A(hp 10/110, def 11, qi 1, force 2, injury 1, phys 23) | B(hp 4/88, def 0, qi 3, star 4)
+turn 12a ends
+turn 12b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    lost 8 def. Now have 3 def
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 12b: A(hp 10/110, def 3, qi 1, force 2, injury 1, phys 23) | B(hp 4/88, def 0, qi 4, star 4)
+turn 12b ends
+turn 13a begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 1 to 9
+  reduced 小布(pid3) hp by 4 to 5
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 2 def. Now have 3 def
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 12 to -8
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  STATE after turn 13a: A(hp 5/110, def 3, qi 1, force 1, injury 1, phys 23) | B(hp -8/88, def 0, qi 4, star 4)
+turn 13a ends
+谭舒雁(pid1) loses 14 destiny, now at 41
+小布(pid3) (Xiao Bu) wins

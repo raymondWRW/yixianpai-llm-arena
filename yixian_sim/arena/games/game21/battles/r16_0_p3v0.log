@@ -1,0 +1,107 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  小布(pid3) is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 2 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  小布(pid3) finished playing Crash Citta-Dharma
+  STATE after turn 1a: A(hp 117/124, def 0, qi 0, force 2, phys 7) | B(hp 105/105, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 1b: A(hp 117/124, def 0, qi 0, force 2, phys 7) | B(hp 105/105, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 4 force
+  小布(pid3) finished playing Standing Firm
+  STATE after turn 2a: A(hp 117/124, def 4, qi 0, force 4, phys 7) | B(hp 105/105, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 3)
+    gained 4 qi. Now have 6 qi
+    lost 3 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 115
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2b: A(hp 115/124, def 0, qi 0, force 4, phys 7) | B(hp 105/105, def 0, qi 6)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 5 to 110
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 force. Now have 5 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 20 to 85
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 3a: A(hp 110/124, def 0, qi 0, force 4, phys 7) | B(hp 85/105, def 0, qi 6)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 8 qi
+    reduced 小布(pid3) hp by 8 to 102
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 3b: A(hp 102/124, def 0, qi 0, force 4, phys 7) | B(hp 85/105, def 0, qi 8)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 6 to 96
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 1 force. Now have 5 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 22 to 63
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 4a: A(hp 96/124, def 0, qi 0, force 4, phys 7) | B(hp 63/105, def 0, qi 8)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 11 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 4b: A(hp 96/124, def 0, qi 0, force 4, phys 7) | B(hp 63/105, def 0, qi 11)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 3 to 93
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 1 force. Now have 5 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 22 to 41
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 5a: A(hp 93/124, def 0, qi 0, force 4, phys 7) | B(hp 41/105, def 0, qi 11)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 13 qi
+    reduced 小布(pid3) hp by 13 to 80
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 5b: A(hp 80/124, def 0, qi 0, force 4, phys 7) | B(hp 41/105, def 0, qi 13)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 4 to 76
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 5 force
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 25 to 16
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 6a: A(hp 76/124, def 0, qi 0, force 4, phys 7) | B(hp 16/105, def 0, qi 13)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 2)
+    lost 13 qi. Now have 0 qi
+    reduced 小布(pid3) hp by 83 to -7
+  STATE after turn 6b: A(hp -7/124, def 0, qi 0, force 4, phys 7) | B(hp 16/105, def 0, qi 0)
+turn 6b ends
+小布(pid3) loses 22 destiny, now at -21
+牧逸风(pid0) (Mu Yifeng) wins

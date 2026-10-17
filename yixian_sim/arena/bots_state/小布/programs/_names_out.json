@@ -1,0 +1,94 @@
+[
+ [
+  "崩拳·封",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "探马掌",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "崩拳·突",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "崩拳·撼",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "崩拳·连崩",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "气若悬河",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "崩拳·寸劲",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "崩拳·降龙",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "破空爪+1",
+  "121051"
+ ],
+ [
+  "迎风掌",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "锻神开海",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "势大力沉",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "锻骨",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "天运·趋吉",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "探灵",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "落花有意",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "飞星刺+1",
+  "121051"
+ ],
+ [
+  "斗转星移+1",
+  "121051"
+ ],
+ [
+  "星弈·断",
+  "ERR:TypeError: null is not an object (evaluating 'idxs.length')"
+ ],
+ [
+  "星弈·夹+1",
+  "121051"
+ ],
+ [
+  "落雷术+1",
+  "121051"
+ ],
+ [
+  "气疗术+1",
+  "121051"
+ ],
+ [
+  "normal attack",
+  "601011"
+ ]
+]

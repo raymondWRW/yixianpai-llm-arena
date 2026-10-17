@@ -1,0 +1,135 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 70/70, def 1, qi 1) | B(hp 62/67, def 0, qi 0, injury 1, phys 5)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 1 to 61
+  reduced 小布(pid3) hp by 3 to 58
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 64
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 1b: A(hp 64/70, def 0, qi 1) | B(hp 58/67, def 2, qi 0, injury 1, phys 5)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 64/70, def 1, qi 2) | B(hp 58/67, def 2, qi 0, injury 2, phys 5)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 2 to 56
+  reduced 小布(pid3) hp by 4 to 52
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 2 def. Now have 3 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 55
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 2b: A(hp 55/70, def 0, qi 2) | B(hp 52/67, def 3, qi 0, injury 2, phys 5)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Stillness Citta-Dharma
+  STATE after turn 3a: A(hp 55/70, def 0, qi 2) | B(hp 52/67, def 3, qi 0, injury 2, phys 5)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 2 to 50
+  reduced 小布(pid3) hp by 2 to 48
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 1 wound. Now have 1 wound
+    reduced 谭舒雁(pid1) hp by 9 to 46
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 3b: A(hp 46/70, def 0, qi 2) | B(hp 48/67, def 1, qi 0, injury 2, phys 5)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 44
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4a: A(hp 46/70, def 0, qi 2) | B(hp 44/67, def 0, qi 0, injury 2, phys 5)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 42
+  reduced 小布(pid3) hp by 2 to 40
+  小布(pid3) spent 2 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 谭舒雁(pid1) hp by 11 to 35
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 4b: A(hp 35/70, def 0, qi 2) | B(hp 40/67, def 0, qi 0, injury 2, phys 5)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 小布(pid3) hp by 7 to 33
+    reduced 小布(pid3) hp by 7 to 26
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 5a: A(hp 35/70, def 0, qi 1) | B(hp 26/67, def 0, qi 0, injury 2, phys 5)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 2 to 24
+  小布(pid3) is playing Vigorous Force (level 2)
+    reduced 谭舒雁(pid1) hp by 10 to 25
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 5b: A(hp 25/70, def 0, qi 1) | B(hp 24/67, def 0, qi 0, injury 2, phys 5)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    reduced 小布(pid3) hp by 5 to 19
+    reduced 小布(pid3) hp by 5 to 14
+    reduced 小布(pid3) hp by 5 to 9
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 6a: A(hp 25/70, def 0, qi 0) | B(hp 9/67, def 0, qi 0, injury 2, phys 5)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 2 to 7
+  小布(pid3) is playing Mountain Falling (level 2)
+    reduced 谭舒雁(pid1) hp by 10 to 15
+    lost 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Mountain Falling
+  STATE after turn 6b: A(hp 15/70, def 0, qi 0) | B(hp 7/67, def 0, qi 0, injury 1, phys 5)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  healed 2 hp. Went from 15 to 17
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Hit (level 1). They now have 1/1 qi
+  STATE after turn 7a: A(hp 17/70, def 0, qi 1) | B(hp 7/67, def 0, qi 0, injury 1, phys 5)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 1 to 6
+  reduced 小布(pid3) hp by 4 to 2
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+  healed 4 hp. Went from 2 to 6
+  小布(pid3) healed 4 hp from crash fist bounce
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 谭舒雁(pid1) hp by 11 to 6
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 7b: A(hp 6/70, def 0, qi 1) | B(hp 6/67, def 0, qi 0, injury 1, phys 5)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    reduced 小布(pid3) hp by 5 to 1
+    reduced 小布(pid3) hp by 5 to -4
+  STATE after turn 8a: A(hp 6/70, def 0, qi 0) | B(hp -4/67, def 0, qi 0, injury 1, phys 5)
+turn 8a ends
+小布(pid3) loses 8 destiny, now at 88
+谭舒雁(pid1) (Tan Shuyan) wins

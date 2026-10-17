@@ -1,0 +1,206 @@
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+reduced 谭舒雁(pid1) hp by 2 to 60
+gained 1 def. Now have 1 def
+reduced 谭舒雁(pid1) hp by 2 to 60
+turn 1a begins
+  reduced 小布(pid3) hp by 2 to 58
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 force. Now have 0 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 52
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 1a: A(hp 58/66, def 0, qi 0, phys 4) | B(hp 52/62, def 1, qi 0)
+turn 1a ends
+turn 1b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 52 to 54
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 1b: A(hp 58/66, def 0, qi 0, phys 4) | B(hp 54/62, def 4, qi 0)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Heavenly Decree - Defend (level 1)
+    lost 2 def. Now have 2 def
+    gained 9 def. Now have 9 def
+  小布(pid3) finished playing Heavenly Decree - Defend
+  STATE after turn 2a: A(hp 58/66, def 9, qi 0, phys 4) | B(hp 54/62, def 2, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 3 god_luck_avoid_stacks
+    gained 3 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 2 hp. Went from 54 to 56
+    lost 1 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 2b: A(hp 58/66, def 9, qi 0, phys 4) | B(hp 56/62, def 5, qi 0)
+turn 2b ends
+turn 3a begins
+  lost 5 def. Now have 4 def
+  小布(pid3) is playing Gather Force (level 2)
+    lost 5 def. Now have 0 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3a: A(hp 58/66, def 4, qi 1, force 2, phys 4) | B(hp 56/62, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 56
+    gained 2 def. Now have 2 def
+    gained 3 def. Now have 5 def
+    gained 1 def. Now have 6 def
+    healed 2 hp. Went from 56 to 58
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 3b: A(hp 56/66, def 0, qi 1, force 2, phys 4) | B(hp 58/62, def 6, qi 0)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 1 force
+    lost 6 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 51
+    gained 1 def. Now have 1 def
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 4a: A(hp 56/66, def 0, qi 0, force 3, phys 4) | B(hp 51/62, def 1, qi 0)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 小布(pid3) hp by 6 to 50
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 4b: A(hp 50/66, def 0, qi 0, force 3, phys 4) | B(hp 51/62, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 3 to 47
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 11 to 40
+    gained 1 def. Now have 1 def
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 5a: A(hp 47/66, def 0, qi 0, force 2, phys 4) | B(hp 40/62, def 1, qi 0)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 1 qi. Now have 1 qi
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 40 to 42
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Water Hexagram
+  STATE after turn 5b: A(hp 47/66, def 0, qi 0, force 2, phys 4) | B(hp 42/62, def 4, qi 1, hex 2)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 2 to 45
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 1 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 11 to 31
+    gained 1 def. Now have 1 def
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 6a: A(hp 45/66, def 0, qi 0, force 1, phys 4) | B(hp 31/62, def 1, qi 1, hex 2)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 6b: A(hp 45/66, def 0, qi 0, force 1, phys 4) | B(hp 31/62, def 2, qi 2, star 1, hex 2)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 25
+    gained 1 def. Now have 3 def
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 7a: A(hp 45/66, def 0, qi 0, force 1, phys 4) | B(hp 25/62, def 3, qi 2, star 1, hex 2)
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Incessant (level 2)
+    reduced 小布(pid3) hp by 9 to 36
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 7b: A(hp 36/66, def 0, qi 0, force 1, phys 4) | B(hp 25/62, def 1, qi 2, star 1, hex 2)
+turn 7b ends
+turn 8a begins
+  小布(pid3) is playing Gale Shadow Claw (level 1)
+    lost 1 force. Now have 0 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 22
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 19
+    gained 1 def. Now have 1 def
+    gained 2 qi. Now have 2 qi
+    gained 3 flaw. Now have 3 flaw
+  小布(pid3) finished playing Gale Shadow Claw
+  lost 1 flaw. Now have 2 flaw
+  STATE after turn 8a: A(hp 36/66, def 0, qi 2, phys 4) | B(hp 19/62, def 1, qi 2, star 1, hex 2)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 小布(pid3) hp by 14 to 22
+    lost 1 hexagram. Now have 1 hexagram
+    reduced 小布(pid3) hp by 9 to 13
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 8b: A(hp 13/66, def 0, qi 2, phys 4) | B(hp 19/62, def 0, qi 1, star 1, hex 1)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 2 to 11
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 13 to 6
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  lost 1 flaw. Now have 1 flaw
+  STATE after turn 9a: A(hp 11/66, def 0, qi 1, phys 4) | B(hp 6/62, def 1, qi 1, star 1, hex 1)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 小布(pid3) hp by 9 to 2
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 9b: A(hp 2/66, def 0, qi 1, phys 4) | B(hp 6/62, def 2, qi 1, star 1, hex 1)
+turn 9b ends
+turn 10a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 3
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  lost 1 flaw. Now have 0 flaw
+  STATE after turn 10a: A(hp 2/66, def 0, qi 2, force 2, phys 4) | B(hp 3/62, def 1, qi 1, star 1, hex 1)
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 小布(pid3) hp by 6 to -4
+  STATE after turn 10b: A(hp -4/66, def 0, qi 2, force 2, phys 4) | B(hp 3/62, def 0, qi 1, star 1, hex 1)
+turn 10b ends
+小布(pid3) loses 8 destiny, now at 86
+谭舒雁(pid1) (Tan Shuyan) wins

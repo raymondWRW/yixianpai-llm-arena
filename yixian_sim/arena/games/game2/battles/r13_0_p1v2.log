@@ -1,0 +1,574 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Polaris Citta-Dharma (level 1)
+    gained 2 star_power. Now have 2 star_power
+  player 0 finished playing Polaris Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Wood Spirit Formation (level 1)
+    gained 10 max_hp. Now have 109 max_hp
+    gained 2 wood_spirit_formation_stacks. Now have 2 wood_spirit_formation_stacks
+  player 0 finished playing Wood Spirit Formation
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Great Spirit (level 2). They now have 2/2 qi
+turn 2a ends
+turn 2b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    healed 2 hp. Went from 99 to 101
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 101 to 105
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 2b ends
+turn 3a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 115 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+turn 3a ends
+turn 3b begins
+  player 0 is playing Regen Tune (level 1)
+    gained 4 regen_tune_stacks. Now have 4 regen_tune_stacks
+    gained 4 regen_tune_stacks. Now have 4 regen_tune_stacks
+  player 0 finished playing Regen Tune
+  gained 4 max_hp. Now have 113 max_hp
+  healed 4 hp. Went from 105 to 109
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 123 max_hp
+    healed 12 hp. Went from 99 to 111
+  player 0 finished playing Qi Therapy
+  gained 4 max_hp. Now have 127 max_hp
+  healed 4 hp. Went from 111 to 115
+turn 4a ends
+turn 4b begins
+  player 0 is playing Wood Spirit - Fragrant (level 2)
+    healed 2 hp. Went from 109 to 111
+    gained 3 qi. Now have 5 qi
+    healed 3 hp. Went from 111 to 113
+    gained 1 increase_atk. Now have 1 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 117 max_hp
+  healed 4 hp. Went from 113 to 117
+turn 4b ends
+turn 5a begins
+  player 0 is playing Stillness Citta-Dharma (level 2)
+    gained 3 stillness_citta_dharma_stacks. Now have 3 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+  gained 4 max_hp. Now have 131 max_hp
+  healed 4 hp. Went from 115 to 119
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+  player 0 upgrades Fire Spirit - Blast (level 1) to Fire Spirit - Blast (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    gained 2 increase_atk. Now have 3 increase_atk
+    reduced player 1 hp by 10 to 109
+    reduced player 1 max_hp by 10 to 121
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 121 max_hp
+  healed 4 hp. Went from 117 to 121
+turn 5b ends
+turn 6a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 117
+    reduced player 1 hp by 4 to 113
+  player 0 finished playing Ice Incantation
+  gained 4 max_hp. Now have 125 max_hp
+  healed 4 hp. Went from 109 to 113
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 4 increase_atk
+    reduced player 1 hp by 11 to 102
+    reduced player 1 max_hp by 11 to 114
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 125 max_hp
+  healed 4 hp. Went from 113 to 117
+turn 6b ends
+turn 7a begins
+  player 0 is playing Sharp Metal Fulu (level 1)
+    reduced player 1 hp by 8 to 109
+  player 0 finished playing Sharp Metal Fulu
+  gained 4 max_hp. Now have 118 max_hp
+  healed 4 hp. Went from 102 to 106
+turn 7a ends
+turn 7b begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 9 to 97
+    gained 1 qi. Now have 4 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+  gained 4 max_hp. Now have 129 max_hp
+  healed 4 hp. Went from 109 to 113
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 97 to 100
+  player 0 gained qi instead of playing Fire Cloud Fulu (level 2). They now have 1/1 qi
+  gained 4 max_hp. Now have 122 max_hp
+  healed 4 hp. Went from 100 to 104
+turn 8a ends
+turn 8b begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 1 activate_wood_spirit_stacks. Now have 2 activate_wood_spirit_stacks
+    healed 2 hp. Went from 113 to 115
+    gained 2 qi. Now have 6 qi
+    healed 7 hp. Went from 115 to 122
+  player 0 finished playing Wood Spirit - Recovery
+  gained 4 max_hp. Now have 133 max_hp
+  healed 4 hp. Went from 122 to 126
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 110
+    reduced player 1 max_hp by 16 to 117
+  player 0 finished playing Fire Cloud Fulu
+  gained 4 max_hp. Now have 126 max_hp
+  healed 4 hp. Went from 104 to 108
+turn 9a ends
+turn 9b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    healed 2 hp. Went from 110 to 112
+    gained 2 qi. Now have 8 qi
+    healed 4 hp. Went from 112 to 116
+    gained 1 activate_wood_spirit_stacks. Now have 3 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  gained 4 max_hp. Now have 121 max_hp
+  healed 4 hp. Went from 116 to 120
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 108 to 111
+  player 0 gained qi instead of playing Revitalized (level 2). They now have 1/1 qi
+  gained 4 max_hp. Now have 130 max_hp
+  healed 4 hp. Went from 111 to 115
+turn 10a ends
+turn 10b begins
+  player 0 is playing Wood Spirit - Fragrant (level 2)
+    healed 2 hp. Went from 120 to 121
+    gained 3 qi. Now have 11 qi
+    healed 3 hp. Went from 121 to 121
+    gained 3 increase_atk. Now have 7 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 125 max_hp
+  healed 4 hp. Went from 121 to 125
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Revitalized (level 2)
+    reduced player 1 hp by 23 to 102
+  player 0 finished playing Revitalized
+  gained 4 max_hp. Now have 134 max_hp
+  healed 4 hp. Went from 115 to 119
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 10 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 9 increase_atk
+    reduced player 1 hp by 16 to 103
+    reduced player 1 max_hp by 16 to 118
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 129 max_hp
+  healed 4 hp. Went from 102 to 106
+turn 11b ends
+turn 12a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 103 to 106
+  player 0 gained qi instead of playing Great Spirit (level 2). They now have 1/2 qi
+  gained 4 max_hp. Now have 122 max_hp
+  healed 4 hp. Went from 106 to 110
+turn 12a ends
+turn 12b begins
+  lost 1 qi. Now have 9 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 10 increase_atk
+    reduced player 1 hp by 17 to 93
+    reduced player 1 max_hp by 17 to 105
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 133 max_hp
+  healed 4 hp. Went from 106 to 110
+turn 12b ends
+turn 13a begins
+  gained 1 qi. Now have 2 qi
+  healed 3 hp. Went from 93 to 96
+  player 0 gained qi instead of playing Great Spirit (level 2). They now have 2/2 qi
+  gained 4 max_hp. Now have 109 max_hp
+  healed 4 hp. Went from 96 to 100
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 15 to 85
+    gained 1 qi. Now have 10 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+  gained 4 max_hp. Now have 137 max_hp
+  healed 4 hp. Went from 110 to 114
+turn 13b ends
+turn 14a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 125 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 31 hp. Went from 85 to 116
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 116 to 119
+  player 0 gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+  gained 4 max_hp. Now have 129 max_hp
+  healed 4 hp. Went from 119 to 123
+turn 14a ends
+turn 14b begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 1 activate_wood_spirit_stacks. Now have 4 activate_wood_spirit_stacks
+    healed 2 hp. Went from 114 to 116
+    gained 2 qi. Now have 12 qi
+    healed 13 hp. Went from 116 to 129
+  player 0 finished playing Wood Spirit - Recovery
+  gained 4 max_hp. Now have 141 max_hp
+  healed 4 hp. Went from 129 to 133
+turn 14b ends
+turn 15a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 137 max_hp
+    healed 9 hp. Went from 123 to 132
+  player 0 finished playing Qi Therapy
+  gained 4 max_hp. Now have 141 max_hp
+  healed 4 hp. Went from 132 to 136
+turn 15a ends
+turn 15b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    healed 2 hp. Went from 133 to 135
+    gained 2 qi. Now have 14 qi
+    healed 4 hp. Went from 135 to 139
+    gained 1 activate_wood_spirit_stacks. Now have 5 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  gained 4 max_hp. Now have 145 max_hp
+  healed 4 hp. Went from 139 to 143
+turn 15b ends
+turn 16a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 139
+    reduced player 1 hp by 4 to 135
+  player 0 finished playing Ice Incantation
+  gained 4 max_hp. Now have 145 max_hp
+  healed 4 hp. Went from 136 to 140
+turn 16a ends
+turn 16b begins
+  player 0 is playing Wood Spirit - Fragrant (level 2)
+    healed 2 hp. Went from 135 to 137
+    gained 3 qi. Now have 17 qi
+    healed 3 hp. Went from 137 to 140
+    gained 5 increase_atk. Now have 15 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 149 max_hp
+  healed 4 hp. Went from 140 to 144
+turn 16b ends
+turn 17a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 140 to 143
+  player 0 gained qi instead of playing Revitalized (level 2). They now have 1/1 qi
+  gained 4 max_hp. Now have 149 max_hp
+  healed 4 hp. Went from 143 to 147
+turn 17a ends
+turn 17b begins
+  lost 1 qi. Now have 16 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 17 increase_atk
+    reduced player 1 hp by 24 to 123
+    reduced player 1 max_hp by 24 to 125
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 153 max_hp
+  healed 4 hp. Went from 144 to 148
+turn 17b ends
+turn 18a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Revitalized (level 2)
+    reduced player 1 hp by 43 to 105
+  player 0 finished playing Revitalized
+  gained 4 max_hp. Now have 129 max_hp
+  healed 4 hp. Went from 123 to 127
+turn 18a ends
+turn 18b begins
+  lost 1 qi. Now have 15 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 18 increase_atk
+    reduced player 1 hp by 25 to 102
+    reduced player 1 max_hp by 25 to 104
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 157 max_hp
+  healed 4 hp. Went from 105 to 109
+turn 18b ends
+turn 19a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 102 to 104
+  player 0 gained qi instead of playing Great Spirit (level 2). They now have 1/2 qi
+  gained 4 max_hp. Now have 108 max_hp
+  healed 4 hp. Went from 104 to 108
+turn 19a ends
+turn 19b begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 23 to 85
+    gained 1 qi. Now have 16 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+  gained 4 max_hp. Now have 161 max_hp
+  healed 4 hp. Went from 109 to 113
+turn 19b ends
+turn 20a begins
+  gained 1 qi. Now have 2 qi
+  healed 3 hp. Went from 85 to 88
+  player 0 gained qi instead of playing Great Spirit (level 2). They now have 2/2 qi
+  gained 4 max_hp. Now have 112 max_hp
+  healed 4 hp. Went from 88 to 92
+turn 20a ends
+turn 20b begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 1 activate_wood_spirit_stacks. Now have 6 activate_wood_spirit_stacks
+    healed 2 hp. Went from 113 to 115
+    gained 2 qi. Now have 18 qi
+    healed 21 hp. Went from 115 to 136
+  player 0 finished playing Wood Spirit - Recovery
+  gained 4 max_hp. Now have 165 max_hp
+  healed 4 hp. Went from 136 to 140
+turn 20b ends
+turn 21a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 128 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 31 hp. Went from 92 to 123
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 123 to 126
+  player 0 gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+  gained 4 max_hp. Now have 132 max_hp
+  healed 4 hp. Went from 126 to 130
+turn 21a ends
+turn 21b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    healed 2 hp. Went from 140 to 142
+    gained 2 qi. Now have 20 qi
+    healed 4 hp. Went from 142 to 146
+    gained 1 activate_wood_spirit_stacks. Now have 7 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  gained 4 max_hp. Now have 169 max_hp
+  healed 4 hp. Went from 146 to 150
+turn 21b ends
+turn 22a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 140 max_hp
+    healed 15 hp. Went from 130 to 140
+  player 0 finished playing Qi Therapy
+  gained 4 max_hp. Now have 144 max_hp
+  healed 4 hp. Went from 140 to 144
+turn 22a ends
+turn 22b begins
+  player 0 is playing Wood Spirit - Fragrant (level 2)
+    healed 2 hp. Went from 150 to 152
+    gained 3 qi. Now have 23 qi
+    healed 3 hp. Went from 152 to 155
+    gained 7 increase_atk. Now have 25 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 173 max_hp
+  healed 4 hp. Went from 155 to 159
+turn 22b ends
+turn 23a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 155
+    reduced player 1 hp by 4 to 151
+  player 0 finished playing Ice Incantation
+  gained 4 max_hp. Now have 148 max_hp
+  healed 4 hp. Went from 144 to 148
+turn 23a ends
+turn 23b begins
+  lost 1 qi. Now have 22 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 27 increase_atk
+    reduced player 1 hp by 34 to 114
+    reduced player 1 max_hp by 34 to 114
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 177 max_hp
+  healed 4 hp. Went from 151 to 155
+turn 23b ends
+turn 24a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 114 to 114
+  player 0 gained qi instead of playing Revitalized (level 2). They now have 1/1 qi
+  gained 4 max_hp. Now have 118 max_hp
+  healed 4 hp. Went from 114 to 118
+turn 24a ends
+turn 24b begins
+  lost 1 qi. Now have 21 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 28 increase_atk
+    reduced player 1 hp by 35 to 83
+    reduced player 1 max_hp by 35 to 83
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 181 max_hp
+  healed 4 hp. Went from 155 to 159
+turn 24b ends
+turn 25a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Revitalized (level 2)
+    reduced player 1 hp by 65 to 94
+  player 0 finished playing Revitalized
+  gained 4 max_hp. Now have 87 max_hp
+  healed 4 hp. Went from 83 to 87
+turn 25a ends
+turn 25b begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 33 to 54
+    gained 1 qi. Now have 22 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+  gained 4 max_hp. Now have 185 max_hp
+  healed 4 hp. Went from 94 to 98
+turn 25b ends
+turn 26a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 54 to 57
+  player 0 gained qi instead of playing Great Spirit (level 2). They now have 1/2 qi
+  gained 4 max_hp. Now have 91 max_hp
+  healed 4 hp. Went from 57 to 61
+turn 26a ends
+turn 26b begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 1 activate_wood_spirit_stacks. Now have 8 activate_wood_spirit_stacks
+    healed 2 hp. Went from 98 to 100
+    gained 2 qi. Now have 24 qi
+    healed 31 hp. Went from 100 to 131
+  player 0 finished playing Wood Spirit - Recovery
+  gained 4 max_hp. Now have 189 max_hp
+  healed 4 hp. Went from 131 to 135
+turn 26b ends
+turn 27a begins
+  gained 1 qi. Now have 2 qi
+  healed 3 hp. Went from 61 to 64
+  player 0 gained qi instead of playing Great Spirit (level 2). They now have 2/2 qi
+  gained 4 max_hp. Now have 95 max_hp
+  healed 4 hp. Went from 64 to 68
+turn 27a ends
+turn 27b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    healed 2 hp. Went from 135 to 137
+    gained 2 qi. Now have 26 qi
+    healed 4 hp. Went from 137 to 141
+    gained 1 activate_wood_spirit_stacks. Now have 9 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  gained 4 max_hp. Now have 193 max_hp
+  healed 4 hp. Went from 141 to 145
+turn 27b ends
+turn 28a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 111 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 31 hp. Went from 68 to 99
+  player 0 finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 99 to 102
+  player 0 gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+  gained 4 max_hp. Now have 115 max_hp
+  healed 4 hp. Went from 102 to 106
+turn 28a ends
+turn 28b begins
+  player 0 is playing Wood Spirit - Fragrant (level 2)
+    healed 2 hp. Went from 145 to 147
+    gained 3 qi. Now have 29 qi
+    healed 3 hp. Went from 147 to 150
+    gained 9 increase_atk. Now have 37 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 197 max_hp
+  healed 4 hp. Went from 150 to 154
+turn 28b ends
+turn 29a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 123 max_hp
+    healed 15 hp. Went from 106 to 121
+  player 0 finished playing Qi Therapy
+  gained 4 max_hp. Now have 127 max_hp
+  healed 4 hp. Went from 121 to 125
+turn 29a ends
+turn 29b begins
+  lost 1 qi. Now have 28 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 39 increase_atk
+    reduced player 1 hp by 46 to 79
+    reduced player 1 max_hp by 46 to 81
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 201 max_hp
+  healed 4 hp. Went from 154 to 158
+turn 29b ends
+turn 30a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 154
+    reduced player 1 hp by 4 to 150
+  player 0 finished playing Ice Incantation
+  gained 4 max_hp. Now have 85 max_hp
+  healed 4 hp. Went from 79 to 83
+turn 30a ends
+turn 30b begins
+  lost 1 qi. Now have 27 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 40 increase_atk
+    reduced player 1 hp by 47 to 36
+    reduced player 1 max_hp by 47 to 38
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 205 max_hp
+  healed 4 hp. Went from 150 to 154
+turn 30b ends
+turn 31a begins
+  gained 1 qi. Now have 1 qi
+  healed 3 hp. Went from 36 to 38
+  player 0 gained qi instead of playing Revitalized (level 2). They now have 1/1 qi
+  gained 4 max_hp. Now have 42 max_hp
+  healed 4 hp. Went from 38 to 42
+turn 31a ends
+turn 31b begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 45 to -3
+    gained 1 qi. Now have 28 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+turn 31b ends
+player 0 loses 26 destiny, now at 26
+player 1 (Wu Xingzhi) wins
+Player 0's deck:
+  Polaris Citta-Dharma (level 1)
+  Great Spirit (level 2)
+  Qi Therapy (level 1)
+  Stillness Citta-Dharma (level 2)
+  Ice Incantation (level 1)
+  Sharp Metal Fulu (level 1)
+  Fire Cloud Fulu (level 2)
+  Revitalized (level 2)
+Player 1's deck:
+  Wood Spirit Formation (level 1)
+  Wood Spirit Seal (level 2)
+  Regen Tune (level 1)
+  Wood Spirit - Fragrant (level 2)
+  Fire Spirit - Blast (level 2)
+  Fire Spirit - Blast (level 1)
+  Cosmos Seal (level 1)
+  Wood Spirit - Recovery (level 1)

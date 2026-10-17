@@ -1,0 +1,171 @@
+turn 1a begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1a: A(hp 78/78, def 0, qi 2) | B(hp 78/100, def 0, qi 0, phys 22)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Cacopoisonous Formation (level 1)
+    gained 1 physique. Now have 23 physique
+    gained 1 max_hp. Now have 101 max_hp
+    healed 1 hp. Went from 78 to 79
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  小布(pid3) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 78/78, def 0, qi 2) | B(hp 79/101, def 0, qi 0, phys 23)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 小布(pid3) hp by 2 to 77
+  STATE after turn 2a: A(hp 78/78, def 0, qi 3) | B(hp 77/101, def 0, qi 0, phys 23)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  小布(pid3) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 78/78, def 0, qi 3, injury 1) | B(hp 77/101, def 0, qi 0, phys 23)
+turn 2b ends
+turn 3a begins
+  reduced 吾行之(pid2) hp by 1 to 77
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 2 force_of_water. Now have 4 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 小布(pid3) hp by 4 to 73
+  STATE after turn 3a: A(hp 77/78, def 0, qi 4, injury 1) | B(hp 73/101, def 0, qi 0, phys 23)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  reduced 小布(pid3) hp by 2 to 71
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 19 to 58
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3b: A(hp 58/78, def 0, qi 4, injury 2) | B(hp 71/101, def 0, qi 0, force 1, phys 23)
+turn 3b ends
+turn 4a begins
+  reduced 吾行之(pid2) hp by 2 to 56
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 2 qi. Now have 7 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 小布(pid3) hp by 4 to 67
+  STATE after turn 4a: A(hp 56/78, def 0, qi 7, injury 2) | B(hp 67/101, def 0, qi 0, force 1, phys 23)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 11 to 45
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 4b: A(hp 45/78, def 0, qi 7, injury 2) | B(hp 67/101, def 0, qi 1, force 2, phys 23)
+turn 4b ends
+turn 5a begins
+  reduced 吾行之(pid2) hp by 2 to 43
+  lost 2 qi. Now have 5 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 6 qi
+    reduced 小布(pid3) hp by 13 to 54
+    gained 2 force_of_water. Now have 6 force_of_water
+    gained 1 force_of_water. Now have 7 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 小布(pid3) hp by 7 to 47
+  STATE after turn 5a: A(hp 43/78, def 0, qi 6, injury 2) | B(hp 47/101, def 0, qi 1, force 2, phys 23)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 4 to 43
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 12 to 31
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 5b: A(hp 31/78, def 0, qi 6, injury 2) | B(hp 43/101, def 0, qi 1, force 1, phys 23)
+turn 5b ends
+turn 6a begins
+  reduced 吾行之(pid2) hp by 2 to 29
+  吾行之(pid2) is playing Octgates Lock Formation (level 1)
+    reduced 小布(pid3) hp by 8 to 35
+    gained 2 octgates_lock_formation_stacks. Now have 2 octgates_lock_formation_stacks
+  吾行之(pid2) finished playing Octgates Lock Formation
+  reduced 小布(pid3) hp by 7 to 28
+  STATE after turn 6a: A(hp 29/78, def 0, qi 6, injury 2) | B(hp 28/101, def 0, qi 1, force 1, phys 23)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 15 to 14
+    gained 3 weaken. Now have 3 weaken
+  小布(pid3) finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+  STATE after turn 6b: A(hp 14/78, def 0, qi 6, injury 2) | B(hp 28/101, def 0, qi 0, phys 23)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 2 to 12
+  吾行之(pid2) is playing Cure Formation (level 2)
+    gained 9 max_hp. Now have 87 max_hp
+    healed 11 hp. Went from 12 to 23
+  吾行之(pid2) finished playing Cure Formation
+  reduced 小布(pid3) hp by 7 to 21
+  STATE after turn 7a: A(hp 23/87, def 0, qi 6, injury 2) | B(hp 21/101, def 0, qi 0, phys 23)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 3 to 18
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 1 wound. Now have 1 wound
+    reduced 吾行之(pid2) hp by 5 to 18
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  lost 1 weaken. Now have 1 weaken
+  STATE after turn 7b: A(hp 18/87, def 0, qi 6, injury 2) | B(hp 18/101, def 2, qi 0, phys 23)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 2 to 16
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 1 to 17
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 7 to 10
+  STATE after turn 8a: A(hp 16/87, def 0, qi 6, injury 2) | B(hp 10/101, def 0, qi 0, phys 23)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 2 to 8
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    reduced 吾行之(pid2) hp by 6 to 10
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  lost 1 weaken. Now have 0 weaken
+  STATE after turn 8b: A(hp 10/87, def 0, qi 6, injury 2) | B(hp 8/101, def 0, qi 0, phys 23)
+turn 8b ends
+turn 9a begins
+  reduced 吾行之(pid2) hp by 2 to 8
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 7 qi
+    gained 2 force_of_water. Now have 9 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 小布(pid3) hp by 9 to -1
+  STATE after turn 9a: A(hp 8/87, def 0, qi 7, injury 2) | B(hp -1/101, def 0, qi 0, phys 23)
+turn 9a ends
+小布(pid3) loses 11 destiny, now at 72
+吾行之(pid2) (Wu Xingzhi) wins

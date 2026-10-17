@@ -1,0 +1,296 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+turn 1b ends
+turn 2a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 4 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 2b ends
+turn 3a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 max_hp. Now have 72 max_hp
+    healed 8 hp. Went from 69 to 72
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Blast (level 1). They now have 1/1 qi
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 3 max_hp. Now have 75 max_hp
+    healed 8 hp. Went from 72 to 75
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 1 increase_atk
+  player 0 finished playing Fire Spirit - Blast
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 6 qi
+    gained 3 max_hp. Now have 78 max_hp
+    healed 4 hp. Went from 75 to 78
+  player 0 finished playing Water Hexagram
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Rush (level 2). They now have 1/1 qi
+turn 5b ends
+turn 6a begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 6 to 60
+  player 0 finished playing Shifting Stars
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced player 1 hp by 15 to 63
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 7 to 56
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 6 to 50
+  player 0 finished playing Fire Spirit - Rush
+turn 6b ends
+turn 7a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 9 to 51
+    gained 3 qi. Now have 9 qi
+    gained 3 max_hp. Now have 81 max_hp
+    healed 12 hp. Went from 50 to 62
+  player 0 finished playing White Crane Bright Wings
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+turn 7b ends
+turn 8a begins
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 11 qi
+    gained 3 max_hp. Now have 84 max_hp
+    healed 8 hp. Went from 62 to 70
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  player 0 finished playing Flower Sentient
+turn 8a ends
+turn 8b begins
+  reduced player 0 hp by 1 to 50
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 13 qi
+    gained 3 max_hp. Now have 87 max_hp
+    healed 8 hp. Went from 70 to 78
+    gained 3 def. Now have 4 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 1 to 49
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 10 to 68
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 6 to 62
+  player 0 finished playing Water Spirit - Waves
+turn 9b ends
+turn 10a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 15 qi
+    gained 3 max_hp. Now have 90 max_hp
+    healed 8 hp. Went from 62 to 70
+    gained 1 hexagram. Now have 3 hexagram
+  player 0 finished playing Wind Hexagram
+turn 10a ends
+turn 10b begins
+  reduced player 0 hp by 1 to 48
+  player 0 is playing Earth Spirit - Dust (level 1)
+    reduced player 1 hp by 9 to 61
+  player 0 finished playing Earth Spirit - Dust
+turn 10b ends
+turn 11a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 5 hexagram
+    gained 1 qi. Now have 16 qi
+    gained 3 max_hp. Now have 93 max_hp
+    healed 4 hp. Went from 61 to 65
+  player 0 finished playing Water Hexagram
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 1 to 47
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 2 qi
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 11b ends
+turn 12a begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 7 to 40
+    gained 1 qi. Now have 17 qi
+    gained 3 max_hp. Now have 96 max_hp
+    healed 4 hp. Went from 65 to 69
+  player 0 finished playing Shifting Stars
+turn 12a ends
+turn 12b begins
+  reduced player 0 hp by 1 to 39
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced player 1 hp by 3 to 66
+    reduced player 1 max_hp by 3 to 93
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 12b ends
+turn 13a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 4 hexagram
+    reduced player 1 hp by 10 to 29
+    gained 3 qi. Now have 20 qi
+    gained 3 max_hp. Now have 96 max_hp
+    healed 12 hp. Went from 66 to 78
+  player 0 finished playing White Crane Bright Wings
+turn 13a ends
+turn 13b begins
+  reduced player 0 hp by 1 to 28
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 2 increase_atk
+    reduced player 1 hp by 9 to 69
+    reduced player 1 max_hp by 9 to 87
+  player 0 finished playing Fire Spirit - Blast
+turn 13b ends
+turn 14a begins
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 22 qi
+    gained 3 max_hp. Now have 90 max_hp
+    healed 8 hp. Went from 69 to 77
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  player 0 finished playing Flower Sentient
+turn 14a ends
+turn 14b begins
+  reduced player 0 hp by 2 to 26
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 11 to 66
+    reduced player 1 hp by 5 to 61
+  player 0 finished playing Fire Spirit - Rush
+turn 14b ends
+turn 15a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 24 qi
+    gained 3 max_hp. Now have 93 max_hp
+    healed 8 hp. Went from 61 to 69
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 3 star_power
+  player 0 finished playing Dotted Around
+turn 15a ends
+turn 15b begins
+  reduced player 0 hp by 2 to 24
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 12 to 57
+  player 0 finished playing Water Spirit - Waves
+turn 15b ends
+turn 16a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 26 qi
+    gained 3 max_hp. Now have 96 max_hp
+    healed 8 hp. Went from 57 to 65
+    gained 1 hexagram. Now have 5 hexagram
+  player 0 finished playing Wind Hexagram
+turn 16a ends
+turn 16b begins
+  reduced player 0 hp by 2 to 22
+  player 0 is playing Earth Spirit - Dust (level 1)
+    reduced player 1 hp by 10 to 55
+  player 0 finished playing Earth Spirit - Dust
+turn 16b ends
+turn 17a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 7 hexagram
+    gained 1 qi. Now have 27 qi
+    gained 3 max_hp. Now have 99 max_hp
+    healed 4 hp. Went from 55 to 59
+  player 0 finished playing Water Hexagram
+turn 17a ends
+turn 17b begins
+  reduced player 0 hp by 2 to 20
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 2 qi
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 17b ends
+turn 18a begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 8 to 12
+    gained 1 qi. Now have 28 qi
+    gained 3 max_hp. Now have 102 max_hp
+    healed 4 hp. Went from 59 to 63
+  player 0 finished playing Shifting Stars
+turn 18a ends
+turn 18b begins
+  reduced player 0 hp by 2 to 10
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced player 1 hp by 3 to 60
+    reduced player 1 max_hp by 3 to 99
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 18b ends
+turn 19a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 6 hexagram
+    reduced player 1 hp by 11 to -1
+    gained 3 qi. Now have 31 qi
+    gained 3 max_hp. Now have 102 max_hp
+    healed 12 hp. Went from 60 to 72
+turn 19a ends
+player 1 loses 18 destiny, now at 62
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Stillness Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Wind Hexagram (level 2)
+  Water Hexagram (level 1)
+  Shifting Stars (level 1)
+  White Crane Bright Wings (level 3)
+  Flower Sentient (level 2)
+Player 1's deck:
+  Endless Sword Formation (level 1)
+  Fraccide Formation (level 1)
+  Fire Spirit - Blast (level 1)
+  Fire Spirit - Rush (level 2)
+  Water Spirit - Waves (level 2)
+  Earth Spirit - Dust (level 1)
+  Fire Spirit - Flame Eater (level 1)
+  Fire Spirit - Flame Eater (level 1)

@@ -1,0 +1,112 @@
+reduced 谭舒雁(pid1) hp by 2 to 64
+turn 1a begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1a: A(hp 64/66, def 0, qi 2, force 1) | B(hp 66/66, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Imposing (level 2)
+    gained 3 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 1b: A(hp 64/66, def 0, qi 2, force 1) | B(hp 66/66, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 2 to 62
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 3 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 22 to 44
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 2a: A(hp 62/66, def 0, qi 0, force 3) | B(hp 44/66, def 1, qi 3)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 44 to 46
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 2b: A(hp 62/66, def 0, qi 0, force 3) | B(hp 46/66, def 4, qi 3)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 38
+    gained 1 def. Now have 1 def
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 3a: A(hp 62/66, def 0, qi 0, force 3) | B(hp 38/66, def 1, qi 3)
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 小布(pid3) hp by 5 to 57
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 38 to 40
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 3b: A(hp 57/66, def 0, qi 0, force 3) | B(hp 40/66, def 4, qi 3)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 2 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 38
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 4 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 4a: A(hp 57/66, def 0, qi 1, force 4) | B(hp 38/66, def 1, qi 3)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 小布(pid3) hp by 6 to 51
+    reduced 小布(pid3) hp by 5 to 46
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 4b: A(hp 46/66, def 0, qi 1, force 4) | B(hp 38/66, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 2)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 15 to 23
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 2 qi
+    gained 2 wound. Now have 2 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 5a: A(hp 46/66, def 0, qi 2, force 3) | B(hp 23/66, def 1, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Point (level 1)
+    reduced 小布(pid3) hp by 8 to 38
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 5b: A(hp 38/66, def 0, qi 2, force 3) | B(hp 23/66, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 23 to 0
+    gained 1 def. Now have 1 def
+    gained 3 weaken. Now have 3 weaken
+  STATE after turn 6a: A(hp 38/66, def 0, qi 1, force 2) | B(hp 0/66, def 1, qi 2)
+turn 6a ends
+谭舒雁(pid1) loses 14 destiny, now at 50
+小布(pid3) (Xiao Bu) wins

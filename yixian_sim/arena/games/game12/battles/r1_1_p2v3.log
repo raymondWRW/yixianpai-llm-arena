@@ -1,0 +1,140 @@
+turn 1a begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 小布(pid3) hp by 6 to 34
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 1a: A(hp 40/40, def 0, qi 0) | B(hp 34/40, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 2 physique
+    gained 2 max_hp. Now have 42 max_hp
+    healed 1 hp. Went from 34 to 35
+  小布(pid3) finished playing Embracing Qi Technique
+  STATE after turn 1b: A(hp 40/40, def 0, qi 0) | B(hp 35/42, def 0, qi 1, phys 2)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+  STATE after turn 2a: A(hp 40/40, def 0, qi 1) | B(hp 35/42, def 0, qi 1, phys 2)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 32
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    reduced 吾行之(pid2) hp by 9 to 31
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2b: A(hp 31/40, def 0, qi 1) | B(hp 32/42, def 0, qi 1, phys 2)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced 小布(pid3) hp by 9 to 23
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 3a: A(hp 31/40, def 0, qi 0) | B(hp 23/42, def 0, qi 1, phys 2)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 2 to 21
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    reduced 吾行之(pid2) hp by 10 to 21
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 3b: A(hp 21/40, def 0, qi 0) | B(hp 21/42, def 0, qi 1, phys 2)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Wood Spirit - Bud (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 21/40, def 0, qi 1) | B(hp 21/42, def 0, qi 1, phys 2)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 18
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 4b: A(hp 18/40, def 0, qi 1) | B(hp 21/42, def 0, qi 1, phys 2)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Wood Spirit - Bud (level 1)
+    reduced 小布(pid3) hp by 3 to 18
+    reduced 小布(pid3) hp by 3 to 15
+  吾行之(pid2) finished playing Wood Spirit - Bud
+  STATE after turn 5a: A(hp 18/40, def 0, qi 0) | B(hp 15/42, def 0, qi 1, phys 2)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 15
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 5b: A(hp 15/40, def 0, qi 0) | B(hp 15/42, def 0, qi 1, phys 2)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 12
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 6a: A(hp 15/40, def 0, qi 0) | B(hp 12/42, def 0, qi 1, phys 2)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 12
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6b: A(hp 12/40, def 0, qi 0) | B(hp 12/42, def 0, qi 1, phys 2)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 9
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7a: A(hp 12/40, def 0, qi 0) | B(hp 9/42, def 0, qi 1, phys 2)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 9
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7b: A(hp 9/40, def 0, qi 0) | B(hp 9/42, def 0, qi 1, phys 2)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 6
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8a: A(hp 9/40, def 0, qi 0) | B(hp 6/42, def 0, qi 1, phys 2)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 6
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 8b: A(hp 6/40, def 0, qi 0) | B(hp 6/42, def 0, qi 1, phys 2)
+turn 8b ends
+turn 9a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 3
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 9a: A(hp 6/40, def 0, qi 0) | B(hp 3/42, def 0, qi 1, phys 2)
+turn 9a ends
+turn 9b begins
+  小布(pid3) is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 4 physique
+    gained 2 max_hp. Now have 44 max_hp
+    healed 1 hp. Went from 3 to 4
+  小布(pid3) finished playing Embracing Qi Technique
+  STATE after turn 9b: A(hp 6/40, def 0, qi 0) | B(hp 4/44, def 0, qi 2, phys 4)
+turn 9b ends
+turn 10a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 1
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 10a: A(hp 6/40, def 0, qi 0) | B(hp 1/44, def 0, qi 2, phys 4)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 3 to -2
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+  healed 3 hp. Went from -2 to 1
+  小布(pid3) healed 3 hp from crash fist bounce
+    reduced 吾行之(pid2) hp by 9 to -3
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  STATE after turn 10b: A(hp -3/40, def 0, qi 0) | B(hp 1/44, def 0, qi 2, phys 4)
+turn 10b ends
+吾行之(pid2) loses 2 destiny, now at 98
+小布(pid3) (Xiao Bu) wins

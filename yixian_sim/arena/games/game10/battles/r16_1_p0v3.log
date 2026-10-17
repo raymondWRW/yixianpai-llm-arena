@@ -1,0 +1,230 @@
+turn 1a begins
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    gained 1 def. Now have 1 def
+    reduced 小布(pid3) hp by 6 to 110
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 1a: A(hp 122/122, def 1, qi 0, sword 2) | B(hp 110/139, def 0, qi 0, phys 23)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 3 to 107
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 6 to 116
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 1b: A(hp 116/122, def 0, qi 0, sword 2) | B(hp 107/139, def 2, qi 0, phys 23)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 2a: A(hp 116/122, def 2, qi 2, sword 4) | B(hp 107/139, def 2, qi 0, phys 23)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 111
+    gained 8 def. Now have 9 def
+  小布(pid3) finished playing Detect-Horse Palms
+  STATE after turn 2b: A(hp 111/122, def 0, qi 2, sword 4) | B(hp 107/139, def 9, qi 0, phys 23)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    gained 1 def. Now have 1 def
+    lost 8 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 7 to 100
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 3a: A(hp 111/122, def 1, qi 2) | B(hp 100/139, def 0, qi 0, phys 23)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 4 to 96
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 2 def. Now have 2 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 10 to 101
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 3b: A(hp 101/122, def 0, qi 2) | B(hp 96/139, def 2, qi 0, phys 23)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    gained 1 def. Now have 1 def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 6 to 90
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 87
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 4a: A(hp 101/122, def 1, qi 2) | B(hp 87/139, def 0, qi 0, phys 23)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 4 to 83
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 10 to 91
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 4b: A(hp 91/122, def 0, qi 2) | B(hp 83/139, def 0, qi 0, phys 23)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    gained 1 def. Now have 1 def
+    reduced 小布(pid3) hp by 9 to 74
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5a: A(hp 91/122, def 1, qi 2) | B(hp 74/139, def 0, qi 0, phys 23)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 6 to 68
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 12 to 79
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 5b: A(hp 79/122, def 0, qi 2) | B(hp 68/139, def 0, qi 0, force 1, phys 23)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 2)
+    gained 1 def. Now have 1 def
+    reduced 小布(pid3) hp by 13 to 55
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 6a: A(hp 79/122, def 1, qi 2) | B(hp 55/139, def 0, qi 0, force 1, phys 23)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 6b: A(hp 79/122, def 1, qi 2) | B(hp 55/139, def 0, qi 2, force 2, phys 23)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 20 to 35
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 7a: A(hp 79/122, def 0, qi 0) | B(hp 35/139, def 0, qi 2, force 2, phys 23)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 5 to 30
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 2 force. Now have 4 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 20 to 59
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 7b: A(hp 59/122, def 0, qi 0) | B(hp 30/139, def 0, qi 2, force 4, phys 23)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 27
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 59/122, def 0, qi 0) | B(hp 27/139, def 0, qi 2, force 4, phys 23)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 5 to 22
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 20 to 39
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 8b: A(hp 39/122, def 0, qi 0) | B(hp 22/139, def 0, qi 2, force 4, phys 23)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    gained 1 def. Now have 1 def
+    reduced 小布(pid3) hp by 6 to 16
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 9a: A(hp 39/122, def 1, qi 0, sword 2) | B(hp 16/139, def 0, qi 2, force 4, phys 23)
+turn 9a ends
+turn 9b begins
+  reduced 小布(pid3) hp by 3 to 13
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 force. Now have 3 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 15 to 24
+    gained 2 def. Now have 7 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 9b: A(hp 24/122, def 0, qi 0, sword 2) | B(hp 13/139, def 7, qi 2, force 3, phys 23)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 10a: A(hp 24/122, def 2, qi 2, sword 4) | B(hp 13/139, def 7, qi 2, force 3, phys 23)
+turn 10a ends
+turn 10b begins
+  lost 4 def. Now have 3 def
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    lost 1 force. Now have 2 force
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 17
+    gained 8 def. Now have 11 def
+  小布(pid3) finished playing Detect-Horse Palms
+  STATE after turn 10b: A(hp 17/122, def 0, qi 2, sword 4) | B(hp 13/139, def 11, qi 2, force 2, phys 23)
+turn 10b ends
+turn 11a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    gained 1 def. Now have 1 def
+    lost 8 def. Now have 3 def
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 5 to 8
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 11a: A(hp 17/122, def 1, qi 2) | B(hp 8/139, def 0, qi 2, force 2, phys 23)
+turn 11a ends
+turn 11b begins
+  reduced 小布(pid3) hp by 4 to 4
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 2 def. Now have 2 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 1 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 12 to 5
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 11b: A(hp 5/122, def 0, qi 2) | B(hp 4/139, def 2, qi 2, force 1, phys 23)
+turn 11b ends
+turn 12a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    gained 1 def. Now have 1 def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 6 to -2
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to -5
+  STATE after turn 12a: A(hp 5/122, def 1, qi 2) | B(hp -5/139, def 0, qi 2, force 1, phys 23)
+turn 12a ends
+小布(pid3) loses 19 destiny, now at -18
+牧逸风(pid0) (Mu Yifeng) wins

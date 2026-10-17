@@ -1,0 +1,126 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  吾行之(pid2) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  吾行之(pid2) finished playing Cacopoisonous Formation
+  STATE after turn 1a: A(hp 51/51, def 0, qi 0) | B(hp 51/51, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 吾行之(pid2) hp by 7 to 44
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 1b: A(hp 44/51, def 0, qi 0) | B(hp 51/51, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  吾行之(pid2) is playing Water Spirit Seal (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 2a: A(hp 44/51, def 0, qi 2) | B(hp 51/51, def 0, qi 2, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 谭舒雁(pid1) hp by 1 to 50
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 吾行之(pid2) hp by 9 to 35
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 2b: A(hp 35/51, def 0, qi 2) | B(hp 50/51, def 0, qi 1, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 40
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 1 to 39
+  STATE after turn 3a: A(hp 35/51, def 0, qi 0) | B(hp 39/51, def 0, qi 1, injury 2)
+turn 3a ends
+turn 3b begins
+  reduced 谭舒雁(pid1) hp by 2 to 37
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 吾行之(pid2) hp by 7 to 28
+    reduced 吾行之(pid2) hp by 7 to 21
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 21/51, def 0, qi 0) | B(hp 37/51, def 0, qi 0, injury 2)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 1 qi
+    healed 4 hp. Went from 21 to 25
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  reduced 谭舒雁(pid1) hp by 1 to 36
+  STATE after turn 4a: A(hp 25/51, def 0, qi 1) | B(hp 36/51, def 0, qi 0, injury 2)
+turn 4a ends
+turn 4b begins
+  reduced 谭舒雁(pid1) hp by 2 to 34
+  谭舒雁(pid1) is playing Palm Thunder (level 1)
+    reduced 吾行之(pid2) hp by 5 to 20
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 4b: A(hp 20/51, def 0, qi 1) | B(hp 34/51, def 0, qi 0, injury 2)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced 谭舒雁(pid1) hp by 9 to 25
+    reduced 谭舒雁(pid1) hp by 2 to 23
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  reduced 谭舒雁(pid1) hp by 1 to 22
+  STATE after turn 5a: A(hp 20/51, def 0, qi 0) | B(hp 22/51, def 0, qi 0, injury 2)
+turn 5a ends
+turn 5b begins
+  reduced 谭舒雁(pid1) hp by 2 to 20
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 20/51, def 0, qi 0) | B(hp 20/51, def 0, qi 1, injury 2)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Turbulent (level 1). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 1 to 19
+  STATE after turn 6a: A(hp 20/51, def 0, qi 1) | B(hp 19/51, def 0, qi 1, injury 2)
+turn 6a ends
+turn 6b begins
+  reduced 谭舒雁(pid1) hp by 2 to 17
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 吾行之(pid2) hp by 3 to 17
+    reduced 吾行之(pid2) hp by 3 to 14
+    gained 3 def. Now have 3 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 6b: A(hp 14/51, def 0, qi 1) | B(hp 17/51, def 3, qi 0, injury 2)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 9
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 1 to 8
+  STATE after turn 7a: A(hp 14/51, def 0, qi 0) | B(hp 8/51, def 0, qi 0, injury 2)
+turn 7a ends
+turn 7b begins
+  reduced 谭舒雁(pid1) hp by 2 to 6
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Cutting Weeds (level 1). They now have 1/1 qi
+  STATE after turn 7b: A(hp 14/51, def 0, qi 0) | B(hp 6/51, def 0, qi 1, injury 2)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 3
+  吾行之(pid2) finished playing Normal Attack
+  reduced 谭舒雁(pid1) hp by 1 to 2
+  STATE after turn 8a: A(hp 14/51, def 0, qi 0) | B(hp 2/51, def 0, qi 1, injury 2)
+turn 8a ends
+turn 8b begins
+  reduced 谭舒雁(pid1) hp by 2 to 0
+  STATE after turn 8b: A(hp 14/51, def 0, qi 0) | B(hp 0/51, def 0, qi 1, injury 2)
+turn 8b ends
+谭舒雁(pid1) loses 7 destiny, now at 84
+吾行之(pid2) (Wu Xingzhi) wins

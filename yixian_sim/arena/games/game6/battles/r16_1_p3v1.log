@@ -1,0 +1,162 @@
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 64 physique
+    gained 2 max_hp. Now have 177 max_hp
+    healed 4 hp. Went from 113 to 117
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Flame Hexagram (level 1)
+    gained 3 hexagram. Now have 3 hexagram
+    reduced player 1 max_hp by 2 to 175
+  player 0 finished playing Flame Hexagram
+turn 1b ends
+turn 2a begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 2a ends
+turn 2b begins
+  player 0 is playing Heaven Hexagram (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 hexagram. Now have 4 hexagram
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Heaven Hexagram
+  incremented chases to 1
+  chase!!
+  player 0 is playing Star Trail Divination (level 1)
+    gained 6 def. Now have 6 def
+    lost 4 hexagram. Now have 0 hexagram
+    gained 4 star_power. Now have 4 star_power
+    gained 4 qi. Now have 5 qi
+    healed 4 hp. Went from 119 to 119
+  player 0 finished playing Star Trail Divination
+turn 2b ends
+turn 3a begins
+  player 0 is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 4 force
+  player 0 finished playing Gather Intense Force
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 7 star_power
+    gained 1 qi. Now have 6 qi
+  player 0 finished playing Starry Moon
+turn 3b ends
+turn 4a begins
+  lost 4 def. Now have 4 def
+  reduced player 0 hp by 2 to 115
+  player 0 spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 1 qi
+    gained 3 force. Now have 7 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 33 to 86
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mighty Force
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 10 to 105
+    reduced player 1 hp by 14 to 91
+  player 0 finished playing Astral Move - Flank
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 5 to 86
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    reduced player 1 hp by 18 to 68
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 2)
+    reduced player 1 hp by 11 to 75
+    reduced player 1 hp by 11 to 64
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+  player 0 finished playing Water Hexagram
+turn 5b ends
+turn 6a begins
+  reduced player 0 hp by 5 to 59
+  player 0 spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    reduced player 1 hp by 39 to 29
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Inch Force
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 7 to 52
+    reduced player 1 hp by 12 to 40
+    reduced player 1 hp by 12 to 28
+  player 0 finished playing Astral Move - Hit
+turn 6b ends
+turn 7a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 27 to 2
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 8 force
+  player 0 finished playing Vigorous Force
+turn 7a ends
+turn 7b begins
+  player 0 is playing Flame Hexagram (level 1)
+    gained 3 hexagram. Now have 5 hexagram
+    reduced player 1 max_hp by 2 to 173
+  player 0 finished playing Flame Hexagram
+turn 7b ends
+turn 8a begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 8 force. Now have 0 force
+    gained 32 def. Now have 32 def
+    reduced player 1 hp by 24 to -22
+    gained 5 agility. Now have 5 agility
+turn 8a ends
+player 1 loses 24 destiny, now at -13
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Majestic Qi (level 2)
+  Gather Intense Force (level 1)
+  Mighty Force (level 2)
+  Crash Fist - Subdue Dragon (level 1)
+  Crash Fist - Inch Force (level 1)
+  Vigorous Force (level 2)
+  Overwhelming Force (level 1)
+Player 1's deck:
+  Flame Hexagram (level 1)
+  Heaven Hexagram (level 1)
+  Star Trail Divination (level 1)
+  Starry Moon (level 2)
+  Astral Move - Flank (level 2)
+  Astral Move - Fly (level 2)
+  Water Hexagram (level 1)
+  Astral Move - Hit (level 1)

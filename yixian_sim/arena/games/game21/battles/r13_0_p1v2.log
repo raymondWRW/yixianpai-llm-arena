@@ -1,0 +1,194 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 4 internal_injury
+    reduced 吾行之(pid2) hp by 4 to 95
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1a: A(hp 99/99, def 2, qi 0) | B(hp 95/99, def 0, qi 0, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 4 to 91
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1b: A(hp 99/99, def 2, qi 0) | B(hp 91/99, def 0, qi 2, injury 4)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 吾行之(pid2) hp by 6 to 85
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 2a: A(hp 99/99, def 1, qi 0) | B(hp 85/99, def 0, qi 2, injury 6)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 6 to 79
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 2 qi. Now have 5 qi
+    gained 2 max_hp. Now have 101 max_hp
+    healed 2 hp. Went from 79 to 81
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 98
+  gained 1 def. Now have 1 def
+  STATE after turn 2b: A(hp 98/99, def 1, qi 0) | B(hp 81/101, def 0, qi 5, injury 6)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3a: A(hp 98/99, def 0, qi 0) | B(hp 81/101, def 0, qi 5, injury 7)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 7 to 74
+  lost 2 qi. Now have 3 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 3)
+    gained 1 qi. Now have 4 qi
+    reduced 谭舒雁(pid1) hp by 16 to 82
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 80
+  gained 1 def. Now have 1 def
+  STATE after turn 3b: A(hp 80/99, def 1, qi 0) | B(hp 74/101, def 0, qi 4, injury 7)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 4 hp. Went from 80 to 84
+    gained 1 internal_injury. Now have 8 internal_injury
+    gained 1 internal_injury. Now have 9 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 4a: A(hp 84/99, def 5, qi 0) | B(hp 74/101, def 0, qi 4, injury 9)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 9 to 65
+  lost 2 qi. Now have 2 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    gained 1 qi. Now have 3 qi
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 79
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 4 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 3 to 76
+  gained 1 def. Now have 1 def
+  STATE after turn 4b: A(hp 76/99, def 1, qi 0) | B(hp 65/101, def 0, qi 3, injury 9)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 10 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 5a: A(hp 76/99, def 1, qi 1) | B(hp 65/101, def 0, qi 3, injury 10)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 10 to 55
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 12 to 64
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing World Smash
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 3 to 61
+  gained 1 def. Now have 1 def
+  STATE after turn 5b: A(hp 61/99, def 1, qi 1) | B(hp 55/101, def 0, qi 2, injury 10)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 6a: A(hp 61/99, def 4, qi 1) | B(hp 55/101, def 0, qi 2, injury 10)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 10 to 45
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 2 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 57
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 3 to 54
+  gained 1 def. Now have 1 def
+  STATE after turn 6b: A(hp 54/99, def 1, qi 1) | B(hp 45/101, def 0, qi 2, injury 10)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 39
+    gained 2 internal_injury. Now have 12 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 7a: A(hp 54/99, def 0, qi 0) | B(hp 39/101, def 0, qi 2, injury 12)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 12 to 27
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 1 to 53
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 50
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 3 to 47
+  gained 1 def. Now have 1 def
+  STATE after turn 7b: A(hp 47/99, def 1, qi 0) | B(hp 27/101, def 0, qi 1, injury 12)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 吾行之(pid2) hp by 6 to 21
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 8a: A(hp 47/99, def 0, qi 1) | B(hp 21/101, def 0, qi 1, injury 12)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 12 to 9
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 2)
+    gained 3 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 108 max_hp
+  healed 7 hp. Went from 9 to 16
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  reduced 谭舒雁(pid1) hp by 4 to 43
+  gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp 43/99, def 1, qi 1) | B(hp 16/108, def 7, qi 1, injury 12)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 15 internal_injury
+    reduced 吾行之(pid2) hp by 15 to 1
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 9a: A(hp 43/99, def 0, qi 1) | B(hp 1/108, def 7, qi 1, injury 15)
+turn 9a ends
+turn 9b begins
+  lost 4 def. Now have 3 def
+  reduced 吾行之(pid2) hp by 15 to -14
+  STATE after turn 9b: A(hp 43/99, def 0, qi 1) | B(hp -14/108, def 3, qi 1, injury 15)
+turn 9b ends
+吾行之(pid2) loses 22 destiny, now at 4
+谭舒雁(pid1) (Tan Shuyan) wins

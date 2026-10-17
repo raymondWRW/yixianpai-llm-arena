@@ -1,0 +1,201 @@
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+turn 1a begins
+  牧逸风(pid0) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  牧逸风(pid0) finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  STATE after turn 1a: A(hp 80/80, def 3, qi 0) | B(hp 80/80, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 80/80, def 3, qi 0) | B(hp 80/80, def 0, qi 2, force 1)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 3 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  gained 3 def. Now have 6 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  STATE after turn 2a: A(hp 80/80, def 6, qi 2, sword 2) | B(hp 80/80, def 0, qi 2, force 1)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 77
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 73
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2b: A(hp 73/80, def 0, qi 2, sword 2) | B(hp 77/80, def 0, qi 2, force 1)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 5 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 3a: A(hp 73/80, def 3, qi 5, sword 2) | B(hp 77/80, def 0, qi 2, force 1)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 2 to 75
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 3 force
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 19 to 54
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3b: A(hp 54/80, def 0, qi 5, sword 2) | B(hp 75/80, def 0, qi 0, force 3)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 5 scutturtle_formation_stacks
+  牧逸风(pid0) finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  STATE after turn 4a: A(hp 54/80, def 3, qi 5, sword 2) | B(hp 75/80, def 0, qi 0, force 3)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 6 to 69
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 2 force
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 15 to 39
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 4b: A(hp 39/80, def 0, qi 5, sword 2) | B(hp 69/80, def 0, qi 0, force 2)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 5 to 64
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Normal Attack
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  STATE after turn 5a: A(hp 39/80, def 3, qi 5) | B(hp 64/80, def 0, qi 0, force 2)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 force. Now have 3 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 5b: A(hp 39/80, def 3, qi 5) | B(hp 64/80, def 0, qi 1, force 3, agi 5)
+turn 5b ends
+turn 6a begins
+  lost 2 def. Now have 1 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 61
+  牧逸风(pid0) finished playing Normal Attack
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  STATE after turn 6a: A(hp 39/80, def 4, qi 5) | B(hp 61/80, def 0, qi 1, force 3, agi 5)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 6 force. Now have 0 force
+    gained 24 def. Now have 24 def
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 14 to 25
+    gained 5 agility. Now have 6 agility
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 6b: A(hp 25/80, def 0, qi 5) | B(hp 61/80, def 24, qi 0, agi 6)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 3 def. Now have 21 def
+  牧逸风(pid0) finished playing Normal Attack
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 7a: A(hp 25/80, def 3, qi 5) | B(hp 61/80, def 21, qi 0, agi 6)
+turn 7a ends
+turn 7b begins
+  lost 11 def. Now have 10 def
+  小布(pid3) is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 agility. Now have 10 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 7b: A(hp 25/80, def 3, qi 5) | B(hp 61/80, def 10, qi 3, force 1)
+turn 7b ends
+turn 8a begins
+  lost 2 def. Now have 1 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 3 def. Now have 7 def
+  牧逸风(pid0) finished playing Normal Attack
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  STATE after turn 8a: A(hp 25/80, def 4, qi 5) | B(hp 61/80, def 7, qi 3, force 1)
+turn 8a ends
+turn 8b begins
+  lost 4 def. Now have 3 def
+  reduced 小布(pid3) hp by 3 to 58
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 12 to 13
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 8b: A(hp 13/80, def 0, qi 5) | B(hp 58/80, def 3, qi 3, force 1)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 9a: A(hp 13/80, def 2, qi 7, sword 2) | B(hp 58/80, def 3, qi 3, force 1)
+turn 9a ends
+turn 9b begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 2 to 56
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 24 to -11
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  STATE after turn 9b: A(hp -11/80, def 0, qi 7, sword 2) | B(hp 56/80, def 1, qi 1, force 3)
+turn 9b ends
+牧逸风(pid0) loses 20 destiny, now at 68
+小布(pid3) (Xiao Bu) wins

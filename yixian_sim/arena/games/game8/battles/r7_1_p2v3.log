@@ -1,0 +1,125 @@
+gained 2 internal_injury. Now have 2 internal_injury
+gained 2 regen. Now have 2 regen
+turn 1a begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 2 qi
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 1a: A(hp 77/77, def 0, qi 2) | B(hp 69/69, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  healed 2 hp. Went from 69 to 69
+  reduced 小布(pid3) hp by 2 to 67
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 吾行之(pid2) hp by 2 to 75
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 75/77, def 0, qi 2) | B(hp 67/69, def 0, qi 1, force 2, injury 2)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced 小布(pid3) hp by 8 to 59
+    reduced 小布(pid3) max_hp by 8 to 61
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 2a: A(hp 75/77, def 0, qi 1) | B(hp 59/61, def 0, qi 1, force 2, injury 2)
+turn 2a ends
+turn 2b begins
+  healed 2 hp. Went from 59 to 61
+  reduced 小布(pid3) hp by 2 to 59
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Double Trouble (level 1)
+    gained 1 internal_injury. Now have 3 internal_injury
+    gained 1 internal_injury. Now have 1 internal_injury
+    gained 1 wound. Now have 1 wound
+    gained 1 wound. Now have 1 wound
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 8 to 67
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 7 to 60
+  小布(pid3) finished playing Double Trouble
+  STATE after turn 2b: A(hp 60/77, def 0, qi 1, injury 1) | B(hp 59/61, def 0, qi 0, injury 3)
+turn 2b ends
+turn 3a begins
+  reduced 吾行之(pid2) hp by 1 to 59
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced 小布(pid3) hp by 13 to 46
+    reduced 小布(pid3) hp by 5 to 41
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 3a: A(hp 59/77, def 0, qi 0, injury 1) | B(hp 41/61, def 0, qi 0, injury 3)
+turn 3a ends
+turn 3b begins
+  healed 2 hp. Went from 41 to 43
+  reduced 小布(pid3) hp by 3 to 40
+  reduced 小布(pid3) hp by 3 to 37
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    reduced 吾行之(pid2) hp by 10 to 49
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 3b: A(hp 49/77, def 0, qi 0, injury 1) | B(hp 37/61, def 0, qi 0, injury 3)
+turn 3b ends
+turn 4a begins
+  reduced 吾行之(pid2) hp by 1 to 48
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 48/77, def 0, qi 1, injury 1) | B(hp 37/61, def 0, qi 0, injury 3)
+turn 4a ends
+turn 4b begins
+  healed 2 hp. Went from 37 to 39
+  reduced 小布(pid3) hp by 3 to 36
+  reduced 小布(pid3) hp by 4 to 32
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    reduced 吾行之(pid2) hp by 13 to 35
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 4b: A(hp 35/77, def 0, qi 1, injury 1) | B(hp 32/61, def 0, qi 0, injury 3)
+turn 4b ends
+turn 5a begins
+  reduced 吾行之(pid2) hp by 1 to 34
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced 小布(pid3) hp by 11 to 21
+    reduced 小布(pid3) hp by 4 to 17
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 5a: A(hp 34/77, def 0, qi 0, injury 1) | B(hp 17/61, def 0, qi 0, injury 3)
+turn 5a ends
+turn 5b begins
+  healed 2 hp. Went from 17 to 19
+  reduced 小布(pid3) hp by 3 to 16
+  reduced 小布(pid3) hp by 3 to 13
+  小布(pid3) spent 3 hp to play Youthful Vigor (level 2)
+    reduced 吾行之(pid2) hp by 11 to 23
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 5b: A(hp 23/77, def 0, qi 0, injury 1) | B(hp 13/61, def 0, qi 0, injury 3)
+turn 5b ends
+turn 6a begins
+  reduced 吾行之(pid2) hp by 1 to 22
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 22/77, def 0, qi 1, injury 1) | B(hp 13/61, def 0, qi 0, injury 3)
+turn 6a ends
+turn 6b begins
+  healed 2 hp. Went from 13 to 15
+  reduced 小布(pid3) hp by 3 to 12
+  小布(pid3) is playing Vigorous Force (level 1)
+    reduced 吾行之(pid2) hp by 7 to 15
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 6b: A(hp 15/77, def 0, qi 1, injury 1) | B(hp 12/61, def 0, qi 0, injury 3)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 1 to 14
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced 小布(pid3) hp by 6 to 6
+    reduced 小布(pid3) hp by 6 to 0
+    reduced 小布(pid3) hp by 6 to -6
+  STATE after turn 7a: A(hp 14/77, def 0, qi 0, injury 1) | B(hp -6/61, def 0, qi 0, injury 3)
+turn 7a ends
+小布(pid3) loses 11 destiny, now at 68
+吾行之(pid2) (Wu Xingzhi) wins

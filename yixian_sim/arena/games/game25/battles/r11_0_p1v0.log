@@ -1,0 +1,218 @@
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 4 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 95/95, def 4, qi 2) | B(hp 82/82, def 0, qi 0, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 81
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 95/95, def 4, qi 2) | B(hp 81/82, def 3, qi 2, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 3 internal_injury
+    reduced 牧逸风(pid0) hp by 3 to 78
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 2a: A(hp 95/95, def 2, qi 2) | B(hp 78/82, def 3, qi 2, injury 3)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 3 to 75
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 88
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  STATE after turn 2b: A(hp 88/95, def 0, qi 2) | B(hp 75/82, def 3, qi 0, injury 3)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 3a: A(hp 88/95, def 4, qi 4) | B(hp 75/82, def 3, qi 0, injury 3)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 3 to 72
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Egret Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 88/95, def 4, qi 4) | B(hp 72/82, def 1, qi 1, injury 3)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 4a: A(hp 88/95, def 6, qi 4) | B(hp 72/82, def 1, qi 1, injury 3)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 3 to 69
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 5 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 4b: A(hp 88/95, def 5, qi 4) | B(hp 69/82, def 0, qi 0, injury 3)
+turn 4b ends
+turn 5a begins
+  lost 3 def. Now have 2 def
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 103 max_hp
+    healed 8 hp. Went from 88 to 96
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 5a: A(hp 96/103, def 2, qi 4) | B(hp 69/82, def 0, qi 0, injury 3)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 3 to 66
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 1/3 qi
+  STATE after turn 5b: A(hp 96/103, def 2, qi 4) | B(hp 66/82, def 0, qi 1, injury 3)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 58
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 6a: A(hp 96/103, def 1, qi 3) | B(hp 58/82, def 0, qi 1, injury 3)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 3 to 55
+  gained 1 qi. Now have 2 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 2/3 qi
+  STATE after turn 6b: A(hp 96/103, def 1, qi 3) | B(hp 55/82, def 0, qi 2, injury 3)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 52
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 96/103, def 0, qi 3) | B(hp 52/82, def 0, qi 2, injury 3)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 3 to 49
+  gained 1 qi. Now have 3 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 3/3 qi
+  STATE after turn 7b: A(hp 96/103, def 0, qi 3) | B(hp 49/82, def 0, qi 3, injury 3)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 46
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 96/103, def 0, qi 3) | B(hp 46/82, def 0, qi 3, injury 3)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 3 to 43
+  lost 3 qi. Now have 0 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 4 to 92
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 谭舒雁(pid1) hp by 4 to 88
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 8b: A(hp 88/103, def 0, qi 3) | B(hp 43/82, def 10, qi 0, injury 3)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 9a: A(hp 88/103, def 2, qi 5) | B(hp 43/82, def 10, qi 0, injury 4)
+turn 9a ends
+turn 9b begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 4 to 39
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 87
+  牧逸风(pid0) finished playing Normal Attack
+  reduced 谭舒雁(pid1) hp by 4 to 83
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 9b: A(hp 83/103, def 0, qi 5) | B(hp 39/82, def 5, qi 0, injury 4)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 牧逸风(pid0) hp by 6 to 33
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 10a: A(hp 83/103, def 0, qi 5) | B(hp 33/82, def 5, qi 0, injury 6)
+turn 10a ends
+turn 10b begins
+  lost 3 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 6 to 27
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 80
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 10b: A(hp 80/103, def 0, qi 5) | B(hp 27/82, def 2, qi 0, injury 6)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 11a: A(hp 80/103, def 4, qi 7) | B(hp 27/82, def 2, qi 0, injury 6)
+turn 11a ends
+turn 11b begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 6 to 21
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 3 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 11b: A(hp 80/103, def 1, qi 7) | B(hp 21/82, def 1, qi 0, injury 6)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  lost 1 fate_reincarnates_stacks. Now have 3 fate_reincarnates_stacks
+  gained 4 def. Now have 4 def
+  lost 1 qi. Now have 6 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 11 to 10
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 12a: A(hp 80/103, def 4, qi 6) | B(hp 10/82, def 0, qi 0, injury 6)
+turn 12a ends
+turn 12b begins
+  reduced 牧逸风(pid0) hp by 6 to 4
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 12b: A(hp 80/103, def 4, qi 6) | B(hp 4/82, def 3, qi 2, injury 6)
+turn 12b ends
+turn 13a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 13a: A(hp 80/103, def 2, qi 6) | B(hp 4/82, def 0, qi 2, injury 6)
+turn 13a ends
+turn 13b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 6 to -2
+  STATE after turn 13b: A(hp 80/103, def 2, qi 6) | B(hp -2/82, def 0, qi 2, injury 6)
+turn 13b ends
+牧逸风(pid0) loses 23 destiny, now at 31
+谭舒雁(pid1) (Tan Shuyan) wins

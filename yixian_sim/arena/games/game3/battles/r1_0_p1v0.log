@@ -1,0 +1,121 @@
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Sparrow's Tail (level 2). They now have 1/1 qi
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cloud Sword - Touch Earth (level 1)
+    reduced player 1 hp by 4 to 36
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 30
+  player 0 finished playing Sparrow's Tail
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 30
+    reduced player 1 hp by 5 to 25
+  player 0 finished playing Cloud Sword - Fleche
+turn 2b ends
+turn 3a begins
+  player 0 is playing Palm Thunder (level 2)
+    reduced player 1 hp by 6 to 24
+  player 0 finished playing Palm Thunder
+turn 3a ends
+turn 3b begins
+  player 0 is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Defence
+turn 3b ends
+turn 4a begins
+  player 0 is playing White Crane Bright Wings (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 1 to 23
+    gained 1 qi. Now have 1 qi
+  player 0 finished playing White Crane Bright Wings
+turn 4a ends
+turn 4b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 5 to 20
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Normal Attack
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 20
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 17
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 17
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 14
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 14
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 9a ends
+turn 9b begins
+  player 0 is playing Cloud Sword - Touch Earth (level 1)
+    reduced player 1 hp by 4 to 4
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to -2
+    reduced player 1 hp by 7 to -9
+turn 10a ends
+player 1 loses 4 destiny, now at 96
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Sparrow's Tail (level 2)
+  Palm Thunder (level 2)
+  White Crane Bright Wings (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Cloud Sword - Touch Earth (level 1)
+  Cloud Sword - Fleche (level 2)
+  Sword Defence (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

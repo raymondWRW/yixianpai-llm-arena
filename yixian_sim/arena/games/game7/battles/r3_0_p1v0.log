@@ -1,0 +1,171 @@
+turn 1a begins
+  player 0 is playing Zhen Hexagram (level 2)
+    reduced player 1 hp by 7 to 42
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Zhen Hexagram
+turn 1a ends
+turn 1b begins
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 48
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 1b ends
+turn 2a begins
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 hexagram. Now have 2 hexagram
+  player 0 finished playing Wind Hexagram
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Thunder Sword (level 2). They now have 1/1 qi
+  gained 3 def. Now have 3 def
+turn 2b ends
+turn 3a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 37
+    gained 3 qi. Now have 4 qi
+  player 0 finished playing White Crane Bright Wings
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 8 to 40
+    reduced player 1 hp by 10 to 30
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 3b ends
+turn 4a begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 32
+  player 0 finished playing Shifting Stars
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Flying Fang Sword (level 1). They now have 1/1 qi
+  gained 3 def. Now have 3 def
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 3 to 29
+    lost 1 hexagram. Now have 0 hexagram
+    gained 10 def. Now have 10 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    lost 8 def. Now have 2 def
+  player 0 finished playing Flying Fang Sword
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 26
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Giant Tiger Spirit Sword (level 1). They now have 1/1 qi
+  gained 3 def. Now have 3 def
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced player 1 hp by 10 to 20
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 23
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Cloud Sword - Touch Earth (level 1)
+    reduced player 1 hp by 4 to 16
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 8b ends
+turn 9a begins
+  player 0 is playing Zhen Hexagram (level 2)
+    reduced player 1 hp by 7 to 16
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Zhen Hexagram
+turn 9a ends
+turn 9b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 9b ends
+turn 10a begins
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 1 hexagram. Now have 2 hexagram
+  player 0 finished playing Wind Hexagram
+turn 10a ends
+turn 10b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 10b ends
+turn 11a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 8 to 8
+    gained 3 qi. Now have 7 qi
+  player 0 finished playing White Crane Bright Wings
+turn 11a ends
+turn 11b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 11b ends
+turn 12a begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 3
+    gained 1 qi. Now have 8 qi
+  player 0 finished playing Shifting Stars
+turn 12a ends
+turn 12b begins
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 3
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 12b ends
+turn 13a begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced player 1 hp by 3 to 0
+    reduced player 1 hp by 3 to -3
+    lost 1 hexagram. Now have 0 hexagram
+    gained 10 def. Now have 10 def
+turn 13a ends
+player 1 loses 5 destiny, now at 91
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Zhen Hexagram (level 2)
+  Wind Hexagram (level 1)
+  White Crane Bright Wings (level 3)
+  Shifting Stars (level 1)
+  Wild Horses Part the Mane (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Sword Slash (level 1)
+  Thunder Sword (level 2)
+  Flying Fang Sword (level 1)
+  Giant Tiger Spirit Sword (level 1)
+  Cloud Sword - Touch Earth (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

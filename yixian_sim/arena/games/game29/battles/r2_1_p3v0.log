@@ -1,0 +1,66 @@
+turn 1a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 34
+    gained 1 qi. Now have 1 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 1a: A(hp 42/43, def 0, qi 1, phys 1) | B(hp 34/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 2). They now have 1/1 qi
+  STATE after turn 1b: A(hp 42/43, def 0, qi 1, phys 1) | B(hp 34/42, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 3 to 39
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    reduced 牧逸风(pid0) hp by 11 to 23
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2a: A(hp 39/43, def 0, qi 1, phys 1) | B(hp 23/42, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 14 to 25
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 2b: A(hp 25/43, def 0, qi 1, phys 1) | B(hp 23/42, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 2 to 23
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 15
+    lost 1 qi. Now have 0 qi
+    reduced 牧逸风(pid0) hp by 4 to 11
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 3a: A(hp 23/43, def 0, qi 0, phys 1) | B(hp 11/42, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Thunder Sword (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 23/43, def 0, qi 0, phys 1) | B(hp 11/42, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 23/43, def 0, qi 1, phys 1) | B(hp 11/42, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 小布(pid3) hp by 6 to 17
+    reduced 小布(pid3) hp by 7 to 10
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 4b: A(hp 10/43, def 0, qi 1, phys 1) | B(hp 11/42, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    reduced 牧逸风(pid0) hp by 12 to -1
+    gained 1 internal_injury. Now have 1 internal_injury
+  STATE after turn 5a: A(hp 10/43, def 0, qi 0, injury 1, phys 1) | B(hp -1/42, def 0, qi 0)
+turn 5a ends
+牧逸风(pid0) loses 5 destiny, now at 95
+小布(pid3) (Xiao Bu) wins

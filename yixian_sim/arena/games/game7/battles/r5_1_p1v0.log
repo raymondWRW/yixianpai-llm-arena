@@ -1,0 +1,220 @@
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 3 def
+turn 1b ends
+turn 2a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 max_hp. Now have 59 max_hp
+    healed 4 hp. Went from 56 to 59
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 4 to 55
+    reduced player 1 hp by 7 to 48
+    lost 4 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 2b ends
+turn 3a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 4 qi
+    gained 3 max_hp. Now have 62 max_hp
+    healed 4 hp. Went from 48 to 52
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Cloud Sword - Reguard (level 1)
+    gained 8 def. Now have 8 def
+  player 0 finished playing Cloud Sword - Reguard
+  gained 3 def. Now have 11 def
+turn 3b ends
+turn 4a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+  player 0 finished playing Water Hexagram
+turn 4a ends
+turn 4b begins
+  lost 6 def. Now have 5 def
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 46
+    reduced player 1 hp by 8 to 38
+  player 0 finished playing Thunder Sword
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 7 to 46
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    reduced player 1 hp by 4 to 34
+  player 0 finished playing Flying Fang Sword
+  lost 1 weaken. Now have 0 weaken
+turn 5b ends
+turn 6a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 9 to 37
+    gained 3 qi. Now have 6 qi
+    gained 3 max_hp. Now have 65 max_hp
+    healed 6 hp. Went from 34 to 40
+  player 0 finished playing White Crane Bright Wings
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced player 1 hp by 10 to 30
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 1)
+    reduced player 1 hp by 9 to 28
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 5 to 23
+  player 0 finished playing Sparrow's Tail
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Giant Whale Spirit Sword (level 1). They now have 1/2 qi
+  gained 3 def. Now have 3 def
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Giant Whale Spirit Sword (level 1). They now have 2/2 qi
+  gained 3 def. Now have 3 def
+turn 8b ends
+turn 9a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 7 qi
+    gained 3 max_hp. Now have 68 max_hp
+    healed 4 hp. Went from 30 to 34
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9a ends
+turn 9b begins
+  lost 2 def. Now have 1 def
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 13 to 21
+  player 0 finished playing Giant Whale Spirit Sword
+turn 9b ends
+turn 10a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 9 qi
+    gained 3 max_hp. Now have 71 max_hp
+    healed 4 hp. Went from 21 to 25
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 22
+  player 0 finished playing Normal Attack
+turn 10b ends
+turn 11a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 10 qi
+    gained 3 max_hp. Now have 74 max_hp
+    healed 2 hp. Went from 22 to 24
+  player 0 finished playing Water Hexagram
+turn 11a ends
+turn 11b begins
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 3 def
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 9 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 10 to 13
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 12a ends
+turn 12b begins
+  player 0 is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    reduced player 1 hp by 4 to 20
+    reduced player 1 hp by 4 to 16
+    lost 4 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+  lost 1 weaken. Now have 0 weaken
+turn 12b ends
+turn 13a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 10 to 3
+    gained 3 qi. Now have 12 qi
+    gained 3 max_hp. Now have 77 max_hp
+    healed 6 hp. Went from 16 to 22
+  player 0 finished playing White Crane Bright Wings
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cloud Sword - Reguard (level 1)
+    gained 8 def. Now have 8 def
+  player 0 finished playing Cloud Sword - Reguard
+  gained 3 def. Now have 11 def
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 11 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 1)
+    lost 9 def. Now have 2 def
+    lost 1 hexagram. Now have 0 hexagram
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 3 to 0
+turn 14a ends
+player 1 loses 10 destiny, now at 76
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Wind Hexagram (level 2)
+  Water Hexagram (level 1)
+  Golden Rooster Independence (level 1)
+  White Crane Bright Wings (level 3)
+  Sparrow's Tail (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Contemplate Spirits Rhythm (level 2)
+  Spiritage Sword (level 1)
+  Cloud Sword - Reguard (level 1)
+  Thunder Sword (level 2)
+  Flying Fang Sword (level 1)
+  Giant Tiger Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 1)
+  Normal Attack (level 1)

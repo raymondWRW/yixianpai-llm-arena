@@ -1,0 +1,96 @@
+reduced 小布(pid3) hp by 2 to 47
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 49/49, def 1, qi 1) | B(hp 47/49, def 0, qi 0, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 1 to 46
+  小布(pid3) is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  小布(pid3) finished playing Examine Body
+  STATE after turn 1b: A(hp 49/49, def 1, qi 1) | B(hp 46/49, def 0, qi 0, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 小布(pid3) hp by 6 to 40
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 2a: A(hp 49/49, def 0, qi 1) | B(hp 40/49, def 0, qi 0, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 1 to 39
+  reduced 小布(pid3) hp by 3 to 36
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 谭舒雁(pid1) hp by 7 to 42
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced 谭舒雁(pid1) hp by 5 to 37
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 2b: A(hp 37/49, def 0, qi 1) | B(hp 36/49, def 2, qi 0, injury 1)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 33
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 3a: A(hp 37/49, def 0, qi 1) | B(hp 33/49, def 0, qi 0, injury 1)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 1 to 32
+  reduced 小布(pid3) hp by 3 to 29
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 2 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 9 to 28
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 3b: A(hp 28/49, def 0, qi 1) | B(hp 29/49, def 2, qi 0, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 5 to 24
+    reduced 小布(pid3) hp by 7 to 17
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 4a: A(hp 28/49, def 0, qi 0) | B(hp 17/49, def 0, qi 0, injury 1)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 1 to 16
+  reduced 小布(pid3) hp by 2 to 14
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    reduced 谭舒雁(pid1) hp by 10 to 18
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 4b: A(hp 18/49, def 0, qi 0) | B(hp 14/49, def 0, qi 0, injury 1)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Palm Thunder (level 2)
+    reduced 小布(pid3) hp by 11 to 3
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 5a: A(hp 18/49, def 0, qi 0) | B(hp 3/49, def 0, qi 0, injury 1)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 1 to 2
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 2). They now have 1/1 qi
+  STATE after turn 5b: A(hp 18/49, def 0, qi 0) | B(hp 2/49, def 0, qi 1, injury 1)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to -1
+  STATE after turn 6a: A(hp 18/49, def 0, qi 0) | B(hp -1/49, def 0, qi 1, injury 1)
+turn 6a ends
+小布(pid3) loses 7 destiny, now at 90
+谭舒雁(pid1) (Tan Shuyan) wins

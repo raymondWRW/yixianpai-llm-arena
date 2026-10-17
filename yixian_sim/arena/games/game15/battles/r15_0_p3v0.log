@@ -1,0 +1,230 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 1 sword_intent. Now have 1 sword_intent
+gained 2 qi. Now have 2 qi
+turn 1a begins
+  小布(pid3) is playing Disaster of Bloodshed (level 1)
+    gained 2 physique. Now have 22 physique
+    gained 2 max_hp. Now have 125 max_hp
+    healed 6 hp. Went from 103 to 109
+    gained 1 internal_injury. Now have 2 internal_injury
+  小布(pid3) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 109/125, def 0, qi 0, phys 22) | B(hp 103/103, def 0, qi 2, sword 1, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 2 to 101
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 9 def. Now have 9 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 3 qi
+    gained 3 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 1b: A(hp 109/125, def 0, qi 0, phys 22) | B(hp 101/103, def 9, qi 3, sword 4, injury 2)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 109 to 113
+    gained 1 internal_injury. Now have 3 internal_injury
+    gained 1 internal_injury. Now have 4 internal_injury
+  小布(pid3) finished playing Heavenly Star - Guard
+  STATE after turn 2a: A(hp 113/125, def 4, qi 0, phys 22) | B(hp 101/103, def 9, qi 3, sword 4, injury 4)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 4 to 97
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 2 def. Now have 11 def
+    gained 2 sword_intent. Now have 6 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 2b: A(hp 113/125, def 4, qi 0, phys 22) | B(hp 97/103, def 11, qi 5, sword 6, injury 4)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 2 def
+  小布(pid3) is playing Shura Roar (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+    gained 4 internal_injury. Now have 8 internal_injury
+    gained 2 qi. Now have 2 qi
+    healed 2 hp. Went from 113 to 115
+  小布(pid3) finished playing Shura Roar
+  STATE after turn 3a: A(hp 115/125, def 2, qi 2, injury 4, phys 22) | B(hp 97/103, def 11, qi 5, sword 6, injury 8)
+turn 3a ends
+turn 3b begins
+  lost 6 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 8 to 89
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 8 qi
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 7 to 108
+    reduced 小布(pid3) hp by 9 to 99
+    lost 6 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 99/125, def 0, qi 2, injury 4, phys 22) | B(hp 89/103, def 5, qi 8, injury 8)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 4 to 95
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 4a: A(hp 95/125, def 0, qi 4, force 1, injury 4, phys 22) | B(hp 89/103, def 5, qi 8, injury 8)
+turn 4a ends
+turn 4b begins
+  lost 3 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 8 to 81
+  lost 1 qi. Now have 7 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 19 to 76
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 4b: A(hp 76/125, def 0, qi 4, force 1, injury 4, phys 22) | B(hp 81/103, def 2, qi 7, injury 8)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 4 to 72
+  lost 1 qi. Now have 3 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 4 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 5a: A(hp 72/125, def 0, qi 3, force 4, injury 4, phys 22, agi 6) | B(hp 81/103, def 2, qi 7, injury 8)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 8 to 73
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    reduced 小布(pid3) hp by 8 to 64
+    gained 7 sword_intent. Now have 7 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 5b: A(hp 64/125, def 0, qi 3, force 4, injury 4, phys 22, agi 6) | B(hp 73/103, def 1, qi 7, sword 7, injury 8)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 4 to 60
+  reduced 小布(pid3) hp by 5 to 55
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 14 to 59
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 6a: A(hp 55/125, def 0, qi 3, force 4, injury 4, phys 22, agi 6) | B(hp 59/103, def 0, qi 7, sword 7, injury 8)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 8 to 51
+  lost 3 qi. Now have 4 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 17 to 38
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 7 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 2 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 9 to 29
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  STATE after turn 6b: A(hp 29/125, def 0, qi 3, force 4, injury 4, phys 22, agi 6) | B(hp 51/103, def 10, qi 2, injury 8)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 4 to 25
+  reduced 小布(pid3) hp by 3 to 22
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 2)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    lost 10 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 11 to 40
+    gained 3 def. Now have 8 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 7a: A(hp 22/125, def 8, qi 3, force 4, injury 4, phys 22, agi 6) | B(hp 40/103, def 0, qi 2, injury 8)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 8 to 32
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 110 max_hp
+  healed 7 hp. Went from 32 to 39
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 7b: A(hp 22/125, def 8, qi 3, force 4, injury 4, phys 22, agi 6) | B(hp 39/110, def 7, qi 2, injury 8)
+turn 7b ends
+turn 8a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 4 to 18
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 19 to 20
+    gained 3 weaken. Now have 3 weaken
+  小布(pid3) finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+  STATE after turn 8a: A(hp 18/125, def 4, qi 2, force 3, injury 4, phys 22, agi 6) | B(hp 20/110, def 7, qi 2, injury 8)
+turn 8a ends
+turn 8b begins
+  lost 4 def. Now have 3 def
+  reduced 牧逸风(pid0) hp by 8 to 12
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 9 def. Now have 12 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 3 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  gained 7 def. Now have 19 def
+  gained 7 max_hp. Now have 117 max_hp
+  healed 7 hp. Went from 12 to 19
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 8b: A(hp 18/125, def 4, qi 2, force 3, injury 4, phys 22, agi 6) | B(hp 19/117, def 19, qi 3, sword 3, injury 8)
+turn 8b ends
+turn 9a begins
+  lost 2 def. Now have 2 def
+  reduced 小布(pid3) hp by 4 to 14
+  小布(pid3) is playing Disaster of Bloodshed (level 1)
+    gained 2 physique. Now have 24 physique
+    gained 2 max_hp. Now have 127 max_hp
+    healed 6 hp. Went from 14 to 20
+    gained 1 internal_injury. Now have 9 internal_injury
+  小布(pid3) finished playing Disaster of Bloodshed
+  lost 1 weaken. Now have 1 weaken
+  STATE after turn 9a: A(hp 20/127, def 2, qi 2, force 3, injury 4, phys 24, agi 6) | B(hp 19/117, def 19, qi 3, sword 3, injury 9)
+turn 9a ends
+turn 9b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 9 to 10
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 2 def. Now have 21 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 9b: A(hp 20/127, def 2, qi 2, force 3, injury 4, phys 24, agi 6) | B(hp 10/117, def 21, qi 5, sword 5, injury 9)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 4 to 16
+  小布(pid3) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 5 def
+    healed 4 hp. Went from 16 to 20
+    gained 1 internal_injury. Now have 10 internal_injury
+    gained 1 internal_injury. Now have 11 internal_injury
+  小布(pid3) finished playing Heavenly Star - Guard
+  lost 1 weaken. Now have 0 weaken
+  STATE after turn 10a: A(hp 20/127, def 5, qi 2, force 3, injury 4, phys 24, agi 6) | B(hp 10/117, def 21, qi 5, sword 5, injury 11)
+turn 10a ends
+turn 10b begins
+  lost 11 def. Now have 10 def
+  reduced 牧逸风(pid0) hp by 11 to -1
+  STATE after turn 10b: A(hp 20/127, def 5, qi 2, force 3, injury 4, phys 24, agi 6) | B(hp -1/117, def 10, qi 5, sword 5, injury 11)
+turn 10b ends
+牧逸风(pid0) loses 21 destiny, now at 11
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,202 @@
+turn 1a begins
+  小布(pid3) is playing Hexproof Formation (level 1)
+    gained 1 physique. Now have 17 physique
+    gained 1 max_hp. Now have 83 max_hp
+    healed 1 hp. Went from 66 to 67
+    gained 3 hexproof. Now have 3 hexproof
+  小布(pid3) finished playing Hexproof Formation
+  STATE after turn 1a: A(hp 67/83, def 0, qi 0, phys 17) | B(hp 72/72, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 1b: A(hp 67/83, def 0, qi 0, phys 17) | B(hp 72/72, def 5, qi 2)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Magnanimous Righteousness (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 8 def. Now have 8 def
+    gained 3 hexproof. Now have 6 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  STATE after turn 2a: A(hp 67/83, def 8, qi 1, phys 17) | B(hp 72/72, def 5, qi 2)
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  牧逸风(pid0) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  牧逸风(pid0) finished playing Fraccide Formation
+  STATE after turn 2b: A(hp 67/83, def 8, qi 1, phys 17) | B(hp 72/72, def 2, qi 2)
+turn 2b ends
+turn 3a begins
+  lost 4 def. Now have 4 def
+  小布(pid3) is playing Gather Force (level 2)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 69
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3a: A(hp 67/83, def 4, qi 2, force 2, phys 17) | B(hp 69/72, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 2)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to 58
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 3b: A(hp 58/83, def 0, qi 2, force 2, phys 17) | B(hp 69/72, def 0, qi 2, sword 3)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 13 to 56
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 4a: A(hp 58/83, def 0, qi 1, force 3, phys 17) | B(hp 56/72, def 0, qi 2, sword 3)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced 小布(pid3) hp by 10 to 48
+    gained 2 sword_intent. Now have 5 sword_intent
+    lost 3 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 4b: A(hp 48/83, def 0, qi 1, force 3, phys 17) | B(hp 56/72, def 0, qi 2, sword 2)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 3 to 45
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 14 to 42
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 5a: A(hp 45/83, def 0, qi 1, force 2, phys 17) | B(hp 42/72, def 0, qi 2, sword 2)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Wind Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 小布(pid3) hp by 9 to 36
+    reduced 小布(pid3) hp by 6 to 30
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Wind Sword
+  STATE after turn 5b: A(hp 30/83, def 0, qi 1, force 2, phys 17) | B(hp 42/72, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 3 to 27
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 14 to 28
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 6a: A(hp 27/83, def 0, qi 1, force 1, phys 17) | B(hp 28/72, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 小布(pid3) hp by 8 to 19
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 6b: A(hp 19/83, def 0, qi 1, force 1, phys 17) | B(hp 28/72, def 8, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 15 to 13
+    lost 3 hexproof. Now have 3 hexproof
+  小布(pid3) finished playing Ghost Howling
+  STATE after turn 7a: A(hp 19/83, def 0, qi 0, phys 17) | B(hp 13/72, def 8, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 4 def. Now have 4 def
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 小布(pid3) hp by 8 to 11
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 7b: A(hp 11/83, def 0, qi 0, phys 17) | B(hp 13/72, def 4, qi 0)
+turn 7b ends
+turn 8a begins
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 3 physique. Now have 20 physique
+    gained 3 max_hp. Now have 86 max_hp
+    lost 2 hexproof. Now have 1 hexproof
+    gained 8 def. Now have 8 def
+  小布(pid3) finished playing Bearing the Load
+  STATE after turn 8a: A(hp 11/86, def 8, qi 0, phys 20) | B(hp 13/72, def 4, qi 0)
+turn 8a ends
+turn 8b begins
+  lost 2 def. Now have 2 def
+  牧逸风(pid0) is playing Impact Formation (level 2)
+    lost 8 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 8
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 8b: A(hp 8/86, def 0, qi 0, phys 20) | B(hp 13/72, def 2, qi 0)
+turn 8b ends
+turn 9a begins
+  小布(pid3) is playing Hexproof Formation (level 1)
+    gained 1 physique. Now have 21 physique
+    gained 1 max_hp. Now have 87 max_hp
+    healed 1 hp. Went from 8 to 9
+    gained 3 hexproof. Now have 4 hexproof
+  小布(pid3) finished playing Hexproof Formation
+  STATE after turn 9a: A(hp 9/87, def 0, qi 0, phys 21) | B(hp 13/72, def 2, qi 0)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 1 def
+  牧逸风(pid0) is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 6 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 9b: A(hp 9/87, def 0, qi 0, phys 21) | B(hp 13/72, def 6, qi 2)
+turn 9b ends
+turn 10a begins
+  小布(pid3) is playing Magnanimous Righteousness (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 8 def. Now have 8 def
+    gained 3 hexproof. Now have 7 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  STATE after turn 10a: A(hp 9/87, def 8, qi 1, phys 21) | B(hp 13/72, def 6, qi 2)
+turn 10a ends
+turn 10b begins
+  lost 3 def. Now have 3 def
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 2)
+    lost 8 def. Now have 0 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 10b: A(hp 9/87, def 0, qi 1, phys 21) | B(hp 13/72, def 3, qi 2, sword 3)
+turn 10b ends
+turn 11a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 11
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 11a: A(hp 9/87, def 0, qi 2, force 2, phys 21) | B(hp 11/72, def 0, qi 2, sword 3)
+turn 11a ends
+turn 11b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 小布(pid3) hp by 7 to 2
+    gained 2 sword_intent. Now have 5 sword_intent
+    lost 3 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 11b: A(hp 2/87, def 0, qi 2, force 2, phys 21) | B(hp 11/72, def 0, qi 2, sword 2)
+turn 11b ends
+turn 12a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 13 to -2
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+  STATE after turn 12a: A(hp 2/87, def 0, qi 1, force 3, phys 21) | B(hp -2/72, def 0, qi 2, sword 2)
+turn 12a ends
+牧逸风(pid0) loses 9 destiny, now at 63
+小布(pid3) (Xiao Bu) wins

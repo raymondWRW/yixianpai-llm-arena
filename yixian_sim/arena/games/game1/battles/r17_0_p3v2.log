@@ -1,0 +1,220 @@
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+gained 1 smash_def. Now have 1 smash_def
+gained 5 def. Now have 5 def
+turn 1a begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 force. Now have 2 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 1a ends
+turn 1b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1b ends
+turn 2a begins
+  player 0 is playing Crash Citta-Dharma (level 2)
+    gained 3 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 8 to 103
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 force. Now have 6 force
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 6 def. Now have 0 def
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 3a ends
+turn 3b begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 12 to 91
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced player 1 hp by 8 to 83
+  player 0 finished playing Metal Spirit Seal
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 5 to 78
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 2)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 10 to 102
+    gained 7 later_crash_fist_poke_stacks. Now have 7 later_crash_fist_poke_stacks
+    gained 7 crash_fist_block_stacks. Now have 7 crash_fist_block_stacks
+    Attacking for 7 from crash fist - shocked effect.
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 1 to 101
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 4a ends
+turn 4b begins
+  player 0 is playing Metal Spirit - Shuttle (level 2)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 7 to 71
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 62
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 4 to 58
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 7 force
+    gained 7 bonus_atk_amt. Now have 7 bonus_atk_amt
+    gained 7 def. Now have 7 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 35 to 66
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Fire Spirit - Blazing Prairie (level 2). They now have 2/2 qi
+turn 5b ends
+turn 6a begins
+  lost 4 def. Now have 3 def
+  reduced player 0 hp by 4 to 54
+  player 0 spent 4 hp to play Crash Fist - Shake (level 2)
+    gained 1 force. Now have 7 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 18 to 48
+    gained 3 crash_fist_shake_stacks. Now have 3 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Fire Spirit - Blazing Prairie (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 49
+    reduced player 1 hp by 8 to 41
+    reduced player 1 hp by 8 to 33
+    reducing hp to max_hp of 30
+    reduced player 1 max_hp by 121 to 30
+  player 0 finished playing Fire Spirit - Blazing Prairie
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 2 to 28
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 1 force. Now have 7 force
+    gained 3 def. Now have 3 def
+    gained 3 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced player 1 hp by 18 to 30
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 7a ends
+turn 7b begins
+  player 0 is playing Earth Spirit - Cliff (level 2)
+    gained 15 def. Now have 15 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  player 0 finished playing Earth Spirit - Cliff
+turn 7b ends
+turn 8a begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 28 to 2
+    gained 3 weaken. Now have 3 weaken
+  player 0 finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+turn 8a ends
+turn 8b begins
+  lost 8 def. Now have 7 def
+  lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+  lost 1 def. Now have 0 def
+  reduced player 1 hp by 7 to 21
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 18
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 5 qi
+    gained 1 force. Now have 6 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+  lost 1 weaken. Now have 1 weaken
+turn 9a ends
+turn 9b begins
+  lost 4 def. Now have 3 def
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 9b ends
+turn 10a begins
+  reduced player 0 hp by 8 to 10
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+  healed 8 hp. Went from 10 to 18
+  player 0 healed 8 hp from crash fist bounce
+    gained 1 force. Now have 7 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 10 to -8
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+turn 10a ends
+player 1 loses 23 destiny, now at 13
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Majestic Qi (level 2)
+  Crash Citta-Dharma (level 2)
+  Crash Fist - Shocked (level 1)
+  Crash Fist - Subdue Dragon (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Shake (level 2)
+  Crash Fist - Bounce (level 2)
+  Ghost Howling (level 2)
+Player 1's deck:
+  Examine Body (level 2)
+  Everything is Unadvisable (level 2)
+  Metal Spirit Seal (level 3)
+  Metal Spirit - Shuttle (level 2)
+  Cosmos Seal (level 2)
+  Fire Spirit - Blazing Prairie (level 2)
+  Earth Spirit - Cliff (level 2)
+  Normal Attack (level 1)

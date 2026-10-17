@@ -1,0 +1,285 @@
+gained 1 qi. Now have 1 qi
+gained 4 max_hp. Now have 92 max_hp
+gained 4 max_hp. Now have 96 max_hp
+healed 4 hp. Went from 88 to 92
+turn 1a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 89
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 1a ends
+turn 1b begins
+  player 0 is playing Lucky Start (level 1)
+    gained 4 max_hp. Now have 100 max_hp
+    healed 7 hp. Went from 89 to 96
+  player 0 finished playing Lucky Start
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 2a ends
+turn 2b begins
+  player 0 is playing Dotted Around (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 2b ends
+turn 3a begins
+  lost 3 def. Now have 3 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 89
+    reduced player 1 hp by 11 to 78
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 3a ends
+turn 3b begins
+  player 0 is playing Astral Fleche (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 3 to 104
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Astral Fleche
+turn 3b ends
+turn 4a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 69
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 4a ends
+turn 4b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+  player 0 finished playing Water Hexagram
+turn 4b ends
+turn 5a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 63
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 5a ends
+turn 5b begins
+  player 0 is playing Incessant (level 3)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 8 to 96
+  player 0 finished playing Incessant
+turn 5b ends
+turn 6a begins
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 11 def
+    healed 5 hp. Went from 96 to 101
+  player 0 finished playing Cloud Sword - Reguard
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 2 to 99
+    lost 1 hexagram. Now have 1 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 6b ends
+turn 7a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 3 to 60
+    reduced player 1 hp by 3 to 57
+  player 0 finished playing Cloud Sword - Fleche
+  lost 1 weaken. Now have 0 weaken
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 89
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 82
+  player 0 finished playing Sparrow's Tail
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 2)
+    reduced player 1 hp by 2 to 55
+    reduced player 1 hp by 2 to 53
+    reduced player 1 hp by 2 to 51
+    reduced player 1 hp by 2 to 49
+    reduced player 1 hp by 2 to 47
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 79
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 44
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 9a ends
+turn 9b begins
+  player 0 is playing Lucky Start (level 1)
+    gained 4 max_hp. Now have 104 max_hp
+    healed 7 hp. Went from 44 to 51
+  player 0 finished playing Lucky Start
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 10a ends
+turn 10b begins
+  player 0 is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 3 star_power
+  player 0 finished playing Dotted Around
+turn 10b ends
+turn 11a begins
+  lost 3 def. Now have 3 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 44
+    reduced player 1 hp by 11 to 33
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 11a ends
+turn 11b begins
+  player 0 is playing Astral Fleche (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 74
+    gained 1 star_power. Now have 4 star_power
+  player 0 finished playing Astral Fleche
+turn 11b ends
+turn 12a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 24
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 12a ends
+turn 12b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 1 qi. Now have 2 qi
+  player 0 finished playing Water Hexagram
+turn 12b ends
+turn 13a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 18
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 13a ends
+turn 13b begins
+  player 0 is playing Incessant (level 3)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 10 to 64
+    gained 4 max_hp. Now have 108 max_hp
+    healed 6 hp. Went from 18 to 24
+  player 0 finished playing Incessant
+turn 13b ends
+turn 14a begins
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 11 def
+    healed 5 hp. Went from 64 to 69
+  player 0 finished playing Cloud Sword - Reguard
+turn 14a ends
+turn 14b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 4 to 65
+    lost 1 hexagram. Now have 1 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 14b ends
+turn 15a begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 3 to 21
+    reduced player 1 hp by 3 to 18
+  player 0 finished playing Cloud Sword - Fleche
+  lost 1 weaken. Now have 0 weaken
+turn 15a ends
+turn 15b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 55
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 48
+  player 0 finished playing Sparrow's Tail
+turn 15b ends
+turn 16a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 2)
+    reduced player 1 hp by 2 to 16
+    reduced player 1 hp by 2 to 14
+    reduced player 1 hp by 2 to 12
+    reduced player 1 hp by 2 to 10
+    reduced player 1 hp by 2 to 8
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 16a ends
+turn 16b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 45
+  player 0 finished playing Normal Attack
+turn 16b ends
+turn 17a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 5
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 17a ends
+turn 17b begins
+  player 0 is playing Lucky Start (level 1)
+    gained 4 max_hp. Now have 112 max_hp
+    healed 7 hp. Went from 5 to 12
+  player 0 finished playing Lucky Start
+turn 17b ends
+turn 18a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 18a ends
+turn 18b begins
+  player 0 is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 5 star_power
+  player 0 finished playing Dotted Around
+turn 18b ends
+turn 19a begins
+  lost 3 def. Now have 3 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 5
+    reduced player 1 hp by 11 to -6
+    lost 3 sword_intent. Now have 0 sword_intent
+turn 19a ends
+player 1 loses 21 destiny, now at 9
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Toning (level 2)
+  Sword Defence (level 2)
+  Thunder Sword (level 2)
+  Cloud Sword - Touch Sky (level 2)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Reguard (level 2)
+  Cloud Sword - Fleche (level 2)
+  Flow Cloud Chaos Sword (level 2)
+Player 1's deck:
+  Lucky Start (level 1)
+  Dotted Around (level 1)
+  Astral Fleche (level 1)
+  Water Hexagram (level 1)
+  Incessant (level 3)
+  Golden Rooster Independence (level 1)
+  Sparrow's Tail (level 2)
+  Normal Attack (level 1)

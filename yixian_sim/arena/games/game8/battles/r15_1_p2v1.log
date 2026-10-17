@@ -1,0 +1,329 @@
+gained 4 def. Now have 4 def
+turn 1a begins
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 128
+    reduced 谭舒雁(pid1) max_hp by 2 to 128
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 1a: A(hp 116/116, def 0, qi 0) | B(hp 128/128, def 4, qi 0)
+turn 1a ends
+turn 1b begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 2)
+    gained 6 max_hp. Now have 134 max_hp
+    gained 4 max_hp. Now have 138 max_hp
+    healed 6 hp. Went from 128 to 134
+    gained 3 repel_citta_dharma_stacks. Now have 3 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 1b: A(hp 116/116, def 0, qi 0) | B(hp 134/138, def 2, qi 0)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 132
+    reduced 谭舒雁(pid1) max_hp by 2 to 136
+    reduced 谭舒雁(pid1) hp by 3 to 129
+    reduced 谭舒雁(pid1) max_hp by 3 to 133
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 2a: A(hp 116/116, def 0, qi 2) | B(hp 129/133, def 2, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 137 max_hp
+    gained 4 max_hp. Now have 141 max_hp
+    healed 4 hp. Went from 129 to 133
+    gained 2 repel_citta_dharma_stacks. Now have 5 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 2b: A(hp 116/116, def 0, qi 2) | B(hp 133/141, def 1, qi 0)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 131
+    reduced 谭舒雁(pid1) max_hp by 2 to 139
+    gained 2 qi. Now have 4 qi
+    reduced 谭舒雁(pid1) hp by 3 to 128
+    reduced 谭舒雁(pid1) max_hp by 3 to 136
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 3a: A(hp 116/116, def 0, qi 4) | B(hp 128/136, def 1, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Will - Defy (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 3 god_opportunity_reversal_stacks. Now have 3 god_opportunity_reversal_stacks
+  谭舒雁(pid1) finished playing Heavenly Will - Defy
+  STATE after turn 3b: A(hp 116/116, def 0, qi 4) | B(hp 128/136, def 0, qi 2)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 126
+    reduced 谭舒雁(pid1) max_hp by 2 to 134
+    reduced 谭舒雁(pid1) max_hp by 4 to 130
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 124
+    reduced 谭舒雁(pid1) max_hp by 2 to 128
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced 谭舒雁(pid1) hp by 8 to 116
+    reduced 谭舒雁(pid1) max_hp by 8 to 120
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 4a: A(hp 116/116, def 0, qi 3) | B(hp 116/120, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  lost 1 god_opportunity_reversal_stacks. Now have 2 god_opportunity_reversal_stacks
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    reduced 吾行之(pid2) hp by 4 to 112
+    gained 4 max_hp. Now have 124 max_hp
+    healed 9 hp. Went from 116 to 124
+    reduced 吾行之(pid2) hp by 4 to 108
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 4b: A(hp 108/116, def 0, qi 3) | B(hp 124/124, def 9, qi 1)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 122
+    reduced 谭舒雁(pid1) max_hp by 2 to 122
+    gained 2 increase_atk. Now have 3 increase_atk
+    reduced 谭舒雁(pid1) hp by 10 to 112
+    reduced 谭舒雁(pid1) max_hp by 10 to 112
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 5a: A(hp 108/116, def 0, qi 2) | B(hp 112/112, def 9, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 god_opportunity_reversal_stacks. Now have 1 god_opportunity_reversal_stacks
+  lost 5 def. Now have 4 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 8 def
+    reduced 吾行之(pid2) hp by 2 to 106
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 5b: A(hp 106/116, def 0, qi 2) | B(hp 112/112, def 8, qi 1)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 110
+    reduced 谭舒雁(pid1) max_hp by 2 to 110
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 7 def
+    reduced 吾行之(pid2) hp by 5 to 101
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 6 def
+    reduced 吾行之(pid2) hp by 5 to 96
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 6a: A(hp 96/116, def 0, qi 2) | B(hp 110/110, def 6, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 god_opportunity_reversal_stacks. Now have 0 god_opportunity_reversal_stacks
+  lost 3 def. Now have 3 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 6b: A(hp 96/116, def 0, qi 2) | B(hp 110/110, def 3, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 108
+    reduced 谭舒雁(pid1) max_hp by 2 to 108
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 104
+    reduced 吾行之(pid2) hp by 5 to 91
+    reduced 谭舒雁(pid1) hp by 7 to 97
+    reduced 吾行之(pid2) hp by 5 to 86
+    reduced 谭舒雁(pid1) hp by 7 to 90
+    reduced 吾行之(pid2) hp by 5 to 81
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  STATE after turn 7a: A(hp 81/116, def 0, qi 1) | B(hp 90/108, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 吾行之(pid2) hp by 7 to 74
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 7b: A(hp 74/116, def 0, qi 1) | B(hp 90/108, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 88
+    reduced 谭舒雁(pid1) max_hp by 2 to 106
+    reduced 谭舒雁(pid1) hp by 3 to 85
+    reduced 谭舒雁(pid1) max_hp by 3 to 103
+    gained 2 qi. Now have 3 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 8a: A(hp 74/116, def 0, qi 3) | B(hp 85/103, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 吾行之(pid2) hp by 8 to 66
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 8b: A(hp 66/116, def 0, qi 3) | B(hp 85/103, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 83
+    reduced 谭舒雁(pid1) max_hp by 2 to 101
+    gained 2 qi. Now have 5 qi
+    reduced 谭舒雁(pid1) hp by 3 to 80
+    reduced 谭舒雁(pid1) max_hp by 3 to 98
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 9a: A(hp 66/116, def 0, qi 5) | B(hp 80/98, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Heavenly Will - Defy (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 3 god_opportunity_reversal_stacks. Now have 3 god_opportunity_reversal_stacks
+  谭舒雁(pid1) finished playing Heavenly Will - Defy
+  STATE after turn 9b: A(hp 66/116, def 0, qi 5) | B(hp 80/98, def 0, qi 2)
+turn 9b ends
+turn 10a begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 78
+    reduced 谭舒雁(pid1) max_hp by 2 to 96
+    reduced 谭舒雁(pid1) max_hp by 4 to 92
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 4 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 76
+    reduced 谭舒雁(pid1) max_hp by 2 to 90
+    gained 1 increase_atk. Now have 4 increase_atk
+    reduced 谭舒雁(pid1) hp by 11 to 65
+    reduced 谭舒雁(pid1) max_hp by 11 to 79
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 10a: A(hp 66/116, def 0, qi 4) | B(hp 65/79, def 0, qi 2)
+turn 10a ends
+turn 10b begins
+  lost 1 god_opportunity_reversal_stacks. Now have 2 god_opportunity_reversal_stacks
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    reduced 吾行之(pid2) hp by 4 to 62
+    gained 4 max_hp. Now have 83 max_hp
+    healed 9 hp. Went from 65 to 74
+    reduced 吾行之(pid2) hp by 4 to 58
+    gained 1 guard_up. Now have 1 guard_up
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 10b: A(hp 58/116, def 0, qi 4) | B(hp 74/83, def 9, qi 1, guard 1)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 2)
+    prevented 2 damage to hp with guard up. 0 guard up remaining
+    reduced 谭舒雁(pid1) max_hp by 2 to 81
+    gained 2 increase_atk. Now have 6 increase_atk
+    reduced 谭舒雁(pid1) hp by 13 to 61
+    reduced 谭舒雁(pid1) max_hp by 13 to 68
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 11a: A(hp 58/116, def 0, qi 3) | B(hp 61/68, def 9, qi 1)
+turn 11a ends
+turn 11b begins
+  lost 1 god_opportunity_reversal_stacks. Now have 1 god_opportunity_reversal_stacks
+  lost 5 def. Now have 4 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 8 def
+    reduced 吾行之(pid2) hp by 2 to 56
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 11b: A(hp 56/116, def 0, qi 3) | B(hp 61/68, def 8, qi 1)
+turn 11b ends
+turn 12a begins
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 59
+    reduced 谭舒雁(pid1) max_hp by 2 to 66
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 4 def. Now have 4 def
+    reduced 吾行之(pid2) hp by 5 to 51
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 5 to 46
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 12a: A(hp 46/116, def 0, qi 3) | B(hp 59/66, def 0, qi 1)
+turn 12a ends
+turn 12b begins
+  lost 1 god_opportunity_reversal_stacks. Now have 0 god_opportunity_reversal_stacks
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+    reduced 吾行之(pid2) hp by 12 to 34
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 吾行之(pid2) hp by 7 to 27
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 12b: A(hp 27/116, def 0, qi 3) | B(hp 59/66, def 0, qi 0)
+turn 12b ends
+turn 13a begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 57
+    reduced 谭舒雁(pid1) max_hp by 2 to 64
+    reduced 谭舒雁(pid1) hp by 10 to 47
+    reduced 吾行之(pid2) hp by 5 to 22
+    reduced 谭舒雁(pid1) hp by 10 to 37
+    reduced 吾行之(pid2) hp by 5 to 17
+    reduced 谭舒雁(pid1) hp by 10 to 27
+    reduced 吾行之(pid2) hp by 5 to 12
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  STATE after turn 13a: A(hp 12/116, def 0, qi 2) | B(hp 27/64, def 0, qi 0)
+turn 13a ends
+turn 13b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 吾行之(pid2) hp by 8 to 4
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 13b: A(hp 4/116, def 0, qi 2) | B(hp 27/64, def 0, qi 1)
+turn 13b ends
+turn 14a begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 25
+    reduced 谭舒雁(pid1) max_hp by 2 to 62
+    reduced 谭舒雁(pid1) hp by 3 to 22
+    reduced 谭舒雁(pid1) max_hp by 3 to 59
+    gained 2 qi. Now have 4 qi
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 14a: A(hp 4/116, def 0, qi 4) | B(hp 22/59, def 0, qi 1)
+turn 14a ends
+turn 14b begins
+  谭舒雁(pid1) is playing Heavenly Will - Defy (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 3 god_opportunity_reversal_stacks. Now have 3 god_opportunity_reversal_stacks
+  谭舒雁(pid1) finished playing Heavenly Will - Defy
+  STATE after turn 14b: A(hp 4/116, def 0, qi 4) | B(hp 22/59, def 0, qi 3)
+turn 14b ends
+turn 15a begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 20
+    reduced 谭舒雁(pid1) max_hp by 2 to 57
+    gained 2 qi. Now have 6 qi
+    reduced 谭舒雁(pid1) hp by 3 to 17
+    reduced 谭舒雁(pid1) max_hp by 3 to 54
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 15a: A(hp 4/116, def 0, qi 6) | B(hp 17/54, def 0, qi 3)
+turn 15a ends
+turn 15b begins
+  lost 1 god_opportunity_reversal_stacks. Now have 2 god_opportunity_reversal_stacks
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    reduced 吾行之(pid2) hp by 4 to 0
+    gained 4 max_hp. Now have 58 max_hp
+    healed 9 hp. Went from 17 to 26
+    reduced 吾行之(pid2) hp by 4 to -4
+    gained 1 guard_up. Now have 1 guard_up
+  STATE after turn 15b: A(hp -4/116, def 0, qi 6) | B(hp 26/58, def 9, qi 2, guard 1)
+turn 15b ends
+吾行之(pid2) loses 21 destiny, now at 42
+谭舒雁(pid1) (Tan Shuyan) wins

@@ -1,0 +1,320 @@
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 116
+  player 0 finished playing Cloud Sword - Riddle
+turn 1b ends
+turn 2a begins
+  player 0 is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 128 max_hp
+    healed 4 hp. Went from 116 to 120
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  player 0 finished playing Repel Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 107
+    reduced player 0 hp by 2 to 117
+  player 0 finished playing Cloud Sword - Conceal
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  healed 2 hp. Went from 107 to 109
+  player 0 gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 97
+    reduced player 0 hp by 2 to 115
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 97 to 106
+  player 0 finished playing Escape Plan
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Step Lightly (level 1)
+    lost 3 def. Now have 6 def
+    reduced player 0 hp by 2 to 113
+    lost 3 def. Now have 3 def
+    reduced player 0 hp by 2 to 111
+    gained 3 def. Now have 3 def
+    gained 9 def. Now have 12 def
+  player 0 finished playing Cloud Sword - Step Lightly
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 3 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 5a ends
+turn 5b begins
+  lost 6 def. Now have 6 def
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 8 to 98
+    lost 2 def. Now have 4 def
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 5b ends
+turn 6a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 4 to 107
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 98 to 102
+  player 0 finished playing White Crane Bright Wings
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Cloud Dance Rhythm
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 20 to 87
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+  player 0 finished playing Astral Move - Cide
+turn 7a ends
+turn 7b begins
+  lost 3 qi. Now have 3 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced player 1 hp by 12 to 90
+    reduced player 0 hp by 2 to 85
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 82
+    lost 2 def. Now have 8 def
+  player 0 finished playing Cloud Sword - Riddle
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 140 max_hp
+    lost 1 hexagram. Now have 1 hexagram
+    healed 22 hp. Went from 82 to 104
+  player 0 finished playing Qi Therapy
+turn 8a ends
+turn 8b begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 91
+    lost 2 def. Now have 2 def
+  player 0 finished playing Cloud Sword - Conceal
+turn 8b ends
+turn 9a begins
+  player 0 is playing Thunder And Lighting (level 1)
+    lost 1 hexagram. Now have 0 hexagram
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 8 to 77
+    gained 1 qi. Now have 1 qi
+    healed 2 hp. Went from 91 to 93
+    reduced player 1 hp by 6 to 71
+  player 0 finished playing Thunder And Lighting
+turn 9a ends
+turn 9b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 81
+    reduced player 0 hp by 2 to 69
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 81 to 90
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Step Lightly (level 1)
+    lost 3 def. Now have 6 def
+    reduced player 0 hp by 2 to 67
+    lost 3 def. Now have 3 def
+    reduced player 0 hp by 2 to 65
+    gained 3 def. Now have 3 def
+    gained 9 def. Now have 12 def
+  player 0 finished playing Cloud Sword - Step Lightly
+turn 10b ends
+turn 11a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 3 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 11a ends
+turn 11b begins
+  lost 6 def. Now have 6 def
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 3 def. Now have 0 def
+    prevented 8 damage to hp with guard up. 0 guard up remaining
+    lost 2 def. Now have 4 def
+    gained 4 qi. Now have 7 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 11b ends
+turn 12a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 4 to 61
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 90 to 94
+  player 0 finished playing White Crane Bright Wings
+turn 12a ends
+turn 12b begins
+  player 0 is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 9 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Cloud Dance Rhythm
+turn 12b ends
+turn 13a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 20 to 41
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+  player 0 finished playing Astral Move - Cide
+turn 13a ends
+turn 13b begins
+  lost 3 qi. Now have 6 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced player 1 hp by 12 to 82
+    reduced player 0 hp by 2 to 39
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 74
+    lost 2 def. Now have 8 def
+  player 0 finished playing Cloud Sword - Riddle
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 152 max_hp
+    lost 1 hexagram. Now have 1 hexagram
+    healed 22 hp. Went from 74 to 96
+  player 0 finished playing Qi Therapy
+turn 14a ends
+turn 14b begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 83
+    lost 2 def. Now have 2 def
+  player 0 finished playing Cloud Sword - Conceal
+turn 14b ends
+turn 15a begins
+  player 0 is playing Thunder And Lighting (level 1)
+    lost 1 hexagram. Now have 0 hexagram
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 8 to 31
+    gained 1 qi. Now have 1 qi
+    healed 2 hp. Went from 83 to 85
+    reduced player 1 hp by 1 to 30
+  player 0 finished playing Thunder And Lighting
+turn 15a ends
+turn 15b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 73
+    reduced player 0 hp by 2 to 28
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 15b ends
+turn 16a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 73 to 82
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 16a ends
+turn 16b begins
+  player 0 is playing Cloud Sword - Step Lightly (level 1)
+    lost 3 def. Now have 6 def
+    reduced player 0 hp by 2 to 26
+    lost 3 def. Now have 3 def
+    reduced player 0 hp by 2 to 24
+    gained 3 def. Now have 3 def
+    gained 9 def. Now have 12 def
+  player 0 finished playing Cloud Sword - Step Lightly
+turn 16b ends
+turn 17a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 3 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 17a ends
+turn 17b begins
+  lost 6 def. Now have 6 def
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 3 def. Now have 0 def
+    prevented 8 damage to hp with guard up. 0 guard up remaining
+    lost 2 def. Now have 4 def
+    gained 4 qi. Now have 10 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 17b ends
+turn 18a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 4 to 20
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 82 to 86
+  player 0 finished playing White Crane Bright Wings
+turn 18a ends
+turn 18b begins
+  player 0 is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 12 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Cloud Dance Rhythm
+turn 18b ends
+turn 19a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 20 to 0
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+turn 19a ends
+player 1 loses 27 destiny, now at 2
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Repel Citta-Dharma (level 1)
+  Escape Plan (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Astral Move - Cide (level 2)
+  Qi Therapy (level 2)
+  Thunder And Lighting (level 1)
+Player 1's deck:
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Conceal (level 2)
+  Cloud Sword - Touch Sky (level 3)
+  Cloud Sword - Step Lightly (level 1)
+  Cloud Sword - Spirit Coercion (level 2)
+  Cloud Dance Rhythm (level 1)
+  Giant Tiger Spirit Sword (level 2)
+  Giant Kun Spirit Sword (level 1)

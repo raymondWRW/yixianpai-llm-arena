@@ -1,0 +1,109 @@
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 牧逸风(pid0) hp by 5 to 37
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 42/46, def 0, qi 1, force 2, phys 4) | B(hp 37/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 1)
+    reduced 小布(pid3) hp by 6 to 36
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 1b: A(hp 36/46, def 0, qi 1, force 2, phys 4) | B(hp 37/42, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 9 to 28
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 2a: A(hp 36/46, def 0, qi 0, force 3, phys 4) | B(hp 28/42, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 小布(pid3) hp by 5 to 31
+    reduced 小布(pid3) hp by 3 to 28
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 2b: A(hp 28/46, def 0, qi 0, force 3, phys 4) | B(hp 28/42, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 3 to 25
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 11 to 17
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 3a: A(hp 25/46, def 0, qi 0, force 2, phys 4) | B(hp 17/42, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 5 to 20
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 3b: A(hp 20/46, def 0, qi 0, force 2, phys 4) | B(hp 17/42, def 0, qi 0, sword 3)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 9 to 8
+    gained 1 qi. Now have 1 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 4a: A(hp 20/46, def 0, qi 1, force 1, phys 4) | B(hp 8/42, def 0, qi 0, sword 3)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 4b: A(hp 20/46, def 0, qi 1, force 1, phys 4) | B(hp 8/42, def 4, qi 0, sword 5)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    lost 1 force. Now have 0 force
+    lost 3 def. Now have 1 def
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 5a: A(hp 20/46, def 0, qi 1, phys 4) | B(hp 8/42, def 1, qi 0, sword 5)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 9 to 11
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 5b: A(hp 11/46, def 0, qi 1, phys 4) | B(hp 8/42, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 5
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6a: A(hp 11/46, def 0, qi 1, phys 4) | B(hp 5/42, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 7
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6b: A(hp 7/46, def 0, qi 1, phys 4) | B(hp 5/42, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 2
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7a: A(hp 7/46, def 0, qi 1, phys 4) | B(hp 2/42, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 3
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 3/46, def 0, qi 1, phys 4) | B(hp 2/42, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to -1
+  STATE after turn 8a: A(hp 3/46, def 0, qi 1, phys 4) | B(hp -1/42, def 0, qi 0)
+turn 8a ends
+牧逸风(pid0) loses 3 destiny, now at 95
+小布(pid3) (Xiao Bu) wins

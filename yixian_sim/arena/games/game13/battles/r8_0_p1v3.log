@@ -1,0 +1,115 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 1). They now have 1/1 qi
+  STATE after turn 1a: A(hp 66/66, def 0, qi 1) | B(hp 66/67, def 0, qi 1, phys 1)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 1b: A(hp 66/66, def 0, qi 1) | B(hp 66/67, def 0, qi 3, phys 1)
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 小布(pid3) hp by 12 to 54
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 2a: A(hp 66/66, def 0, qi 0) | B(hp 54/67, def 0, qi 3, phys 1)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 61
+    gained 1 qi. Now have 4 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2b: A(hp 61/66, def 0, qi 0) | B(hp 54/67, def 0, qi 4, force 2, phys 1)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Palm Thunder (level 1)
+    reduced 小布(pid3) hp by 4 to 50
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 3a: A(hp 61/66, def 0, qi 0) | B(hp 50/67, def 0, qi 4, force 2, phys 1)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 2 to 48
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 2 qi
+    gained 2 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 22 to 39
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3b: A(hp 39/66, def 0, qi 0) | B(hp 48/67, def 0, qi 2, force 3, phys 1)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Hit (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 39/66, def 0, qi 1) | B(hp 48/67, def 0, qi 2, force 3, phys 1)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 5 force
+    lost 1 qi. Now have 1 qi
+    healed 5 hp. Went from 48 to 53
+  小布(pid3) finished playing Standing Firm
+  STATE after turn 4b: A(hp 39/66, def 0, qi 1) | B(hp 53/67, def 4, qi 1, force 5, phys 1)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 1 to 52
+    reduced 小布(pid3) hp by 5 to 47
+    reduced 小布(pid3) hp by 5 to 42
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 5a: A(hp 39/66, def 0, qi 0) | B(hp 42/67, def 0, qi 1, force 5, phys 1)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 2 to 40
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 25 to 14
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 5b: A(hp 14/66, def 0, qi 0) | B(hp 40/67, def 0, qi 0, force 4, phys 1)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Heavenly Decree - Attack (level 1)
+    reduced 小布(pid3) hp by 6 to 34
+    gained 3 def. Now have 3 def
+  谭舒雁(pid1) finished playing Heavenly Decree - Attack
+  STATE after turn 6a: A(hp 14/66, def 3, qi 0) | B(hp 34/67, def 0, qi 0, force 4, phys 1)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 4 to 30
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 3 force
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 13 to 1
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 6b: A(hp 1/66, def 0, qi 0) | B(hp 30/67, def 0, qi 0, force 3, phys 1)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 小布(pid3) hp by 8 to 22
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 7a: A(hp 1/66, def 0, qi 0) | B(hp 22/67, def 0, qi 0, force 3, phys 1)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 2 to 20
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 14 to -13
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  STATE after turn 7b: A(hp -13/66, def 0, qi 0) | B(hp 20/67, def 0, qi 0, force 2, phys 1)
+turn 7b ends
+谭舒雁(pid1) loses 14 destiny, now at 73
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,302 @@
+turn 1a begins
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1a: A(hp 80/80, def 0, qi 0) | B(hp 80/80, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Earth Spirit Formation (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    gained 4 def. Now have 4 def
+    gained 2 earth_spirit_formation_stacks. Now have 2 earth_spirit_formation_stacks
+  吾行之(pid2) finished playing Earth Spirit Formation
+  STATE after turn 1b: A(hp 80/80, def 0, qi 0) | B(hp 80/80, def 4, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  牧逸风(pid0) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 2a: A(hp 80/80, def 0, qi 0) | B(hp 80/80, def 4, qi 0, injury 1)
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 1 to 79
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 12 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 2b: A(hp 80/80, def 0, qi 0) | B(hp 79/80, def 12, qi 0, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  lost 1 hexproof. Now have 2 hexproof
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 3a: A(hp 80/80, def 2, qi 2, sword 2) | B(hp 79/80, def 12, qi 0, injury 1)
+turn 3a ends
+turn 3b begins
+  lost 6 def. Now have 6 def
+  reduced 吾行之(pid2) hp by 1 to 78
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 13 def
+  gained 7 max_hp. Now have 87 max_hp
+  healed 7 hp. Went from 78 to 85
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 3b: A(hp 80/80, def 2, qi 2, sword 2) | B(hp 85/87, def 13, qi 0, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 1 def
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  lost 1 hexproof. Now have 1 hexproof
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 13 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 83
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 吾行之(pid2) hp by 7 to 76
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4a: A(hp 80/80, def 1, qi 1) | B(hp 76/87, def 0, qi 0, injury 1)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 1 to 75
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 10 to 70
+  吾行之(pid2) finished playing Five Elements Fleche
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 94 max_hp
+  healed 7 hp. Went from 75 to 82
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 4b: A(hp 70/80, def 0, qi 1) | B(hp 82/94, def 7, qi 0, injury 1)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    lost 7 def. Now have 0 def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 吾行之(pid2) hp by 5 to 77
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 5a: A(hp 70/80, def 0, qi 1) | B(hp 77/94, def 0, qi 0, injury 1)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 1 to 76
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 64
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 5b: A(hp 64/80, def 0, qi 1) | B(hp 76/94, def 0, qi 0, injury 1)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 吾行之(pid2) hp by 5 to 71
+    reduced 吾行之(pid2) hp by 3 to 68
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 吾行之(pid2) hp by 5 to 63
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 6a: A(hp 64/80, def 0, qi 1) | B(hp 63/94, def 0, qi 0, injury 1)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 1 to 62
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 2 def
+    reduced 牧逸风(pid0) hp by 9 to 55
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 6b: A(hp 55/80, def 0, qi 1) | B(hp 62/94, def 2, qi 0, injury 1)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 6 to 56
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 7a: A(hp 55/80, def 6, qi 0) | B(hp 56/94, def 0, qi 0, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 1 to 55
+  吾行之(pid2) is playing Earth Spirit - Mountains (level 1)
+    gained 2 def. Now have 2 def
+    lost 5 def. Now have 1 def
+    gained 2 def. Now have 4 def
+    gained 3 next_turn_def. Now have 3 next_turn_def
+  吾行之(pid2) finished playing Earth Spirit - Mountains
+  STATE after turn 7b: A(hp 55/80, def 1, qi 0) | B(hp 55/94, def 4, qi 0, injury 1)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 53
+    reduced 吾行之(pid2) hp by 2 to 51
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 8a: A(hp 55/80, def 0, qi 0) | B(hp 51/94, def 0, qi 0, injury 1)
+turn 8a ends
+turn 8b begins
+  lost 3 next_turn_def. Now have 0 next_turn_def
+  gained 3 def. Now have 3 def
+  reduced 吾行之(pid2) hp by 1 to 50
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 5 def
+    reduced 牧逸风(pid0) hp by 9 to 46
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 8b: A(hp 46/80, def 0, qi 0) | B(hp 50/94, def 5, qi 0, injury 1)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 9a: A(hp 46/80, def 2, qi 2, sword 2) | B(hp 50/94, def 5, qi 0, injury 1)
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 1 to 49
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 4 hexproof
+    gained 10 def. Now have 12 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 9b: A(hp 46/80, def 2, qi 2, sword 2) | B(hp 49/94, def 12, qi 0, injury 1)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 12 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 3 to 46
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 10a: A(hp 46/80, def 1, qi 1) | B(hp 46/94, def 0, qi 0, injury 1)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 1 to 45
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 10 to 36
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 10b: A(hp 36/80, def 0, qi 1) | B(hp 45/94, def 0, qi 0, injury 1)
+turn 10b ends
+turn 11a begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 吾行之(pid2) hp by 7 to 38
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 11a: A(hp 36/80, def 0, qi 1) | B(hp 38/94, def 0, qi 0, injury 1)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 1 to 37
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 30
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 11b: A(hp 30/80, def 0, qi 1) | B(hp 37/94, def 0, qi 0, injury 1)
+turn 11b ends
+turn 12a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 吾行之(pid2) hp by 5 to 32
+    reduced 吾行之(pid2) hp by 3 to 29
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 12a: A(hp 30/80, def 0, qi 1) | B(hp 29/94, def 0, qi 0, injury 1)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 1 to 28
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 2 def
+    reduced 牧逸风(pid0) hp by 9 to 21
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 12b: A(hp 21/80, def 0, qi 1) | B(hp 28/94, def 2, qi 0, injury 1)
+turn 12b ends
+turn 13a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 6 to 22
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 13a: A(hp 21/80, def 6, qi 0) | B(hp 22/94, def 0, qi 0, injury 1)
+turn 13a ends
+turn 13b begins
+  reduced 吾行之(pid2) hp by 1 to 21
+  吾行之(pid2) is playing Earth Spirit - Mountains (level 1)
+    gained 2 def. Now have 2 def
+    lost 5 def. Now have 1 def
+    gained 2 def. Now have 4 def
+    gained 3 next_turn_def. Now have 3 next_turn_def
+  吾行之(pid2) finished playing Earth Spirit - Mountains
+  STATE after turn 13b: A(hp 21/80, def 1, qi 0) | B(hp 21/94, def 4, qi 0, injury 1)
+turn 13b ends
+turn 14a begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 19
+    reduced 吾行之(pid2) hp by 2 to 17
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 14a: A(hp 21/80, def 0, qi 0) | B(hp 17/94, def 0, qi 0, injury 1)
+turn 14a ends
+turn 14b begins
+  lost 3 next_turn_def. Now have 0 next_turn_def
+  gained 3 def. Now have 3 def
+  reduced 吾行之(pid2) hp by 1 to 16
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 5 def
+    reduced 牧逸风(pid0) hp by 9 to 12
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 14b: A(hp 12/80, def 0, qi 0) | B(hp 16/94, def 5, qi 0, injury 1)
+turn 14b ends
+turn 15a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 15a: A(hp 12/80, def 2, qi 2, sword 2) | B(hp 16/94, def 5, qi 0, injury 1)
+turn 15a ends
+turn 15b begins
+  lost 3 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 1 to 15
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 7 hexproof
+    gained 10 def. Now have 12 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 15b: A(hp 12/80, def 2, qi 2, sword 2) | B(hp 15/94, def 12, qi 0, injury 1)
+turn 15b ends
+turn 16a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 12 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 3 to 12
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 16a: A(hp 12/80, def 1, qi 1) | B(hp 12/94, def 0, qi 0, injury 1)
+turn 16a ends
+turn 16b begins
+  reduced 吾行之(pid2) hp by 1 to 11
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 10 to 2
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 16b: A(hp 2/80, def 0, qi 1) | B(hp 11/94, def 0, qi 0, injury 1)
+turn 16b ends
+turn 17a begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 吾行之(pid2) hp by 7 to 4
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 17a: A(hp 2/80, def 0, qi 1) | B(hp 4/94, def 0, qi 0, injury 1)
+turn 17a ends
+turn 17b begins
+  reduced 吾行之(pid2) hp by 1 to 3
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 牧逸风(pid0) hp by 6 to -4
+  STATE after turn 17b: A(hp -4/80, def 0, qi 1) | B(hp 3/94, def 0, qi 0, injury 1)
+turn 17b ends
+牧逸风(pid0) loses 13 destiny, now at 59
+吾行之(pid2) (Wu Xingzhi) wins

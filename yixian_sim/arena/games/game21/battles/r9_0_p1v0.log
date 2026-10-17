@@ -1,0 +1,520 @@
+gained 4 def. Now have 4 def
+gained 1 qi. Now have 1 qi
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 1a: A(hp 78/78, def 6, qi 1) | B(hp 78/78, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 5 def
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 4 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 78/78, def 4, qi 1) | B(hp 78/78, def 0, qi 4)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 2a: A(hp 78/78, def 2, qi 3) | B(hp 78/78, def 0, qi 4)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 2b: A(hp 78/78, def 2, qi 3) | B(hp 78/78, def 0, qi 6)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 72
+    gained 2 def. Now have 3 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 3a: A(hp 78/78, def 3, qi 3) | B(hp 72/78, def 0, qi 6)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 8 to 70
+    gained 1 def. Now have 4 def
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 3b: A(hp 70/78, def 4, qi 3) | B(hp 72/78, def 8, qi 5)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 2 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 3 def
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 70
+    reduced 牧逸风(pid0) max_hp by 7 to 71
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 4a: A(hp 70/78, def 2, qi 2) | B(hp 70/71, def 0, qi 5)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 67
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 4b: A(hp 67/78, def 1, qi 2) | B(hp 70/71, def 0, qi 5)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 68
+    gained 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 5a: A(hp 67/78, def 0, qi 3) | B(hp 68/71, def 0, qi 5)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 61
+    gained 1 def. Now have 1 def
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 5b: A(hp 61/78, def 1, qi 3) | B(hp 68/71, def 6, qi 5)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    lost 4 def. Now have 2 def
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 66
+    gained 12 def. Now have 12 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 6a: A(hp 61/78, def 12, qi 2) | B(hp 66/71, def 0, qi 5)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 6b: A(hp 61/78, def 12, qi 2) | B(hp 66/71, def 9, qi 5)
+turn 6b ends
+turn 7a begins
+  lost 6 def. Now have 6 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 9 def. Now have 0 def
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7a: A(hp 61/78, def 6, qi 1) | B(hp 66/71, def 0, qi 5)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Spiritage Formation (level 2)
+    gained 3 spiritage_formation_stacks. Now have 3 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 7b: A(hp 61/78, def 6, qi 1) | B(hp 66/71, def 0, qi 5)
+turn 7b ends
+turn 8a begins
+  lost 3 def. Now have 3 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 55
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 8a: A(hp 61/78, def 3, qi 0) | B(hp 55/71, def 0, qi 5)
+turn 8a ends
+turn 8b begins
+  lost 1 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  gained 2 qi. Now have 7 qi
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 78 max_hp
+  healed 7 hp. Went from 55 to 62
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 8b: A(hp 61/78, def 3, qi 0) | B(hp 62/78, def 7, qi 7)
+turn 8b ends
+turn 9a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 5 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 9a: A(hp 61/78, def 5, qi 0) | B(hp 62/78, def 7, qi 7)
+turn 9a ends
+turn 9b begins
+  lost 4 def. Now have 3 def
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 9 qi
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 12 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 4 def
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 85 max_hp
+  healed 7 hp. Went from 62 to 69
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 9b: A(hp 61/78, def 3, qi 0) | B(hp 69/85, def 10, qi 12)
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 10a: A(hp 61/78, def 1, qi 2) | B(hp 69/85, def 10, qi 12)
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 5 def
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 14 qi
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 16 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 10b: A(hp 61/78, def 1, qi 2) | B(hp 69/85, def 5, qi 16)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 68
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 11a: A(hp 61/78, def 2, qi 2) | B(hp 68/85, def 0, qi 16)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 15 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 8 to 53
+    gained 1 def. Now have 3 def
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 11b: A(hp 53/78, def 3, qi 2) | B(hp 68/85, def 8, qi 15)
+turn 11b ends
+turn 12a begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 3 def
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 66
+    reduced 牧逸风(pid0) max_hp by 7 to 78
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 12a: A(hp 53/78, def 1, qi 1) | B(hp 66/78, def 0, qi 15)
+turn 12a ends
+turn 12b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 49
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 12b: A(hp 49/78, def 1, qi 1) | B(hp 66/78, def 0, qi 15)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 61
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 13a: A(hp 49/78, def 0, qi 2) | B(hp 61/78, def 0, qi 15)
+turn 13a ends
+turn 13b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 43
+    gained 1 def. Now have 1 def
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 13b: A(hp 43/78, def 1, qi 2) | B(hp 61/78, def 6, qi 15)
+turn 13b ends
+turn 14a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    lost 4 def. Now have 2 def
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 59
+    gained 7 def. Now have 7 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 14a: A(hp 43/78, def 7, qi 1) | B(hp 59/78, def 0, qi 15)
+turn 14a ends
+turn 14b begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 14b: A(hp 43/78, def 7, qi 1) | B(hp 59/78, def 9, qi 15)
+turn 14b ends
+turn 15a begins
+  lost 4 def. Now have 3 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 9 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 54
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 15a: A(hp 43/78, def 3, qi 0) | B(hp 54/78, def 0, qi 15)
+turn 15a ends
+turn 15b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 18 qi
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 40
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 15b: A(hp 40/78, def 1, qi 0) | B(hp 54/78, def 0, qi 18)
+turn 15b ends
+turn 16a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Golden Rooster Independence (level 1). They now have 1/1 qi
+  STATE after turn 16a: A(hp 40/78, def 0, qi 1) | B(hp 54/78, def 0, qi 18)
+turn 16a ends
+turn 16b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 20 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 16b: A(hp 40/78, def 0, qi 1) | B(hp 54/78, def 0, qi 20)
+turn 16b ends
+turn 17a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 43
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 17a: A(hp 40/78, def 0, qi 0) | B(hp 43/78, def 0, qi 20)
+turn 17a ends
+turn 17b begins
+  lost 1 qi. Now have 19 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 8 to 32
+    gained 1 def. Now have 1 def
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 17b: A(hp 32/78, def 1, qi 0) | B(hp 43/78, def 8, qi 19)
+turn 17b ends
+turn 18a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 18a: A(hp 32/78, def 4, qi 0) | B(hp 43/78, def 8, qi 19)
+turn 18a ends
+turn 18b begins
+  lost 4 def. Now have 4 def
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 18b: A(hp 32/78, def 3, qi 0) | B(hp 43/78, def 4, qi 19)
+turn 18b ends
+turn 19a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 19a: A(hp 32/78, def 1, qi 2) | B(hp 43/78, def 4, qi 19)
+turn 19a ends
+turn 19b begins
+  lost 2 def. Now have 2 def
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    gained 6 def. Now have 8 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 19b: A(hp 32/78, def 0, qi 2) | B(hp 43/78, def 8, qi 19)
+turn 19b ends
+turn 20a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 6 def. Now have 2 def
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 20a: A(hp 32/78, def 2, qi 2) | B(hp 43/78, def 2, qi 19)
+turn 20a ends
+turn 20b begins
+  lost 1 def. Now have 1 def
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 10 def
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 20b: A(hp 32/78, def 2, qi 2) | B(hp 43/78, def 10, qi 19)
+turn 20b ends
+turn 21a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 5 def
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) max_hp by 8 to 70
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 21a: A(hp 32/78, def 1, qi 1) | B(hp 43/70, def 0, qi 19)
+turn 21a ends
+turn 21b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 22 qi
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 30
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 28
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 21b: A(hp 28/78, def 1, qi 1) | B(hp 43/70, def 0, qi 22)
+turn 21b ends
+turn 22a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 38
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 22a: A(hp 28/78, def 0, qi 2) | B(hp 38/70, def 0, qi 22)
+turn 22a ends
+turn 22b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 24 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 22b: A(hp 28/78, def 0, qi 2) | B(hp 38/70, def 0, qi 24)
+turn 22b ends
+turn 23a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 牧逸风(pid0) hp by 4 to 34
+    reduced 牧逸风(pid0) hp by 4 to 30
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 23a: A(hp 28/78, def 4, qi 1) | B(hp 30/70, def 0, qi 24)
+turn 23a ends
+turn 23b begins
+  lost 1 qi. Now have 23 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 8 to 20
+    gained 1 def. Now have 5 def
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 23b: A(hp 20/78, def 5, qi 1) | B(hp 30/70, def 8, qi 23)
+turn 23b ends
+turn 24a begins
+  lost 3 def. Now have 2 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 8 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 29
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 24a: A(hp 20/78, def 2, qi 0) | B(hp 29/70, def 0, qi 23)
+turn 24a ends
+turn 24b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 17
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 24b: A(hp 17/78, def 1, qi 0) | B(hp 29/70, def 0, qi 23)
+turn 24b ends
+turn 25a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Golden Rooster Independence (level 1). They now have 1/1 qi
+  STATE after turn 25a: A(hp 17/78, def 0, qi 1) | B(hp 29/70, def 0, qi 23)
+turn 25a ends
+turn 25b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 11
+    gained 1 def. Now have 1 def
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 25b: A(hp 11/78, def 1, qi 1) | B(hp 29/70, def 6, qi 23)
+turn 25b ends
+turn 26a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 24
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 26a: A(hp 11/78, def 0, qi 0) | B(hp 24/70, def 0, qi 23)
+turn 26a ends
+turn 26b begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 26b: A(hp 11/78, def 0, qi 0) | B(hp 24/70, def 9, qi 23)
+turn 26b ends
+turn 27a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 27a: A(hp 11/78, def 4, qi 0) | B(hp 24/70, def 9, qi 23)
+turn 27a ends
+turn 27b begins
+  lost 5 def. Now have 4 def
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 26 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 2 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 27b: A(hp 11/78, def 2, qi 0) | B(hp 24/70, def 4, qi 26)
+turn 27b ends
+turn 28a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 28a: A(hp 11/78, def 1, qi 2) | B(hp 24/70, def 4, qi 26)
+turn 28a ends
+turn 28b begins
+  lost 2 def. Now have 2 def
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 28 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 28b: A(hp 11/78, def 1, qi 2) | B(hp 24/70, def 2, qi 28)
+turn 28b ends
+turn 29a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 4 to 20
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 29a: A(hp 11/78, def 2, qi 2) | B(hp 20/70, def 0, qi 28)
+turn 29a ends
+turn 29b begins
+  lost 1 qi. Now have 27 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 8 to 3
+    gained 1 def. Now have 3 def
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 29b: A(hp 3/78, def 3, qi 2) | B(hp 20/70, def 8, qi 27)
+turn 29b ends
+turn 30a begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 3 def
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 18
+    reduced 牧逸风(pid0) max_hp by 10 to 60
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 30a: A(hp 3/78, def 1, qi 1) | B(hp 18/60, def 0, qi 27)
+turn 30a ends
+turn 30b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to -1
+    gained 1 def. Now have 1 def
+  STATE after turn 30b: A(hp -1/78, def 1, qi 1) | B(hp 18/60, def 0, qi 27)
+turn 30b ends
+谭舒雁(pid1) loses 13 destiny, now at 46
+牧逸风(pid0) (Mu Yifeng) wins

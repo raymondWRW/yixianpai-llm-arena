@@ -1,0 +1,204 @@
+gained 1 sword_intent. Now have 1 sword_intent
+gained 3 qi. Now have 3 qi
+gained 2 hexproof. Now have 2 hexproof
+turn 1a begins
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 1a: A(hp 99/99, def 0, qi 0, sword 1) | B(hp 99/125, def 0, qi 3, phys 26)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Everything Goes Your Way (level 2)
+    gained 4 everything_goes_way_stacks. Now have 4 everything_goes_way_stacks
+  小布(pid3) finished playing Everything Goes Your Way
+  STATE after turn 1b: A(hp 99/99, def 0, qi 0, sword 1) | B(hp 99/125, def 0, qi 3, phys 26)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 2a: A(hp 99/99, def 0, qi 0, sword 1) | B(hp 99/125, def 0, qi 3, phys 26)
+turn 2a ends
+turn 2b begins
+  lost 1 everything_goes_way_stacks. Now have 3 everything_goes_way_stacks
+  小布(pid3) is playing Magnanimous Righteousness (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 4 def. Now have 4 def
+    gained 2 hexproof. Now have 4 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  STATE after turn 2b: A(hp 99/99, def 0, qi 0, sword 1) | B(hp 99/125, def 4, qi 4, phys 26)
+turn 2b ends
+turn 3a begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 5 qi
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 95
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3a: A(hp 99/99, def 0, qi 5) | B(hp 95/125, def 0, qi 4, phys 26)
+turn 3a ends
+turn 3b begins
+  lost 1 everything_goes_way_stacks. Now have 2 everything_goes_way_stacks
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 3b: A(hp 99/99, def 0, qi 5) | B(hp 95/125, def 0, qi 6, force 1, phys 26)
+turn 3b ends
+turn 4a begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 7 qi
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 9 qi
+    reduced 小布(pid3) hp by 9 to 86
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 4a: A(hp 99/99, def 0, qi 9) | B(hp 86/125, def 0, qi 6, force 1, phys 26)
+turn 4a ends
+turn 4b begins
+  lost 1 everything_goes_way_stacks. Now have 1 everything_goes_way_stacks
+  小布(pid3) is playing Exercise Bones (level 1)
+    gained 1 physique. Now have 27 physique
+    gained 1 max_hp. Now have 126 max_hp
+    healed 3 hp. Went from 86 to 89
+    gained 2 exercise_bones_stacks. Now have 2 exercise_bones_stacks
+  小布(pid3) finished playing Exercise Bones
+  STATE after turn 4b: A(hp 99/99, def 0, qi 9) | B(hp 89/126, def 0, qi 6, force 1, phys 27)
+turn 4b ends
+turn 5a begins
+  lost 3 qi. Now have 6 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 10 to 79
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 20 to 59
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 5a: A(hp 99/99, def 10, qi 4) | B(hp 59/126, def 0, qi 6, force 1, phys 27)
+turn 5a ends
+turn 5b begins
+  lost 1 everything_goes_way_stacks. Now have 0 everything_goes_way_stacks
+  reduced 小布(pid3) hp by 2 to 57
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 4 qi
+    gained 2 force. Now have 3 force
+    gained 1 physique. Now have 28 physique
+    gained 1 max_hp. Now have 127 max_hp
+    lost 1 exercise_bones_stacks. Now have 1 exercise_bones_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    lost 10 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 16 to 83
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 5b: A(hp 83/99, def 0, qi 4) | B(hp 57/127, def 0, qi 4, force 3, phys 28)
+turn 5b ends
+turn 6a begins
+  lost 2 qi. Now have 2 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 16 to 41
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6a: A(hp 83/99, def 0, qi 2) | B(hp 41/127, def 0, qi 4, force 3, phys 28)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 4 to 37
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    gained 1 physique. Now have 29 physique
+    gained 1 max_hp. Now have 128 max_hp
+    lost 1 exercise_bones_stacks. Now have 0 exercise_bones_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 23 to 60
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 6b: A(hp 60/99, def 0, qi 2) | B(hp 37/128, def 0, qi 4, force 3, phys 29)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 2 qi. Now have 0 qi
+    reduced 小布(pid3) hp by 15 to 22
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 7a: A(hp 60/99, def 0, qi 0) | B(hp 22/128, def 0, qi 4, force 3, phys 29)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 3 force. Now have 0 force
+    gained 12 def. Now have 12 def
+    reduced 牧逸风(pid0) hp by 9 to 51
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 7b: A(hp 51/99, def 0, qi 0) | B(hp 22/128, def 12, qi 4, phys 29, agi 5)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 6 hexproof
+    gained 10 def. Now have 10 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 8a: A(hp 51/99, def 10, qi 0) | B(hp 22/128, def 12, qi 4, phys 29, agi 5)
+turn 8a ends
+turn 8b begins
+  lost 6 def. Now have 6 def
+  小布(pid3) spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 10 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 48
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 8b: A(hp 48/99, def 0, qi 0) | B(hp 22/128, def 6, qi 4, phys 29, agi 5)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9a: A(hp 48/99, def 0, qi 3) | B(hp 22/128, def 6, qi 4, phys 29, agi 5)
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 3 def
+  小布(pid3) is playing Everything Goes Your Way (level 2)
+    gained 4 everything_goes_way_stacks. Now have 4 everything_goes_way_stacks
+  小布(pid3) finished playing Everything Goes Your Way
+  STATE after turn 9b: A(hp 48/99, def 0, qi 3) | B(hp 22/128, def 3, qi 4, phys 29, agi 5)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 5 qi
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 20
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 10a: A(hp 48/99, def 0, qi 5) | B(hp 20/128, def 0, qi 4, phys 29, agi 5)
+turn 10a ends
+turn 10b begins
+  lost 1 everything_goes_way_stacks. Now have 3 everything_goes_way_stacks
+  小布(pid3) is playing Magnanimous Righteousness (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 4 def. Now have 4 def
+    gained 2 hexproof. Now have 6 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  STATE after turn 10b: A(hp 48/99, def 0, qi 5) | B(hp 20/128, def 4, qi 5, phys 29, agi 5)
+turn 10b ends
+turn 11a begins
+  lost 3 qi. Now have 2 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 6 to 14
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 20 to -6
+  STATE after turn 11a: A(hp 48/99, def 10, qi 0) | B(hp -6/128, def 0, qi 5, phys 29, agi 5)
+turn 11a ends
+小布(pid3) loses 22 destiny, now at 25
+牧逸风(pid0) (Mu Yifeng) wins

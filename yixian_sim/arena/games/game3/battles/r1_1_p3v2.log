@@ -1,0 +1,140 @@
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 2 physique
+    gained 2 max_hp. Now have 42 max_hp
+    healed 4 hp. Went from 40 to 42
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Exercise Fist (level 1)
+    reduced player 1 hp by 6 to 34
+    gained 1 physique. Now have 3 physique
+    gained 1 max_hp. Now have 43 max_hp
+  player 0 finished playing Exercise Fist
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to 33
+  player 0 finished playing Fire Spirit - Rush
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 30
+  player 0 spent 3 hp to play Mountain-Cleaving Palms (level 2)
+    reduced player 1 hp by 13 to 21
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+turn 3b ends
+turn 4a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 18
+  player 0 finished playing Normal Attack
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 15
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced player 1 hp by 10 to 20
+  player 0 finished playing Water Spirit - Waves
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 12
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Wood Spirit - Bud (level 2). They now have 1/1 qi
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 2)
+    reduced player 1 hp by 3 to 17
+    reduced player 1 hp by 3 to 14
+    reduced player 1 hp by 3 to 11
+    healed 5 hp. Went from 9 to 14
+  player 0 finished playing Wood Spirit - Bud
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 5 physique
+    gained 2 max_hp. Now have 45 max_hp
+    healed 4 hp. Went from 8 to 12
+  player 0 finished playing Embracing Qi Technique
+turn 9a ends
+turn 9b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 9b ends
+turn 10a begins
+  player 0 is playing Exercise Fist (level 1)
+    reduced player 1 hp by 6 to 5
+    gained 1 physique. Now have 6 physique
+    gained 1 max_hp. Now have 46 max_hp
+  player 0 finished playing Exercise Fist
+turn 10a ends
+turn 10b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 6
+  player 0 finished playing Normal Attack
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 1 to 5
+  player 0 spent 1 hp to play Mountain-Cleaving Palms (level 2)
+    reduced player 1 hp by 13 to -8
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+turn 11a ends
+player 1 loses 4 destiny, now at 96
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Exercise Fist (level 1)
+  Mountain-Cleaving Palms (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Fire Spirit - Rush (level 1)
+  Water Spirit - Waves (level 1)
+  Wood Spirit - Bud (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

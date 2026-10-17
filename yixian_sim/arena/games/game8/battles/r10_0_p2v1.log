@@ -1,0 +1,224 @@
+gained 1 smash_def. Now have 1 smash_def
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 max_hp. Now have 94 max_hp
+gained 4 max_hp. Now have 98 max_hp
+healed 4 hp. Went from 90 to 94
+turn 1a begins
+  reduced 吾行之(pid2) hp by 1 to 92
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 92
+    reduced 谭舒雁(pid1) max_hp by 2 to 96
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 1a: A(hp 92/93, def 0, qi 0, injury 1) | B(hp 92/96, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 1b: A(hp 92/93, def 0, qi 0, injury 1) | B(hp 92/96, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  reduced 吾行之(pid2) hp by 1 to 91
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 90
+    reduced 谭舒雁(pid1) max_hp by 2 to 94
+    gained 2 qi. Now have 2 qi
+    reduced 谭舒雁(pid1) hp by 3 to 87
+    reduced 谭舒雁(pid1) max_hp by 3 to 91
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 2a: A(hp 91/93, def 0, qi 2, injury 1) | B(hp 87/91, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 吾行之(pid2) hp by 8 to 83
+    gained 2 qi. Now have 2 qi
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced 吾行之(pid2) hp by 8 to 75
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 2b: A(hp 75/93, def 0, qi 2, injury 1) | B(hp 87/91, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  reduced 吾行之(pid2) hp by 1 to 74
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 85
+    reduced 谭舒雁(pid1) max_hp by 2 to 89
+    reduced 谭舒雁(pid1) max_hp by 4 to 85
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 83
+    reduced 谭舒雁(pid1) max_hp by 2 to 83
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced 谭舒雁(pid1) hp by 8 to 75
+    reduced 谭舒雁(pid1) max_hp by 8 to 75
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 3a: A(hp 74/93, def 0, qi 1, injury 1) | B(hp 75/75, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 吾行之(pid2) hp by 7 to 67
+    reduced 吾行之(pid2) hp by 7 to 60
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 60/93, def 0, qi 1, injury 1) | B(hp 75/75, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  reduced 吾行之(pid2) hp by 1 to 59
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 73
+    reduced 谭舒雁(pid1) max_hp by 2 to 73
+    gained 1 increase_atk. Now have 2 increase_atk
+    reduced 谭舒雁(pid1) hp by 9 to 64
+    reduced 谭舒雁(pid1) max_hp by 9 to 64
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 4a: A(hp 59/93, def 0, qi 0, injury 1) | B(hp 64/64, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 吾行之(pid2) hp by 4 to 55
+    reduced 吾行之(pid2) hp by 4 to 51
+    gained 9 def. Now have 9 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 4b: A(hp 51/93, def 0, qi 0, injury 1) | B(hp 64/64, def 9, qi 0)
+turn 4b ends
+turn 5a begins
+  reduced 吾行之(pid2) hp by 1 to 50
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 2). They now have 1/1 qi
+  STATE after turn 5a: A(hp 50/93, def 0, qi 1, injury 1) | B(hp 64/64, def 9, qi 0)
+turn 5a ends
+turn 5b begins
+  lost 5 def. Now have 4 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 50/93, def 0, qi 1, injury 1) | B(hp 64/64, def 4, qi 1)
+turn 5b ends
+turn 6a begins
+  reduced 吾行之(pid2) hp by 1 to 49
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 62
+    reduced 谭舒雁(pid1) max_hp by 2 to 62
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 53
+    reduced 谭舒雁(pid1) hp by 5 to 48
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 6a: A(hp 49/93, def 0, qi 0, injury 1) | B(hp 48/62, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 吾行之(pid2) hp by 9 to 40
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 6b: A(hp 40/93, def 0, qi 0, injury 1) | B(hp 48/62, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 1 to 39
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+  STATE after turn 7a: A(hp 39/93, def 0, qi 1, injury 1) | B(hp 48/62, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 7b: A(hp 39/93, def 0, qi 1, injury 3) | B(hp 48/62, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 3 to 36
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 46
+    reduced 谭舒雁(pid1) max_hp by 2 to 60
+    reduced 谭舒雁(pid1) hp by 11 to 35
+    reduced 谭舒雁(pid1) hp by 4 to 31
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 8a: A(hp 36/93, def 0, qi 0, injury 3) | B(hp 31/60, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 吾行之(pid2) hp by 6 to 30
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 8b: A(hp 30/93, def 0, qi 0, injury 3) | B(hp 31/60, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  reduced 吾行之(pid2) hp by 3 to 27
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+  STATE after turn 9a: A(hp 27/93, def 0, qi 1, injury 3) | B(hp 31/60, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 4 max_hp. Now have 64 max_hp
+    healed 7 hp. Went from 31 to 38
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 9b: A(hp 27/93, def 0, qi 1, injury 3) | B(hp 38/64, def 0, qi 0)
+turn 9b ends
+turn 10a begins
+  reduced 吾行之(pid2) hp by 3 to 24
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 36
+    reduced 谭舒雁(pid1) max_hp by 2 to 62
+    reduced 谭舒雁(pid1) hp by 6 to 30
+    reduced 谭舒雁(pid1) hp by 6 to 24
+    reduced 谭舒雁(pid1) hp by 6 to 18
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  STATE after turn 10a: A(hp 24/93, def 0, qi 0, injury 3) | B(hp 18/62, def 0, qi 0)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 10b: A(hp 24/93, def 0, qi 0, injury 3) | B(hp 18/62, def 0, qi 0)
+turn 10b ends
+turn 11a begins
+  reduced 吾行之(pid2) hp by 3 to 21
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 16
+    reduced 谭舒雁(pid1) max_hp by 2 to 60
+    gained 2 qi. Now have 2 qi
+    reduced 谭舒雁(pid1) hp by 3 to 13
+    reduced 谭舒雁(pid1) max_hp by 3 to 57
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 11a: A(hp 21/93, def 0, qi 2, injury 3) | B(hp 13/57, def 0, qi 0)
+turn 11a ends
+turn 11b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    reduced 吾行之(pid2) hp by 7 to 14
+    gained 2 qi. Now have 2 qi
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced 吾行之(pid2) hp by 8 to 6
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 11b: A(hp 6/93, def 0, qi 2, injury 3) | B(hp 13/57, def 0, qi 2)
+turn 11b ends
+turn 12a begins
+  reduced 吾行之(pid2) hp by 3 to 3
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 11
+    reduced 谭舒雁(pid1) max_hp by 2 to 55
+    reduced 谭舒雁(pid1) max_hp by 4 to 51
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 9
+    reduced 谭舒雁(pid1) max_hp by 2 to 49
+    gained 1 increase_atk. Now have 3 increase_atk
+    reduced 谭舒雁(pid1) hp by 10 to -1
+    reduced 谭舒雁(pid1) max_hp by 10 to 39
+  STATE after turn 12a: A(hp 3/93, def 0, qi 1, injury 3) | B(hp -1/39, def 0, qi 2)
+turn 12a ends
+谭舒雁(pid1) loses 12 destiny, now at 62
+吾行之(pid2) (Wu Xingzhi) wins

@@ -1,0 +1,118 @@
+turn 1a begins
+  player 0 is playing Polaris Citta-Dharma (level 1)
+    gained 2 star_power. Now have 2 star_power
+  player 0 finished playing Polaris Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  player 0 finished playing Crash Footwork
+turn 1b ends
+turn 2a begins
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 5 star_power
+    gained 1 qi. Now have 1 qi
+    gained 1 qi. Now have 2 qi
+  player 0 finished playing Starry Moon
+turn 2a ends
+turn 2b begins
+  player 0 is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 2 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2b ends
+turn 3a begins
+  player 0 is playing Propitious Omen (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 3 star_power. Now have 8 star_power
+  player 0 finished playing Propitious Omen
+turn 3a ends
+turn 3b begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 3 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 124 to 124
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  player 0 finished playing Strike Twice
+turn 4a ends
+turn 4b begins
+  player 0 is playing Surging Waves (level 2)
+    gained 2 qi. Now have 6 qi
+    gained 3 def. Now have 3 def
+    gained 6 force. Now have 6 force
+    gained 5 agility. Now have 9 agility
+  player 0 finished playing Surging Waves
+turn 4b ends
+turn 5a begins
+  player 0 is playing Soul Requiem Fulu (level 2)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    reduced player 1 hp by 26 to 104
+    reduced player 1 max_hp by 30 to 120
+    lost 3 qi. Now have 3 qi
+    reduced player 1 hp by 21 to 83
+    reduced player 1 max_hp by 24 to 96
+    lost 3 qi. Now have 0 qi
+  player 0 finished playing Soul Requiem Fulu
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 1 def
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Vast Universe (level 2). They now have 1/2 qi
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 13 to 70
+    reduced player 1 hp by 14 to 56
+    reduced player 1 hp by 15 to 41
+  player 0 finished playing Astral Move - Hit
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Vast Universe (level 2). They now have 2/2 qi
+turn 6b ends
+turn 7a begins
+  player 0 is playing Astral Move - Point (level 2)
+    reduced player 1 hp by 18 to 23
+    lost 1 qi. Now have 1 qi
+  player 0 finished playing Astral Move - Point
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Vast Universe (level 2). They now have 2/2 qi
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    reduced player 1 hp by 24 to -1
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+turn 8a ends
+player 1 loses 35 destiny, now at 0
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Polaris Citta-Dharma (level 1)
+  Starry Moon (level 2)
+  Propitious Omen (level 1)
+  Strike Twice (level 1)
+  Soul Requiem Fulu (level 2)
+  Astral Move - Hit (level 2)
+  Astral Move - Point (level 2)
+  Astral Move - Cide (level 1)
+Player 1's deck:
+  Crash Footwork (level 1)
+  Crash Citta-Dharma (level 1)
+  Majestic Qi (level 2)
+  Surging Waves (level 2)
+  Vast Universe (level 2)
+  Crash Fist - Continue (level 2)
+  Strong Force (level 2)
+  Overwhelming Force (level 2)

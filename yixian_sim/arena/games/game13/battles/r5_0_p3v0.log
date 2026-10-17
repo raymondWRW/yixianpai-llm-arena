@@ -1,0 +1,133 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  小布(pid3) is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  小布(pid3) finished playing Examine Body
+  STATE after turn 1a: A(hp 53/54, def 0, qi 0, phys 1) | B(hp 53/53, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 53/54, def 0, qi 0, phys 1) | B(hp 53/53, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 牧逸风(pid0) hp by 2 to 51
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 6 to 45
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2a: A(hp 53/54, def 0, qi 1, force 1, phys 1) | B(hp 45/53, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  牧逸风(pid0) finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  STATE after turn 2b: A(hp 53/54, def 0, qi 1, force 1, phys 1) | B(hp 45/53, def 3, qi 3)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 2 to 51
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 0 force
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 17 to 28
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 3a: A(hp 51/54, def 0, qi 0, phys 1) | B(hp 28/53, def 0, qi 3)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 小布(pid3) hp by 5 to 46
+    reduced 小布(pid3) hp by 6 to 40
+  牧逸风(pid0) finished playing Thunder Sword
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  STATE after turn 3b: A(hp 40/54, def 0, qi 0, phys 1) | B(hp 28/53, def 3, qi 2)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 38
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 23
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 4a: A(hp 38/54, def 0, qi 0, phys 1) | B(hp 23/53, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 13 to 25
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 4b: A(hp 25/54, def 0, qi 0, phys 1) | B(hp 23/53, def 3, qi 1)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 18
+    gained 1 qi. Now have 1 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 5a: A(hp 25/54, def 0, qi 1, phys 1) | B(hp 18/53, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  STATE after turn 5b: A(hp 25/54, def 0, qi 1, phys 1) | B(hp 18/53, def 3, qi 3)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 2 to 23
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 13
+    lost 1 qi. Now have 0 qi
+    reduced 牧逸风(pid0) hp by 4 to 9
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 6a: A(hp 23/54, def 0, qi 0, phys 1) | B(hp 9/53, def 0, qi 3)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 12 to 11
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 6b: A(hp 11/54, def 0, qi 0, phys 1) | B(hp 9/53, def 0, qi 2, sword 4)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 2 to 9
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+  healed 2 hp. Went from 9 to 11
+  小布(pid3) healed 2 hp from crash fist bounce
+    reduced 牧逸风(pid0) hp by 8 to 1
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 7a: A(hp 11/54, def 0, qi 0, phys 1) | B(hp 1/53, def 0, qi 2, sword 4)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 小布(pid3) hp by 13 to -2
+    lost 4 sword_intent. Now have 0 sword_intent
+    gained 4 sword_intent. Now have 4 sword_intent
+  STATE after turn 7b: A(hp -2/54, def 0, qi 0, phys 1) | B(hp 1/53, def 0, qi 1, sword 4)
+turn 7b ends
+小布(pid3) loses 6 destiny, now at 86
+牧逸风(pid0) (Mu Yifeng) wins

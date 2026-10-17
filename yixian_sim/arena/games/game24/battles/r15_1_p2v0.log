@@ -1,0 +1,256 @@
+gained 3 qi. Now have 3 qi
+turn 1a begins
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 2)
+    gained 3 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 110 max_hp
+  healed 7 hp. Went from 103 to 110
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  STATE after turn 1a: A(hp 110/110, def 7, qi 3) | B(hp 103/103, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 110/110, def 7, qi 3) | B(hp 103/103, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 4 def. Now have 3 def
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 5 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 117 max_hp
+  healed 7 hp. Went from 110 to 117
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 2a: A(hp 117/117, def 10, qi 5) | B(hp 103/103, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  牧逸风(pid0) is playing Moon Water Sword Formation (level 1)
+    gained 10 def. Now have 10 def
+    gained 3 moon_water_sword_formation_stacks. Now have 3 moon_water_sword_formation_stacks
+  牧逸风(pid0) finished playing Moon Water Sword Formation
+  STATE after turn 2b: A(hp 117/117, def 10, qi 5, injury 1) | B(hp 103/103, def 10, qi 0)
+turn 2b ends
+turn 3a begins
+  lost 5 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 1 to 116
+  lost 2 qi. Now have 3 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 126 max_hp
+    healed 9 hp. Went from 116 to 125
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  gained 7 def. Now have 12 def
+  gained 7 max_hp. Now have 133 max_hp
+  healed 7 hp. Went from 125 to 132
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  lost 3 def. Now have 7 def
+  STATE after turn 3a: A(hp 132/133, def 12, qi 4, injury 1) | B(hp 103/103, def 7, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 2 moon_water_sword_formation_stacks
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 5 def. Now have 12 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 3b: A(hp 132/133, def 12, qi 4, injury 2) | B(hp 103/103, def 12, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 6 def. Now have 6 def
+  reduced 吾行之(pid2) hp by 2 to 130
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 2 max_hp. Now have 135 max_hp
+    healed 2 hp. Went from 130 to 132
+    gained 2 water_spirit_dive_stacks. Now have 2 water_spirit_dive_stacks
+  吾行之(pid2) finished playing Water Spirit - Dive
+  lost 3 def. Now have 9 def
+  STATE after turn 4a: A(hp 132/135, def 6, qi 4, injury 2) | B(hp 103/103, def 9, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  牧逸风(pid0) is playing Raven Spirit Sword (level 1)
+    lost 3 def. Now have 3 def
+    gained 2 def. Now have 11 def
+  牧逸风(pid0) finished playing Raven Spirit Sword
+  STATE after turn 4b: A(hp 132/135, def 3, qi 4, injury 3) | B(hp 103/103, def 11, qi 1)
+turn 4b ends
+turn 5a begins
+  lost 1 water_spirit_dive_stacks. Now have 1 water_spirit_dive_stacks
+  lost 2 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 3 to 129
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 2 force_of_water. Now have 5 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  lost 5 def. Now have 6 def
+  STATE after turn 5a: A(hp 129/135, def 1, qi 5, injury 3) | B(hp 103/103, def 6, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 128
+    reduced 吾行之(pid2) hp by 2 to 126
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 5b: A(hp 126/135, def 0, qi 5, injury 3) | B(hp 103/103, def 6, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 water_spirit_dive_stacks. Now have 0 water_spirit_dive_stacks
+  reduced 吾行之(pid2) hp by 3 to 123
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 2 qi. Now have 8 qi
+    gained 2 max_hp. Now have 137 max_hp
+    healed 2 hp. Went from 123 to 125
+    gained 4 force_of_water. Now have 9 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  lost 6 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 3 to 100
+  STATE after turn 6a: A(hp 125/137, def 0, qi 8, injury 3) | B(hp 100/103, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 3 def. Now have 3 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 6b: A(hp 125/137, def 0, qi 8, injury 3) | B(hp 100/103, def 3, qi 4, sword 3)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 3 to 122
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 92
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 9 to 83
+  STATE after turn 7a: A(hp 122/137, def 0, qi 8, injury 3) | B(hp 83/103, def 0, qi 4, sword 3)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 吾行之(pid2) hp by 8 to 114
+    reduced 吾行之(pid2) hp by 9 to 105
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 7b: A(hp 105/137, def 0, qi 8, injury 3) | B(hp 83/103, def 0, qi 3)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 3 to 102
+  lost 1 qi. Now have 7 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 75
+  吾行之(pid2) finished playing World Smash
+  reduced 牧逸风(pid0) hp by 9 to 66
+  STATE after turn 8a: A(hp 102/137, def 0, qi 7, injury 3) | B(hp 66/103, def 0, qi 3)
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 13 to 89
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 8b: A(hp 89/137, def 0, qi 7, injury 3) | B(hp 66/103, def 0, qi 2)
+turn 8b ends
+turn 9a begins
+  reduced 吾行之(pid2) hp by 3 to 86
+  lost 2 qi. Now have 5 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 3 force_of_water. Now have 12 force_of_water
+    gained 18 max_hp. Now have 155 max_hp
+    healed 18 hp. Went from 86 to 104
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 牧逸风(pid0) hp by 12 to 54
+  STATE after turn 9a: A(hp 104/155, def 0, qi 6, injury 3) | B(hp 54/103, def 0, qi 2)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Moon Water Sword Formation (level 1)
+    gained 10 def. Now have 10 def
+    gained 3 moon_water_sword_formation_stacks. Now have 3 moon_water_sword_formation_stacks
+  牧逸风(pid0) finished playing Moon Water Sword Formation
+  STATE after turn 9b: A(hp 104/155, def 0, qi 6, injury 3) | B(hp 54/103, def 10, qi 2)
+turn 9b ends
+turn 10a begins
+  reduced 吾行之(pid2) hp by 3 to 101
+  lost 1 qi. Now have 5 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 2 max_hp. Now have 157 max_hp
+    healed 2 hp. Went from 101 to 103
+    gained 2 water_spirit_dive_stacks. Now have 2 water_spirit_dive_stacks
+  吾行之(pid2) finished playing Water Spirit - Dive
+  lost 10 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 2 to 52
+  STATE after turn 10a: A(hp 103/157, def 0, qi 6, injury 3) | B(hp 52/103, def 0, qi 2)
+turn 10a ends
+turn 10b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 2 moon_water_sword_formation_stacks
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 10b: A(hp 103/157, def 0, qi 6, injury 3) | B(hp 52/103, def 5, qi 3)
+turn 10b ends
+turn 11a begins
+  lost 1 water_spirit_dive_stacks. Now have 1 water_spirit_dive_stacks
+  reduced 吾行之(pid2) hp by 3 to 100
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 7 qi
+    gained 2 force_of_water. Now have 14 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  lost 5 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 9 to 43
+  STATE after turn 11a: A(hp 100/157, def 0, qi 7, injury 3) | B(hp 43/103, def 0, qi 3)
+turn 11a ends
+turn 11b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+  牧逸风(pid0) is playing Raven Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 3 to 97
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Raven Spirit Sword
+  STATE after turn 11b: A(hp 97/157, def 0, qi 7, injury 3) | B(hp 43/103, def 6, qi 3)
+turn 11b ends
+turn 12a begins
+  lost 1 water_spirit_dive_stacks. Now have 0 water_spirit_dive_stacks
+  reduced 吾行之(pid2) hp by 3 to 94
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 qi. Now have 8 qi
+    gained 2 qi. Now have 10 qi
+    gained 2 max_hp. Now have 159 max_hp
+    healed 2 hp. Went from 94 to 96
+    gained 5 force_of_water. Now have 19 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  lost 6 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 13 to 30
+  STATE after turn 12a: A(hp 96/159, def 0, qi 10, injury 3) | B(hp 30/103, def 0, qi 3)
+turn 12a ends
+turn 12b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    reduced 吾行之(pid2) hp by 4 to 92
+    reduced 吾行之(pid2) hp by 4 to 88
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 12b: A(hp 88/159, def 0, qi 10, injury 3) | B(hp 30/103, def 0, qi 3)
+turn 12b ends
+turn 13a begins
+  reduced 吾行之(pid2) hp by 3 to 85
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 牧逸风(pid0) hp by 11 to 19
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 19 to 0
+  STATE after turn 13a: A(hp 85/159, def 0, qi 10, injury 3) | B(hp 0/103, def 0, qi 3)
+turn 13a ends
+牧逸风(pid0) loses 27 destiny, now at 9
+吾行之(pid2) (Wu Xingzhi) wins

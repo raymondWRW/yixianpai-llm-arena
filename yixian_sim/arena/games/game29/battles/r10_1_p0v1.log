@@ -1,0 +1,202 @@
+gained 4 def. Now have 4 def
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1a: A(hp 80/80, def 0, qi 3) | B(hp 80/80, def 4, qi 0)
+turn 1a ends
+turn 1b begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 3 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1b: A(hp 80/80, def 0, qi 3, injury 1) | B(hp 80/80, def 3, qi 1)
+turn 1b ends
+turn 2a begins
+  reduced 牧逸风(pid0) hp by 1 to 79
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 2a: A(hp 79/80, def 0, qi 5, injury 1) | B(hp 80/80, def 3, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 73
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 2b: A(hp 73/80, def 0, qi 5, injury 3) | B(hp 80/80, def 1, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 牧逸风(pid0) hp by 3 to 70
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 9 to 71
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 3 qi. Now have 0 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 62
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  STATE after turn 3a: A(hp 70/80, def 10, qi 0, injury 3) | B(hp 62/80, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 3b: A(hp 70/80, def 10, qi 0, injury 3) | B(hp 62/80, def 4, qi 0)
+turn 3b ends
+turn 4a begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 3 to 67
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 4a: A(hp 67/80, def 5, qi 0, injury 3) | B(hp 62/80, def 3, qi 0)
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 84 max_hp
+    healed 4 hp. Went from 62 to 66
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 4b: A(hp 67/80, def 5, qi 0, injury 3) | B(hp 66/84, def 1, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 3 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 3 to 64
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    lost 2 def. Now have 0 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 5a: A(hp 64/80, def 0, qi 0, injury 3) | B(hp 66/84, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 59
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 5b: A(hp 59/80, def 0, qi 0, injury 3) | B(hp 66/84, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  reduced 牧逸风(pid0) hp by 3 to 56
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 63
+    reduced 牧逸风(pid0) hp by 2 to 54
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6a: A(hp 54/80, def 0, qi 0, injury 3) | B(hp 63/84, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Astral Move - Point (level 2)
+    reduced 牧逸风(pid0) hp by 10 to 44
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 6b: A(hp 44/80, def 0, qi 0, injury 3) | B(hp 63/84, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  reduced 牧逸风(pid0) hp by 3 to 41
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 60
+    reduced 牧逸风(pid0) hp by 2 to 39
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 39/80, def 0, qi 0, injury 3) | B(hp 60/84, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 28
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 7b: A(hp 28/80, def 0, qi 0, injury 3) | B(hp 60/84, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 牧逸风(pid0) hp by 3 to 25
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 8a: A(hp 25/80, def 0, qi 3, injury 3) | B(hp 60/84, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 2). They now have 1/1 qi
+  STATE after turn 8b: A(hp 25/80, def 0, qi 3, injury 3) | B(hp 60/84, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  reduced 牧逸风(pid0) hp by 3 to 22
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 9a: A(hp 22/80, def 0, qi 5, injury 3) | B(hp 60/84, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 牧逸风(pid0) hp by 4 to 18
+    reduced 牧逸风(pid0) hp by 4 to 14
+    gained 11 def. Now have 11 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 9b: A(hp 14/80, def 0, qi 5, injury 3) | B(hp 60/84, def 11, qi 0)
+turn 9b ends
+turn 10a begins
+  reduced 牧逸风(pid0) hp by 3 to 11
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 9 to 51
+    reduced 牧逸风(pid0) hp by 2 to 9
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 3 qi. Now have 0 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    lost 10 def. Now have 1 def
+    reduced 牧逸风(pid0) hp by 2 to 7
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  STATE after turn 10a: A(hp 7/80, def 10, qi 0, injury 3) | B(hp 51/84, def 1, qi 0)
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10b: A(hp 7/80, def 10, qi 0, injury 4) | B(hp 51/84, def 1, qi 1)
+turn 10b ends
+turn 11a begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 4 to 3
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 45
+    lost 2 def. Now have 3 def
+    gained 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 11a: A(hp 3/80, def 3, qi 1, injury 4) | B(hp 45/84, def 0, qi 1)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 0
+    gained 2 internal_injury. Now have 6 internal_injury
+  STATE after turn 11b: A(hp 0/80, def 0, qi 1, injury 6) | B(hp 45/84, def 0, qi 0)
+turn 11b ends
+牧逸风(pid0) loses 18 destiny, now at 54
+谭舒雁(pid1) (Tan Shuyan) wins

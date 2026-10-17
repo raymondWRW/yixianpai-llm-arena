@@ -1,0 +1,11 @@
+# Core simulator (rules + Oracle bridge)
+blackboxprotobuf>=1.0.1     # parses the game's protobuf config .dat files (realm table, characters)
+numpy>=1.26                 # hk_order (Held-Karp ordering), battle_score
+
+# Optional — only for the learned-model modules (net.py, policy_net.py, card_value.py,
+# battlenet.py, choosers.py, planner.py, econ.py). The env, placement search and
+# baseline policies run without it.
+torch>=2.2
+
+# Optional — only to re-extract real9_mu.jsonl / real9_meta.json from raw replay shards
+zstandard>=0.22

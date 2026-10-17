@@ -1,0 +1,168 @@
+gained 1 sword_intent. Now have 1 sword_intent
+gained 1 force. Now have 1 force
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1a: A(hp 78/78, def 0, qi 3, sword 1) | B(hp 85/105, def 0, qi 0, force 1, phys 20)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 78/78, def 0, qi 3, sword 1) | B(hp 85/105, def 0, qi 2, force 2, phys 20)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 qi. Now have 5 qi
+    reduced 小布(pid3) hp by 6 to 79
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 2a: A(hp 78/78, def 1, qi 5) | B(hp 79/105, def 0, qi 2, force 2, phys 20)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 6 to 73
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 13 to 65
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 2b: A(hp 65/78, def 0, qi 5) | B(hp 73/105, def 0, qi 2, force 2, phys 20)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    reduced 小布(pid3) hp by 6 to 67
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 3a: A(hp 65/78, def 0, qi 5) | B(hp 67/105, def 0, qi 2, force 2, phys 20)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 2 to 63
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 4 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3b: A(hp 63/78, def 0, qi 5) | B(hp 67/105, def 0, qi 3, force 4, phys 20)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Inspiration Sword (level 2)
+    reduced 小布(pid3) hp by 12 to 55
+    gained 5 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 4a: A(hp 63/78, def 0, qi 5, sword 5) | B(hp 55/105, def 0, qi 3, force 4, phys 20)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 4 qi
+    gained 2 physique. Now have 22 physique
+    gained 2 max_hp. Now have 107 max_hp
+    healed 4 hp. Went from 55 to 59
+  小布(pid3) finished playing Embracing Qi Technique
+  STATE after turn 4b: A(hp 63/78, def 0, qi 5, sword 5) | B(hp 59/107, def 0, qi 4, force 4, phys 22)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 22 to 37
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 5a: A(hp 63/78, def 0, qi 4) | B(hp 37/107, def 0, qi 4, force 4, phys 22)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Exercise Marrow (level 1)
+    gained 3 physique. Now have 25 physique
+    gained 3 max_hp. Now have 110 max_hp
+    healed 8 hp. Went from 37 to 45
+  小布(pid3) finished playing Exercise Marrow
+  STATE after turn 5b: A(hp 63/78, def 0, qi 4) | B(hp 45/110, def 0, qi 4, force 4, phys 25)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 42
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6a: A(hp 63/78, def 0, qi 4) | B(hp 42/110, def 0, qi 4, force 4, phys 25)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 18 to 45
+    lost 1 qi. Now have 3 qi
+    gained 2 force. Now have 5 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 6b: A(hp 45/78, def 0, qi 4) | B(hp 42/110, def 0, qi 3, force 5, phys 25)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 39
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 45/78, def 0, qi 4) | B(hp 39/110, def 0, qi 3, force 5, phys 25)
+turn 7a ends
+turn 7b begins
+  小布(pid3) spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 19 to 26
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 7b: A(hp 26/78, def 0, qi 4) | B(hp 39/110, def 0, qi 3, force 4, phys 25)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 36
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 26/78, def 0, qi 4) | B(hp 36/110, def 0, qi 3, force 4, phys 25)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 2 to 34
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 2 qi
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 23 to 3
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 8b: A(hp 3/78, def 0, qi 4) | B(hp 34/110, def 0, qi 2, force 3, phys 25)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 7 qi
+    reduced 小布(pid3) hp by 3 to 31
+    reduced 小布(pid3) hp by 3 to 28
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9a: A(hp 3/78, def 0, qi 7) | B(hp 28/110, def 0, qi 2, force 3, phys 25)
+turn 9a ends
+turn 9b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 force. Now have 4 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 9b: A(hp 3/78, def 0, qi 7) | B(hp 28/110, def 0, qi 4, force 4, phys 25)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 qi. Now have 9 qi
+    reduced 小布(pid3) hp by 9 to 19
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 10a: A(hp 3/78, def 1, qi 9) | B(hp 19/110, def 0, qi 4, force 4, phys 25)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 6 to 13
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 15 to -12
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  STATE after turn 10b: A(hp -12/78, def 0, qi 9) | B(hp 13/110, def 0, qi 4, force 4, phys 25)
+turn 10b ends
+牧逸风(pid0) loses 14 destiny, now at 38
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,166 @@
+reduced 牧逸风(pid0) hp by 6 to 95
+gained 1 qi. Now have 1 qi
+reduced 牧逸风(pid0) hp by 2 to 93
+gained 4 max_hp. Now have 105 max_hp
+healed 4 hp. Went from 101 to 105
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 1a: A(hp 105/105, def 0, qi 0) | B(hp 93/101, def 0, qi 0, sword 1, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 4 to 89
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 1b: A(hp 105/105, def 0, qi 0) | B(hp 89/101, def 0, qi 1, sword 1, injury 4)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 2a: A(hp 105/105, def 0, qi 2) | B(hp 89/101, def 0, qi 1, sword 1, injury 4)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 4 to 85
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 105/105, def 0, qi 2) | B(hp 85/101, def 0, qi 1, sword 1, injury 4)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 牧逸风(pid0) hp by 6 to 79
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 3a: A(hp 105/105, def 0, qi 2) | B(hp 79/101, def 0, qi 1, sword 1, injury 6)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 3 qi
+  reduced 牧逸风(pid0) hp by 6 to 73
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced 谭舒雁(pid1) hp by 4 to 101
+    reduced 谭舒雁(pid1) hp by 4 to 97
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 97/105, def 0, qi 2) | B(hp 73/101, def 0, qi 6, injury 6)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 67
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 4a: A(hp 97/105, def 0, qi 2) | B(hp 67/101, def 0, qi 6, injury 6)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 8 qi
+  reduced 牧逸风(pid0) hp by 6 to 61
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 11 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 4b: A(hp 97/105, def 0, qi 2) | B(hp 61/101, def 0, qi 11, injury 6)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Heavenly Fortune - Seek Fortune (level 1)
+    gained 2 god_luck_approach_stacks. Now have 2 god_luck_approach_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Seek Fortune
+  STATE after turn 5a: A(hp 97/105, def 0, qi 2) | B(hp 61/101, def 0, qi 11, injury 6)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 6 to 55
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 qi. Now have 13 qi
+    reduced 谭舒雁(pid1) hp by 13 to 84
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 5b: A(hp 84/105, def 0, qi 2) | B(hp 55/101, def 1, qi 13, injury 6)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 84 to 91
+    gained 4 max_hp. Now have 109 max_hp
+    healed 4 hp. Went from 91 to 95
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 53
+    lost 1 god_luck_approach_stacks. Now have 1 god_luck_approach_stacks
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 6a: A(hp 95/109, def 0, qi 2) | B(hp 53/101, def 0, qi 13, injury 6)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 6 to 47
+  牧逸风(pid0) is playing Inspiration Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 12 to 83
+    gained 10 sword_intent. Now have 10 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 6b: A(hp 83/109, def 0, qi 2) | B(hp 47/101, def 0, qi 13, sword 10, injury 6)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 83 to 92
+    gained 3 def. Now have 12 def
+    gained 3 max_hp. Now have 112 max_hp
+    healed 3 hp. Went from 92 to 95
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 7a: A(hp 95/112, def 12, qi 1) | B(hp 47/101, def 0, qi 13, sword 10, injury 6)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 6 to 41
+  牧逸风(pid0) is playing Egret Spirit Sword (level 2)
+    lost 12 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 42 to 53
+    lost 10 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 7b: A(hp 53/112, def 0, qi 1) | B(hp 41/101, def 0, qi 13, injury 6)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    reduced 牧逸风(pid0) hp by 15 to 26
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 8a: A(hp 53/112, def 0, qi 0) | B(hp 26/101, def 0, qi 13, injury 6)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 6 to 20
+  牧逸风(pid0) is playing Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 31 to 22
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 8b: A(hp 22/112, def 0, qi 0) | B(hp 20/101, def 0, qi 13, injury 6)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 9a: A(hp 22/112, def 0, qi 1) | B(hp 20/101, def 0, qi 13, injury 6)
+turn 9a ends
+turn 9b begins
+  reduced 牧逸风(pid0) hp by 6 to 14
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 16 qi
+    reduced 谭舒雁(pid1) hp by 3 to 19
+    reduced 谭舒雁(pid1) hp by 3 to 16
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9b: A(hp 16/112, def 0, qi 1) | B(hp 14/101, def 0, qi 16, injury 6)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 10 internal_injury
+    reduced 牧逸风(pid0) hp by 6 to 8
+    reduced 牧逸风(pid0) hp by 3 to 5
+    lost 1 god_luck_approach_stacks. Now have 0 god_luck_approach_stacks
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 10a: A(hp 16/112, def 0, qi 0) | B(hp 5/101, def 0, qi 16, injury 10)
+turn 10a ends
+turn 10b begins
+  reduced 牧逸风(pid0) hp by 10 to -5
+  STATE after turn 10b: A(hp 16/112, def 0, qi 0) | B(hp -5/101, def 0, qi 16, injury 10)
+turn 10b ends
+牧逸风(pid0) loses 20 destiny, now at -2
+谭舒雁(pid1) (Tan Shuyan) wins

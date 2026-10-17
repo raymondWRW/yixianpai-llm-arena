@@ -1,0 +1,130 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 44
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 1a: A(hp 49/49, def 0, qi 1) | B(hp 44/49, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 3). They now have 1/1 qi
+  STATE after turn 1b: A(hp 49/49, def 0, qi 1) | B(hp 44/49, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 36
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 2a: A(hp 49/49, def 4, qi 1) | B(hp 36/49, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 12 to 37
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 2b: A(hp 37/49, def 0, qi 1) | B(hp 36/49, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 30
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 3a: A(hp 37/49, def 2, qi 1) | B(hp 30/49, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 3b: A(hp 37/49, def 2, qi 1) | B(hp 30/49, def 0, qi 3)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 24
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 4a: A(hp 37/49, def 1, qi 1) | B(hp 24/49, def 0, qi 3)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 4 to 33
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 4b: A(hp 33/49, def 1, qi 1) | B(hp 24/49, def 0, qi 3, sword 2)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 21
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 5a: A(hp 33/49, def 0, qi 1) | B(hp 21/49, def 0, qi 3, sword 2)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 23
+    lost 2 sword_intent. Now have 0 sword_intent
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 5b: A(hp 23/49, def 0, qi 1) | B(hp 21/49, def 0, qi 2, sword 2)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 18
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 23/49, def 0, qi 1) | B(hp 18/49, def 0, qi 2, sword 2)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 12
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 6b: A(hp 12/49, def 0, qi 1) | B(hp 18/49, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 15
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 12/49, def 0, qi 1) | B(hp 15/49, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 9
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 9/49, def 0, qi 1) | B(hp 15/49, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 12
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 9/49, def 0, qi 1) | B(hp 12/49, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 6
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 6/49, def 0, qi 1) | B(hp 12/49, def 0, qi 2)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 7
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 9a: A(hp 6/49, def 0, qi 2) | B(hp 7/49, def 0, qi 2)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 3
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 9b: A(hp 3/49, def 0, qi 2) | B(hp 7/49, def 0, qi 2)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 牧逸风(pid0) hp by 8 to -1
+    gained 4 def. Now have 4 def
+  STATE after turn 10a: A(hp 3/49, def 4, qi 2) | B(hp -1/49, def 0, qi 2)
+turn 10a ends
+牧逸风(pid0) loses 4 destiny, now at 90
+谭舒雁(pid1) (Tan Shuyan) wins

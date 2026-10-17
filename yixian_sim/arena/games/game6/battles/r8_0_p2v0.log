@@ -1,0 +1,165 @@
+turn 1a begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 62
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 2 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 1b ends
+turn 2a begins
+  player 0 is playing Heavenly Decree - Defend (level 2)
+    reduced player 1 hp by 3 to 59
+    gained 12 def. Now have 12 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 7 to 66
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 2b ends
+turn 3a begins
+  lost 6 def. Now have 6 def
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 56
+    reduced player 1 max_hp by 3 to 68
+    gained 2 qi. Now have 3 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 1 to 65
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 3b ends
+turn 4a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    reduced player 1 hp by 7 to 49
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 52
+  player 0 finished playing Cloud Sword - Conceal
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 13 to 36
+    reduced player 1 hp by 2 to 34
+  player 0 finished playing Fire Spirit - Rush
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 43
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 5b ends
+turn 6a begins
+  player 0 is playing Metal Spirit - Heart Pierce (level 1)
+    reduced player 1 hp by 7 to 27
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Metal Spirit - Heart Pierce
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 9 to 34
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 2)
+    reduced player 1 hp by 11 to 23
+  player 0 finished playing Flying Fang Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Earth Spirit Seal (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 5 to 22
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Thunder Sword (level 2). They now have 1/1 qi
+turn 7b ends
+turn 8a begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Heavenly Decree - Attack (level 1)
+    reduced player 1 hp by 6 to 16
+    gained 3 def. Now have 6 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 6 def. Now have 0 def
+  player 0 finished playing Thunder Sword
+turn 8b ends
+turn 9a begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 7
+    gained 1 qi. Now have 3 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 9b ends
+turn 10a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 4
+    reduced player 1 max_hp by 3 to 65
+    gained 2 qi. Now have 5 qi
+    gained 1 activate_fire_spirit_stacks. Now have 4 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 7 to 16
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 10b ends
+turn 11a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    reduced player 1 hp by 7 to -3
+    gained 4 penetrate. Now have 4 penetrate
+turn 11a ends
+player 1 loses 12 destiny, now at 49
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Cosmos Seal (level 2)
+  Heavenly Decree - Defend (level 2)
+  Fire Spirit Seal (level 2)
+  Metal Spirit - Needle (level 2)
+  Fire Spirit - Rush (level 1)
+  Metal Spirit - Heart Pierce (level 1)
+  Earth Spirit Seal (level 2)
+  Heavenly Decree - Attack (level 1)
+Player 1's deck:
+  Qi Perfusion (level 1)
+  Cloud Sword - Spirit Coercion (level 1)
+  Cloud Sword - Spirit Coercion (level 1)
+  Cloud Sword - Conceal (level 2)
+  Cloud Sword - Touch Sky (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Flying Fang Sword (level 2)
+  Thunder Sword (level 2)

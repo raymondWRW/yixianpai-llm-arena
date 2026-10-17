@@ -1,0 +1,276 @@
+reduced 谭舒雁(pid1) hp by 3 to 99
+gained 4 max_hp. Now have 109 max_hp
+healed 4 hp. Went from 105 to 109
+turn 1a begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 spirit_gather_citta_dharma_stacks. Now have 2 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1a: A(hp 99/102, def 0, qi 1) | B(hp 109/109, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1b: A(hp 99/102, def 0, qi 1, injury 1) | B(hp 109/109, def 1, qi 1)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 1 to 98
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 6 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 2a: A(hp 98/102, def 0, qi 6, injury 1) | B(hp 109/109, def 1, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 90
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 2b: A(hp 90/102, def 0, qi 6, injury 1) | B(hp 109/109, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 7 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 1 to 89
+  牧逸风(pid0) is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 2 increase_atk
+  牧逸风(pid0) finished playing Cloud Sword - Moon Shade
+  STATE after turn 3a: A(hp 89/102, def 1, qi 7, injury 1) | B(hp 109/109, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Fly (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 88
+    reduced 牧逸风(pid0) hp by 2 to 86
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 86/102, def 0, qi 7, injury 1) | B(hp 109/109, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 1 to 85
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 11 qi
+    reduced 谭舒雁(pid1) hp by 5 to 104
+    reduced 谭舒雁(pid1) hp by 5 to 99
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 4a: A(hp 85/102, def 0, qi 11, injury 1) | B(hp 99/109, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 79
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4b: A(hp 79/102, def 0, qi 11, injury 3) | B(hp 99/109, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 12 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 3 to 76
+  牧逸风(pid0) is playing Cloud Sword - Flash Wind (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 93
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 2)
+    gained 3 qi. Now have 15 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 5a: A(hp 76/102, def 0, qi 15, injury 3) | B(hp 93/109, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 5b: A(hp 76/102, def 0, qi 15, injury 3) | B(hp 93/109, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 16 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 3 to 73
+  牧逸风(pid0) is playing Unrestrained Sword - One (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 86
+  牧逸风(pid0) finished playing Unrestrained Sword - One
+  STATE after turn 6a: A(hp 73/102, def 0, qi 16, injury 3) | B(hp 86/109, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 4 max_hp. Now have 113 max_hp
+    healed 4 hp. Went from 86 to 90
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 6b: A(hp 73/102, def 0, qi 16, injury 3) | B(hp 90/113, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 17 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 3 to 70
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 85
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 70/102, def 0, qi 17, injury 3) | B(hp 85/113, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 85 to 92
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 7b: A(hp 70/102, def 0, qi 17, injury 3) | B(hp 92/113, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 18 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 3 to 67
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 22 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 8a: A(hp 67/102, def 0, qi 22, injury 3) | B(hp 92/113, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 64
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8b: A(hp 64/102, def 0, qi 22, injury 3) | B(hp 92/113, def 0, qi 2)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 23 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 3 to 61
+  牧逸风(pid0) is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 4 increase_atk
+  牧逸风(pid0) finished playing Cloud Sword - Moon Shade
+  STATE after turn 9a: A(hp 61/102, def 1, qi 23, injury 3) | B(hp 92/113, def 0, qi 2)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 9b: A(hp 61/102, def 1, qi 23, injury 4) | B(hp 92/113, def 1, qi 3)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 24 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 57
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 27 qi
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 86
+    reduced 谭舒雁(pid1) hp by 7 to 79
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 10a: A(hp 57/102, def 0, qi 27, injury 4) | B(hp 79/113, def 0, qi 3)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 49
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 10b: A(hp 49/102, def 0, qi 27, injury 4) | B(hp 79/113, def 0, qi 3)
+turn 10b ends
+turn 11a begins
+  gained 1 qi. Now have 28 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 45
+  牧逸风(pid0) is playing Cloud Sword - Flash Wind (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 71
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Unrestrained Sword - One (level 1)
+    reduced 谭舒雁(pid1) hp by 11 to 60
+  牧逸风(pid0) finished playing Unrestrained Sword - One
+  STATE after turn 11a: A(hp 45/102, def 0, qi 28, injury 4) | B(hp 60/113, def 0, qi 3)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Fly (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 43
+    reduced 牧逸风(pid0) hp by 2 to 41
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 35
+    gained 2 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 11b: A(hp 35/102, def 0, qi 28, injury 6) | B(hp 60/113, def 0, qi 1)
+turn 11b ends
+turn 12a begins
+  gained 1 qi. Now have 29 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 6 to 29
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 53
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 12a: A(hp 29/102, def 0, qi 29, injury 6) | B(hp 53/113, def 0, qi 1)
+turn 12a ends
+turn 12b begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+    reduced 牧逸风(pid0) hp by 12 to 17
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 4 max_hp. Now have 117 max_hp
+    healed 4 hp. Went from 53 to 57
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 12b: A(hp 17/102, def 0, qi 29, injury 6) | B(hp 57/117, def 0, qi 3)
+turn 12b ends
+turn 13a begins
+  gained 1 qi. Now have 30 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 6 to 11
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 34 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 13a: A(hp 11/102, def 0, qi 34, injury 6) | B(hp 57/117, def 0, qi 3)
+turn 13a ends
+turn 13b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 57 to 64
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 13b: A(hp 11/102, def 0, qi 34, injury 6) | B(hp 64/117, def 0, qi 3)
+turn 13b ends
+turn 14a begins
+  gained 1 qi. Now have 35 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 6 to 5
+  牧逸风(pid0) is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 6 increase_atk
+  牧逸风(pid0) finished playing Cloud Sword - Moon Shade
+  STATE after turn 14a: A(hp 5/102, def 1, qi 35, injury 6) | B(hp 64/117, def 0, qi 3)
+turn 14a ends
+turn 14b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 3
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 14b: A(hp 3/102, def 0, qi 35, injury 6) | B(hp 64/117, def 0, qi 3)
+turn 14b ends
+turn 15a begins
+  gained 1 qi. Now have 36 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 6 to -3
+  STATE after turn 15a: A(hp -3/102, def 0, qi 36, injury 6) | B(hp 64/117, def 0, qi 3)
+turn 15a ends
+牧逸风(pid0) loses 22 destiny, now at 59
+谭舒雁(pid1) (Tan Shuyan) wins

@@ -1,0 +1,204 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 6 max_hp. Now have 114 max_hp
+healed 6 hp. Went from 108 to 114
+turn 1a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 114/114, def 0, qi 0) | B(hp 101/101, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 2 to 99
+  吾行之(pid2) is playing Heavenly Spirit Forceage Formation (level 1)
+    gained 2 heavenly_spirit_forceage_formation_stacks. Now have 2 heavenly_spirit_forceage_formation_stacks
+  吾行之(pid2) finished playing Heavenly Spirit Forceage Formation
+  STATE after turn 1b: A(hp 114/114, def 0, qi 0) | B(hp 99/101, def 0, qi 0, injury 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 114/114, def 1, qi 1) | B(hp 99/101, def 0, qi 0, injury 3)
+turn 2a ends
+turn 2b begins
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 1 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 1 increase_atk
+  reduced 吾行之(pid2) hp by 3 to 96
+  吾行之(pid2) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  吾行之(pid2) finished playing Fraccide Formation
+  STATE after turn 2b: A(hp 114/114, def 1, qi 1) | B(hp 96/101, def 0, qi 0, injury 3)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 114 to 114
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 3a: A(hp 114/114, def 0, qi 0) | B(hp 96/101, def 0, qi 0, injury 3)
+turn 3a ends
+turn 3b begins
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 0 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 2 increase_atk
+  reduced 吾行之(pid2) hp by 3 to 93
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Wood Spirit - Willow Leaf (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 114/114, def 0, qi 0) | B(hp 93/101, def 0, qi 1, injury 3)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 2 internal_injury. Now have 5 internal_injury
+    reduced 吾行之(pid2) hp by 5 to 88
+    gained 2 internal_injury. Now have 7 internal_injury
+    reduced 吾行之(pid2) hp by 7 to 81
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 114/114, def 0, qi 0) | B(hp 81/101, def 0, qi 1, injury 7)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 7 to 74
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Wood Spirit - Willow Leaf (level 1)
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+    gained 1 increase_atk. Now have 3 increase_atk
+    healed 3 hp. Went from 74 to 77
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Wood Spirit - Willow Leaf
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Blast (level 1). They now have 1/1 qi
+  STATE after turn 4b: A(hp 114/114, def 0, qi 0) | B(hp 77/101, def 0, qi 1, injury 7)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 9 internal_injury
+    reduced 吾行之(pid2) hp by 9 to 68
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 5a: A(hp 114/114, def 0, qi 0) | B(hp 68/101, def 0, qi 1, injury 9)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 9 to 59
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 increase_atk. Now have 4 increase_atk
+    reduced 谭舒雁(pid1) hp by 11 to 103
+    reduced 谭舒雁(pid1) max_hp by 11 to 103
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 5b: A(hp 103/103, def 0, qi 0) | B(hp 59/101, def 0, qi 0, injury 9)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 103/103, def 0, qi 1) | B(hp 59/101, def 0, qi 0, injury 9)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 9 to 50
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Wood Spirit - Thorn (level 2). They now have 1/1 qi
+  STATE after turn 6b: A(hp 103/103, def 0, qi 1) | B(hp 50/101, def 0, qi 1, injury 9)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 103 to 103
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 7a: A(hp 103/103, def 9, qi 0) | B(hp 50/101, def 0, qi 1, injury 9)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 9 to 41
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Wood Spirit - Thorn (level 2)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 9 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 11 to 92
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced 谭舒雁(pid1) hp by 11 to 81
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 谭舒雁(pid1) hp by 11 to 70
+    reduced 谭舒雁(pid1) hp by 8 to 62
+    healed 13 hp. Went from 41 to 54
+  吾行之(pid2) finished playing Wood Spirit - Thorn
+  STATE after turn 7b: A(hp 62/103, def 0, qi 0) | B(hp 54/101, def 0, qi 0, injury 9)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 2). They now have 1/1 qi
+  STATE after turn 8a: A(hp 62/103, def 0, qi 1) | B(hp 54/101, def 0, qi 0, injury 9)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 9 to 45
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 2). They now have 1/1 qi
+  STATE after turn 8b: A(hp 62/103, def 0, qi 1) | B(hp 45/101, def 0, qi 1, injury 9)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    reduced 吾行之(pid2) hp by 13 to 32
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 9a: A(hp 62/103, def 0, qi 0) | B(hp 32/101, def 0, qi 1, injury 9)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 9 to 23
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    gained 4 penetrate. Now have 4 penetrate
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 19 to 43
+    reduced 谭舒雁(pid1) hp by 7 to 36
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 9b: A(hp 36/103, def 0, qi 0) | B(hp 23/101, def 0, qi 0, injury 9)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Lucky Start (level 3)
+    healed 13 hp. Went from 36 to 49
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 10a: A(hp 49/103, def 0, qi 0) | B(hp 23/101, def 0, qi 0, injury 9)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 9 to 14
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    gained 4 penetrate. Now have 4 penetrate
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 15 to 34
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 10b: A(hp 34/103, def 0, qi 0) | B(hp 14/101, def 0, qi 0, injury 9)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 10 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11a: A(hp 34/103, def 0, qi 0) | B(hp 14/101, def 0, qi 0, injury 10)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 10 to 4
+  吾行之(pid2) is playing Impact Formation (level 2)
+    reduced 谭舒雁(pid1) hp by 12 to 22
+    reduced 谭舒雁(pid1) hp by 7 to 15
+  吾行之(pid2) finished playing Impact Formation
+  STATE after turn 11b: A(hp 15/103, def 0, qi 0) | B(hp 4/101, def 0, qi 0, injury 10)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 11 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 12a: A(hp 15/103, def 1, qi 1) | B(hp 4/101, def 0, qi 0, injury 11)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 11 to -7
+  STATE after turn 12b: A(hp 15/103, def 1, qi 1) | B(hp -7/101, def 0, qi 0, injury 11)
+turn 12b ends
+吾行之(pid2) loses 7 destiny, now at 1
+谭舒雁(pid1) (Tan Shuyan) wins

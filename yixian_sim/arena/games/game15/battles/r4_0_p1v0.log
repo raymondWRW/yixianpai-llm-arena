@@ -1,0 +1,136 @@
+reduced 牧逸风(pid0) hp by 2 to 49
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 51/51, def 1, qi 1) | B(hp 49/51, def 0, qi 0, sword 1, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 48
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 46
+    gained 3 sword_intent. Now have 4 sword_intent
+    lost 1 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1b: A(hp 46/51, def 0, qi 1) | B(hp 48/51, def 0, qi 0, sword 3, injury 1)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 42
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 2a: A(hp 46/51, def 0, qi 1) | B(hp 42/51, def 0, qi 0, sword 3, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 1 to 41
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 谭舒雁(pid1) hp by 12 to 34
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 2b: A(hp 34/51, def 0, qi 1) | B(hp 41/51, def 0, qi 0, injury 1)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 36
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 3a: A(hp 34/51, def 0, qi 1) | B(hp 36/51, def 0, qi 0, injury 1)
+turn 3a ends
+turn 3b begins
+  reduced 牧逸风(pid0) hp by 1 to 35
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 28
+    reduced 谭舒雁(pid1) hp by 5 to 23
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 3b: A(hp 23/51, def 0, qi 1) | B(hp 35/51, def 0, qi 0, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 28
+    reduced 牧逸风(pid0) hp by 7 to 21
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 4a: A(hp 23/51, def 0, qi 0) | B(hp 21/51, def 0, qi 0, injury 1)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 1 to 20
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 19
+    gained 4 def. Now have 4 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 4b: A(hp 19/51, def 0, qi 0) | B(hp 20/51, def 4, qi 0, injury 1)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Palm Thunder (level 2)
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 9 to 11
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 5a: A(hp 19/51, def 0, qi 0) | B(hp 11/51, def 0, qi 0, injury 1)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 1 to 10
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 5b: A(hp 19/51, def 0, qi 0) | B(hp 10/51, def 5, qi 1, injury 1)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 19/51, def 0, qi 0) | B(hp 10/51, def 2, qi 1, injury 1)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 1 to 9
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 14
+    reduced 谭舒雁(pid1) hp by 6 to 8
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 6b: A(hp 8/51, def 0, qi 0) | B(hp 9/51, def 1, qi 0, injury 1)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 7
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 8/51, def 0, qi 0) | B(hp 7/51, def 0, qi 0, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 1 to 6
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 5
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 5/51, def 0, qi 0) | B(hp 6/51, def 0, qi 0, injury 1)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 3
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 5/51, def 0, qi 0) | B(hp 3/51, def 0, qi 0, injury 1)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 1 to 2
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 2
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 2/51, def 0, qi 0) | B(hp 2/51, def 0, qi 0, injury 1)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 9a: A(hp 2/51, def 1, qi 1) | B(hp 2/51, def 0, qi 0, injury 2)
+turn 9a ends
+turn 9b begins
+  reduced 牧逸风(pid0) hp by 2 to 0
+  STATE after turn 9b: A(hp 2/51, def 1, qi 1) | B(hp 0/51, def 0, qi 0, injury 2)
+turn 9b ends
+牧逸风(pid0) loses 5 destiny, now at 91
+谭舒雁(pid1) (Tan Shuyan) wins

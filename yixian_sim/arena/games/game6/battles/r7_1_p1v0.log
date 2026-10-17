@@ -1,0 +1,153 @@
+turn 1a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1a ends
+turn 1b begins
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 64
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Shifting Stars
+turn 2a ends
+turn 2b begins
+  player 0 is playing Sword Slash (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 5 to 73
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Slash
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 8 to 56
+    reduced player 1 hp by 8 to 48
+  player 0 finished playing Astral Move - Flank
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced player 1 hp by 10 to 63
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 3b ends
+turn 4a begins
+  player 0 is playing Astral Move - Stand (level 2)
+    reduced player 1 hp by 8 to 40
+  player 0 finished playing Astral Move - Stand
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 54
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 4b ends
+turn 5a begins
+  player 0 is playing Astral Move - Block (level 1)
+    reduced player 1 hp by 6 to 34
+  player 0 finished playing Astral Move - Block
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 41
+  player 0 finished playing Cloud Sword - Conceal
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    reduced player 1 hp by 6 to 28
+    reduced player 1 hp by 6 to 22
+    reduced player 1 max_hp by 4 to 65
+  player 0 finished playing Cutting Weeds
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Form-Intention Sword (level 1)
+    reduced player 1 hp by 8 to 33
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Form-Intention Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Hunter Becomes Preyer (level 1)
+    reduced player 1 hp by 2 to 20
+    reduced player 1 hp by 2 to 18
+    healed 4 hp. Went from 33 to 37
+  player 0 finished playing Hunter Becomes Preyer
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 2)
+    reduced player 1 hp by 14 to 23
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Flying Fang Sword
+turn 7b ends
+turn 8a begins
+  player 0 is playing Drag Moon In Sea (level 1)
+  player 0 finished playing Drag Moon In Sea
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Thunder Sword (level 2). They now have 1/1 qi
+turn 8b ends
+turn 9a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 6 to 17
+    reduced player 1 hp by 11 to 6
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 9b ends
+turn 10a begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 13
+    gained 1 qi. Now have 4 qi
+  player 0 finished playing Shifting Stars
+turn 10a ends
+turn 10b begins
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 9 to 4
+    reduced player 1 hp by 9 to -5
+turn 11a ends
+player 1 loses 10 destiny, now at 61
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Dotted Around (level 2)
+  Shifting Stars (level 1)
+  Astral Move - Flank (level 2)
+  Astral Move - Stand (level 2)
+  Astral Move - Block (level 1)
+  Cutting Weeds (level 1)
+  Hunter Becomes Preyer (level 1)
+  Drag Moon In Sea (level 1)
+Player 1's deck:
+  Qi Perfusion (level 1)
+  Sword Slash (level 2)
+  Cloud Sword - Spirit Coercion (level 1)
+  Cloud Sword - Touch Sky (level 2)
+  Cloud Sword - Conceal (level 2)
+  Form-Intention Sword (level 1)
+  Flying Fang Sword (level 2)
+  Thunder Sword (level 2)

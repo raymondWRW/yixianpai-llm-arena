@@ -1,0 +1,104 @@
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+  STATE after turn 1a: A(hp 42/42, def 0, qi 1) | B(hp 42/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 吾行之(pid2) hp by 5 to 37
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1b: A(hp 37/42, def 0, qi 1) | B(hp 42/42, def 0, qi 0, sword 3)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  STATE after turn 2a: A(hp 37/42, def 0, qi 2) | B(hp 42/42, def 0, qi 0, sword 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 吾行之(pid2) hp by 7 to 30
+    gained 2 sword_intent. Now have 5 sword_intent
+    lost 3 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2b: A(hp 30/42, def 0, qi 2) | B(hp 42/42, def 0, qi 0, sword 2)
+turn 2b ends
+turn 3a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 32
+  吾行之(pid2) finished playing Water Spirit - Waves
+  STATE after turn 3a: A(hp 30/42, def 0, qi 0) | B(hp 32/42, def 0, qi 0, sword 2)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Thunder Sword (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 30/42, def 0, qi 0) | B(hp 32/42, def 0, qi 1, sword 2)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 30/42, def 0, qi 1) | B(hp 32/42, def 0, qi 1, sword 2)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 吾行之(pid2) hp by 7 to 23
+    reduced 吾行之(pid2) hp by 8 to 15
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 4b: A(hp 15/42, def 0, qi 1) | B(hp 32/42, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 23
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 5a: A(hp 15/42, def 0, qi 0) | B(hp 23/42, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 15/42, def 0, qi 0) | B(hp 23/42, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 16
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 6a: A(hp 15/42, def 0, qi 0) | B(hp 16/42, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 5
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 6b: A(hp 5/42, def 0, qi 0) | B(hp 16/42, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 10
+    gained 2 penetrate. Now have 2 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 7a: A(hp 5/42, def 0, qi 0) | B(hp 10/42, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 2
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 2/42, def 0, qi 0) | B(hp 10/42, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 5 to 5
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8a: A(hp 2/42, def 0, qi 0) | B(hp 5/42, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to -1
+  STATE after turn 8b: A(hp -1/42, def 0, qi 0) | B(hp 5/42, def 0, qi 0)
+turn 8b ends
+吾行之(pid2) loses 4 destiny, now at 92
+牧逸风(pid0) (Mu Yifeng) wins

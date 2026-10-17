@@ -1,0 +1,128 @@
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  reduced 小布(pid3) hp by 4 to 56
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 43
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 1a: A(hp 56/60, def 0, qi 0) | B(hp 43/53, def 0, qi 0, sword 1)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 6 to 50
+    gained 3 sword_intent. Now have 4 sword_intent
+    lost 1 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1b: A(hp 50/60, def 0, qi 0) | B(hp 43/53, def 0, qi 0, sword 3)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Exercise Bones (level 1)
+    gained 1 physique. Now have 1 physique
+    gained 1 max_hp. Now have 61 max_hp
+    healed 3 hp. Went from 50 to 53
+    gained 2 exercise_bones_stacks. Now have 2 exercise_bones_stacks
+  小布(pid3) finished playing Exercise Bones
+  STATE after turn 2a: A(hp 53/61, def 0, qi 0, phys 1) | B(hp 43/53, def 0, qi 0, sword 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    reduced 小布(pid3) hp by 9 to 44
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 2b: A(hp 44/61, def 0, qi 0, phys 1) | B(hp 43/53, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 3a: A(hp 44/61, def 0, qi 1, phys 1) | B(hp 43/53, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 小布(pid3) hp by 5 to 39
+    reduced 小布(pid3) hp by 3 to 36
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 3b: A(hp 36/61, def 0, qi 1, phys 1) | B(hp 43/53, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    gained 1 physique. Now have 2 physique
+    gained 1 max_hp. Now have 62 max_hp
+    lost 1 exercise_bones_stacks. Now have 1 exercise_bones_stacks
+    reduced 牧逸风(pid0) hp by 15 to 28
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 4a: A(hp 36/62, def 0, qi 0, injury 1, phys 2) | B(hp 28/53, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    reduced 小布(pid3) hp by 4 to 32
+    gained 4 def. Now have 4 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 4b: A(hp 32/62, def 0, qi 0, injury 1, phys 2) | B(hp 28/53, def 4, qi 0)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 1 to 31
+  reduced 小布(pid3) hp by 3 to 28
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 1 wound. Now have 1 wound
+    gained 1 physique. Now have 3 physique
+    gained 1 max_hp. Now have 63 max_hp
+    lost 1 exercise_bones_stacks. Now have 0 exercise_bones_stacks
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 21
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 5a: A(hp 28/63, def 2, qi 0, injury 1, phys 3) | B(hp 21/53, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  lost 2 def. Now have 0 def
+  reduced 小布(pid3) hp by 2 to 26
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 5b: A(hp 26/63, def 0, qi 0, injury 1, phys 3) | B(hp 21/53, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 1 to 25
+  reduced 小布(pid3) hp by 3 to 22
+  小布(pid3) spent 3 hp to play Mountain-Cleaving Palms (level 2)
+    reduced 牧逸风(pid0) hp by 14 to 7
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 6a: A(hp 22/63, def 0, qi 0, injury 1, phys 3) | B(hp 7/53, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Thunder Sword (level 1). They now have 1/1 qi
+  reduced 小布(pid3) hp by 4 to 18
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 6b: A(hp 18/63, def 0, qi 0, injury 1, phys 3) | B(hp 7/53, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 1 to 17
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 4 to 3
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7a: A(hp 17/63, def 0, qi 0, injury 1, phys 3) | B(hp 3/53, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 小布(pid3) hp by 5 to 12
+    reduced 小布(pid3) hp by 6 to 6
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 7b: A(hp 6/63, def 0, qi 0, injury 1, phys 3) | B(hp 3/53, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 1 to 5
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 4 to -1
+  STATE after turn 8a: A(hp 5/63, def 0, qi 0, injury 1, phys 3) | B(hp -1/53, def 0, qi 0)
+turn 8a ends
+牧逸风(pid0) loses 7 destiny, now at 86
+小布(pid3) (Xiao Bu) wins

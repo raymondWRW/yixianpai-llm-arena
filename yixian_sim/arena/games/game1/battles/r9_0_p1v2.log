@@ -1,0 +1,285 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 12 to 72
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 1b ends
+turn 2a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 2a ends
+turn 2b begins
+  player 0 is playing Metal Spirit - Shuttle (level 1)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 70
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 2b ends
+turn 3a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 75
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 70 to 74
+  player 0 finished playing White Crane Bright Wings
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 65
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 60
+  player 0 finished playing Cosmos Seal
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 71
+    reduced player 1 hp by 4 to 67
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 4a ends
+turn 4b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 57
+    reduced player 1 max_hp by 3 to 81
+    gained 2 qi. Now have 3 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 4b ends
+turn 5a begins
+  lost 6 def. Now have 6 def
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 57
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 50
+  player 0 finished playing Sparrow's Tail
+turn 5a ends
+turn 5b begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 3 to 54
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Imposing (level 1)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 54 to 58
+  player 0 finished playing Imposing
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to 51
+  player 0 finished playing Earth Spirit - Smash
+turn 6b ends
+turn 7a begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 43
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Earth Spirit - Cliff (level 1)
+    gained 10 def. Now have 10 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  player 0 finished playing Earth Spirit - Cliff
+turn 7b ends
+turn 8a begins
+  lost 2 def. Now have 2 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 5 def
+    lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+    lost 2 def. Now have 0 def
+    reduced player 0 hp by 3 to 48
+    lost 5 def. Now have 0 def
+    reduced player 1 max_hp by 3 to 80
+  player 0 finished playing Cutting Weeds
+turn 8a ends
+turn 8b begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    reduced player 1 hp by 12 to 36
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 9a ends
+turn 9b begins
+  player 0 is playing Metal Spirit - Shuttle (level 1)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 34
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 9b ends
+turn 10a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 35
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 34 to 38
+  player 0 finished playing White Crane Bright Wings
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 29
+    gained 1 qi. Now have 4 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 24
+  player 0 finished playing Cosmos Seal
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 31
+    reduced player 1 hp by 4 to 27
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 11a ends
+turn 11b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 21
+    reduced player 1 max_hp by 3 to 78
+    gained 2 qi. Now have 6 qi
+    gained 1 activate_fire_spirit_stacks. Now have 4 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 11b ends
+turn 12a begins
+  lost 6 def. Now have 6 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 17
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 10
+  player 0 finished playing Sparrow's Tail
+turn 12a ends
+turn 12b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 6 to 15
+  player 0 finished playing Earth Spirit - Smash
+turn 12b ends
+turn 13a begins
+  player 0 is playing Imposing (level 1)
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 15 to 19
+    healed 6 hp. Went from 19 to 25
+  player 0 finished playing Imposing
+turn 13a ends
+turn 13b begins
+  player 0 is playing Earth Spirit - Cliff (level 1)
+    gained 10 def. Now have 10 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  player 0 finished playing Earth Spirit - Cliff
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 5 def
+    lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+    reduced player 0 hp by 5 to 20
+    lost 5 def. Now have 0 def
+    reduced player 1 max_hp by 11 to 69
+  player 0 finished playing Cutting Weeds
+turn 14a ends
+turn 14b begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    reduced player 1 hp by 12 to 8
+    gained 1 activate_metal_spirit_stacks. Now have 3 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 14b ends
+turn 15a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 15a ends
+turn 15b begins
+  player 0 is playing Metal Spirit - Shuttle (level 1)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 6
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 15b ends
+turn 16a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 2
+    gained 2 qi. Now have 4 qi
+    healed 4 hp. Went from 6 to 10
+  player 0 finished playing White Crane Bright Wings
+turn 16a ends
+turn 16b begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 1
+    gained 1 qi. Now have 7 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to -4
+turn 16b ends
+player 0 loses 11 destiny, now at 67
+player 1 (Wu Xingzhi) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Wild Horses Part the Mane (level 2)
+  Sparrow's Tail (level 2)
+  Imposing (level 1)
+  Heavenly Decree - Attack (level 2)
+  Cutting Weeds (level 1)
+Player 1's deck:
+  Metal Spirit Seal (level 3)
+  Metal Spirit - Shuttle (level 1)
+  Examine Body (level 1)
+  Cosmos Seal (level 2)
+  Fire Spirit Seal (level 2)
+  Heavenly Decree - Attack (level 2)
+  Earth Spirit - Smash (level 2)
+  Earth Spirit - Cliff (level 1)

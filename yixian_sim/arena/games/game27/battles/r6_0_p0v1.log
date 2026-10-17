@@ -1,0 +1,211 @@
+gained 1 qi. Now have 1 qi
+reduced 谭舒雁(pid1) hp by 2 to 65
+turn 1a begins
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 谭舒雁(pid1) hp by 4 to 66
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 1a: A(hp 65/67, def 0, qi 0) | B(hp 66/70, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 1b: A(hp 65/67, def 0, qi 0) | B(hp 66/70, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 61
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  reduced 谭舒雁(pid1) hp by 4 to 57
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 2a: A(hp 65/67, def 0, qi 0, sword 3) | B(hp 57/70, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Mountain Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 2 max_hp. Now have 72 max_hp
+    healed 2 hp. Went from 57 to 59
+  谭舒雁(pid1) finished playing Mountain Hexagram
+  STATE after turn 2b: A(hp 65/67, def 0, qi 0, sword 3) | B(hp 59/72, def 0, qi 3, hex 2)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 2)
+    gained 14 def. Now have 14 def
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 3a: A(hp 65/67, def 14, qi 3) | B(hp 59/72, def 0, qi 3, hex 2)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 6 def. Now have 8 def
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 3b: A(hp 65/67, def 8, qi 3) | B(hp 59/72, def 2, qi 3, hex 2)
+turn 3b ends
+turn 4a begins
+  lost 4 def. Now have 4 def
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 11 to 48
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4a: A(hp 65/67, def 4, qi 2) | B(hp 48/72, def 0, qi 3, hex 2)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    lost 3 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 63
+    lost 1 hexagram. Now have 1 hexagram
+    gained 10 def. Now have 10 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 4b: A(hp 63/67, def 0, qi 2) | B(hp 48/72, def 10, qi 2, hex 1)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    lost 9 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5a: A(hp 63/67, def 0, qi 2) | B(hp 48/72, def 1, qi 2, hex 1)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 54
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 牧逸风(pid0) hp by 5 to 49
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 5b: A(hp 49/67, def 0, qi 2) | B(hp 48/72, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 43
+    reduced 谭舒雁(pid1) hp by 6 to 37
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 6a: A(hp 49/67, def 0, qi 1) | B(hp 37/72, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 43
+    reduced 牧逸风(pid0) hp by 5 to 38
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 6b: A(hp 38/67, def 0, qi 1) | B(hp 37/72, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    reduced 谭舒雁(pid1) hp by 9 to 28
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 7a: A(hp 38/67, def 0, qi 1) | B(hp 28/72, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 32
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 7b: A(hp 32/67, def 0, qi 1) | B(hp 28/72, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 25
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 32/67, def 0, qi 1) | B(hp 25/72, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 29
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8b: A(hp 29/67, def 0, qi 1) | B(hp 25/72, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 20
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 9a: A(hp 29/67, def 0, qi 1, sword 3) | B(hp 20/72, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 9b: A(hp 29/67, def 0, qi 1, sword 3) | B(hp 20/72, def 0, qi 2)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 2)
+    gained 14 def. Now have 14 def
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 qi. Now have 4 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 10a: A(hp 29/67, def 14, qi 4) | B(hp 20/72, def 0, qi 2)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Mountain Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 2 max_hp. Now have 74 max_hp
+    healed 2 hp. Went from 20 to 22
+  谭舒雁(pid1) finished playing Mountain Hexagram
+  STATE after turn 10b: A(hp 29/67, def 14, qi 4) | B(hp 22/74, def 0, qi 2, hex 2)
+turn 10b ends
+turn 11a begins
+  lost 7 def. Now have 7 def
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 9
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 11a: A(hp 29/67, def 7, qi 3) | B(hp 9/74, def 0, qi 2, hex 2)
+turn 11a ends
+turn 11b begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 6 def. Now have 1 def
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 11b: A(hp 29/67, def 1, qi 3) | B(hp 9/74, def 2, qi 2, hex 2)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 2
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 12a: A(hp 29/67, def 0, qi 3) | B(hp 2/74, def 0, qi 2, hex 2)
+turn 12a ends
+turn 12b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 26
+    reduced 牧逸风(pid0) hp by 3 to 23
+    lost 1 hexagram. Now have 1 hexagram
+    gained 10 def. Now have 10 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 12b: A(hp 23/67, def 0, qi 3) | B(hp 2/74, def 10, qi 1, hex 1)
+turn 12b ends
+turn 13a begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    lost 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 13a: A(hp 23/67, def 0, qi 2) | B(hp 2/74, def 5, qi 1, hex 1)
+turn 13a ends
+turn 13b begins
+  lost 3 def. Now have 2 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 14
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 牧逸风(pid0) hp by 5 to 9
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 13b: A(hp 9/67, def 0, qi 2) | B(hp 2/74, def 2, qi 0)
+turn 13b ends
+turn 14a begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to -5
+  STATE after turn 14a: A(hp 9/67, def 0, qi 2) | B(hp -5/74, def 0, qi 0)
+turn 14a ends
+谭舒雁(pid1) loses 9 destiny, now at 79
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,101 @@
+turn 1a begins
+  小布(pid3) is playing Gale Shadow Claw (level 1)
+    reduced 吾行之(pid2) hp by 4 to 60
+    reduced 吾行之(pid2) hp by 4 to 56
+    gained 2 qi. Now have 2 qi
+    gained 3 flaw. Now have 3 flaw
+  小布(pid3) finished playing Gale Shadow Claw
+  lost 1 flaw. Now have 2 flaw
+  STATE after turn 1a: A(hp 72/76, def 0, qi 2, phys 4) | B(hp 56/64, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1b: A(hp 72/76, def 0, qi 2, phys 4) | B(hp 56/64, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 3 to 69
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    reduced 吾行之(pid2) hp by 11 to 45
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  lost 1 flaw. Now have 1 flaw
+  STATE after turn 2a: A(hp 69/76, def 0, qi 2, phys 4) | B(hp 45/64, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 1 qi
+    reduced 小布(pid3) hp by 18 to 51
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 小布(pid3) hp by 1 to 50
+  STATE after turn 2b: A(hp 50/76, def 0, qi 2, phys 4) | B(hp 45/64, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 4 to 46
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 吾行之(pid2) hp by 13 to 32
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  lost 1 flaw. Now have 0 flaw
+  STATE after turn 3a: A(hp 46/76, def 0, qi 2, phys 4) | B(hp 32/64, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  reduced 小布(pid3) hp by 1 to 45
+  STATE after turn 3b: A(hp 45/76, def 0, qi 2, phys 4) | B(hp 32/64, def 0, qi 2)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 3 to 42
+  小布(pid3) spent 3 hp to play Youthful Vigor (level 2)
+    reduced 吾行之(pid2) hp by 10 to 22
+    lost 1 qi. Now have 1 qi
+    reduced 吾行之(pid2) hp by 6 to 16
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 4a: A(hp 42/76, def 0, qi 1, phys 4) | B(hp 16/64, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    gained 1 qi. Now have 1 qi
+    reduced 小布(pid3) hp by 10 to 32
+    gained 1 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 小布(pid3) hp by 2 to 30
+  STATE after turn 4b: A(hp 30/76, def 0, qi 1, phys 4) | B(hp 16/64, def 0, qi 1)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 2 to 28
+  小布(pid3) spent 2 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 吾行之(pid2) hp by 10 to 6
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 5a: A(hp 28/76, def 0, qi 1, phys 4) | B(hp 6/64, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 1 qi
+    reduced 小布(pid3) hp by 12 to 16
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 2 to 14
+  STATE after turn 5b: A(hp 14/76, def 0, qi 1, phys 4) | B(hp 6/64, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    reduced 吾行之(pid2) hp by 7 to -1
+    gained 2 def. Now have 2 def
+  STATE after turn 6a: A(hp 14/76, def 2, qi 1, phys 4) | B(hp -1/64, def 0, qi 1)
+turn 6a ends
+吾行之(pid2) loses 10 destiny, now at 57
+小布(pid3) (Xiao Bu) wins

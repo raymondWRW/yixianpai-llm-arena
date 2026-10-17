@@ -1,0 +1,159 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 67
+  player 0 finished playing Incessant
+turn 1a ends
+turn 1b begins
+  player 0 is playing Earth Spirit Formation (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 earth_spirit_formation_stacks. Now have 2 earth_spirit_formation_stacks
+  player 0 finished playing Earth Spirit Formation
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 4 to 63
+    gained 6 def. Now have 6 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cracking Voice (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 9 to 67
+  player 0 finished playing Cracking Voice
+turn 2b ends
+turn 3a begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Shifting Stars (level 2)
+    reduced player 1 hp by 8 to 55
+  player 0 finished playing Shifting Stars
+turn 3a ends
+turn 3b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    gained 2 def. Now have 2 def
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 4 to 63
+  player 0 finished playing Earth Spirit - Smash
+turn 3b ends
+turn 4a begins
+  player 0 is playing Sharp Metal Fulu (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 9 to 46
+  player 0 finished playing Sharp Metal Fulu
+turn 4a ends
+turn 4b begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 2 qi. Now have 2 qi
+  player 0 finished playing Wood Spirit - Recovery
+turn 4b ends
+turn 5a begins
+  player 0 is playing Guard Spirit Fulu (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 11 def. Now have 11 def
+  player 0 finished playing Guard Spirit Fulu
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 2 to 61
+  player 0 finished playing Water Spirit - Waves
+turn 5b ends
+turn 6a begins
+  player 0 is playing Astral Move - Stand (level 2)
+    reduced player 1 hp by 8 to 38
+    gained 2 qi. Now have 3 qi
+  player 0 finished playing Astral Move - Stand
+turn 6a ends
+turn 6b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+  player 0 upgrades Wood Spirit Seal (level 2) to Wood Spirit Seal (level 3)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    gained 3 qi. Now have 3 qi
+    healed 4 hp. Went from 38 to 42
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 26
+    reduced player 1 max_hp by 16 to 60
+  player 0 finished playing Fire Cloud Fulu
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced player 1 hp by 8 to 53
+    reduced player 1 max_hp by 8 to 68
+  player 0 finished playing Fire Spirit - Blast
+turn 7b ends
+turn 8a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 22
+    reduced player 1 hp by 4 to 18
+  player 0 finished playing Ice Incantation
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 49
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 9
+    healed 4 hp. Went from 49 to 53
+  player 0 finished playing Incessant
+turn 9a ends
+turn 9b begins
+  player 0 is playing Cracking Voice (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 11 to 42
+  player 0 finished playing Cracking Voice
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 5
+    reduced player 1 hp by 4 to 1
+    gained 2 def. Now have 2 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 10a ends
+turn 10b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    gained 2 def. Now have 2 def
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 36
+  player 0 finished playing Earth Spirit - Smash
+turn 10b ends
+turn 11a begins
+  player 0 is playing Shifting Stars (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to -5
+    gained 1 qi. Now have 2 qi
+turn 11a ends
+player 1 loses 15 destiny, now at 66
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Incessant (level 2)
+  Wild Horses Part the Mane (level 2)
+  Shifting Stars (level 2)
+  Sharp Metal Fulu (level 2)
+  Guard Spirit Fulu (level 2)
+  Astral Move - Stand (level 2)
+  Fire Cloud Fulu (level 2)
+  Ice Incantation (level 1)
+Player 1's deck:
+  Earth Spirit Formation (level 1)
+  Cracking Voice (level 2)
+  Earth Spirit - Smash (level 2)
+  Wood Spirit - Recovery (level 1)
+  Water Spirit - Waves (level 2)
+  Wood Spirit Seal (level 3)
+  Fire Spirit - Blast (level 1)
+  Normal Attack (level 1)

@@ -1,0 +1,173 @@
+谭舒雁(pid1) downgrades Consonance Sword Formation (level 2) to Consonance Sword Formation (level 1)
+gained 2 internal_injury. Now have 2 internal_injury
+turn 1a begins
+  reduced 牧逸风(pid0) hp by 2 to 99
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 1a: A(hp 99/101, def 3, qi 3, sword 3, injury 2) | B(hp 101/101, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Strike Twice (level 1). They now have 1/1 qi
+  STATE after turn 1b: A(hp 99/101, def 3, qi 3, sword 3, injury 2) | B(hp 101/101, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 2 to 97
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 10 def
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 qi. Now have 6 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 2a: A(hp 97/101, def 10, qi 6, injury 2) | B(hp 101/101, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 101 to 101
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 2b: A(hp 97/101, def 10, qi 6, injury 2) | B(hp 101/101, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 2 to 95
+  牧逸风(pid0) is playing Heavenly Spirit Forceage Formation (level 2)
+    gained 3 heavenly_spirit_forceage_formation_stacks. Now have 3 heavenly_spirit_forceage_formation_stacks
+  牧逸风(pid0) finished playing Heavenly Spirit Forceage Formation
+  STATE after turn 3a: A(hp 95/101, def 5, qi 6, injury 2) | B(hp 101/101, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 95/101, def 5, qi 6, injury 2) | B(hp 101/101, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 3 def. Now have 2 def
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 2 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 1 increase_atk
+  reduced 牧逸风(pid0) hp by 2 to 93
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 92
+    gained 1 def. Now have 1 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 4a: A(hp 93/101, def 2, qi 6, sword 3, injury 2) | B(hp 92/101, def 1, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 4 internal_injury. Now have 6 internal_injury
+    gained 4 internal_injury. Now have 10 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 4b: A(hp 93/101, def 2, qi 6, sword 3, injury 10) | B(hp 92/101, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 1 def
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 1 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 2 increase_atk
+  reduced 牧逸风(pid0) hp by 10 to 83
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 25 to 67
+    gained 1 def. Now have 1 def
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 5a: A(hp 83/101, def 1, qi 4, injury 10) | B(hp 67/101, def 1, qi 0)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 11 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 5b: A(hp 83/101, def 1, qi 4, injury 11) | B(hp 67/101, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 0 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 3 increase_atk
+  reduced 牧逸风(pid0) hp by 11 to 72
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 3)
+    reduced 谭舒雁(pid1) hp by 11 to 56
+    gained 1 def. Now have 1 def
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 6a: A(hp 72/101, def 8, qi 4, injury 11) | B(hp 56/101, def 1, qi 0)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 13 internal_injury
+    reduced 牧逸风(pid0) hp by 13 to 59
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 6b: A(hp 59/101, def 8, qi 4, injury 13) | B(hp 56/101, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  lost 4 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 13 to 46
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 14 to 42
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 7a: A(hp 46/101, def 4, qi 3, injury 13) | B(hp 42/101, def 1, qi 0)
+turn 7a ends
+turn 7b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 15 internal_injury
+    reduced 牧逸风(pid0) hp by 15 to 31
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 7b: A(hp 31/101, def 4, qi 3, injury 15) | B(hp 42/101, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  lost 2 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 15 to 16
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 2)
+    gained 3 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 9 def
+  gained 7 max_hp. Now have 108 max_hp
+  healed 7 hp. Went from 16 to 23
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  STATE after turn 8a: A(hp 23/108, def 9, qi 3, injury 15) | B(hp 42/101, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+  STATE after turn 8b: A(hp 23/108, def 9, qi 3, injury 15) | B(hp 42/101, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  lost 5 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 15 to 8
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 2)
+    gained 3 qi. Now have 6 qi
+    gained 3 def. Now have 7 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  gained 7 def. Now have 14 def
+  gained 7 max_hp. Now have 115 max_hp
+  healed 7 hp. Went from 8 to 15
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 9a: A(hp 15/115, def 14, qi 6, sword 3, injury 15) | B(hp 42/101, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 6 def. Now have 8 def
+    lost 5 def. Now have 3 def
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 9b: A(hp 15/115, def 3, qi 6, sword 3, injury 15) | B(hp 42/101, def 0, qi 0)
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 15 to 0
+  STATE after turn 10a: A(hp 0/115, def 1, qi 6, sword 3, injury 15) | B(hp 42/101, def 0, qi 0)
+turn 10a ends
+牧逸风(pid0) loses 22 destiny, now at -18
+谭舒雁(pid1) (Tan Shuyan) wins

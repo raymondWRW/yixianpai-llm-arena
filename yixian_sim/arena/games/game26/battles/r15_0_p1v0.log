@@ -1,0 +1,133 @@
+gained 5 max_hp. Now have 108 max_hp
+healed 5 hp. Went from 103 to 108
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+turn 1a begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 112 max_hp
+    healed 4 hp. Went from 108 to 112
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 1a: A(hp 112/112, def 0, qi 0) | B(hp 110/110, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 1b: A(hp 112/112, def 0, qi 0) | B(hp 110/110, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 3 internal_injury
+    reduced 牧逸风(pid0) hp by 3 to 107
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 2a: A(hp 112/112, def 0, qi 0) | B(hp 107/110, def 0, qi 1, injury 3)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 3 to 104
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    reduced 谭舒雁(pid1) hp by 3 to 109
+    reduced 牧逸风(pid0) hp by 2 to 102
+    reduced 谭舒雁(pid1) hp by 3 to 106
+    reduced 牧逸风(pid0) hp by 2 to 100
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2b: A(hp 106/112, def 0, qi 0) | B(hp 100/110, def 0, qi 4, injury 3)
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 3a: A(hp 106/112, def 0, qi 1) | B(hp 100/110, def 0, qi 4, injury 3)
+turn 3a ends
+turn 3b begins
+  reduced 牧逸风(pid0) hp by 3 to 97
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 6 qi
+    reduced 谭舒雁(pid1) hp by 3 to 103
+    reduced 牧逸风(pid0) hp by 2 to 95
+    reduced 谭舒雁(pid1) hp by 3 to 100
+    reduced 牧逸风(pid0) hp by 2 to 93
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 100/112, def 0, qi 1) | B(hp 93/110, def 0, qi 6, injury 3)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 87
+    gained 2 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4a: A(hp 100/112, def 0, qi 0) | B(hp 87/110, def 0, qi 6, injury 5)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 5 to 82
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 9 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 4b: A(hp 100/112, def 0, qi 0) | B(hp 82/110, def 0, qi 9, injury 5)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 76
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 5a: A(hp 100/112, def 0, qi 0) | B(hp 76/110, def 0, qi 9, injury 5)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 5 to 71
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 11 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 5b: A(hp 100/112, def 0, qi 0) | B(hp 71/110, def 0, qi 11, injury 5)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 2)
+    reduced 牧逸风(pid0) hp by 3 to 68
+    reduced 牧逸风(pid0) hp by 3 to 65
+    healed 6 hp. Went from 100 to 106
+  谭舒雁(pid1) finished playing Hunter Becomes Preyer
+  STATE after turn 6a: A(hp 106/112, def 0, qi 0) | B(hp 65/110, def 0, qi 11, injury 5)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 5 to 60
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 13 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 6b: A(hp 106/112, def 0, qi 0) | B(hp 60/110, def 2, qi 13, sword 2, injury 5)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 7a: A(hp 106/112, def 0, qi 0) | B(hp 60/110, def 2, qi 13, sword 2, injury 5)
+turn 7a ends
+turn 7b begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 5 to 55
+  牧逸风(pid0) is playing Egret Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 46 to 60
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 54
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 7b: A(hp 60/112, def 0, qi 0) | B(hp 54/110, def 0, qi 13, injury 5)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 120 max_hp
+    healed 8 hp. Went from 60 to 68
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 8a: A(hp 68/120, def 0, qi 0) | B(hp 54/110, def 0, qi 13, injury 5)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 5 to 49
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 13 qi. Now have 0 qi
+    reduced 谭舒雁(pid1) hp by 70 to -2
+    reduced 牧逸风(pid0) hp by 2 to 47
+  STATE after turn 8b: A(hp -2/120, def 0, qi 0) | B(hp 47/110, def 0, qi 0, injury 5)
+turn 8b ends
+谭舒雁(pid1) loses 23 destiny, now at -22
+牧逸风(pid0) (Mu Yifeng) wins

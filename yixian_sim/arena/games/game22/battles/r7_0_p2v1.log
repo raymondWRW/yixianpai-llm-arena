@@ -1,0 +1,152 @@
+reduced 谭舒雁(pid1) hp by 3 to 61
+reduced 吾行之(pid2) hp by 3 to 61
+reduced 谭舒雁(pid1) hp by 2 to 59
+gained 1 qi. Now have 1 qi
+gained 4 max_hp. Now have 68 max_hp
+healed 4 hp. Went from 61 to 65
+turn 1a begins
+  吾行之(pid2) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  吾行之(pid2) finished playing Cacopoisonous Formation
+  STATE after turn 1a: A(hp 59/64, def 0, qi 0) | B(hp 65/68, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  谭舒雁(pid1) finished playing Bad Omen
+  STATE after turn 1b: A(hp 59/64, def 0, qi 0) | B(hp 65/68, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 2a: A(hp 59/64, def 0, qi 0) | B(hp 65/68, def 0, qi 1, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 谭舒雁(pid1) hp by 1 to 64
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 53
+    lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+    gained 1 wound. Now have 1 wound
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 2b: A(hp 53/64, def 0, qi 0) | B(hp 64/68, def 0, qi 1, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 12 to 52
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 3a: A(hp 53/64, def 0, qi 0) | B(hp 52/68, def 0, qi 1, injury 2)
+turn 3a ends
+turn 3b begins
+  reduced 谭舒雁(pid1) hp by 2 to 50
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 3b: A(hp 53/64, def 0, qi 0) | B(hp 50/68, def 0, qi 3, injury 2)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 12 to 38
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 4a: A(hp 53/64, def 0, qi 0) | B(hp 38/68, def 0, qi 3, injury 2)
+turn 4a ends
+turn 4b begins
+  reduced 谭舒雁(pid1) hp by 2 to 36
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 4b: A(hp 53/64, def 0, qi 0, injury 1) | B(hp 36/68, def 1, qi 4, injury 2)
+turn 4b ends
+turn 5a begins
+  reduced 吾行之(pid2) hp by 1 to 52
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 1 ignore_def. Now have 0 ignore_def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 7 to 29
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 5a: A(hp 52/64, def 0, qi 0, injury 1) | B(hp 29/68, def 1, qi 4, injury 2)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 27
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 27 to 34
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 5b: A(hp 52/64, def 0, qi 0, injury 1) | B(hp 34/68, def 0, qi 4, injury 2)
+turn 5b ends
+turn 6a begins
+  reduced 吾行之(pid2) hp by 1 to 51
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 谭舒雁(pid1) hp by 7 to 27
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 6a: A(hp 51/64, def 0, qi 0, injury 1) | B(hp 27/68, def 0, qi 4, injury 2)
+turn 6a ends
+turn 6b begins
+  reduced 谭舒雁(pid1) hp by 2 to 25
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 吾行之(pid2) hp by 13 to 38
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 6b: A(hp 38/64, def 0, qi 0, injury 1) | B(hp 25/68, def 0, qi 3, injury 2)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 1 to 37
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 14
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 7a: A(hp 37/64, def 0, qi 0, injury 1) | B(hp 14/68, def 0, qi 3, injury 2)
+turn 7a ends
+turn 7b begins
+  reduced 谭舒雁(pid1) hp by 2 to 12
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 吾行之(pid2) hp by 11 to 26
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7b: A(hp 26/64, def 0, qi 0, injury 1) | B(hp 12/68, def 0, qi 2, injury 2)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 1 to 25
+  吾行之(pid2) is playing Impact Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 6
+    reduced 谭舒雁(pid1) hp by 2 to 4
+  吾行之(pid2) finished playing Impact Formation
+  STATE after turn 8a: A(hp 25/64, def 0, qi 0, injury 1) | B(hp 4/68, def 0, qi 2, injury 2)
+turn 8a ends
+turn 8b begins
+  reduced 谭舒雁(pid1) hp by 2 to 2
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 吾行之(pid2) hp by 8 to 17
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 8b: A(hp 17/64, def 0, qi 0, injury 1) | B(hp 2/68, def 0, qi 2, injury 2)
+turn 8b ends
+turn 9a begins
+  reduced 吾行之(pid2) hp by 1 to 16
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 8 to -6
+    gained 4 penetrate. Now have 4 penetrate
+  STATE after turn 9a: A(hp 16/64, def 0, qi 0, injury 1) | B(hp -6/68, def 0, qi 2, injury 2)
+turn 9a ends
+谭舒雁(pid1) loses 12 destiny, now at 59
+吾行之(pid2) (Wu Xingzhi) wins

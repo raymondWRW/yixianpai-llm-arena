@@ -1,0 +1,147 @@
+turn 1a begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1a: A(hp 64/64, def 0, qi 2) | B(hp 64/64, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 64/64, def 0, qi 2) | B(hp 64/64, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  吾行之(pid2) finished playing Thunderphilia Formation
+  reduced 牧逸风(pid0) hp by 4 to 60
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 2a: A(hp 64/64, def 0, qi 2) | B(hp 60/64, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  牧逸风(pid0) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  牧逸风(pid0) finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  STATE after turn 2b: A(hp 64/64, def 0, qi 2, injury 1) | B(hp 60/64, def 3, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 吾行之(pid2) hp by 1 to 63
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 6 to 54
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  reduced 牧逸风(pid0) hp by 4 to 50
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 3a: A(hp 63/64, def 0, qi 2, injury 1) | B(hp 50/64, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  STATE after turn 3b: A(hp 63/64, def 0, qi 2, injury 2) | B(hp 50/64, def 3, qi 3)
+turn 3b ends
+turn 4a begins
+  reduced 吾行之(pid2) hp by 2 to 61
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 42
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 4a: A(hp 61/64, def 0, qi 2, injury 2) | B(hp 42/64, def 0, qi 3)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Guard Qi (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  gained 3 def. Now have 8 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 4b: A(hp 61/64, def 0, qi 2, injury 2) | B(hp 42/64, def 8, qi 5)
+turn 4b ends
+turn 5a begins
+  reduced 吾行之(pid2) hp by 2 to 59
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    lost 8 def. Now have 0 def
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 5a: A(hp 59/64, def 0, qi 2, injury 2) | B(hp 42/64, def 0, qi 5)
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 16 to 43
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  STATE after turn 5b: A(hp 43/64, def 0, qi 2, injury 2) | B(hp 42/64, def 3, qi 3)
+turn 5b ends
+turn 6a begins
+  reduced 吾行之(pid2) hp by 2 to 41
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 1 qi
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 10 to 32
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 牧逸风(pid0) hp by 1 to 31
+  STATE after turn 6a: A(hp 41/64, def 0, qi 1, injury 2) | B(hp 31/64, def 0, qi 3)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 吾行之(pid2) hp by 8 to 33
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 6b: A(hp 33/64, def 0, qi 1, injury 2) | B(hp 31/64, def 8, qi 2)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 2 to 31
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 1 qi
+    lost 8 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 28
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 牧逸风(pid0) hp by 1 to 27
+  STATE after turn 7a: A(hp 31/64, def 0, qi 1, injury 2) | B(hp 27/64, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 2)
+    reduced 吾行之(pid2) hp by 6 to 25
+    reduced 吾行之(pid2) hp by 8 to 17
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 7b: A(hp 17/64, def 0, qi 1, injury 2) | B(hp 27/64, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 2 to 15
+  吾行之(pid2) is playing Impact Formation (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 21
+    reduced 牧逸风(pid0) hp by 2 to 19
+  吾行之(pid2) finished playing Impact Formation
+  reduced 牧逸风(pid0) hp by 1 to 18
+  STATE after turn 8a: A(hp 15/64, def 0, qi 1, injury 2) | B(hp 18/64, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 13 to 2
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 8b: A(hp 2/64, def 0, qi 1, injury 2) | B(hp 18/64, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  reduced 吾行之(pid2) hp by 2 to 0
+  STATE after turn 9a: A(hp 0/64, def 0, qi 1, injury 2) | B(hp 18/64, def 0, qi 0)
+turn 9a ends
+吾行之(pid2) loses 11 destiny, now at 59
+牧逸风(pid0) (Mu Yifeng) wins

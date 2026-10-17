@@ -1,0 +1,233 @@
+turn 1a begins
+  reduced 小布(pid3) hp by 3 to 107
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    reduced 吾行之(pid2) hp by 7 to 96
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 1a: A(hp 107/133, def 2, qi 0, phys 23) | B(hp 96/103, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit Seal (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 3 qi. Now have 3 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 1b: A(hp 107/133, def 2, qi 0, phys 23) | B(hp 96/103, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    reduced 吾行之(pid2) hp by 7 to 89
+    gained 8 def. Now have 9 def
+  小布(pid3) finished playing Detect-Horse Palms
+  STATE after turn 2a: A(hp 107/133, def 9, qi 0, phys 23) | B(hp 89/103, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 小布(pid3) hp by 2 to 105
+    reduced 小布(pid3) max_hp by 2 to 131
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 2b: A(hp 105/131, def 9, qi 0, phys 23) | B(hp 89/103, def 0, qi 3)
+turn 2b ends
+turn 3a begins
+  lost 5 def. Now have 4 def
+  reduced 小布(pid3) hp by 4 to 101
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 2 def. Now have 6 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 吾行之(pid2) hp by 10 to 79
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 3a: A(hp 101/131, def 6, qi 0, phys 23) | B(hp 79/103, def 0, qi 3)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 小布(pid3) hp by 2 to 99
+    reduced 小布(pid3) max_hp by 2 to 129
+    reduced 小布(pid3) hp by 3 to 96
+    reduced 小布(pid3) max_hp by 3 to 126
+    gained 1 qi. Now have 4 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 3b: A(hp 96/126, def 6, qi 0, phys 23) | B(hp 79/103, def 0, qi 4)
+turn 3b ends
+turn 4a begins
+  lost 3 def. Now have 3 def
+  reduced 小布(pid3) hp by 4 to 92
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 吾行之(pid2) hp by 10 to 69
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 4a: A(hp 92/126, def 3, qi 0, phys 23) | B(hp 69/103, def 0, qi 4)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 小布(pid3) hp by 2 to 90
+    reduced 小布(pid3) max_hp by 2 to 124
+    reduced 小布(pid3) max_hp by 4 to 120
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 3)
+    reduced 小布(pid3) hp by 2 to 88
+    reduced 小布(pid3) max_hp by 2 to 118
+    gained 3 increase_atk. Now have 3 increase_atk
+    reduced 小布(pid3) hp by 10 to 78
+    reduced 小布(pid3) max_hp by 10 to 108
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 4b: A(hp 78/108, def 3, qi 0, phys 23) | B(hp 69/103, def 0, qi 3)
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 6 to 72
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 13 to 56
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 5a: A(hp 72/108, def 1, qi 0, force 1, phys 23) | B(hp 56/103, def 0, qi 3)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 小布(pid3) hp by 2 to 70
+    reduced 小布(pid3) max_hp by 2 to 106
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 6 to 64
+    reduced 小布(pid3) hp by 7 to 57
+    reduced 小布(pid3) max_hp by 26 to 80
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 5b: A(hp 57/80, def 0, qi 0, force 1, phys 23) | B(hp 56/103, def 0, qi 3)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 6a: A(hp 57/80, def 0, qi 2, force 2, phys 23) | B(hp 56/103, def 0, qi 3)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    reduced 小布(pid3) hp by 2 to 55
+    reduced 小布(pid3) max_hp by 2 to 78
+    reduced 小布(pid3) hp by 8 to 47
+    reduced 小布(pid3) hp by 8 to 39
+    reduced 小布(pid3) hp by 9 to 30
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  STATE after turn 6b: A(hp 30/78, def 0, qi 2, force 2, phys 23) | B(hp 56/103, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 5 to 25
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 2 force. Now have 4 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 吾行之(pid2) hp by 20 to 36
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 7a: A(hp 25/78, def 0, qi 2, force 4, phys 23) | B(hp 36/103, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Earth Spirit - Cliff (level 2)
+  吾行之(pid2) upgrades Earth Spirit - Cliff (level 2) to Earth Spirit - Cliff (level 3)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    gained 20 def. Now have 20 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  吾行之(pid2) finished playing Earth Spirit - Cliff
+  STATE after turn 7b: A(hp 25/78, def 0, qi 2, force 4, phys 23) | B(hp 36/103, def 20, qi 2)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 吾行之(pid2) hp by 27 to 9
+    gained 3 weaken. Now have 3 weaken
+    healed 3 hp. Went from 25 to 28
+  小布(pid3) finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+  STATE after turn 8a: A(hp 28/78, def 0, qi 1, force 4, phys 23) | B(hp 9/103, def 20, qi 2)
+turn 8a ends
+turn 8b begins
+  lost 10 def. Now have 10 def
+  lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+  reduced 小布(pid3) hp by 10 to 18
+  吾行之(pid2) is playing Water Spirit Seal (level 2)
+    gained 3 qi. Now have 5 qi
+    gained 1 activate_water_spirit_stacks. Now have 3 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 8b: A(hp 18/78, def 0, qi 1, force 4, phys 23) | B(hp 9/103, def 10, qi 5)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 3 to 15
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 3 force
+    lost 9 def. Now have 1 def
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  lost 1 weaken. Now have 1 weaken
+  STATE after turn 9a: A(hp 15/78, def 2, qi 1, force 3, phys 23) | B(hp 9/103, def 1, qi 5)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 小布(pid3) hp by 2 to 13
+    reduced 小布(pid3) max_hp by 2 to 76
+    reduced 小布(pid3) hp by 3 to 10
+    reduced 小布(pid3) max_hp by 3 to 73
+    gained 1 qi. Now have 6 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 9b: A(hp 10/73, def 2, qi 1, force 3, phys 23) | B(hp 9/103, def 0, qi 6)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    lost 1 force. Now have 2 force
+    reduced 吾行之(pid2) hp by 6 to 3
+    gained 8 def. Now have 9 def
+  小布(pid3) finished playing Detect-Horse Palms
+  lost 1 weaken. Now have 0 weaken
+  STATE after turn 10a: A(hp 10/73, def 9, qi 1, force 2, phys 23) | B(hp 3/103, def 0, qi 6)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 小布(pid3) hp by 2 to 8
+    reduced 小布(pid3) max_hp by 2 to 71
+    reduced 小布(pid3) max_hp by 4 to 67
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 5 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 3)
+    reduced 小布(pid3) hp by 2 to 6
+    reduced 小布(pid3) max_hp by 2 to 65
+    gained 3 increase_atk. Now have 6 increase_atk
+    reduced 小布(pid3) hp by 13 to -7
+    reduced 小布(pid3) max_hp by 13 to 52
+  STATE after turn 10b: A(hp -7/52, def 9, qi 1, force 2, phys 23) | B(hp 3/103, def 0, qi 5)
+turn 10b ends
+gained 4 max_hp. Now have 56 max_hp
+gained 4 max_physique. Now have 82 max_physique
+小布(pid3) loses 7 destiny, now at 1
+吾行之(pid2) (Wu Xingzhi) wins

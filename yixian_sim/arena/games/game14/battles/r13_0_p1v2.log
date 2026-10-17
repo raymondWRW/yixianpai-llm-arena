@@ -1,0 +1,156 @@
+gained 1 qi. Now have 1 qi
+gained 1 star_power. Now have 1 star_power
+gained 2 qi. Now have 2 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 3 internal_injury
+    reduced 吾行之(pid2) hp by 3 to 96
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1a: A(hp 99/99, def 0, qi 1, star 1) | B(hp 96/99, def 0, qi 2, injury 3)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 3 to 93
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 90
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 1b: A(hp 90/99, def 0, qi 1, star 1) | B(hp 93/99, def 0, qi 2, injury 3)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 5 internal_injury
+    reduced 吾行之(pid2) hp by 5 to 88
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 2a: A(hp 90/99, def 0, qi 1, star 1) | B(hp 88/99, def 0, qi 2, injury 5)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 5 to 83
+  吾行之(pid2) is playing Metal Spirit Formation (level 2)
+    gained 4 penetrate. Now have 4 penetrate
+    gained 2 metal_spirit_formation_stacks. Now have 2 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 2b: A(hp 90/99, def 0, qi 1, star 1) | B(hp 83/99, def 0, qi 2, injury 5)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 7 to 76
+    gained 2 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 90/99, def 0, qi 0, star 1) | B(hp 76/99, def 0, qi 2, injury 7)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 7 to 69
+  吾行之(pid2) is playing Metal Spirit - Giant Tripod (level 1)
+    gained 2 penetrate. Now have 6 penetrate
+    gained 1 metal_spirit_giant_tripod_stacks. Now have 1 metal_spirit_giant_tripod_stacks
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 26 to 64
+    lost 1 metal_spirit_giant_tripod_stacks. Now have 0 metal_spirit_giant_tripod_stacks
+  吾行之(pid2) finished playing Metal Spirit - Giant Tripod
+  STATE after turn 3b: A(hp 64/99, def 0, qi 0, star 1) | B(hp 69/99, def 0, qi 2, injury 7)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Cutting Weeds (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 64/99, def 0, qi 1, star 1) | B(hp 69/99, def 0, qi 2, injury 7)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 7 to 62
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 2 penetrate. Now have 2 penetrate
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 9 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 4b: A(hp 64/99, def 0, qi 1, star 1) | B(hp 62/99, def 6, qi 2, injury 7)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 4 to 58
+    reduced 吾行之(pid2) max_hp by 6 to 93
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 5a: A(hp 64/99, def 0, qi 0, star 1) | B(hp 58/93, def 0, qi 2, injury 7)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 7 to 51
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 1)
+    gained 2 penetrate. Now have 11 penetrate
+    penetrating 11 damage
+    lost 11 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 17 to 47
+    gained 8 penetrate. Now have 8 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 5b: A(hp 47/99, def 0, qi 0, star 1) | B(hp 51/93, def 0, qi 2, injury 7)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 吾行之(pid2) hp by 8 to 43
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 6a: A(hp 47/99, def 0, qi 0, star 1) | B(hp 43/93, def 0, qi 2, injury 7)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 7 to 36
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 2 penetrate. Now have 10 penetrate
+    penetrating 10 damage
+    lost 10 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 17 to 30
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 6b: A(hp 30/99, def 0, qi 0, star 1) | B(hp 36/93, def 0, qi 2, injury 7)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 吾行之(pid2) hp by 8 to 28
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 7a: A(hp 30/99, def 0, qi 1, star 1) | B(hp 28/93, def 0, qi 2, injury 7)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 7 to 21
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 2)
+    gained 2 penetrate. Now have 6 penetrate
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 16 to 14
+    gained 2 ignore_def. Now have 2 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 7b: A(hp 14/99, def 0, qi 1, star 1) | B(hp 21/93, def 0, qi 2, injury 7)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 16
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 8a: A(hp 14/99, def 0, qi 1, star 1) | B(hp 16/93, def 0, qi 2, injury 7)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 7 to 9
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 ignore_def. Now have 1 ignore_def
+    reduced 谭舒雁(pid1) hp by 11 to 3
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 8b: A(hp 3/99, def 0, qi 1, star 1) | B(hp 9/93, def 0, qi 2, injury 7)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 4 star_power
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 9a: A(hp 3/99, def 0, qi 1, star 4) | B(hp 9/93, def 0, qi 2, injury 7)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 7 to 2
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 2 penetrate. Now have 2 penetrate
+    lost 1 ignore_def. Now have 0 ignore_def
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 11 to -8
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  STATE after turn 9b: A(hp -8/99, def 0, qi 1, star 4) | B(hp 2/93, def 0, qi 2, injury 7)
+turn 9b ends
+谭舒雁(pid1) loses 16 destiny, now at 43
+吾行之(pid2) (Wu Xingzhi) wins

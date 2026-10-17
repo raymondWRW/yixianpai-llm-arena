@@ -1,0 +1,196 @@
+turn 1a begins
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 50 physique
+    gained 2 max_hp. Now have 154 max_hp
+    healed 4 hp. Went from 104 to 108
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  player 0 is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  player 0 finished playing Spirit Gather Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 8 qi
+    reduced player 1 hp by 8 to 100
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 3a ends
+turn 3b begins
+  player 0 is playing Surging Waves (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 5 force. Now have 6 force
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Surging Waves
+turn 3b ends
+turn 4a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 5 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 87
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Dharma Spirit Sword (level 1)
+    lost 5 qi. Now have 0 qi
+    reduced player 1 hp by 30 to 57
+  player 0 finished playing Dharma Spirit Sword
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 55
+  player 0 spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 3 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 4 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 13 def. Now have 0 def
+    reduced player 1 hp by 19 to 85
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mighty Force
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 5 to 50
+  player 0 spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 22 to 63
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Inch Force
+turn 5b ends
+turn 6a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 12 to 38
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 4 to 34
+    reduced player 1 hp by 8 to 26
+  player 0 finished playing Thunder Sword
+turn 6a ends
+turn 6b begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 5 force. Now have 0 force
+    gained 20 def. Now have 20 def
+    reduced player 1 hp by 15 to 48
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 1 force
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 9 to 39
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 7a ends
+turn 7b begins
+  lost 10 def. Now have 10 def
+  player 0 is playing Overwhelming Force (level 1)
+    lost 2 force. Now have 0 force
+    gained 8 def. Now have 18 def
+    reduced player 1 hp by 6 to 33
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Overwhelming Force
+turn 7b ends
+turn 8a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 7 qi
+    lost 7 def. Now have 11 def
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 8a ends
+turn 8b begins
+  lost 6 def. Now have 5 def
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 52 physique
+    gained 2 max_hp. Now have 156 max_hp
+    healed 4 hp. Went from 26 to 30
+  player 0 finished playing Embracing Qi Technique
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 5 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 8 to 22
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Dharma Spirit Sword (level 1)
+    lost 5 qi. Now have 0 qi
+    reduced player 1 hp by 30 to -8
+turn 9a ends
+player 1 loses 21 destiny, now at 66
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Transforming Spirits Rhythm (level 2)
+  Spirit Gather Citta-Dharma (level 1)
+  Cloud Sword - Pierce the Star (level 1)
+  Giant Kun Spirit Sword (level 2)
+  Dharma Spirit Sword (level 1)
+  Qi Perfusion (level 1)
+  Giant Roc Spirit Sword (level 2)
+  Thunder Sword (level 2)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Majestic Qi (level 2)
+  Surging Waves (level 1)
+  Mighty Force (level 2)
+  Crash Fist - Inch Force (level 1)
+  Overwhelming Force (level 1)
+  Vigorous Force (level 2)
+  Overwhelming Force (level 1)

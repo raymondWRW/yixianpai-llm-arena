@@ -1,0 +1,173 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Stillness Citta-Dharma
+  STATE after turn 1a: A(hp 66/66, def 0, qi 0) | B(hp 66/87, def 0, qi 0, phys 21)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Cacopoisonous Formation (level 1)
+    gained 1 physique. Now have 22 physique
+    gained 1 max_hp. Now have 88 max_hp
+    healed 1 hp. Went from 66 to 67
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  小布(pid3) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 66/66, def 0, qi 0) | B(hp 67/88, def 0, qi 0, phys 22)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 小布(pid3) hp by 5 to 62
+    gained 1 qi. Now have 1 qi
+    healed 2 hp. Went from 66 to 66
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 2a: A(hp 66/66, def 0, qi 1) | B(hp 62/88, def 0, qi 0, phys 22)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  小布(pid3) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 66/66, def 0, qi 1, injury 1) | B(hp 62/88, def 0, qi 0, phys 22)
+turn 2b ends
+turn 3a begins
+  reduced 谭舒雁(pid1) hp by 1 to 65
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Astral Fleche (level 2)
+    reduced 小布(pid3) hp by 5 to 57
+    gained 2 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 3a: A(hp 65/66, def 1, qi 1, star 2, injury 1) | B(hp 57/88, def 0, qi 0, phys 22)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  reduced 小布(pid3) hp by 2 to 55
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 18 to 47
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3b: A(hp 47/66, def 1, qi 1, star 2, injury 2) | B(hp 55/88, def 0, qi 0, force 1, phys 22)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 45
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 1 def. Now have 2 def
+    healed 4 hp. Went from 45 to 49
+    gained 2 def. Now have 4 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 4a: A(hp 49/66, def 4, qi 3, star 2, injury 2) | B(hp 55/88, def 0, qi 0, force 1, injury 1, phys 22)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  reduced 小布(pid3) hp by 1 to 54
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 0 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 42
+    gained 1 def. Now have 1 def
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 4b: A(hp 42/66, def 1, qi 3, star 2, injury 2) | B(hp 54/88, def 0, qi 1, force 2, injury 1, phys 22)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 40
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Astral Move - Point (level 1)
+    reduced 小布(pid3) hp by 6 to 48
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 5a: A(hp 40/66, def 1, qi 3, star 2, injury 2) | B(hp 48/88, def 0, qi 1, force 2, injury 1, phys 22)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 1 to 47
+  reduced 小布(pid3) hp by 4 to 43
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    lost 1 force. Now have 1 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 11 to 29
+    gained 1 def. Now have 1 def
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 5b: A(hp 29/66, def 1, qi 3, star 2, injury 2) | B(hp 43/88, def 0, qi 1, force 1, injury 1, phys 22)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 27
+  gained 1 def. Now have 1 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 小布(pid3) hp by 5 to 38
+    reduced 小布(pid3) hp by 5 to 33
+    gained 6 def. Now have 7 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 6a: A(hp 27/66, def 7, qi 2, star 2, injury 2) | B(hp 33/88, def 0, qi 1, force 1, injury 1, phys 22)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 1 to 32
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 15 to 12
+    gained 1 def. Now have 8 def
+    gained 3 weaken. Now have 3 weaken
+  小布(pid3) finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+  STATE after turn 6b: A(hp 12/66, def 8, qi 2, star 2, injury 2) | B(hp 32/88, def 0, qi 0, injury 1, phys 22)
+turn 6b ends
+turn 7a begins
+  lost 4 def. Now have 4 def
+  reduced 谭舒雁(pid1) hp by 2 to 10
+  gained 1 def. Now have 5 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 2)
+    reduced 小布(pid3) hp by 15 to 17
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 7a: A(hp 10/66, def 5, qi 1, star 2, injury 2) | B(hp 17/88, def 0, qi 0, injury 1, phys 22)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 1 to 16
+  reduced 小布(pid3) hp by 3 to 13
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 1 wound. Now have 1 wound
+    lost 4 def. Now have 1 def
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  lost 1 weaken. Now have 1 weaken
+  STATE after turn 7b: A(hp 10/66, def 1, qi 1, star 2, injury 2) | B(hp 13/88, def 2, qi 0, injury 1, phys 22)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 8
+  gained 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 7 to 6
+    reduced 小布(pid3) hp by 5 to 1
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 8a: A(hp 8/66, def 1, qi 0, star 2, injury 2) | B(hp 1/88, def 0, qi 0, injury 1, phys 22)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 1 to 0
+  STATE after turn 8b: A(hp 8/66, def 1, qi 0, star 2, injury 2) | B(hp 0/88, def 0, qi 0, injury 1, phys 22)
+turn 8b ends
+小布(pid3) loses 10 destiny, now at 83
+谭舒雁(pid1) (Tan Shuyan) wins

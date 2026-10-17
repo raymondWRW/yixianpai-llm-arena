@@ -1,0 +1,46 @@
+NEW GAME seed=33 me=林小月 vs ['叶冥冥', '谭舒雁', '曜灵', '姜袭明', '南宫生', '小布', '李㵘']
+  deal 震雷剑, 剑挡, 轻剑, 震雷剑, 飞牙剑
+  . hand=震雷剑|剑挡|轻剑|震雷剑|飞牙剑 board= rr=3 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 轻剑 -> 护身灵气
+  roll 飞牙剑 -> 云剑·飞刺
+  . hand=震雷剑|剑挡|震雷剑|护身灵气|云剑·飞刺 board= rr=1 cult=0 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  merge -> 震雷剑+1 (+1 修为 = 1)
+  . hand=剑挡|护身灵气|云剑·飞刺|震雷剑+1 board= rr=1 cult=1 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 护身灵气 -> 小鱼干
+  fx 好奇心: 随机惊喜 小鱼干, 换牌机会+1
+  . hand=剑挡|云剑·飞刺|震雷剑+1|小鱼干 board= rr=1 cult=1 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 云剑·飞刺 -> 青铜猫
+  fx 好奇心: 随机惊喜 青铜猫, 换牌机会+1
+  . hand=剑挡|震雷剑+1|小鱼干|青铜猫 board= rr=1 cult=1 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  roll 剑挡 -> 小鱼干
+  fx 好奇心: 随机惊喜 小鱼干, 换牌机会+1
+  . hand=震雷剑+1|小鱼干|青铜猫|小鱼干 board= rr=1 cult=1 realm=1 hp=40 destiny=100 slots=3 talents=好奇心
+  absorb 小鱼干 -> 修为 2
+  fx 小鱼干[炼化]: 生命上限+1, 命元+2 (命 102)
+  . hand=震雷剑+1|青铜猫|小鱼干 board= rr=1 cult=2 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  roll 小鱼干 -> 小鱼干
+  fx 好奇心: 随机惊喜 小鱼干, 换牌机会+1
+  . hand=震雷剑+1|青铜猫|小鱼干 board= rr=1 cult=2 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  roll 小鱼干 -> 小鱼干
+  fx 好奇心: 随机惊喜 小鱼干, 换牌机会+1
+  . hand=震雷剑+1|青铜猫|小鱼干 board= rr=1 cult=2 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  roll 小鱼干 -> 逗猫棒
+  fx 好奇心: 随机惊喜 逗猫棒, 换牌机会+1
+  . hand=震雷剑+1|青铜猫|逗猫棒 board= rr=1 cult=2 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  absorb 逗猫棒 -> 修为 3
+  fx 逗猫棒[炼化]: 换牌机会+1
+  . hand=震雷剑+1|青铜猫 board= rr=2 cult=3 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  roll 青铜猫 -> 护身灵气
+  . hand=震雷剑+1|护身灵气 board= rr=1 cult=3 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  roll 震雷剑+1 -> 云剑·飞砂
+  fx 好奇心: 随机惊喜 云剑·飞砂, 换牌机会+1
+  . hand=护身灵气|云剑·飞砂 board= rr=1 cult=3 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  roll 护身灵气 -> 云剑·飞砂
+  fx 好奇心: 随机惊喜 云剑·飞砂, 换牌机会+1
+  . hand=云剑·飞砂|云剑·飞砂 board= rr=1 cult=3 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  roll 云剑·飞砂 -> 猫薄荷
+  fx 好奇心: 随机惊喜 猫薄荷, 换牌机会+1
+  . hand=云剑·飞砂|猫薄荷 board= rr=1 cult=3 realm=1 hp=41 destiny=102 slots=3 talents=好奇心
+  absorb 猫薄荷 -> 修为 4
+  fx 猫薄荷[炼化]: 升级1级牌 云剑·飞砂
+  . hand=云剑·飞砂+1 board= rr=1 cult=4 realm=1 hp=41 destiny=102 slots=3 talents=好奇心

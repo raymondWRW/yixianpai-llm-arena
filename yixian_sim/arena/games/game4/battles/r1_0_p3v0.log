@@ -1,0 +1,110 @@
+turn 1a begins
+  reduced player 0 hp by 3 to 37
+  player 0 spent 3 hp to play Crash Fist - Block (level 1)
+    reduced player 1 hp by 7 to 33
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 1a ends
+turn 1b begins
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 2 to 35
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 2 def. Now have 3 def
+    reduced player 1 hp by 11 to 22
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 5 to 30
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 3 to 27
+  player 0 finished playing Thunder Sword
+turn 2b ends
+turn 3a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 13
+    gained 1 physique. Now have 1 physique
+    gained 1 max_hp. Now have 41 max_hp
+  player 0 finished playing Exercise Fist
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 21
+  player 0 finished playing Cloud Sword - Fleche
+turn 3b ends
+turn 4a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 4a ends
+turn 4b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 18
+  player 0 finished playing Normal Attack
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 15
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 4
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 12
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 1
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to -2
+turn 8a ends
+player 1 loses 4 destiny, now at 96
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Crash Fist - Block (level 1)
+  Crash Fist - Bounce (level 2)
+  Exercise Fist (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Qi Perfusion (level 1)
+  Thunder Sword (level 1)
+  Cloud Sword - Fleche (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

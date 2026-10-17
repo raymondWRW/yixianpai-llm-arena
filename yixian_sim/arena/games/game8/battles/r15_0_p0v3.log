@@ -1,0 +1,170 @@
+gained 2 internal_injury. Now have 2 internal_injury
+healed 2 hp. Went from 108 to 110
+gained 2 regen. Now have 2 regen
+turn 1a begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1a: A(hp 103/103, def 0, qi 1) | B(hp 110/117, def 0, qi 0, injury 2, phys 9)
+turn 1a ends
+turn 1b begins
+  healed 2 hp. Went from 110 to 112
+  reduced 小布(pid3) hp by 2 to 110
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 101
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 101/103, def 0, qi 1) | B(hp 110/117, def 0, qi 1, force 2, injury 2, phys 9)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 2a: A(hp 101/103, def 0, qi 3, sword 3) | B(hp 110/117, def 0, qi 1, force 2, injury 2, phys 9)
+turn 2a ends
+turn 2b begins
+  healed 2 hp. Went from 110 to 112
+  reduced 小布(pid3) hp by 2 to 110
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 3 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 2b: A(hp 101/103, def 0, qi 3, sword 3) | B(hp 110/117, def 0, qi 3, force 3, injury 2, phys 9)
+turn 2b ends
+turn 3a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Flying Spirit Shade Sword (level 2)
+    reduced 小布(pid3) hp by 4 to 106
+    reduced 小布(pid3) hp by 4 to 102
+    reduced 小布(pid3) hp by 4 to 98
+    reduced 小布(pid3) hp by 4 to 94
+    reduced 小布(pid3) hp by 4 to 90
+    gained 5 qi. Now have 8 qi
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Flying Spirit Shade Sword
+  STATE after turn 3a: A(hp 101/103, def 0, qi 8) | B(hp 90/117, def 0, qi 3, force 3, injury 2, phys 9)
+turn 3a ends
+turn 3b begins
+  healed 2 hp. Went from 90 to 92
+  reduced 小布(pid3) hp by 2 to 90
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 6 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 3b: A(hp 101/103, def 0, qi 8) | B(hp 90/117, def 8, qi 3, force 6, injury 2, phys 9)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 9 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Cloud Sword - Dragon Roam (level 2)
+    lost 2 def. Now have 6 def
+    lost 2 def. Now have 4 def
+    lost 2 def. Now have 2 def
+  牧逸风(pid0) finished playing Cloud Sword - Dragon Roam
+  STATE after turn 4a: A(hp 101/103, def 0, qi 9) | B(hp 90/117, def 2, qi 3, force 6, injury 2, phys 9)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  healed 2 hp. Went from 90 to 92
+  reduced 小布(pid3) hp by 2 to 90
+  reduced 小布(pid3) hp by 2 to 88
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 8 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 9 force
+    lost 1 force. Now have 8 force
+    reduced 牧逸风(pid0) hp by 30 to 71
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4b: A(hp 71/103, def 0, qi 9) | B(hp 88/117, def 1, qi 1, force 8, injury 2, phys 9)
+turn 4b ends
+turn 5a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 8 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 10 to 78
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 5a: A(hp 71/103, def 0, qi 8, sword 4) | B(hp 78/117, def 0, qi 1, force 8, injury 2, phys 9)
+turn 5a ends
+turn 5b begins
+  healed 2 hp. Went from 78 to 80
+  reduced 小布(pid3) hp by 2 to 78
+  gained 1 qi. Now have 2 qi
+  小布(pid3) gained qi instead of playing Vast Universe (level 2). They now have 2/2 qi
+  STATE after turn 5b: A(hp 71/103, def 0, qi 8, sword 4) | B(hp 78/117, def 0, qi 2, force 8, injury 2, phys 9)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 9 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+    lost 4 sword_intent. Now have 0 sword_intent
+    gained 4 qi. Now have 13 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 6a: A(hp 71/103, def 9, qi 13) | B(hp 78/117, def 0, qi 2, force 8, injury 2, phys 9)
+turn 6a ends
+turn 6b begins
+  healed 2 hp. Went from 78 to 80
+  reduced 小布(pid3) hp by 2 to 78
+  lost 2 qi. Now have 0 qi
+  小布(pid3) spent 2 qi to play Vast Universe (level 2)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 9 force
+    lost 1 force. Now have 8 force
+    lost 9 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 13 to 58
+    healed 6 hp. Went from 78 to 84
+    gained 21 agility. Now have 21 agility
+  小布(pid3) finished playing Vast Universe
+  Spent 10 agility to chase. Agility is now 11
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 4 to 80
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 2)
+    lost 1 force. Now have 7 force
+    reduced 牧逸风(pid0) hp by 19 to 39
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 6b: A(hp 39/103, def 0, qi 13) | B(hp 80/117, def 0, qi 0, force 7, injury 2, phys 9)
+turn 6b ends
+turn 7a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Soul Requiem Fulu (level 1)
+    reduced 小布(pid3) hp by 12 to 68
+    reduced 小布(pid3) max_hp by 18 to 99
+  牧逸风(pid0) finished playing Soul Requiem Fulu
+  STATE after turn 7a: A(hp 39/103, def 0, qi 13) | B(hp 68/99, def 0, qi 0, force 7, injury 2, phys 9)
+turn 7a ends
+turn 7b begins
+  healed 2 hp. Went from 68 to 70
+  reduced 小布(pid3) hp by 2 to 68
+  reduced 小布(pid3) hp by 6 to 62
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 2 wound. Now have 2 wound
+    lost 1 force. Now have 6 force
+    reduced 牧逸风(pid0) hp by 20 to 19
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 2 to 60
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 force. Now have 5 force
+    reduced 牧逸风(pid0) hp by 21 to -2
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  STATE after turn 7b: A(hp -2/103, def 0, qi 13) | B(hp 60/99, def 0, qi 0, force 5, injury 2, phys 9)
+turn 7b ends
+牧逸风(pid0) loses 25 destiny, now at 1
+小布(pid3) (Xiao Bu) wins

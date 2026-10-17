@@ -1,0 +1,130 @@
+gained 1 qi. Now have 1 qi
+reduced 小布(pid3) hp by 3 to 54
+reduced 谭舒雁(pid1) hp by 3 to 48
+reduced 小布(pid3) hp by 3 to 45
+reduced 谭舒雁(pid1) hp by 3 to 51
+turn 1a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 小布(pid3) hp by 5 to 46
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 1a: A(hp 45/51, def 0, qi 1) | B(hp 46/57, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  小布(pid3) finished playing Bad Omen
+  STATE after turn 1b: A(hp 45/51, def 0, qi 1) | B(hp 46/57, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 小布(pid3) hp by 8 to 38
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 2a: A(hp 45/51, def 4, qi 1) | B(hp 38/57, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Force (level 1)
+    lost 2 def. Now have 2 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2b: A(hp 45/51, def 2, qi 1) | B(hp 38/57, def 0, qi 1, force 2)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 小布(pid3) hp by 6 to 32
+    gained 2 def. Now have 3 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 3a: A(hp 45/51, def 3, qi 1) | B(hp 32/57, def 0, qi 1, force 2)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 4 force
+    lost 1 qi. Now have 0 qi
+    healed 5 hp. Went from 32 to 37
+  小布(pid3) finished playing Standing Firm
+  STATE after turn 3b: A(hp 45/51, def 3, qi 1) | B(hp 37/57, def 4, qi 0, force 4)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Incessant (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 35
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 4a: A(hp 45/51, def 1, qi 1) | B(hp 35/57, def 0, qi 0, force 4)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 2). They now have 1/1 qi
+  STATE after turn 4b: A(hp 45/51, def 1, qi 1) | B(hp 35/57, def 0, qi 1, force 4)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  谭舒雁(pid1) finished playing Bad Omen
+  STATE after turn 5a: A(hp 45/51, def 0, qi 1) | B(hp 35/57, def 0, qi 1, force 4)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 21 to 24
+    lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+    gained 1 wound. Now have 1 wound
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 5b: A(hp 24/51, def 0, qi 1) | B(hp 35/57, def 0, qi 0, force 3, injury 1)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 小布(pid3) hp by 5 to 30
+    lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+    gained 1 wound. Now have 1 wound
+    reduced 小布(pid3) hp by 6 to 24
+    reduced 小布(pid3) max_hp by 3 to 54
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 6a: A(hp 24/51, def 0, qi 0) | B(hp 24/54, def 0, qi 0, force 3, injury 1)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 1 to 23
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 6b: A(hp 24/51, def 0, qi 0) | B(hp 23/54, def 0, qi 1, force 3, injury 1)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 19
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 24/51, def 0, qi 0) | B(hp 19/54, def 0, qi 1, force 3, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 1 to 18
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 16 to 8
+    gained 1 internal_injury. Now have 2 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 7b: A(hp 8/51, def 0, qi 0) | B(hp 18/54, def 0, qi 0, force 2, injury 2)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 14
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 8/51, def 0, qi 0) | B(hp 14/54, def 0, qi 0, force 2, injury 2)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 2 to 12
+  reduced 小布(pid3) hp by 2 to 10
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 10 to -2
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  STATE after turn 8b: A(hp -2/51, def 0, qi 0) | B(hp 10/54, def 0, qi 0, force 1, injury 2)
+turn 8b ends
+谭舒雁(pid1) loses 7 destiny, now at 93
+小布(pid3) (Xiao Bu) wins

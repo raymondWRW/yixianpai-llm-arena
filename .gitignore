@@ -1,0 +1,29 @@
+# ── secrets ──────────────────────────────────────────────────────────────────
+yixian_sim/arena/deepseek_keys.json
+.env
+
+# ── game-studio material: extracted game data, live-game tooling, and raw
+#    captures of live matches. Not ours to publish. ──────────────────────────
+yixian_sim/oracle/
+yixian_sim/proxy/
+yixian_sim/selfplay/data/real9_mu.jsonl
+
+# ── third-party code: fetch from upstream (github.com/sharpobject/yisim) ────
+yixian_sim/vendor/
+
+# ── generated / scratch ──────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+node_modules/
+yixian_sim/arena/review_snapshot/
+yixian_sim/arena/bots_state_pre_*/
+yixian_sim/arena/games/game0/
+yixian_sim/arena/games/game9[0-9]/
+yixian_sim/arena/games/game31/
+yixian_sim/arena/*_run.log
+
+# ── local tool settings ──
+.claude/
+
+# ── a bot copied the third-party yisim source into its programs folder ──
+yixian_sim/arena/bots_state/*/programs/engine/

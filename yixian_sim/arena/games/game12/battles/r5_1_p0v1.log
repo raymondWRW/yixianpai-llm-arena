@@ -1,0 +1,137 @@
+reduced 谭舒雁(pid1) hp by 2 to 59
+turn 1a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 49
+    reduced 谭舒雁(pid1) hp by 4 to 45
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 1a: A(hp 59/61, def 0, qi 0) | B(hp 45/53, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    healed 2 hp. Went from 45 to 47
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 1b: A(hp 59/61, def 0, qi 0) | B(hp 47/53, def 3, qi 0)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 2a: A(hp 59/61, def 4, qi 0, sword 2) | B(hp 47/53, def 3, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 1 qi. Now have 1 qi
+    gained 3 def. Now have 4 def
+    healed 2 hp. Went from 47 to 49
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Water Hexagram
+  STATE after turn 2b: A(hp 59/61, def 4, qi 0, sword 2) | B(hp 49/53, def 4, qi 1, hex 2)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 2 def
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 7 to 42
+    gained 3 sword_intent. Now have 5 sword_intent
+    lost 2 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 3a: A(hp 59/61, def 2, qi 0, sword 3) | B(hp 42/53, def 4, qi 1, hex 2)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 2 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 4 to 55
+    reduced 牧逸风(pid0) hp by 5 to 50
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 50/61, def 0, qi 0, sword 3) | B(hp 42/53, def 2, qi 0, hex 2)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 37
+    gained 4 def. Now have 4 def
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 4a: A(hp 50/61, def 4, qi 0) | B(hp 37/53, def 0, qi 0, hex 2)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 44
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 4b: A(hp 44/61, def 4, qi 0) | B(hp 37/53, def 0, qi 0, hex 2)
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 2 def
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 31
+    reduced 谭舒雁(pid1) hp by 5 to 26
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 5a: A(hp 44/61, def 2, qi 0) | B(hp 26/53, def 0, qi 0, hex 2)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Incessant (level 2)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 37
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 5b: A(hp 37/61, def 0, qi 0) | B(hp 26/53, def 0, qi 0, hex 2)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    reduced 谭舒雁(pid1) hp by 9 to 17
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 6a: A(hp 37/61, def 0, qi 0) | B(hp 17/53, def 0, qi 0, hex 2)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 6b: A(hp 37/61, def 0, qi 0) | B(hp 17/53, def 2, qi 1, star 1, hex 2)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 10
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 7a: A(hp 37/61, def 0, qi 0) | B(hp 10/53, def 0, qi 1, star 1, hex 2)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 牧逸风(pid0) hp by 10 to 27
+    lost 1 hexagram. Now have 1 hexagram
+    reduced 牧逸风(pid0) hp by 7 to 20
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7b: A(hp 20/61, def 0, qi 0) | B(hp 10/53, def 0, qi 0, star 1, hex 1)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 7
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 20/61, def 0, qi 0) | B(hp 7/53, def 0, qi 0, star 1, hex 1)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 17
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8b: A(hp 17/61, def 0, qi 0) | B(hp 7/53, def 0, qi 0, star 1, hex 1)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 3
+    reduced 谭舒雁(pid1) hp by 4 to -1
+    gained 1 ignore_def. Now have 1 ignore_def
+  STATE after turn 9a: A(hp 17/61, def 0, qi 0) | B(hp -1/53, def 0, qi 0, star 1, hex 1)
+turn 9a ends
+谭舒雁(pid1) loses 9 destiny, now at 76
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,186 @@
+gained 1 qi. Now have 1 qi
+gained 4 max_hp. Now have 80 max_hp
+healed 4 hp. Went from 76 to 80
+reduced 小布(pid3) hp by 2 to 71
+gained 1 force. Now have 1 force
+turn 1a begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 1a: A(hp 80/80, def 0, qi 3) | B(hp 71/89, def 0, qi 0, force 1, phys 16)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 80/80, def 0, qi 3) | B(hp 71/89, def 0, qi 2, force 2, phys 16)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 80 to 80
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 2a: A(hp 80/80, def 0, qi 3) | B(hp 71/89, def 0, qi 2, force 2, phys 16)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 2 to 69
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 10 to 70
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 2b: A(hp 70/80, def 0, qi 3) | B(hp 69/89, def 0, qi 2, force 2, phys 16)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 小布(pid3) hp by 6 to 63
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 3a: A(hp 70/80, def 0, qi 3) | B(hp 63/89, def 0, qi 2, force 2, phys 16)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 2 to 68
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 4 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3b: A(hp 68/80, def 0, qi 3) | B(hp 63/89, def 0, qi 3, force 4, phys 16)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    reduced 小布(pid3) hp by 12 to 51
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 4a: A(hp 68/80, def 0, qi 2) | B(hp 51/89, def 0, qi 3, force 4, phys 16)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 4 qi
+    gained 2 physique. Now have 18 physique
+    gained 2 max_hp. Now have 91 max_hp
+    healed 4 hp. Went from 51 to 55
+  小布(pid3) finished playing Embracing Qi Technique
+  STATE after turn 4b: A(hp 68/80, def 0, qi 2) | B(hp 55/91, def 0, qi 4, force 4, phys 18)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 小布(pid3) hp by 10 to 45
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 5a: A(hp 68/80, def 0, qi 1) | B(hp 45/91, def 0, qi 4, force 4, phys 18)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Exercise Tendons (level 1)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 7 to 61
+    gained 2 physique. Now have 20 physique
+    gained 2 max_hp. Now have 93 max_hp
+    gained 4 def. Now have 4 def
+  小布(pid3) finished playing Exercise Tendons
+  STATE after turn 5b: A(hp 61/80, def 0, qi 1) | B(hp 45/93, def 4, qi 4, force 3, phys 20)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 10 to 35
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 6a: A(hp 61/80, def 0, qi 0) | B(hp 35/93, def 0, qi 4, force 3, phys 20)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 15 to 46
+    lost 1 qi. Now have 3 qi
+    gained 2 force. Now have 4 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 6b: A(hp 46/80, def 0, qi 0) | B(hp 35/93, def 0, qi 3, force 4, phys 20)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 小布(pid3) hp by 7 to 28
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 7a: A(hp 46/80, def 0, qi 0) | B(hp 28/93, def 0, qi 3, force 4, phys 20)
+turn 7a ends
+turn 7b begins
+  小布(pid3) spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 18 to 28
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 7b: A(hp 28/80, def 0, qi 0) | B(hp 28/93, def 0, qi 3, force 3, phys 20)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 25
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 28/80, def 0, qi 0) | B(hp 25/93, def 0, qi 3, force 3, phys 20)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 2 to 23
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 2 qi
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 22 to 6
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 8b: A(hp 6/80, def 0, qi 0) | B(hp 23/93, def 0, qi 2, force 2, phys 20)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 9a: A(hp 6/80, def 0, qi 2) | B(hp 23/93, def 0, qi 2, force 2, phys 20)
+turn 9a ends
+turn 9b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 force. Now have 3 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 9b: A(hp 6/80, def 0, qi 2) | B(hp 23/93, def 0, qi 4, force 3, phys 20)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 6 to 13
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 10a: A(hp 13/80, def 0, qi 2) | B(hp 23/93, def 0, qi 4, force 3, phys 20)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 2 to 21
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+  healed 2 hp. Went from 21 to 23
+  小布(pid3) healed 2 hp from crash fist bounce
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 11 to 2
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 10b: A(hp 2/80, def 0, qi 2) | B(hp 23/93, def 0, qi 4, force 3, phys 20)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 小布(pid3) hp by 6 to 17
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 11a: A(hp 2/80, def 0, qi 2) | B(hp 17/93, def 0, qi 4, force 3, phys 20)
+turn 11a ends
+turn 11b begins
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 2 to 0
+    gained 1 qi. Now have 5 qi
+    gained 2 force. Now have 5 force
+  STATE after turn 11b: A(hp 0/80, def 0, qi 2) | B(hp 17/93, def 0, qi 5, force 5, phys 20)
+turn 11b ends
+谭舒雁(pid1) loses 12 destiny, now at 47
+小布(pid3) (Xiao Bu) wins

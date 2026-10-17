@@ -1,0 +1,289 @@
+谭舒雁(pid1) downgrades Metal Spirit - Charge (level 2) to Metal Spirit - Charge (level 1)
+gained 1 qi. Now have 1 qi
+gained 4 max_hp. Now have 103 max_hp
+healed 4 hp. Went from 99 to 103
+reduced 谭舒雁(pid1) hp by 2 to 97
+turn 1a begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 def. Now have 4 def
+    gained 5 penetrate. Now have 5 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 1a: A(hp 97/99, def 4, qi 0) | B(hp 103/103, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 1b: A(hp 97/99, def 4, qi 0, injury 4) | B(hp 103/103, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 4 to 93
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 12 to 91
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 2a: A(hp 93/99, def 2, qi 0, injury 4) | B(hp 91/103, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 2b: A(hp 93/99, def 2, qi 0, injury 4) | B(hp 91/103, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 4 to 89
+  吾行之(pid2) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  STATE after turn 3a: A(hp 89/99, def 1, qi 0, injury 4) | B(hp 91/103, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Heavenly Fortune - Seek Fortune (level 1)
+    gained 2 god_luck_approach_stacks. Now have 2 god_luck_approach_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Seek Fortune
+  STATE after turn 3b: A(hp 89/99, def 1, qi 0, injury 4) | B(hp 91/103, def 0, qi 2)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  reduced 吾行之(pid2) hp by 4 to 85
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 7 to 84
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 79
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 4a: A(hp 85/99, def 0, qi 0, injury 4) | B(hp 79/103, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 79 to 86
+    gained 4 max_hp. Now have 107 max_hp
+    healed 4 hp. Went from 86 to 90
+    reduced 吾行之(pid2) hp by 3 to 82
+    lost 1 god_luck_approach_stacks. Now have 1 god_luck_approach_stacks
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 4b: A(hp 82/99, def 0, qi 0, injury 4) | B(hp 90/107, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  reduced 吾行之(pid2) hp by 4 to 78
+  吾行之(pid2) is playing Earth Spirit - Quicksand (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 81
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 76
+  吾行之(pid2) finished playing Earth Spirit - Quicksand
+  STATE after turn 5a: A(hp 78/99, def 0, qi 0, injury 4) | B(hp 76/107, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 72
+    reduced 吾行之(pid2) hp by 2 to 70
+    reduced 吾行之(pid2) hp by 3 to 67
+    lost 1 god_luck_approach_stacks. Now have 0 god_luck_approach_stacks
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 5b: A(hp 67/99, def 0, qi 0, injury 4) | B(hp 76/107, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  reduced 吾行之(pid2) hp by 4 to 63
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 2)
+    gained 3 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 106 max_hp
+  healed 7 hp. Went from 63 to 70
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  STATE after turn 6a: A(hp 70/106, def 7, qi 0, injury 4) | B(hp 76/107, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    lost 7 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 6 to 64
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 6b: A(hp 64/106, def 0, qi 0, injury 4) | B(hp 76/107, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 4 to 60
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 72
+    reduced 谭舒雁(pid1) hp by 4 to 68
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 113 max_hp
+  healed 7 hp. Went from 60 to 67
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 7a: A(hp 67/113, def 7, qi 0, injury 4) | B(hp 68/107, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    lost 7 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 3 to 64
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7b: A(hp 64/113, def 0, qi 0, injury 4) | B(hp 68/107, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 4 to 60
+  吾行之(pid2) is playing Earth Spirit - Combine World (level 1)
+    gained 12 def. Now have 12 def
+    gained 2 earth_spirit_combine_world_stacks. Now have 2 earth_spirit_combine_world_stacks
+  吾行之(pid2) finished playing Earth Spirit - Combine World
+  gained 7 def. Now have 19 def
+  gained 7 max_hp. Now have 120 max_hp
+  healed 7 hp. Went from 60 to 67
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 8a: A(hp 67/120, def 19, qi 0, injury 4) | B(hp 68/107, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 1). They now have 1/1 qi
+  STATE after turn 8b: A(hp 67/120, def 19, qi 0, injury 4) | B(hp 68/107, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  lost 10 def. Now have 9 def
+  lost 1 earth_spirit_combine_world_stacks. Now have 1 earth_spirit_combine_world_stacks
+  gained 10 def. Now have 19 def
+  reduced 吾行之(pid2) hp by 4 to 63
+  吾行之(pid2) is playing Metal Spirit - Charge (level 1)
+    gained 4 def. Now have 23 def
+    gained 9 penetrate. Now have 9 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 9a: A(hp 63/120, def 23, qi 0, injury 4) | B(hp 68/107, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    lost 11 def. Now have 12 def
+    lost 1 earth_spirit_combine_world_stacks. Now have 0 earth_spirit_combine_world_stacks
+    gained 11 def. Now have 23 def
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 9b: A(hp 63/120, def 23, qi 0, injury 4) | B(hp 68/107, def 0, qi 0)
+turn 9b ends
+turn 10a begins
+  lost 12 def. Now have 11 def
+  reduced 吾行之(pid2) hp by 4 to 59
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    penetrating 9 damage
+    lost 9 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 16 to 52
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 10a: A(hp 59/120, def 11, qi 0, injury 4) | B(hp 52/107, def 0, qi 0)
+turn 10a ends
+turn 10b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 10b: A(hp 59/120, def 11, qi 0, injury 4) | B(hp 52/107, def 0, qi 1)
+turn 10b ends
+turn 11a begins
+  lost 6 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 4 to 55
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 7 to 45
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 11a: A(hp 55/120, def 5, qi 0, injury 4) | B(hp 45/107, def 0, qi 1)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 8 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 11b: A(hp 55/120, def 5, qi 0, injury 8) | B(hp 45/107, def 0, qi 0)
+turn 11b ends
+turn 12a begins
+  lost 3 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 8 to 47
+  吾行之(pid2) is playing Earth Spirit - Quicksand (level 2)
+    reduced 谭舒雁(pid1) hp by 21 to 24
+  吾行之(pid2) finished playing Earth Spirit - Quicksand
+  STATE after turn 12a: A(hp 47/120, def 2, qi 0, injury 8) | B(hp 24/107, def 0, qi 0)
+turn 12a ends
+turn 12b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 12b: A(hp 47/120, def 2, qi 0, injury 8) | B(hp 24/107, def 0, qi 2)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 8 to 39
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 20
+    reduced 谭舒雁(pid1) hp by 4 to 16
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 13a: A(hp 39/120, def 1, qi 0, injury 8) | B(hp 16/107, def 0, qi 2)
+turn 13a ends
+turn 13b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 16 to 23
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 13b: A(hp 39/120, def 1, qi 0, injury 8) | B(hp 23/107, def 0, qi 2)
+turn 13b ends
+turn 14a begins
+  lost 1 def. Now have 0 def
+  reduced 吾行之(pid2) hp by 8 to 31
+  吾行之(pid2) is playing Earth Spirit - Combine World (level 1)
+    gained 12 def. Now have 12 def
+    gained 2 earth_spirit_combine_world_stacks. Now have 2 earth_spirit_combine_world_stacks
+  吾行之(pid2) finished playing Earth Spirit - Combine World
+  STATE after turn 14a: A(hp 31/120, def 12, qi 0, injury 8) | B(hp 23/107, def 0, qi 2)
+turn 14a ends
+turn 14b begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 25
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 14b: A(hp 25/120, def 12, qi 0, injury 8) | B(hp 23/107, def 0, qi 2)
+turn 14b ends
+turn 15a begins
+  lost 6 def. Now have 6 def
+  lost 1 earth_spirit_combine_world_stacks. Now have 1 earth_spirit_combine_world_stacks
+  gained 6 def. Now have 12 def
+  reduced 吾行之(pid2) hp by 8 to 17
+  吾行之(pid2) is playing Metal Spirit - Charge (level 1)
+    gained 4 def. Now have 16 def
+    gained 8 penetrate. Now have 8 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 15a: A(hp 17/120, def 16, qi 0, injury 8) | B(hp 23/107, def 0, qi 2)
+turn 15a ends
+turn 15b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    lost 14 def. Now have 2 def
+    lost 1 earth_spirit_combine_world_stacks. Now have 0 earth_spirit_combine_world_stacks
+    gained 14 def. Now have 16 def
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 15b: A(hp 17/120, def 16, qi 0, injury 8) | B(hp 23/107, def 0, qi 1)
+turn 15b ends
+turn 16a begins
+  lost 8 def. Now have 8 def
+  reduced 吾行之(pid2) hp by 8 to 9
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    penetrating 8 damage
+    lost 8 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 15 to 8
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 16a: A(hp 9/120, def 8, qi 0, injury 8) | B(hp 8/107, def 0, qi 1)
+turn 16a ends
+turn 16b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    lost 8 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 7
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 16b: A(hp 7/120, def 0, qi 0, injury 8) | B(hp 8/107, def 0, qi 0)
+turn 16b ends
+turn 17a begins
+  reduced 吾行之(pid2) hp by 8 to -1
+  STATE after turn 17a: A(hp -1/120, def 0, qi 0, injury 8) | B(hp 8/107, def 0, qi 0)
+turn 17a ends
+吾行之(pid2) loses 7 destiny, now at 1
+谭舒雁(pid1) (Tan Shuyan) wins

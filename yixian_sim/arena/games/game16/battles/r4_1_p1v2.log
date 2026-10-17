@@ -1,0 +1,105 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  谭舒雁(pid1) is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 1a: A(hp 51/51, def 0, qi 0) | B(hp 51/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit Seal (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 1b: A(hp 51/51, def 0, qi 0) | B(hp 51/51, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 吾行之(pid2) hp by 5 to 46
+    gained 1 qi. Now have 1 qi
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced 吾行之(pid2) hp by 8 to 38
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 2a: A(hp 51/51, def 0, qi 1) | B(hp 38/51, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 谭舒雁(pid1) hp by 2 to 49
+  STATE after turn 2b: A(hp 49/51, def 0, qi 1) | B(hp 38/51, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 吾行之(pid2) hp by 6 to 32
+    reduced 吾行之(pid2) hp by 5 to 27
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3a: A(hp 49/51, def 0, qi 0) | B(hp 27/51, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 39
+    gained 1 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 3 to 36
+  STATE after turn 3b: A(hp 36/51, def 0, qi 0) | B(hp 27/51, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 22
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4a: A(hp 36/51, def 0, qi 0) | B(hp 22/51, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+  reduced 谭舒雁(pid1) hp by 3 to 33
+  STATE after turn 4b: A(hp 33/51, def 0, qi 0) | B(hp 22/51, def 0, qi 1)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 吾行之(pid2) hp by 6 to 16
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 5a: A(hp 33/51, def 2, qi 0) | B(hp 16/51, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 32
+  STATE after turn 5b: A(hp 32/51, def 0, qi 0) | B(hp 16/51, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 32/51, def 0, qi 1) | B(hp 16/51, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 19
+    gained 1 force_of_water. Now have 4 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 4 to 15
+  STATE after turn 6b: A(hp 15/51, def 0, qi 1) | B(hp 16/51, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 吾行之(pid2) hp by 9 to 7
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7a: A(hp 15/51, def 0, qi 0) | B(hp 7/51, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 4
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 4 to 0
+  STATE after turn 7b: A(hp 0/51, def 0, qi 0) | B(hp 7/51, def 0, qi 0)
+turn 7b ends
+谭舒雁(pid1) loses 6 destiny, now at 105
+吾行之(pid2) (Wu Xingzhi) wins

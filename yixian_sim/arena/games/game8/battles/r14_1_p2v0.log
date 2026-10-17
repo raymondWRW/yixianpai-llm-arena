@@ -1,0 +1,157 @@
+turn 1a begins
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 99
+    reduced 牧逸风(pid0) max_hp by 2 to 99
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 1a: A(hp 114/114, def 0, qi 0) | B(hp 99/99, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1b: A(hp 114/114, def 0, qi 0) | B(hp 99/99, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 2)
+    reduced 牧逸风(pid0) hp by 2 to 97
+    reduced 牧逸风(pid0) max_hp by 2 to 97
+    reduced 牧逸风(pid0) hp by 3 to 94
+    reduced 牧逸风(pid0) max_hp by 3 to 94
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 2a: A(hp 114/114, def 0, qi 2) | B(hp 94/94, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 2b: A(hp 114/114, def 0, qi 2) | B(hp 94/94, def 5, qi 2, sword 3)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 92
+    reduced 牧逸风(pid0) max_hp by 2 to 92
+    gained 2 qi. Now have 4 qi
+    reduced 牧逸风(pid0) hp by 3 to 89
+    reduced 牧逸风(pid0) max_hp by 3 to 89
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 3a: A(hp 114/114, def 0, qi 4) | B(hp 89/89, def 5, qi 2, sword 3)
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 2 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Flying Spirit Shade Sword (level 2)
+    reduced 吾行之(pid2) hp by 4 to 110
+    reduced 吾行之(pid2) hp by 4 to 106
+    reduced 吾行之(pid2) hp by 4 to 102
+    reduced 吾行之(pid2) hp by 4 to 98
+    reduced 吾行之(pid2) hp by 4 to 94
+    gained 5 qi. Now have 7 qi
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Flying Spirit Shade Sword
+  STATE after turn 3b: A(hp 94/114, def 0, qi 4) | B(hp 89/89, def 2, qi 7)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 87
+    reduced 牧逸风(pid0) max_hp by 2 to 87
+    reducing hp to max_hp of 83
+    reduced 牧逸风(pid0) max_hp by 4 to 83
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 81
+    reduced 牧逸风(pid0) max_hp by 2 to 81
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced 牧逸风(pid0) hp by 8 to 73
+    reduced 牧逸风(pid0) max_hp by 8 to 73
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 4a: A(hp 94/114, def 0, qi 3) | B(hp 73/73, def 2, qi 7)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Cloud Sword - Dragon Roam (level 2)
+    reduced 吾行之(pid2) hp by 2 to 92
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    reduced 吾行之(pid2) hp by 2 to 90
+    gained 1 this_card_chases. Now have 2 this_card_chases
+    reduced 吾行之(pid2) hp by 2 to 88
+    gained 1 this_card_chases. Now have 3 this_card_chases
+  牧逸风(pid0) finished playing Cloud Sword - Dragon Roam
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 7 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 吾行之(pid2) hp by 11 to 77
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 4b: A(hp 77/114, def 0, qi 3) | B(hp 73/73, def 1, qi 7, sword 4)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 2)
+    reduced 牧逸风(pid0) hp by 2 to 71
+    reduced 牧逸风(pid0) max_hp by 2 to 71
+    gained 2 increase_atk. Now have 3 increase_atk
+    reduced 牧逸风(pid0) hp by 10 to 61
+    reduced 牧逸风(pid0) max_hp by 10 to 61
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 5a: A(hp 77/114, def 0, qi 2) | B(hp 61/61, def 1, qi 7, sword 4)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+    lost 4 sword_intent. Now have 0 sword_intent
+    gained 4 qi. Now have 11 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 5b: A(hp 77/114, def 0, qi 2) | B(hp 61/61, def 9, qi 11)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 59
+    reduced 牧逸风(pid0) max_hp by 2 to 59
+    lost 7 def. Now have 2 def
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 54
+    reducing hp to max_hp of 49
+    reduced 牧逸风(pid0) max_hp by 10 to 49
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 6a: A(hp 77/114, def 0, qi 2) | B(hp 49/49, def 0, qi 11)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 12 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Soul Requiem Fulu (level 1)
+    reduced 吾行之(pid2) hp by 12 to 65
+    reduced 吾行之(pid2) max_hp by 18 to 96
+    lost 2 qi. Now have 0 qi
+  牧逸风(pid0) finished playing Soul Requiem Fulu
+  STATE after turn 6b: A(hp 65/96, def 0, qi 0) | B(hp 49/49, def 0, qi 12)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+  STATE after turn 7a: A(hp 65/96, def 0, qi 1) | B(hp 49/49, def 0, qi 12)
+turn 7a ends
+turn 7b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 12 qi. Now have 0 qi
+    reduced 吾行之(pid2) hp by 65 to 0
+  STATE after turn 7b: A(hp 0/96, def 0, qi 1) | B(hp 49/49, def 0, qi 0)
+turn 7b ends
+吾行之(pid2) loses 22 destiny, now at 63
+牧逸风(pid0) (Mu Yifeng) wins

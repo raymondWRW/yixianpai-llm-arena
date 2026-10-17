@@ -1,0 +1,113 @@
+turn 1a begins
+  player 0 is playing Water Spirit Seal (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+  player 0 finished playing Water Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 39
+  player 0 finished playing Shifting Stars
+turn 1b ends
+turn 2a begins
+  player 0 is playing Earth Spirit Seal (level 2)
+    reduced player 1 hp by 5 to 39
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 2a ends
+turn 2b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 2b ends
+turn 3a begins
+  lost 3 def. Now have 3 def
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 10 to 29
+    gained 1 force_of_water. Now have 1 force_of_water
+  player 0 finished playing Water Spirit - Waves
+  reduced player 1 hp by 1 to 28
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 4 to 35
+    reduced player 1 hp by 6 to 29
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to 19
+  player 0 finished playing Fire Spirit - Rush
+  reduced player 1 hp by 1 to 18
+turn 4a ends
+turn 4b begins
+  player 0 is playing Thunder Fulu (level 1)
+    reduced player 1 hp by 6 to 23
+  player 0 finished playing Thunder Fulu
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+  reduced player 1 hp by 1 to 17
+turn 5a ends
+turn 5b begins
+  player 0 is playing Palm Thunder (level 1)
+    reduced player 1 hp by 7 to 16
+  player 0 finished playing Palm Thunder
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to 8
+    reduced player 1 hp by 2 to 6
+  player 0 finished playing Fire Spirit - Rush
+  reduced player 1 hp by 1 to 5
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 12
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 2
+  player 0 finished playing Normal Attack
+  reduced player 1 hp by 1 to 1
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to -2
+turn 8a ends
+player 1 loses 6 destiny, now at 90
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Water Spirit Seal (level 2)
+  Earth Spirit Seal (level 2)
+  Water Spirit - Waves (level 2)
+  Fire Spirit - Rush (level 1)
+  Fire Spirit - Rush (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Shifting Stars (level 1)
+  Dotted Around (level 2)
+  Astral Move - Flank (level 1)
+  Thunder Fulu (level 1)
+  Palm Thunder (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

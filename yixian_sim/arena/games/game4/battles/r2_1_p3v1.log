@@ -1,0 +1,109 @@
+turn 1a begins
+  reduced player 0 hp by 3 to 39
+  player 0 spent 3 hp to play Crash Fist - Block (level 1)
+    reduced player 1 hp by 7 to 35
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 1a ends
+turn 1b begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 3 to 36
+  player 0 finished playing Shifting Stars
+turn 1b ends
+turn 2a begins
+  reduced player 0 hp by 2 to 34
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 2 def. Now have 2 def
+    reduced player 1 hp by 11 to 24
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 2a ends
+turn 2b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Exercise Fist (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 6 to 18
+    gained 1 physique. Now have 2 physique
+    gained 1 max_hp. Now have 44 max_hp
+  player 0 finished playing Exercise Fist
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 6 to 28
+    reduced player 1 hp by 6 to 22
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 2 to 20
+  player 0 spent 2 hp to play Youthful Vigor (level 1)
+    reduced player 1 hp by 8 to 10
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Youthful Vigor
+turn 4a ends
+turn 4b begins
+  player 0 is playing Thunder Fulu (level 1)
+    reduced player 1 hp by 10 to 10
+  player 0 finished playing Thunder Fulu
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 4
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 3
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 1
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 0
+turn 7b ends
+player 0 loses 3 destiny, now at 97
+player 1 (Tan Shuyan) wins
+Player 0's deck:
+  Crash Fist - Block (level 1)
+  Crash Fist - Bounce (level 2)
+  Exercise Fist (level 2)
+  Youthful Vigor (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Shifting Stars (level 1)
+  Dotted Around (level 2)
+  Astral Move - Flank (level 1)
+  Thunder Fulu (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

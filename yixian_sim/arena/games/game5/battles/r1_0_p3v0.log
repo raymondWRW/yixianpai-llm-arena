@@ -1,0 +1,108 @@
+turn 1a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 31
+    gained 1 physique. Now have 1 physique
+    gained 1 max_hp. Now have 41 max_hp
+  player 0 finished playing Exercise Fist
+turn 1a ends
+turn 1b begins
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 1b ends
+turn 2a begins
+  reduced player 0 hp by 3 to 37
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    reduced player 1 hp by 9 to 22
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 10 to 27
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    reduced player 1 hp by 8 to 19
+  player 0 finished playing Flying Fang Sword
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sky-Piercing Claw (level 1)
+    reduced player 1 hp by 12 to 10
+    gained 1 internal_injury. Now have 1 internal_injury
+  player 0 finished playing Sky-Piercing Claw
+turn 4a ends
+turn 4b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 16
+  player 0 finished playing Normal Attack
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 1 to 15
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 12
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  reduced player 0 hp by 1 to 11
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 4
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 1 to 7
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 1
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 4
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 1 to 3
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to -2
+turn 8a ends
+player 1 loses 2 destiny, now at 98
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Exercise Fist (level 2)
+  Crash Fist - Poke (level 1)
+  Sky-Piercing Claw (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Qi Perfusion (level 2)
+  Giant Tiger Spirit Sword (level 1)
+  Flying Fang Sword (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

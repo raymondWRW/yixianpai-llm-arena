@@ -1,0 +1,201 @@
+reduced 吾行之(pid2) hp by 6 to 93
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    reduced 吾行之(pid2) hp by 6 to 87
+    gained 4 def. Now have 6 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 1a: A(hp 105/105, def 6, qi 2) | B(hp 87/99, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1b: A(hp 105/105, def 6, qi 2) | B(hp 87/99, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  lost 3 def. Now have 3 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 2a: A(hp 105/105, def 3, qi 1) | B(hp 87/99, def 0, qi 2, injury 4)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 4 to 83
+  吾行之(pid2) is playing Meru Formation (level 1)
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Meru Formation
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 108 max_hp
+    healed 9 hp. Went from 83 to 92
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 3 def. Now have 0 def
+  STATE after turn 2b: A(hp 105/105, def 0, qi 1) | B(hp 92/108, def 0, qi 1, injury 4)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 吾行之(pid2) hp by 6 to 86
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 3a: A(hp 105/105, def 0, qi 1) | B(hp 86/108, def 0, qi 1, injury 6)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 6 to 80
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    gained 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 17 to 88
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 86
+  gained 1 def. Now have 1 def
+  STATE after turn 3b: A(hp 86/105, def 1, qi 1) | B(hp 80/108, def 0, qi 1, injury 6)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 8 internal_injury
+    reduced 吾行之(pid2) hp by 8 to 72
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 86/105, def 0, qi 1) | B(hp 72/108, def 0, qi 1, injury 8)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 8 to 64
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    gained 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 17 to 69
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 67
+  gained 1 def. Now have 1 def
+  STATE after turn 4b: A(hp 67/105, def 1, qi 1) | B(hp 64/108, def 0, qi 1, injury 8)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 5a: A(hp 67/105, def 4, qi 1) | B(hp 64/108, def 0, qi 1, injury 8)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 8 to 56
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 66
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Five Elements Fleche
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 64
+  gained 1 def. Now have 1 def
+  STATE after turn 5b: A(hp 64/105, def 1, qi 1) | B(hp 56/108, def 0, qi 1, injury 8)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 50
+    gained 2 internal_injury. Now have 10 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 6a: A(hp 64/105, def 0, qi 0) | B(hp 50/108, def 0, qi 1, injury 10)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 10 to 40
+  吾行之(pid2) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  reduced 谭舒雁(pid1) hp by 3 to 61
+  gained 1 def. Now have 1 def
+  STATE after turn 6b: A(hp 61/105, def 1, qi 0) | B(hp 40/108, def 0, qi 1, injury 10)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 7a: A(hp 61/105, def 0, qi 1) | B(hp 40/108, def 0, qi 1, injury 10)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 10 to 30
+  吾行之(pid2) is playing Meru Formation (level 1)
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Meru Formation
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  reduced 谭舒雁(pid1) hp by 3 to 58
+  gained 1 def. Now have 1 def
+  STATE after turn 7b: A(hp 58/105, def 1, qi 1) | B(hp 30/108, def 0, qi 2, injury 10)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 24
+    gained 2 internal_injury. Now have 12 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 8a: A(hp 58/105, def 0, qi 0) | B(hp 24/108, def 0, qi 2, injury 12)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 12 to 12
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 force_of_water. Now have 6 force_of_water
+    gained 12 max_hp. Now have 120 max_hp
+    healed 12 hp. Went from 12 to 24
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 6 to 52
+  gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp 52/105, def 1, qi 0) | B(hp 24/120, def 0, qi 1, injury 12)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Cide (level 1). They now have 1/1 qi
+  STATE after turn 9a: A(hp 52/105, def 0, qi 1) | B(hp 24/120, def 0, qi 1, injury 12)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 12 to 12
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    gained 1 qi. Now have 1 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 14 to 38
+    gained 1 def. Now have 1 def
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 34
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 5 to 29
+  gained 1 def. Now have 1 def
+  STATE after turn 9b: A(hp 29/105, def 1, qi 1) | B(hp 12/120, def 0, qi 1, injury 12)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Cide (level 1)
+    reduced 吾行之(pid2) hp by 16 to -4
+  STATE after turn 10a: A(hp 29/105, def 0, qi 0) | B(hp -4/120, def 0, qi 1, injury 12)
+turn 10a ends
+吾行之(pid2) loses 20 destiny, now at 42
+谭舒雁(pid1) (Tan Shuyan) wins

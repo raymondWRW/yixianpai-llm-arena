@@ -1,0 +1,92 @@
+turn 1a begins
+  reduced 小布(pid3) hp by 4 to 47
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    reduced 吾行之(pid2) hp by 10 to 41
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 1a: A(hp 47/52, def 0, qi 0, phys 1) | B(hp 41/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Wood Spirit - Recovery (level 1)
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    healed 3 hp. Went from 41 to 44
+  吾行之(pid2) finished playing Wood Spirit - Recovery
+  STATE after turn 1b: A(hp 47/52, def 0, qi 0, phys 1) | B(hp 44/51, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    reduced 吾行之(pid2) hp by 6 to 38
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 2a: A(hp 47/52, def 0, qi 0, phys 1) | B(hp 38/51, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    reduced 小布(pid3) hp by 6 to 41
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 2b: A(hp 41/52, def 0, qi 0, phys 1) | B(hp 38/51, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 3 to 38
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 1 wound. Now have 1 wound
+    reduced 吾行之(pid2) hp by 12 to 26
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 3a: A(hp 38/52, def 0, qi 0, phys 1) | B(hp 26/51, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 小布(pid3) hp by 11 to 27
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 3b: A(hp 27/52, def 0, qi 0, phys 1) | B(hp 26/51, def 0, qi 2)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    reduced 吾行之(pid2) hp by 9 to 17
+    gained 1 qi. Now have 1 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 4a: A(hp 27/52, def 0, qi 1, phys 1) | B(hp 17/51, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    reduced 小布(pid3) hp by 7 to 20
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 4b: A(hp 20/52, def 0, qi 1, phys 1) | B(hp 17/51, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 2 to 18
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    reduced 吾行之(pid2) hp by 9 to 8
+    lost 1 qi. Now have 0 qi
+    reduced 吾行之(pid2) hp by 5 to 3
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 5a: A(hp 18/52, def 0, qi 0, phys 1) | B(hp 3/51, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced 小布(pid3) hp by 14 to 4
+  吾行之(pid2) finished playing Water Spirit - Waves
+  STATE after turn 5b: A(hp 4/52, def 0, qi 0, phys 1) | B(hp 3/51, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 4/52, def 0, qi 1, phys 1) | B(hp 3/51, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  吾行之(pid2) finished playing Thunderphilia Formation
+  reduced 小布(pid3) hp by 4 to 0
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 6b: A(hp 0/52, def 0, qi 1, phys 1) | B(hp 3/51, def 0, qi 0)
+turn 6b ends
+小布(pid3) loses 5 destiny, now at 89
+吾行之(pid2) (Wu Xingzhi) wins

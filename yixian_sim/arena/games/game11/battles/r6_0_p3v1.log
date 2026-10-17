@@ -1,0 +1,115 @@
+reduced 谭舒雁(pid1) hp by 2 to 60
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 50
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 60/63, def 0, qi 1, force 2, phys 1) | B(hp 50/55, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Imposing (level 2)
+    gained 3 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 1b: A(hp 60/63, def 0, qi 1, force 2, phys 1) | B(hp 50/55, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 2)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 13 to 37
+    gained 1 qi. Now have 2 qi
+    gained 2 wound. Now have 2 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 2a: A(hp 60/63, def 0, qi 2, force 1, phys 1) | B(hp 37/55, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    healed 2 hp. Went from 37 to 39
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 2b: A(hp 60/63, def 0, qi 2, force 1, phys 1) | B(hp 39/55, def 3, qi 3)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 3 to 57
+  小布(pid3) spent 3 hp to play Youthful Vigor (level 2)
+    lost 1 force. Now have 0 force
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 31
+    lost 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 6 to 25
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 3a: A(hp 57/63, def 0, qi 1, phys 1) | B(hp 25/55, def 0, qi 3)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 小布(pid3) hp by 7 to 50
+    gained 3 def. Now have 3 def
+    healed 2 hp. Went from 25 to 27
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 3b: A(hp 50/63, def 0, qi 1, phys 1) | B(hp 27/55, def 3, qi 3)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 18 to 9
+    gained 3 weaken. Now have 3 weaken
+  小布(pid3) finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+  STATE after turn 4a: A(hp 50/63, def 0, qi 0, phys 1) | B(hp 9/55, def 3, qi 3)
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 小布(pid3) hp by 9 to 41
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 4b: A(hp 41/63, def 0, qi 0, phys 1) | B(hp 9/55, def 1, qi 4)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 7
+  小布(pid3) finished playing Vigorous Force
+  lost 1 weaken. Now have 1 weaken
+  STATE after turn 5a: A(hp 41/63, def 0, qi 0, phys 1) | B(hp 7/55, def 0, qi 4)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 小布(pid3) hp by 8 to 33
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 5b: A(hp 33/63, def 0, qi 0, phys 1) | B(hp 7/55, def 0, qi 3)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  小布(pid3) finished playing Fraccide Formation
+  lost 1 weaken. Now have 0 weaken
+  STATE after turn 6a: A(hp 33/63, def 0, qi 0, phys 1) | B(hp 7/55, def 0, qi 3)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 小布(pid3) hp by 13 to 20
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 6b: A(hp 20/63, def 0, qi 0, phys 1) | B(hp 7/55, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is spending 3 hp and 1 physique to play Sky-Piercing Claw (level 2)
+  reduced 小布(pid3) hp by 3 to 17
+  lost 1 physique. Now have 0 physique
+  reduced 小布(pid3) max_hp by 1 to 62
+  小布(pid3) is playing Sky-Piercing Claw (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced 谭舒雁(pid1) hp by 18 to -11
+    gained 1 internal_injury. Now have 1 internal_injury
+  STATE after turn 7a: A(hp 17/62, def 0, qi 0, injury 1) | B(hp -11/55, def 0, qi 2)
+turn 7a ends
+谭舒雁(pid1) loses 11 destiny, now at 64
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,111 @@
+gained 1 qi. Now have 1 qi
+reduced 吾行之(pid2) hp by 3 to 61
+reduced 谭舒雁(pid1) hp by 3 to 61
+turn 1a begins
+  谭舒雁(pid1) is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 2 star_power
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 1a: A(hp 61/64, def 0, qi 2, star 2) | B(hp 61/64, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 52
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 1b: A(hp 52/64, def 0, qi 2, star 2) | B(hp 61/64, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 吾行之(pid2) hp by 10 to 51
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 2a: A(hp 52/64, def 4, qi 2, star 2) | B(hp 51/64, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 2)
+    gained 4 penetrate. Now have 4 penetrate
+    gained 2 metal_spirit_formation_stacks. Now have 2 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 2b: A(hp 52/64, def 4, qi 2, star 2) | B(hp 51/64, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 吾行之(pid2) hp by 8 to 43
+    gained 2 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 3a: A(hp 52/64, def 4, qi 2, star 2) | B(hp 43/64, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 2 penetrate. Now have 6 penetrate
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 13 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 3b: A(hp 52/64, def 4, qi 2, star 2) | B(hp 43/64, def 6, qi 0)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing White Snake (level 2)
+    lost 6 def. Now have 0 def
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 4a: A(hp 52/64, def 2, qi 2, star 2) | B(hp 43/64, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 2 penetrate. Now have 15 penetrate
+    lost 2 def. Now have 0 def
+    penetrating 15 damage
+    lost 15 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 20 to 32
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 4b: A(hp 32/64, def 0, qi 2, star 2) | B(hp 43/64, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 38
+    gained 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 5a: A(hp 32/64, def 0, qi 3, star 2) | B(hp 38/64, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 2 penetrate. Now have 6 penetrate
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 13 to 19
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 5b: A(hp 19/64, def 0, qi 3, star 2) | B(hp 38/64, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 吾行之(pid2) hp by 7 to 31
+    reduced 吾行之(pid2) hp by 7 to 24
+    reduced 吾行之(pid2) max_hp by 10 to 54
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 6a: A(hp 19/64, def 0, qi 2, star 2) | B(hp 24/54, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 11 to 8
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 6b: A(hp 8/64, def 0, qi 2, star 2) | B(hp 24/54, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 吾行之(pid2) hp by 6 to 18
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 7a: A(hp 8/64, def 0, qi 2, star 2) | B(hp 18/54, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 0
+  STATE after turn 7b: A(hp 0/64, def 0, qi 2, star 2) | B(hp 18/54, def 0, qi 0)
+turn 7b ends
+谭舒雁(pid1) loses 11 destiny, now at 65
+吾行之(pid2) (Wu Xingzhi) wins

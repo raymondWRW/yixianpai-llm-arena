@@ -1,0 +1,106 @@
+turn 1a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+  STATE after turn 1a: A(hp 40/40, def 0, qi 1) | B(hp 40/40, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 吾行之(pid2) hp by 2 to 38
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 38/40, def 0, qi 1) | B(hp 40/40, def 0, qi 1, force 2)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  STATE after turn 2a: A(hp 38/40, def 0, qi 2) | B(hp 40/40, def 0, qi 1, force 2)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 2 to 38
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 9 to 29
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 4 to 25
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 2b: A(hp 25/40, def 0, qi 2) | B(hp 38/40, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 小布(pid3) hp by 10 to 28
+  吾行之(pid2) finished playing Water Spirit - Waves
+  STATE after turn 3a: A(hp 25/40, def 0, qi 0) | B(hp 28/40, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 4 to 24
+  小布(pid3) spent 4 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 吾行之(pid2) hp by 10 to 15
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 3b: A(hp 15/40, def 0, qi 0) | B(hp 24/40, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 小布(pid3) hp by 6 to 18
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 4a: A(hp 15/40, def 0, qi 0) | B(hp 18/40, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 12
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 4b: A(hp 12/40, def 0, qi 0) | B(hp 18/40, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    reduced 小布(pid3) hp by 6 to 12
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 5a: A(hp 12/40, def 0, qi 0) | B(hp 12/40, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 9
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 5b: A(hp 9/40, def 0, qi 0) | B(hp 12/40, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 9
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 6a: A(hp 9/40, def 0, qi 0) | B(hp 9/40, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 6
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6b: A(hp 6/40, def 0, qi 0) | B(hp 9/40, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 6
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7a: A(hp 6/40, def 0, qi 0) | B(hp 6/40, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 3
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7b: A(hp 3/40, def 0, qi 0) | B(hp 6/40, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 3
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8a: A(hp 3/40, def 0, qi 0) | B(hp 3/40, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 0
+  STATE after turn 8b: A(hp 0/40, def 0, qi 0) | B(hp 3/40, def 0, qi 0)
+turn 8b ends
+吾行之(pid2) loses 2 destiny, now at 98
+小布(pid3) (Xiao Bu) wins

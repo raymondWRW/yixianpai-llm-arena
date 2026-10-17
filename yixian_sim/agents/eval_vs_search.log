@@ -1,0 +1,8 @@
+[oracle] eval pool ready: 5 workers
+game 1: rounds=20 winner=pid1 claude ranks=[2, 1, 5, 6] opp ranks=[7, 4, 3, 8] realms=[5, 5, 5, 5, 4, 5, 5, 4] (107s)
+game 2: rounds=20 winner=pid7 claude ranks=[2, 5, 6, 3] opp ranks=[7, 8, 4, 1] realms=[5, 5, 4, 5, 4, 4, 5, 5] (132s)
+game 3: rounds=20 winner=pid6 claude ranks=[7, 5, 4, 3] opp ranks=[2, 8, 1, 6] realms=[5, 5, 5, 5, 5, 5, 5, 5] (134s)
+game 4: rounds=20 winner=pid1 claude ranks=[3, 1, 6, 4] opp ranks=[5, 7, 2, 8] realms=[5, 5, 5, 5, 5, 5, 5, 5] (128s)
+game 5: rounds=20 winner=pid3 claude ranks=[3, 8, 6, 1] opp ranks=[7, 4, 2, 5] realms=[5, 5, 5, 5, 4, 5, 5, 5] (128s)
+
+== 5 games vs search: claude mean placement 4.05 (wins 3/5) | search mean placement 4.95 (wins 2/5)

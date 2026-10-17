@@ -1,0 +1,151 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Wind Hexagram
+  STATE after turn 1a: A(hp 84/84, def 0, qi 1, hex 1) | B(hp 66/66, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  吾行之(pid2) finished playing Spiritage Formation
+  STATE after turn 1b: A(hp 84/84, def 0, qi 1, hex 1) | B(hp 66/66, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing White Snake (level 1)
+    lost 1 hexagram. Now have 0 hexagram
+    gained 2 flaw. Now have 2 flaw
+    reduced 吾行之(pid2) hp by 8 to 58
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 2a: A(hp 84/84, def 0, qi 1) | B(hp 58/66, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  吾行之(pid2) is playing Water Spirit Seal (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 4 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  lost 1 flaw. Now have 1 flaw
+  STATE after turn 2b: A(hp 84/84, def 0, qi 1) | B(hp 58/66, def 0, qi 4)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 8 to 50
+    gained 2 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 84/84, def 0, qi 0) | B(hp 50/66, def 0, qi 4, injury 2)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 6 qi
+  reduced 吾行之(pid2) hp by 2 to 48
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  lost 1 flaw. Now have 0 flaw
+  STATE after turn 3b: A(hp 84/84, def 0, qi 0) | B(hp 48/66, def 0, qi 6, injury 2)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Revitalized (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 84/84, def 0, qi 1) | B(hp 48/66, def 0, qi 6, injury 2)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 2 to 46
+  lost 2 qi. Now have 4 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 17 to 67
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 1 to 66
+  STATE after turn 4b: A(hp 66/84, def 0, qi 1) | B(hp 46/66, def 0, qi 4, injury 2)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    reduced 吾行之(pid2) hp by 10 to 36
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 5a: A(hp 66/84, def 0, qi 0) | B(hp 36/66, def 0, qi 4, injury 2)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 2 to 34
+  吾行之(pid2) is playing Fire Spirit Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 3 to 63
+    reduced 谭舒雁(pid1) max_hp by 3 to 81
+    gained 2 qi. Now have 6 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  reduced 谭舒雁(pid1) hp by 1 to 62
+  STATE after turn 5b: A(hp 62/81, def 0, qi 0) | B(hp 34/66, def 0, qi 6, injury 2)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 2). They now have 1/1 qi
+  STATE after turn 6a: A(hp 62/81, def 0, qi 1) | B(hp 34/66, def 0, qi 6, injury 2)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 2 to 32
+  lost 1 qi. Now have 5 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    reduced 谭舒雁(pid1) hp by 15 to 47
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 1 to 46
+  STATE after turn 6b: A(hp 46/81, def 0, qi 1) | B(hp 32/66, def 0, qi 5, injury 2)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 吾行之(pid2) hp by 10 to 22
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7a: A(hp 46/81, def 0, qi 0) | B(hp 22/66, def 0, qi 5, injury 2)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 2 to 20
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 35
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 1 to 34
+  STATE after turn 7b: A(hp 34/81, def 0, qi 0) | B(hp 20/66, def 0, qi 5, injury 2)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 2). They now have 1/1 qi
+  STATE after turn 8a: A(hp 34/81, def 0, qi 1) | B(hp 20/66, def 0, qi 5, injury 2)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 2 to 18
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 26
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 1 to 25
+  STATE after turn 8b: A(hp 25/81, def 0, qi 1) | B(hp 18/66, def 0, qi 5, injury 2)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    reduced 吾行之(pid2) hp by 11 to 7
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 9a: A(hp 25/81, def 0, qi 0) | B(hp 7/66, def 0, qi 5, injury 2)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 2 to 5
+  吾行之(pid2) is playing Water Spirit Seal (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 1 activate_water_spirit_stacks. Now have 3 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  reduced 谭舒雁(pid1) hp by 1 to 24
+  STATE after turn 9b: A(hp 24/81, def 0, qi 0) | B(hp 5/66, def 0, qi 7, injury 2)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 吾行之(pid2) hp by 6 to -1
+  STATE after turn 10a: A(hp 24/81, def 0, qi 0) | B(hp -1/66, def 0, qi 7, injury 2)
+turn 10a ends
+吾行之(pid2) loses 13 destiny, now at 76
+谭舒雁(pid1) (Tan Shuyan) wins

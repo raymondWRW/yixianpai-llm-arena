@@ -1,0 +1,115 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  小布(pid3) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 1a: A(hp 64/65, def 0, qi 3, phys 1) | B(hp 64/64, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 64/65, def 0, qi 3, phys 1) | B(hp 64/64, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 62
+    gained 1 qi. Now have 4 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2a: A(hp 64/65, def 0, qi 4, force 2, phys 1) | B(hp 62/64, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Sword Slash (level 1)
+    reduced 小布(pid3) hp by 4 to 60
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2b: A(hp 60/65, def 0, qi 4, force 2, phys 1) | B(hp 62/64, def 0, qi 3, sword 2)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 2 to 58
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 2 qi
+    gained 2 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 22 to 40
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3a: A(hp 58/65, def 0, qi 2, force 3, phys 1) | B(hp 40/64, def 0, qi 3, sword 2)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 小布(pid3) hp by 13 to 45
+    gained 4 sword_intent. Now have 6 sword_intent
+    lost 2 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 3b: A(hp 45/65, def 0, qi 2, force 3, phys 1) | B(hp 40/64, def 0, qi 2, sword 4)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 5 force
+    lost 1 qi. Now have 1 qi
+    healed 5 hp. Went from 45 to 50
+  小布(pid3) finished playing Standing Firm
+  STATE after turn 4a: A(hp 50/65, def 4, qi 1, force 5, phys 1) | B(hp 40/64, def 0, qi 2, sword 4)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+    lost 4 sword_intent. Now have 0 sword_intent
+    gained 4 qi. Now have 6 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 4b: A(hp 50/65, def 4, qi 1, force 5, phys 1) | B(hp 40/64, def 9, qi 6)
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 2 def
+  reduced 小布(pid3) hp by 2 to 48
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 4 force
+    lost 9 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 21 to 19
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 5a: A(hp 48/65, def 2, qi 0, force 4, phys 1) | B(hp 19/64, def 0, qi 6)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 11 to 37
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5b: A(hp 37/65, def 0, qi 0, force 4, phys 1) | B(hp 19/64, def 0, qi 5)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 4 to 33
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 14 to 5
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 6a: A(hp 33/65, def 0, qi 0, force 3, phys 1) | B(hp 5/64, def 0, qi 5)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 16 to 17
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6b: A(hp 17/65, def 0, qi 0, force 3, phys 1) | B(hp 5/64, def 0, qi 3)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 2 to 15
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 10 to -5
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  STATE after turn 7a: A(hp 15/65, def 0, qi 0, force 2, phys 1) | B(hp -5/64, def 0, qi 3)
+turn 7a ends
+牧逸风(pid0) loses 11 destiny, now at 85
+小布(pid3) (Xiao Bu) wins

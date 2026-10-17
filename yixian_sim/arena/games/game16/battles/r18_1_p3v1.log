@@ -1,0 +1,282 @@
+gained 2 max_force. Now have 8 max_force
+gained 1 force. Now have 1 force
+gained 4 max_hp. Now have 128 max_hp
+healed 4 hp. Went from 124 to 128
+gained 1 star_power. Now have 1 star_power
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 def. Now have 4 def
+gained 4 def. Now have 8 def
+turn 1a begins
+  reduced 小布(pid3) hp by 1 to 127
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1a: A(hp 127/128, def 0, qi 2, force 2, injury 1) | B(hp 124/124, def 8, qi 0, star 1)
+turn 1a ends
+turn 1b begins
+  lost 4 def. Now have 4 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 internal_injury. Now have 2 internal_injury
+    gained 4 def. Now have 8 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 1b: A(hp 127/128, def 0, qi 2, force 2, injury 2) | B(hp 124/124, def 8, qi 2, star 1)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 2 to 125
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 3 force. Now have 5 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 2a: A(hp 125/128, def 0, qi 3, force 5, injury 2, agi 5) | B(hp 124/124, def 8, qi 2, star 1)
+turn 2a ends
+turn 2b begins
+  lost 4 def. Now have 4 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2b: A(hp 125/128, def 0, qi 3, force 5, injury 4, agi 5) | B(hp 124/124, def 4, qi 2, star 1)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 4 to 121
+  reduced 小布(pid3) hp by 2 to 119
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 7 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 24 to 100
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3a: A(hp 119/128, def 0, qi 1, force 7, injury 4, agi 5) | B(hp 100/124, def 0, qi 2, star 1)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 100 to 104
+    gained 1 internal_injury. Now have 5 internal_injury
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 3b: A(hp 119/128, def 0, qi 1, force 7, injury 6, agi 5) | B(hp 104/124, def 4, qi 2, star 1)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 6 to 113
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 11 max_force
+    gained 3 force. Now have 10 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 4a: A(hp 113/128, def 8, qi 1, force 10, injury 6, agi 5) | B(hp 104/124, def 4, qi 2, star 1)
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 2)
+    gained 6 max_hp. Now have 130 max_hp
+    healed 6 hp. Went from 104 to 110
+    gained 3 repel_citta_dharma_stacks. Now have 3 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 4b: A(hp 113/128, def 8, qi 1, force 10, injury 6, agi 5) | B(hp 110/130, def 2, qi 2, star 1)
+turn 4b ends
+turn 5a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 6 to 107
+  reduced 小布(pid3) hp by 5 to 102
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 11 force
+    lost 1 force. Now have 10 force
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 30 to 80
+    lost 3 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 5a: A(hp 102/128, def 1, qi 1, force 10, injury 6, agi 5) | B(hp 80/130, def 0, qi 2, star 1)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 5b: A(hp 102/128, def 1, qi 1, force 10, injury 6, agi 5) | B(hp 80/130, def 4, qi 2, star 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 6 to 96
+  小布(pid3) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 96 to 103
+  小布(pid3) finished playing Lucky Start
+  STATE after turn 6a: A(hp 103/128, def 0, qi 1, force 10, injury 6, agi 5) | B(hp 80/130, def 4, qi 2, star 1)
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 4 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 6b: A(hp 103/128, def 0, qi 1, force 10, injury 6, agi 5) | B(hp 80/130, def 6, qi 2, star 1)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 6 to 97
+  小布(pid3) is playing Overwhelming Force (level 2)
+    lost 10 force. Now have 0 force
+    gained 40 def. Now have 40 def
+    lost 6 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 34 to 46
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Tiger Pouncing (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 12 to 34
+    lost 3 def. Now have 37 def
+  小布(pid3) finished playing Tiger Pouncing
+  STATE after turn 7a: A(hp 97/128, def 37, qi 1, injury 6, agi 1) | B(hp 34/130, def 0, qi 2, star 1)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 8 internal_injury
+    reduced 小布(pid3) hp by 8 to 89
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 7b: A(hp 89/128, def 37, qi 1, injury 8, agi 1) | B(hp 34/130, def 0, qi 2, star 1)
+turn 7b ends
+turn 8a begins
+  lost 19 def. Now have 18 def
+  reduced 小布(pid3) hp by 8 to 81
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 8a: A(hp 81/128, def 18, qi 3, force 1, injury 8, agi 1) | B(hp 34/130, def 0, qi 2, star 1)
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 6 def. Now have 12 def
+    gained 2 internal_injury. Now have 10 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 8b: A(hp 81/128, def 12, qi 3, force 1, injury 10, agi 1) | B(hp 34/130, def 0, qi 1, star 1)
+turn 8b ends
+turn 9a begins
+  lost 6 def. Now have 6 def
+  reduced 小布(pid3) hp by 10 to 71
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 4 force. Now have 5 force
+    gained 5 agility. Now have 6 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 9a: A(hp 71/128, def 6, qi 4, force 5, injury 10, agi 6) | B(hp 34/130, def 0, qi 1, star 1)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 internal_injury. Now have 11 internal_injury
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 9b: A(hp 71/128, def 6, qi 4, force 5, injury 11, agi 6) | B(hp 34/130, def 4, qi 3, star 1)
+turn 9b ends
+turn 10a begins
+  lost 3 def. Now have 3 def
+  reduced 小布(pid3) hp by 11 to 60
+  reduced 小布(pid3) hp by 2 to 58
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 2 qi
+    gained 2 force. Now have 7 force
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 14 to 20
+    lost 3 def. Now have 0 def
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 10a: A(hp 58/128, def 0, qi 2, force 7, injury 11, agi 6) | B(hp 20/130, def 0, qi 3, star 1)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 13 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 10b: A(hp 58/128, def 0, qi 2, force 7, injury 13, agi 6) | B(hp 20/130, def 0, qi 3, star 1)
+turn 10b ends
+turn 11a begins
+  reduced 小布(pid3) hp by 13 to 45
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 14 max_force
+    gained 3 force. Now have 10 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 11a: A(hp 45/128, def 8, qi 2, force 10, injury 13, agi 6) | B(hp 20/130, def 0, qi 3, star 1)
+turn 11a ends
+turn 11b begins
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 20 to 24
+    gained 1 internal_injury. Now have 14 internal_injury
+    gained 1 internal_injury. Now have 15 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 11b: A(hp 45/128, def 8, qi 2, force 10, injury 15, agi 6) | B(hp 24/130, def 4, qi 3, star 1)
+turn 11b ends
+turn 12a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 15 to 30
+  reduced 小布(pid3) hp by 5 to 25
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 2 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 11 force
+    lost 1 force. Now have 10 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 16
+    lost 3 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 12a: A(hp 25/128, def 1, qi 2, force 10, injury 15, agi 6) | B(hp 16/130, def 0, qi 3, star 1)
+turn 12a ends
+turn 12b begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 12b: A(hp 25/128, def 1, qi 2, force 10, injury 15, agi 6) | B(hp 16/130, def 4, qi 3, star 1)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 15 to 10
+  小布(pid3) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 10 to 17
+  小布(pid3) finished playing Lucky Start
+  STATE after turn 13a: A(hp 17/128, def 0, qi 2, force 10, injury 15, agi 6) | B(hp 16/130, def 4, qi 3, star 1)
+turn 13a ends
+turn 13b begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 5 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 13b: A(hp 17/128, def 0, qi 2, force 10, injury 15, agi 6) | B(hp 16/130, def 6, qi 3, star 1)
+turn 13b ends
+turn 14a begins
+  reduced 小布(pid3) hp by 15 to 2
+  小布(pid3) is playing Overwhelming Force (level 2)
+    lost 10 force. Now have 0 force
+    gained 40 def. Now have 40 def
+    lost 6 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 34 to -18
+    gained 6 agility. Now have 12 agility
+  STATE after turn 14a: A(hp 2/128, def 40, qi 2, injury 15, agi 12) | B(hp -18/130, def 0, qi 3, star 1)
+turn 14a ends
+谭舒雁(pid1) loses 3 destiny, now at 1
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,159 @@
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 9 physique
+    gained 2 max_hp. Now have 70 max_hp
+    healed 4 hp. Went from 61 to 65
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  player 0 is playing Exercise Fist (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 6 to 55
+    gained 1 physique. Now have 10 physique
+    gained 1 max_hp. Now have 71 max_hp
+  player 0 finished playing Exercise Fist
+turn 2a ends
+turn 2b begins
+  player 0 is playing Sharp Metal Fulu (level 1)
+    reduced player 1 hp by 8 to 57
+  player 0 finished playing Sharp Metal Fulu
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 54
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    reduced player 1 hp by 9 to 46
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 8 to 46
+    reduced player 1 hp by 8 to 38
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 3 to 35
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    reduced player 1 hp by 11 to 35
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 4a ends
+turn 4b begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 2 to 33
+  player 0 finished playing Shifting Stars
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 4 to 29
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 3 def. Now have 3 def
+    reduced player 1 hp by 10 to 25
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 5a ends
+turn 5b begins
+  player 0 is playing Incessant (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 7 to 22
+  player 0 finished playing Incessant
+turn 5b ends
+turn 6a begins
+  player 0 is playing Detect-Horse Palms (level 1)
+    reduced player 1 hp by 7 to 18
+    gained 5 def. Now have 5 def
+  player 0 finished playing Detect-Horse Palms
+turn 6a ends
+turn 6b begins
+  player 0 is playing Astral Move - Block (level 1)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 2 to 20
+    gained 2 def. Now have 2 def
+  player 0 finished playing Astral Move - Block
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 13 to 5
+    gained 1 internal_injury. Now have 1 internal_injury
+  player 0 finished playing Sky-Piercing Claw
+turn 7a ends
+turn 7b begins
+  player 0 is playing Guard Spirit Fulu (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 11 def. Now have 11 def
+  player 0 finished playing Guard Spirit Fulu
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 1 to 19
+  player 0 is playing Heavenly Decree - Attack (level 1)
+    lost 6 def. Now have 5 def
+    gained 3 def. Now have 3 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 8a ends
+turn 8b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  reduced player 0 hp by 1 to 18
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 12 physique
+    gained 2 max_hp. Now have 73 max_hp
+    healed 4 hp. Went from 18 to 22
+  player 0 finished playing Embracing Qi Technique
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 4 qi
+    gained 3 def. Now have 4 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9b ends
+turn 10a begins
+  reduced player 0 hp by 1 to 21
+  player 0 is playing Exercise Fist (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 5 to 0
+    gained 1 physique. Now have 13 physique
+    gained 1 max_hp. Now have 74 max_hp
+turn 10a ends
+player 1 loses 11 destiny, now at 79
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Exercise Fist (level 2)
+  Crash Fist - Poke (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Shake (level 1)
+  Detect-Horse Palms (level 1)
+  Sky-Piercing Claw (level 2)
+  Heavenly Decree - Attack (level 1)
+Player 1's deck:
+  Dotted Around (level 2)
+  Sharp Metal Fulu (level 1)
+  Astral Move - Flank (level 2)
+  Shifting Stars (level 1)
+  Incessant (level 2)
+  Astral Move - Block (level 1)
+  Guard Spirit Fulu (level 2)
+  Normal Attack (level 1)

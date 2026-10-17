@@ -1,0 +1,456 @@
+gained 4 max_hp. Now have 101 max_hp
+gained 1 def. Now have 1 def
+healed 4 hp. Went from 97 to 101
+turn 1a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    healed 2 hp. Went from 101 to 101
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 1a: A(hp 101/101, def 3, qi 0) | B(hp 96/96, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Cosmos Seal (level 2)
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 95
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 2 cosmos_seal_stacks
+  吾行之(pid2) finished playing Cosmos Seal
+  STATE after turn 1b: A(hp 95/101, def 1, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 3 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 95 to 97
+    lost 1 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 2a: A(hp 97/101, def 4, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 95
+    gained 1 def. Now have 1 def
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 2b: A(hp 95/101, def 1, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 95 to 101
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 3a: A(hp 101/101, def 1, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 3 activate_metal_spirit_stacks
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 93
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 3b: A(hp 93/101, def 1, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 93/101, def 0, qi 1) | B(hp 96/96, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 1)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 10 to 83
+    gained 1 def. Now have 1 def
+    gained 5 penetrate. Now have 5 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 4b: A(hp 83/101, def 1, qi 1) | B(hp 96/96, def 0, qi 1)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 109 max_hp
+    gained 1 def. Now have 1 def
+    healed 18 hp. Went from 83 to 101
+    gained 3 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 2 hp. Went from 101 to 103
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 5a: A(hp 103/109, def 5, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    lost 5 def. Now have 0 def
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 7 to 96
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 5b: A(hp 96/109, def 1, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 96/109, def 0, qi 1) | B(hp 96/96, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Octgates Lock Formation (level 2)
+    reduced 谭舒雁(pid1) hp by 12 to 84
+    gained 1 def. Now have 1 def
+    gained 3 octgates_lock_formation_stacks. Now have 3 octgates_lock_formation_stacks
+  吾行之(pid2) finished playing Octgates Lock Formation
+  STATE after turn 6b: A(hp 84/109, def 1, qi 1) | B(hp 96/96, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 117 max_hp
+    gained 1 def. Now have 1 def
+    healed 14 hp. Went from 84 to 98
+    gained 3 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 2 hp. Went from 98 to 100
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 7a: A(hp 100/117, def 5, qi 0) | B(hp 96/96, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 5 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 10 to 90
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 7b: A(hp 90/117, def 1, qi 0) | B(hp 96/96, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Imposing (level 2)
+    gained 3 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 8a: A(hp 90/117, def 0, qi 3) | B(hp 96/96, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  吾行之(pid2) finished playing Thunderphilia Formation
+  reduced 谭舒雁(pid1) hp by 4 to 86
+  gained 1 def. Now have 1 def
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 8b: A(hp 86/117, def 1, qi 3) | B(hp 96/96, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 2)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 9a: A(hp 86/117, def 0, qi 3) | B(hp 96/96, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Cosmos Seal (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 77
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  吾行之(pid2) finished playing Cosmos Seal
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 3 to 74
+  gained 1 def. Now have 1 def
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 9b: A(hp 74/117, def 1, qi 3) | B(hp 96/96, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 1 def. Now have 1 def
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10a: A(hp 74/117, def 1, qi 4) | B(hp 96/96, def 0, qi 1, injury 4)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 4 to 92
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 4 activate_metal_spirit_stacks
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 69
+    gained 1 def. Now have 1 def
+    gained 1 activate_metal_spirit_stacks. Now have 5 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 10b: A(hp 69/117, def 1, qi 4) | B(hp 92/96, def 0, qi 1, injury 4)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 69 to 76
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 11a: A(hp 76/117, def 1, qi 4) | B(hp 92/96, def 0, qi 1, injury 4)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 4 to 88
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 68
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 11b: A(hp 68/117, def 1, qi 4) | B(hp 88/96, def 0, qi 1, injury 4)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 125 max_hp
+    gained 1 def. Now have 1 def
+    healed 13 hp. Went from 68 to 81
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 12a: A(hp 81/125, def 1, qi 3) | B(hp 88/96, def 0, qi 1, injury 4)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 4 to 84
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 1)
+    lost 1 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 9 to 72
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 12b: A(hp 72/125, def 1, qi 3) | B(hp 84/96, def 0, qi 1, injury 4)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 133 max_hp
+    gained 1 def. Now have 1 def
+    healed 10 hp. Went from 72 to 82
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 13a: A(hp 82/133, def 1, qi 2) | B(hp 84/96, def 0, qi 1, injury 4)
+turn 13a ends
+turn 13b begins
+  reduced 吾行之(pid2) hp by 4 to 80
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    lost 1 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 10 to 72
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 13b: A(hp 72/133, def 1, qi 2) | B(hp 80/96, def 0, qi 1, injury 4)
+turn 13b ends
+turn 14a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Imposing (level 2)
+    gained 3 qi. Now have 5 qi
+    gained 1 def. Now have 1 def
+    healed 9 hp. Went from 72 to 81
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 14a: A(hp 81/133, def 1, qi 5) | B(hp 80/96, def 0, qi 1, injury 4)
+turn 14a ends
+turn 14b begins
+  reduced 吾行之(pid2) hp by 4 to 76
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 14 to 67
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 14b: A(hp 67/133, def 1, qi 5) | B(hp 76/96, def 0, qi 0, injury 4)
+turn 14b ends
+turn 15a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 2)
+    reduced 吾行之(pid2) hp by 18 to 58
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  reduced 谭舒雁(pid1) hp by 8 to 59
+  gained 1 def. Now have 1 def
+  lost 1 octgates_lock_formation_stacks. Now have 2 octgates_lock_formation_stacks
+  chase!!
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 15a: A(hp 59/133, def 2, qi 6) | B(hp 58/96, def 0, qi 0, injury 5)
+turn 15a ends
+turn 15b begins
+  reduced 吾行之(pid2) hp by 5 to 53
+  吾行之(pid2) is playing Cosmos Seal (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 52
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  吾行之(pid2) finished playing Cosmos Seal
+  STATE after turn 15b: A(hp 52/133, def 1, qi 6) | B(hp 53/96, def 0, qi 1, injury 5)
+turn 15b ends
+turn 16a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 52 to 59
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 16a: A(hp 59/133, def 1, qi 6) | B(hp 53/96, def 0, qi 1, injury 5)
+turn 16a ends
+turn 16b begins
+  reduced 吾行之(pid2) hp by 5 to 48
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 6 activate_metal_spirit_stacks
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 54
+    gained 1 def. Now have 1 def
+    gained 1 activate_metal_spirit_stacks. Now have 7 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 16b: A(hp 54/133, def 1, qi 6) | B(hp 48/96, def 0, qi 1, injury 5)
+turn 16b ends
+turn 17a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 5 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 141 max_hp
+    gained 1 def. Now have 1 def
+    healed 12 hp. Went from 54 to 66
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 17a: A(hp 66/141, def 1, qi 5) | B(hp 48/96, def 0, qi 1, injury 5)
+turn 17a ends
+turn 17b begins
+  reduced 吾行之(pid2) hp by 5 to 43
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 58
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 17b: A(hp 58/141, def 1, qi 5) | B(hp 43/96, def 0, qi 1, injury 5)
+turn 17b ends
+turn 18a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 4 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 149 max_hp
+    gained 1 def. Now have 1 def
+    healed 13 hp. Went from 58 to 71
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 18a: A(hp 71/149, def 1, qi 4) | B(hp 43/96, def 0, qi 1, injury 5)
+turn 18a ends
+turn 18b begins
+  reduced 吾行之(pid2) hp by 5 to 38
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 1)
+    lost 1 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 9 to 62
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 18b: A(hp 62/149, def 1, qi 4) | B(hp 38/96, def 0, qi 1, injury 5)
+turn 18b ends
+turn 19a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Imposing (level 2)
+    gained 3 qi. Now have 7 qi
+    gained 1 def. Now have 1 def
+    healed 9 hp. Went from 62 to 71
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 19a: A(hp 71/149, def 1, qi 7) | B(hp 38/96, def 0, qi 1, injury 5)
+turn 19a ends
+turn 19b begins
+  reduced 吾行之(pid2) hp by 5 to 33
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    lost 1 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 10 to 61
+    gained 1 def. Now have 1 def
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 19b: A(hp 61/149, def 1, qi 7) | B(hp 33/96, def 0, qi 1, injury 5)
+turn 19b ends
+turn 20a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 2)
+    reduced 吾行之(pid2) hp by 18 to 15
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  reduced 谭舒雁(pid1) hp by 8 to 53
+  gained 1 def. Now have 1 def
+  lost 1 octgates_lock_formation_stacks. Now have 1 octgates_lock_formation_stacks
+  chase!!
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 8 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 20a: A(hp 53/149, def 2, qi 8) | B(hp 15/96, def 0, qi 1, injury 6)
+turn 20a ends
+turn 20b begins
+  reduced 吾行之(pid2) hp by 6 to 9
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 2 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 13 to 40
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 20b: A(hp 40/149, def 1, qi 8) | B(hp 9/96, def 0, qi 0, injury 6)
+turn 20b ends
+turn 21a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 40 to 47
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 21a: A(hp 47/149, def 1, qi 8) | B(hp 9/96, def 0, qi 0, injury 6)
+turn 21a ends
+turn 21b begins
+  reduced 吾行之(pid2) hp by 6 to 3
+  吾行之(pid2) is playing Cosmos Seal (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 39
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  吾行之(pid2) finished playing Cosmos Seal
+  STATE after turn 21b: A(hp 39/149, def 1, qi 8) | B(hp 3/96, def 0, qi 1, injury 6)
+turn 21b ends
+turn 22a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 7 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 157 max_hp
+    gained 1 def. Now have 1 def
+    healed 18 hp. Went from 39 to 57
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 22a: A(hp 57/157, def 1, qi 7) | B(hp 3/96, def 0, qi 1, injury 6)
+turn 22a ends
+turn 22b begins
+  reduced 吾行之(pid2) hp by 6 to -3
+  STATE after turn 22b: A(hp 57/157, def 1, qi 7) | B(hp -3/96, def 0, qi 1, injury 6)
+turn 22b ends
+吾行之(pid2) loses 21 destiny, now at 39
+谭舒雁(pid1) (Tan Shuyan) wins

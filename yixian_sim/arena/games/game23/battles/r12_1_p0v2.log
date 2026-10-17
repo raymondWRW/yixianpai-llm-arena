@@ -1,0 +1,236 @@
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1a: A(hp 97/97, def 0, qi 2) | B(hp 84/84, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1b: A(hp 97/97, def 0, qi 2) | B(hp 84/84, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced 吾行之(pid2) hp by 4 to 80
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 2a: A(hp 97/97, def 0, qi 4) | B(hp 80/84, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Octgates Lock Formation (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 89
+    gained 2 octgates_lock_formation_stacks. Now have 2 octgates_lock_formation_stacks
+  吾行之(pid2) finished playing Octgates Lock Formation
+  STATE after turn 2b: A(hp 89/97, def 0, qi 4) | B(hp 80/84, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 14 to 66
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 3a: A(hp 89/97, def 0, qi 3) | B(hp 66/84, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 牧逸风(pid0) hp by 11 to 78
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 3b: A(hp 78/97, def 0, qi 3) | B(hp 66/84, def 0, qi 2)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    reduced 吾行之(pid2) hp by 4 to 62
+    reduced 吾行之(pid2) hp by 4 to 58
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 4a: A(hp 78/97, def 0, qi 3) | B(hp 58/84, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 70
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 4b: A(hp 70/97, def 0, qi 3) | B(hp 58/84, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Flash Wind (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 吾行之(pid2) hp by 4 to 54
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  reduced 牧逸风(pid0) hp by 8 to 62
+  lost 1 octgates_lock_formation_stacks. Now have 1 octgates_lock_formation_stacks
+  chase!!
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 2)
+    gained 3 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  STATE after turn 5a: A(hp 62/97, def 7, qi 3) | B(hp 54/84, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    lost 7 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 60
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 5b: A(hp 60/97, def 0, qi 3) | B(hp 54/84, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  牧逸风(pid0) finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 104 max_hp
+  healed 7 hp. Went from 60 to 67
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 6a: A(hp 67/104, def 10, qi 3) | B(hp 54/84, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    lost 7 def. Now have 3 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 6b: A(hp 67/104, def 3, qi 3) | B(hp 54/84, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  lost 2 def. Now have 1 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 51
+  牧逸风(pid0) finished playing Normal Attack
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  gained 7 def. Now have 11 def
+  gained 7 max_hp. Now have 111 max_hp
+  healed 7 hp. Went from 67 to 74
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 7a: A(hp 74/111, def 11, qi 3) | B(hp 51/84, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 1 qi
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 牧逸风(pid0) hp by 13 to 61
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 10 def
+  STATE after turn 7b: A(hp 61/111, def 10, qi 3) | B(hp 51/84, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  lost 5 def. Now have 5 def
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 5 qi
+    reduced 吾行之(pid2) hp by 3 to 48
+    reduced 吾行之(pid2) hp by 3 to 45
+  牧逸风(pid0) finished playing Spiritage Sword
+  gained 3 def. Now have 8 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 8a: A(hp 61/111, def 8, qi 5) | B(hp 45/84, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 90 max_hp
+    healed 7 hp. Went from 45 to 52
+  吾行之(pid2) finished playing Cure Formation
+  lost 1 def. Now have 7 def
+  STATE after turn 8b: A(hp 61/111, def 7, qi 5) | B(hp 52/90, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  lost 4 def. Now have 3 def
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 7 qi
+    reduced 吾行之(pid2) hp by 7 to 45
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  gained 3 def. Now have 6 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  STATE after turn 9a: A(hp 61/111, def 6, qi 7) | B(hp 45/90, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 56
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 1 to 55
+  STATE after turn 9b: A(hp 55/111, def 0, qi 7) | B(hp 45/90, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 6 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 23 to 22
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 10a: A(hp 55/111, def 0, qi 6) | B(hp 22/90, def 0, qi 1)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 47
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 1 to 46
+  STATE after turn 10b: A(hp 46/111, def 0, qi 6) | B(hp 22/90, def 0, qi 1)
+turn 10b ends
+turn 11a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    reduced 吾行之(pid2) hp by 4 to 18
+    reduced 吾行之(pid2) hp by 4 to 14
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 11a: A(hp 46/111, def 0, qi 6) | B(hp 14/90, def 0, qi 1)
+turn 11a ends
+turn 11b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    reduced 牧逸风(pid0) hp by 9 to 37
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  reduced 牧逸风(pid0) hp by 1 to 36
+  STATE after turn 11b: A(hp 36/111, def 0, qi 6) | B(hp 14/90, def 0, qi 1)
+turn 11b ends
+turn 12a begins
+  牧逸风(pid0) is playing Cloud Sword - Flash Wind (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 吾行之(pid2) hp by 4 to 10
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  reduced 牧逸风(pid0) hp by 8 to 28
+  lost 1 octgates_lock_formation_stacks. Now have 0 octgates_lock_formation_stacks
+  chase!!
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 7
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 12a: A(hp 28/111, def 0, qi 6) | B(hp 7/90, def 0, qi 1)
+turn 12a ends
+turn 12b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 21
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  reduced 牧逸风(pid0) hp by 1 to 20
+  STATE after turn 12b: A(hp 20/111, def 0, qi 6) | B(hp 7/90, def 0, qi 1)
+turn 12b ends
+turn 13a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 8 qi
+    reduced 吾行之(pid2) hp by 3 to 4
+    reduced 吾行之(pid2) hp by 3 to 1
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 13a: A(hp 20/111, def 0, qi 8) | B(hp 1/90, def 0, qi 1)
+turn 13a ends
+turn 13b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+  reduced 牧逸风(pid0) hp by 1 to 19
+  STATE after turn 13b: A(hp 19/111, def 0, qi 8) | B(hp 1/90, def 0, qi 2)
+turn 13b ends
+turn 14a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 10 qi
+    reduced 吾行之(pid2) hp by 10 to -9
+  STATE after turn 14a: A(hp 19/111, def 0, qi 10) | B(hp -9/90, def 0, qi 2)
+turn 14a ends
+吾行之(pid2) loses 18 destiny, now at 11
+牧逸风(pid0) (Mu Yifeng) wins

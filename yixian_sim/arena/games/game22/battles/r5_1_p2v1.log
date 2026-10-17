@@ -1,0 +1,121 @@
+gained 1 qi. Now have 1 qi
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  吾行之(pid2) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  吾行之(pid2) finished playing Cacopoisonous Formation
+  STATE after turn 1a: A(hp 53/53, def 0, qi 0) | B(hp 53/53, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 1b: A(hp 53/53, def 0, qi 0) | B(hp 53/53, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 2a: A(hp 53/53, def 0, qi 0) | B(hp 53/53, def 0, qi 3, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 谭舒雁(pid1) hp by 1 to 52
+  谭舒雁(pid1) is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 2b: A(hp 53/53, def 0, qi 0) | B(hp 52/53, def 0, qi 3, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 12 to 40
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 3a: A(hp 53/53, def 0, qi 0) | B(hp 40/53, def 0, qi 3, injury 2)
+turn 3a ends
+turn 3b begins
+  reduced 谭舒雁(pid1) hp by 2 to 38
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 吾行之(pid2) hp by 6 to 47
+    reduced 吾行之(pid2) hp by 5 to 42
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced 吾行之(pid2) hp by 5 to 37
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 37/53, def 0, qi 0) | B(hp 38/53, def 0, qi 2, injury 2)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 11 to 27
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 4a: A(hp 37/53, def 0, qi 0) | B(hp 27/53, def 0, qi 2, injury 2)
+turn 4a ends
+turn 4b begins
+  reduced 谭舒雁(pid1) hp by 2 to 25
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 吾行之(pid2) hp by 10 to 27
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 4b: A(hp 27/53, def 0, qi 0) | B(hp 25/53, def 0, qi 1, injury 2)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 谭舒雁(pid1) hp by 7 to 18
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 5a: A(hp 27/53, def 0, qi 0) | B(hp 18/53, def 0, qi 1, injury 2)
+turn 5a ends
+turn 5b begins
+  reduced 谭舒雁(pid1) hp by 2 to 16
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 吾行之(pid2) hp by 6 to 21
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 5b: A(hp 21/53, def 0, qi 0) | B(hp 16/53, def 0, qi 1, injury 2)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 8
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 6a: A(hp 21/53, def 0, qi 0) | B(hp 8/53, def 0, qi 1, injury 2)
+turn 6a ends
+turn 6b begins
+  reduced 谭舒雁(pid1) hp by 2 to 6
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 16
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 6b: A(hp 16/53, def 0, qi 0) | B(hp 6/53, def 0, qi 1, injury 2)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 3
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7a: A(hp 16/53, def 0, qi 0) | B(hp 3/53, def 0, qi 1, injury 2)
+turn 7a ends
+turn 7b begins
+  reduced 谭舒雁(pid1) hp by 2 to 1
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 吾行之(pid2) hp by 7 to 9
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 7b: A(hp 9/53, def 0, qi 0) | B(hp 1/53, def 0, qi 2, injury 2)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to -2
+  STATE after turn 8a: A(hp 9/53, def 0, qi 0) | B(hp -2/53, def 0, qi 2, injury 2)
+turn 8a ends
+谭舒雁(pid1) loses 8 destiny, now at 71
+吾行之(pid2) (Wu Xingzhi) wins

@@ -1,0 +1,154 @@
+reduced 小布(pid3) hp by 2 to 64
+turn 1a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 小布(pid3) hp by 6 to 58
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 1a: A(hp 76/76, def 0, qi 0) | B(hp 58/73, def 0, qi 0, phys 7)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 71
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 71/76, def 1, qi 0) | B(hp 58/73, def 0, qi 1, force 2, phys 7)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Stillness Citta-Dharma
+  STATE after turn 2a: A(hp 71/76, def 0, qi 0) | B(hp 58/73, def 0, qi 1, force 2, phys 7)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 55
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 13 to 58
+    gained 1 def. Now have 1 def
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2b: A(hp 58/76, def 1, qi 0) | B(hp 55/73, def 0, qi 1, force 1, phys 7)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lake Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 2 qi. Now have 2 qi
+    gained 1 def. Now have 1 def
+    healed 4 hp. Went from 58 to 62
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Lake Hexagram
+  STATE after turn 3a: A(hp 62/76, def 1, qi 2, hex 2) | B(hp 55/73, def 0, qi 3, force 1, phys 7)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 4 to 51
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 0 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 13 to 49
+    gained 1 def. Now have 1 def
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 3b: A(hp 49/76, def 1, qi 2, hex 2) | B(hp 51/73, def 0, qi 3, phys 7)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 小布(pid3) hp by 10 to 41
+    lost 1 hexagram. Now have 1 hexagram
+    reduced 小布(pid3) hp by 7 to 34
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 4a: A(hp 49/76, def 0, qi 1, hex 1) | B(hp 34/73, def 0, qi 3, phys 7)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 32
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 2 qi
+    reduced 谭舒雁(pid1) hp by 13 to 36
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 4b: A(hp 36/76, def 1, qi 1, hex 1) | B(hp 32/73, def 0, qi 2, phys 7)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 小布(pid3) hp by 16 to 16
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 5a: A(hp 36/76, def 0, qi 0) | B(hp 16/73, def 0, qi 2, phys 7)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 3 to 13
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 8 to 28
+    gained 1 def. Now have 1 def
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 5b: A(hp 28/76, def 1, qi 0) | B(hp 13/73, def 2, qi 2, force 1, phys 7)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  gained 1 def. Now have 1 def
+  healed 2 hp. Went from 28 to 30
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 30/76, def 1, qi 1) | B(hp 13/73, def 2, qi 2, force 1, phys 7)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Exercise Fist (level 2)
+    lost 1 force. Now have 0 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 22
+    gained 1 def. Now have 1 def
+    gained 1 physique. Now have 8 physique
+    gained 1 max_hp. Now have 74 max_hp
+  小布(pid3) finished playing Exercise Fist
+  STATE after turn 6b: A(hp 22/76, def 1, qi 1) | B(hp 13/74, def 1, qi 2, phys 8)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 5 to 8
+    reduced 小布(pid3) hp by 5 to 3
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 7a: A(hp 22/76, def 0, qi 0) | B(hp 3/74, def 0, qi 2, phys 8)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 2 to 1
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 14
+    gained 1 def. Now have 1 def
+    lost 1 qi. Now have 1 qi
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 11
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 7b: A(hp 11/76, def 1, qi 0) | B(hp 1/74, def 0, qi 1, phys 8)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Hunter Becomes Preyer (level 1)
+    reduced 小布(pid3) hp by 2 to -1
+    reduced 小布(pid3) hp by 2 to -3
+    gained 1 def. Now have 1 def
+    healed 4 hp. Went from 11 to 15
+  STATE after turn 8a: A(hp 15/76, def 1, qi 0) | B(hp -3/74, def 0, qi 1, phys 8)
+turn 8a ends
+小布(pid3) loses 12 destiny, now at 57
+谭舒雁(pid1) (Tan Shuyan) wins

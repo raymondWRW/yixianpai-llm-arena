@@ -1,0 +1,266 @@
+gained 1 star_power. Now have 1 star_power
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 def. Now have 4 def
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 3 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 82/82, def 3, qi 1, star 1) | B(hp 82/82, def 0, qi 1, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 2 to 80
+  牧逸风(pid0) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 4 hexproof
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 1b: A(hp 82/82, def 3, qi 1, star 1) | B(hp 80/82, def 0, qi 1, injury 2)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 3 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2a: A(hp 82/82, def 1, qi 1, star 1) | B(hp 80/82, def 0, qi 1, injury 2)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 2 to 78
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 2b: A(hp 82/82, def 1, qi 1, star 1) | B(hp 78/82, def 0, qi 2, injury 2)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 3a: A(hp 82/82, def 2, qi 2, star 2) | B(hp 78/82, def 0, qi 2, injury 2)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 76
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 2)
+    gained 3 qi. Now have 6 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 3b: A(hp 82/82, def 2, qi 2, star 2) | B(hp 76/82, def 0, qi 6, injury 2)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 71
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4a: A(hp 82/82, def 1, qi 2, star 2) | B(hp 71/82, def 0, qi 6, injury 2)
+turn 4a ends
+turn 4b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 69
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 7 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 4b: A(hp 82/82, def 1, qi 2, star 2) | B(hp 69/82, def 0, qi 7, sword 3, injury 2)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 62
+    reduced 牧逸风(pid0) hp by 7 to 55
+    reduced 牧逸风(pid0) hp by 7 to 48
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 5a: A(hp 82/82, def 0, qi 1, star 2) | B(hp 48/82, def 0, qi 7, sword 3, injury 2)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 46
+  lost 2 qi. Now have 6 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 69
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 2)
+    reduced 谭舒雁(pid1) hp by 8 to 61
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 5b: A(hp 61/82, def 0, qi 1, star 2) | B(hp 46/82, def 10, qi 6, injury 2)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 8 def. Now have 2 def
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 41
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 6a: A(hp 61/82, def 0, qi 0, star 2) | B(hp 41/82, def 0, qi 6, injury 2)
+turn 6a ends
+turn 6b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 39
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 8 qi
+    reduced 谭舒雁(pid1) hp by 8 to 53
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 6b: A(hp 53/82, def 0, qi 0, star 2) | B(hp 39/82, def 0, qi 8, injury 2)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Golden Rooster Independence (level 1). They now have 1/1 qi
+  STATE after turn 7a: A(hp 53/82, def 0, qi 1, star 2) | B(hp 39/82, def 0, qi 8, injury 2)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 9 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 37
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 47
+    reduced 谭舒雁(pid1) hp by 5 to 42
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 7b: A(hp 42/82, def 0, qi 1, star 2) | B(hp 37/82, def 0, qi 9, injury 2)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 26
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 8a: A(hp 42/82, def 0, qi 0, star 2) | B(hp 26/82, def 0, qi 9, injury 2)
+turn 8a ends
+turn 8b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 24
+  牧逸风(pid0) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 7 hexproof
+    gained 14 def. Now have 14 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 8b: A(hp 42/82, def 0, qi 0, star 2) | B(hp 24/82, def 14, qi 9, injury 2)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 9a: A(hp 42/82, def 4, qi 0, star 2) | B(hp 24/82, def 14, qi 9, injury 2)
+turn 9a ends
+turn 9b begins
+  lost 7 def. Now have 7 def
+  gained 1 qi. Now have 10 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 22
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 11 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 9b: A(hp 42/82, def 4, qi 0, star 2) | B(hp 22/82, def 7, qi 11, sword 3, injury 2)
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 3 def
+    lost 1 hexproof. Now have 6 hexproof
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10a: A(hp 42/82, def 3, qi 1, star 2) | B(hp 22/82, def 7, qi 11, sword 3, injury 2)
+turn 10a ends
+turn 10b begins
+  lost 4 def. Now have 3 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 20
+  lost 2 qi. Now have 9 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 38
+    gained 10 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 2 to 36
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 10b: A(hp 36/82, def 0, qi 1, star 2) | B(hp 20/82, def 13, qi 9, injury 2)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 5 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11a: A(hp 36/82, def 0, qi 1, star 2) | B(hp 20/82, def 13, qi 9, injury 2)
+turn 11a ends
+turn 11b begins
+  lost 7 def. Now have 6 def
+  gained 1 qi. Now have 10 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 18
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 12 qi
+    reduced 谭舒雁(pid1) hp by 12 to 24
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 11b: A(hp 24/82, def 0, qi 1, star 2) | B(hp 18/82, def 6, qi 12, injury 2)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 3 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 12a: A(hp 24/82, def 2, qi 2, star 3) | B(hp 18/82, def 6, qi 12, injury 2)
+turn 12a ends
+turn 12b begins
+  lost 3 def. Now have 3 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 16
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 20
+    reduced 谭舒雁(pid1) hp by 5 to 15
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 12b: A(hp 15/82, def 0, qi 2, star 3) | B(hp 16/82, def 3, qi 12, injury 2)
+turn 12b ends
+turn 13a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 14
+    gained 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 13a: A(hp 15/82, def 0, qi 3, star 3) | B(hp 14/82, def 0, qi 12, injury 2)
+turn 13a ends
+turn 13b begins
+  gained 1 qi. Now have 13 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 12
+  牧逸风(pid0) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 9 hexproof
+    gained 14 def. Now have 14 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 13b: A(hp 15/82, def 0, qi 3, star 3) | B(hp 12/82, def 14, qi 13, injury 2)
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    lost 8 def. Now have 6 def
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 10
+    reduced 牧逸风(pid0) hp by 8 to 2
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 14a: A(hp 15/82, def 0, qi 2, star 3) | B(hp 2/82, def 0, qi 13, injury 2)
+turn 14a ends
+turn 14b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 0
+  STATE after turn 14b: A(hp 15/82, def 0, qi 2, star 3) | B(hp 0/82, def 0, qi 13, injury 2)
+turn 14b ends
+牧逸风(pid0) loses 15 destiny, now at 48
+谭舒雁(pid1) (Tan Shuyan) wins

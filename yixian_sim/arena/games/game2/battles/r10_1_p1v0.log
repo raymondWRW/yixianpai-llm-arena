@@ -1,0 +1,155 @@
+gained 1 qi. Now have 1 qi
+gained 1 qi. Now have 1 qi
+reduced player 1 hp by 2 to 91
+turn 1a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 82
+    reduced player 1 max_hp by 16 to 82
+  player 0 finished playing Fire Cloud Fulu
+turn 1a ends
+turn 1b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 78
+    reduced player 1 hp by 4 to 74
+  player 0 finished playing Ice Incantation
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 9 to 82
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 6 to 76
+    reduced player 1 hp by 6 to 70
+  player 0 finished playing Cloud Sword - Necessity
+turn 2b ends
+turn 3a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 1 to 73
+  player 0 finished playing Normal Attack
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 64
+    reduced player 1 hp by 5 to 59
+  player 0 finished playing Cloud Sword - Fleche
+turn 3b ends
+turn 4a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 70
+  player 0 finished playing Normal Attack
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 46
+  player 0 finished playing Cloud Sword - Conceal
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 67
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 38
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 64
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Sword - Reguard (level 1)
+    gained 8 def. Now have 8 def
+    healed 3 hp. Went from 64 to 67
+  player 0 finished playing Cloud Sword - Reguard
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 5 def
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Foretell Fate (level 1)
+    reduced player 1 hp by 6 to 32
+  player 0 finished playing Foretell Fate
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 1 to 66
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 8b ends
+turn 9a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 62
+    reduced player 1 hp by 4 to 58
+  player 0 finished playing Ice Incantation
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 12 to 20
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 6 to 14
+    reduced player 1 hp by 6 to 8
+  player 0 finished playing Cloud Sword - Necessity
+turn 9b ends
+turn 10a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 1 to 57
+  player 0 finished playing Normal Attack
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 2
+    reduced player 1 hp by 5 to -3
+turn 10b ends
+player 0 loses 19 destiny, now at 95
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Fire Cloud Fulu (level 2)
+  Ice Incantation (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Guard Qi (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Cloud Sword - Necessity (level 2)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Conceal (level 2)
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Reguard (level 1)
+  Foretell Fate (level 1)

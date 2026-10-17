@@ -1,0 +1,273 @@
+gained 2 max_force. Now have 8 max_force
+gained 1 force. Now have 1 force
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 60 physique
+    gained 2 max_hp. Now have 167 max_hp
+    healed 4 hp. Went from 107 to 111
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sailing through Sky (level 2)
+    gained 4 force. Now have 5 force
+    gained 6 agility. Now have 6 agility
+  player 0 finished playing Sailing through Sky
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  lost 3 qi. Now have 0 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced player 1 hp by 10 to 101
+    gained 10 def. Now have 12 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 6 to 95
+    reduced player 1 hp by 6 to 89
+  player 0 finished playing Cloud Sword - Necessity
+turn 2b ends
+turn 3a begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 5 force. Now have 0 force
+    gained 20 def. Now have 20 def
+    lost 12 def. Now have 0 def
+    reduced player 1 hp by 3 to 131
+    gained 5 agility. Now have 11 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 122
+  player 0 finished playing Vigorous Force
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 6 def. Now have 14 def
+    lost 5 def. Now have 9 def
+  player 0 finished playing Cloud Sword - Fleche
+turn 3b ends
+turn 4a begins
+  lost 5 def. Now have 4 def
+  reduced player 0 hp by 5 to 84
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 2)
+    reduced player 1 hp by 12 to 110
+    gained 7 later_crash_fist_poke_stacks. Now have 7 later_crash_fist_poke_stacks
+    gained 7 crash_fist_block_stacks. Now have 7 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 9 to 75
+  player 0 finished playing Cloud Sword - Conceal
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 3 to 72
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 7 bonus_atk_amt. Now have 7 bonus_atk_amt
+    gained 7 def. Now have 7 def
+    reduced player 1 hp by 16 to 94
+    gained 3 def. Now have 10 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    lost 8 def. Now have 2 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 2 to 70
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 4 def
+    reduced player 1 hp by 11 to 83
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Sword - Moon Shade (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 increase_atk. Now have 3 increase_atk
+  player 0 finished playing Cloud Sword - Moon Shade
+turn 6b ends
+turn 7a begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 8 to 62
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+  healed 8 hp. Went from 62 to 70
+  player 0 healed 8 hp from crash fist bounce
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 8 to 75
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 7a ends
+turn 7b begins
+  player 0 is playing Cloud Sword - Flash Wind (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 8 to 62
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 7b ends
+turn 8a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 62 physique
+    gained 2 max_hp. Now have 169 max_hp
+    healed 4 hp. Went from 62 to 66
+  player 0 finished playing Embracing Qi Technique
+turn 8a ends
+turn 8b begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 3 qi
+  player 0 gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 3/3 qi
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sailing through Sky (level 2)
+    gained 4 force. Now have 4 force
+    gained 6 agility. Now have 7 agility
+  player 0 finished playing Sailing through Sky
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 1 def
+  lost 3 qi. Now have 0 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced player 1 hp by 13 to 53
+    gained 10 def. Now have 11 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 9 to 44
+    reduced player 1 hp by 9 to 35
+  player 0 finished playing Cloud Sword - Necessity
+turn 9b ends
+turn 10a begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 1 to 74
+    gained 5 agility. Now have 12 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 2
+  incremented chases to 1
+  chase!!
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 65
+  player 0 finished playing Vigorous Force
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 9 def. Now have 7 def
+    lost 7 def. Now have 0 def
+    reduced player 1 hp by 1 to 34
+  player 0 finished playing Cloud Sword - Fleche
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 5 to 29
+  player 0 spent 5 hp to play Crash Fist - Subdue Dragon (level 2)
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    reduced player 1 hp by 12 to 53
+    gained 7 later_crash_fist_poke_stacks. Now have 7 later_crash_fist_poke_stacks
+    gained 7 crash_fist_block_stacks. Now have 7 crash_fist_block_stacks
+    Attacking for 19 from crash fist - shocked effect.
+    reduced player 1 hp by 19 to 34
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Subdue Dragon
+turn 11a ends
+turn 11b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 16 to 13
+  player 0 finished playing Cloud Sword - Conceal
+turn 11b ends
+turn 12a begins
+  reduced player 0 hp by 3 to 10
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 7 bonus_atk_amt. Now have 7 bonus_atk_amt
+    gained 7 def. Now have 7 def
+    reduced player 1 hp by 16 to 18
+    gained 3 def. Now have 10 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 12a ends
+turn 12b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    lost 10 def. Now have 0 def
+    reduced player 1 hp by 1 to 9
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+turn 12b ends
+turn 13a begins
+  reduced player 0 hp by 2 to 7
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 3 def
+    reduced player 1 hp by 11 to 7
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cloud Sword - Moon Shade (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 increase_atk. Now have 6 increase_atk
+  player 0 finished playing Cloud Sword - Moon Shade
+turn 13b ends
+turn 14a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 8 to -1
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+  healed 8 hp. Went from -1 to 7
+  player 0 healed 8 hp from crash fist bounce
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 8 to -1
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+turn 14a ends
+player 1 loses 16 destiny, now at 46
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Sailing through Sky (level 2)
+  Overwhelming Force (level 1)
+  Vigorous Force (level 2)
+  Crash Fist - Subdue Dragon (level 2)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Shocked (level 1)
+Player 1's deck:
+  Guard Qi (level 2)
+  Giant Kun Spirit Sword (level 1)
+  Cloud Sword - Necessity (level 2)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Conceal (level 2)
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Moon Shade (level 2)
+  Cloud Sword - Flash Wind (level 1)

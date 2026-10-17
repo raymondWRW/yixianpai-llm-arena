@@ -1,0 +1,226 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 62/62, def 1, qi 1) | B(hp 62/62, def 0, qi 0, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 61
+  牧逸风(pid0) is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 1b: A(hp 62/62, def 1, qi 1) | B(hp 61/62, def 5, qi 2, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Decree - Defend (level 1)
+    lost 2 def. Now have 3 def
+    gained 9 def. Now have 9 def
+  谭舒雁(pid1) finished playing Heavenly Decree - Defend
+  STATE after turn 2a: A(hp 62/62, def 9, qi 1) | B(hp 61/62, def 3, qi 2, injury 1)
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 1 to 60
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 5 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 2b: A(hp 62/62, def 9, qi 1) | B(hp 60/62, def 1, qi 5, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 5 def. Now have 4 def
+  谭舒雁(pid1) is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Wind Hexagram
+  STATE after turn 3a: A(hp 62/62, def 4, qi 2, hex 1) | B(hp 60/62, def 1, qi 5, injury 1)
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 1 to 59
+  牧逸风(pid0) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  牧逸风(pid0) finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  STATE after turn 3b: A(hp 62/62, def 4, qi 2, hex 1) | B(hp 59/62, def 3, qi 5, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 2 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 52
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 牧逸风(pid0) hp by 7 to 45
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 4a: A(hp 62/62, def 2, qi 1) | B(hp 45/62, def 0, qi 5, injury 1)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 1 to 44
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  STATE after turn 4b: A(hp 62/62, def 2, qi 1) | B(hp 44/62, def 3, qi 5, injury 1)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 37
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 5a: A(hp 62/62, def 1, qi 0) | B(hp 37/62, def 0, qi 5, injury 1)
+turn 5a ends
+turn 5b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  reduced 牧逸风(pid0) hp by 1 to 36
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 15 to 47
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 5b: A(hp 47/62, def 1, qi 0, injury 1) | B(hp 36/62, def 3, qi 3, injury 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 46
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 35
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 6a: A(hp 46/62, def 1, qi 2, injury 1) | B(hp 35/62, def 0, qi 3, injury 1)
+turn 6a ends
+turn 6b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  reduced 牧逸风(pid0) hp by 1 to 34
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 12 to 34
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  STATE after turn 6b: A(hp 34/62, def 1, qi 2, injury 2) | B(hp 34/62, def 3, qi 2, injury 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 32
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 32/62, def 1, qi 2, injury 2) | B(hp 34/62, def 0, qi 2, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 1 to 33
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 25
+    gained 1 def. Now have 1 def
+    gained 7 def. Now have 7 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 7b: A(hp 25/62, def 1, qi 2, injury 2) | B(hp 33/62, def 7, qi 1, injury 1)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 23
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 4 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 23/62, def 1, qi 2, injury 2) | B(hp 33/62, def 4, qi 1, injury 1)
+turn 8a ends
+turn 8b begins
+  lost 2 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 1 to 32
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 21
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 21/62, def 1, qi 2, injury 2) | B(hp 32/62, def 2, qi 1, injury 1)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 19
+  gained 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 9a: A(hp 19/62, def 2, qi 3, injury 2) | B(hp 32/62, def 2, qi 1, injury 2)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 2 to 30
+  牧逸风(pid0) is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 6 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 9b: A(hp 19/62, def 2, qi 3, injury 2) | B(hp 30/62, def 6, qi 3, injury 2)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  reduced 谭舒雁(pid1) hp by 2 to 17
+  gained 1 def. Now have 2 def
+  谭舒雁(pid1) is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Wind Hexagram
+  STATE after turn 10a: A(hp 17/62, def 2, qi 4, injury 2, hex 1) | B(hp 30/62, def 6, qi 3, injury 2)
+turn 10a ends
+turn 10b begins
+  lost 3 def. Now have 3 def
+  reduced 牧逸风(pid0) hp by 2 to 28
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 6 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 10b: A(hp 17/62, def 2, qi 4, injury 2, hex 1) | B(hp 28/62, def 3, qi 6, injury 2)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 1 def
+  reduced 谭舒雁(pid1) hp by 2 to 15
+  gained 1 def. Now have 2 def
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    lost 3 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 21
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 牧逸风(pid0) hp by 7 to 14
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 11a: A(hp 15/62, def 2, qi 3, injury 2) | B(hp 14/62, def 0, qi 6, injury 2)
+turn 11a ends
+turn 11b begins
+  reduced 牧逸风(pid0) hp by 2 to 12
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 14 to 1
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 11b: A(hp 1/62, def 1, qi 3, injury 2) | B(hp 12/62, def 0, qi 4, injury 2)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to -1
+  gained 1 def. Now have 1 def
+  STATE after turn 12a: A(hp -1/62, def 1, qi 3, injury 2) | B(hp 12/62, def 0, qi 4, injury 2)
+turn 12a ends
+谭舒雁(pid1) loses 9 destiny, now at 81
+牧逸风(pid0) (Mu Yifeng) wins

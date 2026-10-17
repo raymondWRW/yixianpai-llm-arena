@@ -1,0 +1,170 @@
+turn 1a begins
+  吾行之(pid2) is playing Water Spirit Seal (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 3 qi. Now have 3 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 1a: A(hp 60/60, def 0, qi 3) | B(hp 53/58, def 0, qi 0, phys 5)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 3 to 50
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    reduced 吾行之(pid2) hp by 7 to 53
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 1b: A(hp 53/60, def 0, qi 3) | B(hp 50/58, def 2, qi 0, phys 5)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Heavenly Decree - Defend (level 1)
+    lost 2 def. Now have 0 def
+    gained 9 def. Now have 9 def
+  吾行之(pid2) finished playing Heavenly Decree - Defend
+  STATE after turn 2a: A(hp 53/60, def 9, qi 3) | B(hp 50/58, def 0, qi 0, phys 5)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 47
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 def. Now have 2 def
+    lost 7 def. Now have 2 def
+    gained 2 def. Now have 4 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 2b: A(hp 53/60, def 2, qi 3) | B(hp 47/58, def 4, qi 0, phys 5)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 6 to 41
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 小布(pid3) hp by 1 to 40
+  STATE after turn 3a: A(hp 53/60, def 1, qi 1) | B(hp 40/58, def 0, qi 0, phys 5)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 2 to 38
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 2 def. Now have 2 def
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 7 to 46
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 3b: A(hp 46/60, def 0, qi 1) | B(hp 38/58, def 2, qi 0, phys 5)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 1 increase_atk
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  lost 1 def. Now have 1 def
+  STATE after turn 4a: A(hp 46/60, def 0, qi 0) | B(hp 38/58, def 1, qi 0, phys 5)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 3 to 35
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+  healed 3 hp. Went from 35 to 38
+  小布(pid3) healed 3 hp from crash fist bounce
+    reduced 吾行之(pid2) hp by 9 to 37
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 4b: A(hp 37/60, def 0, qi 0) | B(hp 38/58, def 0, qi 0, phys 5)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+  吾行之(pid2) upgrades Earth Spirit - Smash (level 2) to Earth Spirit - Smash (level 3)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    reduced 小布(pid3) hp by 9 to 29
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  reduced 小布(pid3) hp by 1 to 28
+  STATE after turn 5a: A(hp 37/60, def 0, qi 0) | B(hp 28/58, def 0, qi 0, phys 5)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 吾行之(pid2) hp by 2 to 35
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 5b: A(hp 35/60, def 0, qi 0) | B(hp 28/58, def 0, qi 1, force 2, phys 5)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 24
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 1 to 23
+  STATE after turn 6a: A(hp 35/60, def 0, qi 0) | B(hp 23/58, def 0, qi 1, force 2, phys 5)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 18 to 17
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 6b: A(hp 17/60, def 0, qi 0) | B(hp 23/58, def 0, qi 0, force 1, injury 1, phys 5)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 19
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 1 to 18
+  STATE after turn 7a: A(hp 17/60, def 0, qi 0) | B(hp 18/58, def 0, qi 0, force 1, injury 1, phys 5)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 1 to 17
+  小布(pid3) is playing Normal Attack (level 1)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 3 to 14
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7b: A(hp 14/60, def 0, qi 0) | B(hp 17/58, def 0, qi 0, injury 1, phys 5)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 13
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 1 to 12
+  STATE after turn 8a: A(hp 14/60, def 0, qi 0) | B(hp 12/58, def 0, qi 0, injury 1, phys 5)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 1 to 11
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 11
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 8b: A(hp 11/60, def 0, qi 0) | B(hp 11/58, def 0, qi 0, injury 1, phys 5)
+turn 8b ends
+turn 9a begins
+  吾行之(pid2) is playing Water Spirit Seal (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 activate_water_spirit_stacks. Now have 3 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  reduced 小布(pid3) hp by 1 to 10
+  STATE after turn 9a: A(hp 11/60, def 0, qi 3) | B(hp 10/58, def 0, qi 0, injury 1, phys 5)
+turn 9a ends
+turn 9b begins
+  reduced 小布(pid3) hp by 1 to 9
+  reduced 小布(pid3) hp by 3 to 6
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    reduced 吾行之(pid2) hp by 9 to 2
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 9b: A(hp 2/60, def 0, qi 3) | B(hp 6/58, def 2, qi 0, injury 1, phys 5)
+turn 9b ends
+turn 10a begins
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to -3
+    gained 1 force_of_water. Now have 2 force_of_water
+  STATE after turn 10a: A(hp 2/60, def 0, qi 1) | B(hp -3/58, def 0, qi 0, injury 1, phys 5)
+turn 10a ends
+小布(pid3) loses 6 destiny, now at 79
+吾行之(pid2) (Wu Xingzhi) wins

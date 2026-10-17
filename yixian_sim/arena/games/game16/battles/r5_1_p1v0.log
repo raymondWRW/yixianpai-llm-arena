@@ -1,0 +1,186 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  谭舒雁(pid1) is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 1a: A(hp 53/53, def 0, qi 0) | B(hp 53/53, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 谭舒雁(pid1) hp by 4 to 49
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 1b: A(hp 49/53, def 0, qi 0) | B(hp 53/53, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 牧逸风(pid0) hp by 5 to 48
+    gained 1 qi. Now have 1 qi
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced 牧逸风(pid0) hp by 8 to 40
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 2a: A(hp 49/53, def 0, qi 1) | B(hp 40/53, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  reduced 谭舒雁(pid1) hp by 4 to 45
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 2b: A(hp 45/53, def 0, qi 1) | B(hp 40/53, def 5, qi 1)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 39
+    reduced 牧逸风(pid0) hp by 5 to 34
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3a: A(hp 45/53, def 0, qi 0) | B(hp 34/53, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 3b: A(hp 45/53, def 0, qi 0) | B(hp 34/53, def 4, qi 1, sword 2)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 33
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4a: A(hp 45/53, def 0, qi 0) | B(hp 33/53, def 0, qi 1, sword 2)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 35
+    gained 10 def. Now have 10 def
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 4b: A(hp 35/53, def 0, qi 0) | B(hp 33/53, def 10, qi 0)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 6 def. Now have 4 def
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 5a: A(hp 35/53, def 2, qi 0) | B(hp 33/53, def 4, qi 0)
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 2 def
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 28
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5b: A(hp 28/53, def 0, qi 0) | B(hp 33/53, def 2, qi 0)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+  STATE after turn 6a: A(hp 28/53, def 0, qi 1) | B(hp 33/53, def 2, qi 0)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 1 def
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 22
+    reduced 谭舒雁(pid1) hp by 5 to 17
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 6b: A(hp 17/53, def 0, qi 1) | B(hp 33/53, def 1, qi 0)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 25
+    reduced 牧逸风(pid0) hp by 5 to 20
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 7a: A(hp 17/53, def 0, qi 0) | B(hp 20/53, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 59 max_hp
+    healed 7 hp. Went from 20 to 27
+  牧逸风(pid0) finished playing Cure Formation
+  STATE after turn 7b: A(hp 17/53, def 0, qi 0) | B(hp 27/59, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 24
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 17/53, def 0, qi 0) | B(hp 24/59, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 14
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 14/53, def 0, qi 0) | B(hp 24/59, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 21
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 14/53, def 0, qi 0) | B(hp 21/59, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 9b: A(hp 14/53, def 0, qi 0) | B(hp 21/59, def 5, qi 1)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 10a: A(hp 14/53, def 0, qi 0) | B(hp 21/59, def 5, qi 1)
+turn 10a ends
+turn 10b begins
+  lost 3 def. Now have 2 def
+  牧逸风(pid0) is playing Sword Defence (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 10b: A(hp 14/53, def 0, qi 0) | B(hp 21/59, def 6, qi 1, sword 2)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    lost 5 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 14
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 11a: A(hp 14/53, def 0, qi 1) | B(hp 14/59, def 0, qi 1, sword 2)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 4
+    gained 10 def. Now have 10 def
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 11b: A(hp 4/53, def 0, qi 1) | B(hp 14/59, def 10, qi 0)
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    lost 6 def. Now have 4 def
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 13
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 12a: A(hp 4/53, def 0, qi 0) | B(hp 13/59, def 0, qi 0)
+turn 12a ends
+turn 12b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to -5
+  STATE after turn 12b: A(hp -5/53, def 0, qi 0) | B(hp 13/59, def 0, qi 0)
+turn 12b ends
+谭舒雁(pid1) loses 9 destiny, now at 96
+牧逸风(pid0) (Mu Yifeng) wins

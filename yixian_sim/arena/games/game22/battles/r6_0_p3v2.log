@@ -1,0 +1,135 @@
+gained 1 force. Now have 1 force
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 2 to 60
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 69/79, def 0, qi 1, force 2, phys 10) | B(hp 60/62, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  吾行之(pid2) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 69/79, def 0, qi 1, force 2, phys 10) | B(hp 60/62, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 12 physique
+    gained 2 max_hp. Now have 81 max_hp
+    healed 4 hp. Went from 69 to 73
+  小布(pid3) finished playing Embracing Qi Technique
+  STATE after turn 2a: A(hp 73/81, def 0, qi 2, force 2, phys 12) | B(hp 60/62, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 2b: A(hp 73/81, def 0, qi 2, force 2, injury 1, phys 12) | B(hp 60/62, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 1 to 72
+  小布(pid3) is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  小布(pid3) finished playing Fraccide Formation
+  STATE after turn 3a: A(hp 72/81, def 0, qi 2, force 2, injury 1, phys 12) | B(hp 60/62, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 12 to 60
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 3b: A(hp 60/81, def 0, qi 2, force 2, injury 2, phys 12) | B(hp 60/62, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 58
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 16 to 44
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 4a: A(hp 58/81, def 0, qi 1, force 3, injury 2, phys 12) | B(hp 44/62, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 12 to 46
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 4b: A(hp 46/81, def 0, qi 1, force 3, injury 2, phys 12) | B(hp 44/62, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 2 to 44
+  小布(pid3) spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    lost 1 force. Now have 2 force
+    reduced 吾行之(pid2) hp by 20 to 24
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 5a: A(hp 44/81, def 0, qi 1, force 2, injury 2, phys 12) | B(hp 24/62, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 1 ignore_def. Now have 0 ignore_def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 7 to 37
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 5b: A(hp 37/81, def 0, qi 1, force 2, injury 2, phys 12) | B(hp 24/62, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 2 to 35
+  reduced 小布(pid3) hp by 2 to 33
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 20 to 4
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 6a: A(hp 33/81, def 0, qi 0, force 1, injury 2, phys 12) | B(hp 4/62, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 小布(pid3) hp by 7 to 26
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 6b: A(hp 26/81, def 0, qi 0, force 1, injury 2, phys 12) | B(hp 4/62, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 2 to 24
+  小布(pid3) is playing Normal Attack (level 1)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 3 to 1
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7a: A(hp 24/81, def 0, qi 0, injury 2, phys 12) | B(hp 1/62, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 小布(pid3) hp by 8 to 16
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 7b: A(hp 16/81, def 0, qi 0, injury 2, phys 12) | B(hp 1/62, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 2 to 14
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to -2
+  STATE after turn 8a: A(hp 14/81, def 0, qi 0, injury 2, phys 12) | B(hp -2/62, def 0, qi 0)
+turn 8a ends
+吾行之(pid2) loses 10 destiny, now at 76
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,274 @@
+healed 5 hp. Went from 105 to 110
+reduced 谭舒雁(pid1) hp by 6 to 104
+gained 5 def. Now have 5 def
+turn 1a begins
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 32 physique
+    gained 1 max_hp. Now have 137 max_hp
+    healed 1 hp. Went from 104 to 105
+    gained 3 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1a: A(hp 105/137, def 0, qi 3, force 1, phys 32) | B(hp 105/105, def 5, qi 0)
+turn 1a ends
+turn 1b begins
+  lost 3 def. Now have 2 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    小布(pid3) downgrades Majestic Qi (level 2) to Majestic Qi (level 1)
+    gained 5 def. Now have 7 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 1b: A(hp 105/137, def 0, qi 3, force 1, phys 32) | B(hp 105/105, def 7, qi 2)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 4 force. Now have 5 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 2a: A(hp 105/137, def 0, qi 4, force 5, phys 32, agi 5) | B(hp 105/105, def 7, qi 2)
+turn 2a ends
+turn 2b begins
+  lost 4 def. Now have 3 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 2b: A(hp 105/137, def 0, qi 4, force 5, injury 4, phys 32, agi 5) | B(hp 105/105, def 3, qi 1)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 4 to 101
+  小布(pid3) is playing Elusive Footwork (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 2 agility. Now have 7 agility
+    gained 1 elusive_footwork_stacks. Now have 1 elusive_footwork_stacks
+  小布(pid3) finished playing Elusive Footwork
+  STATE after turn 3a: A(hp 101/137, def 0, qi 5, force 5, injury 4, phys 32, agi 7) | B(hp 105/105, def 3, qi 1)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 7 internal_injury
+    reduced 小布(pid3) hp by 7 to 94
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 3b: A(hp 94/137, def 0, qi 5, force 5, injury 7, phys 32, agi 7) | B(hp 105/105, def 1, qi 1)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 7 to 87
+  gained 1 qi. Now have 6 qi
+  gained 1 agility. Now have 8 agility
+  lost 1 qi. Now have 5 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 2 def. Now have 2 def
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 14 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 2 to 85
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 3 qi
+    gained 2 def. Now have 4 def
+    gained 2 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 5 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 24 to 81
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4a: A(hp 85/137, def 5, qi 3, force 5, injury 7, phys 32, agi 4) | B(hp 81/105, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 4b: A(hp 85/137, def 5, qi 3, force 5, injury 7, phys 32, agi 4) | B(hp 81/105, def 5, qi 1)
+turn 4b ends
+turn 5a begins
+  lost 3 def. Now have 2 def
+  reduced 小布(pid3) hp by 7 to 78
+  gained 1 qi. Now have 4 qi
+  gained 1 agility. Now have 5 agility
+  reduced 小布(pid3) hp by 4 to 74
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 71
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 5a: A(hp 74/137, def 2, qi 4, force 5, injury 7, phys 32, agi 5) | B(hp 71/105, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 70
+    gained 2 internal_injury. Now have 9 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 5b: A(hp 70/137, def 0, qi 4, force 5, injury 9, phys 32, agi 5) | B(hp 71/105, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 9 to 61
+  gained 1 qi. Now have 5 qi
+  gained 1 agility. Now have 6 agility
+  reduced 小布(pid3) hp by 4 to 57
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 6 to 65
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 6a: A(hp 57/137, def 0, qi 5, force 5, injury 9, phys 32, agi 6) | B(hp 65/105, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Cycle of Fate (level 2)
+    gained 12 max_hp. Now have 117 max_hp
+    healed 12 hp. Went from 65 to 77
+    gained 6 fate_reincarnates_stacks. Now have 6 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 6b: A(hp 57/137, def 0, qi 5, force 5, injury 9, phys 32, agi 6) | B(hp 77/117, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 9 to 48
+  gained 1 qi. Now have 6 qi
+  gained 1 agility. Now have 7 agility
+  reduced 小布(pid3) hp by 8 to 40
+  小布(pid3) spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 wound. Now have 1 wound
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 7 to 70
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shocked
+  STATE after turn 7a: A(hp 40/137, def 0, qi 6, force 4, injury 9, phys 32, agi 7) | B(hp 70/117, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Great Spirit (level 2). They now have 1/2 qi
+  STATE after turn 7b: A(hp 40/137, def 0, qi 6, force 4, injury 9, phys 32, agi 7) | B(hp 70/117, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 9 to 31
+  gained 1 qi. Now have 7 qi
+  gained 1 agility. Now have 8 agility
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 1 physique. Now have 33 physique
+    gained 1 max_hp. Now have 138 max_hp
+    healed 1 hp. Went from 31 to 32
+    gained 2 qi. Now have 9 qi
+    gained 1 force. Now have 5 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 8a: A(hp 32/138, def 0, qi 9, force 5, injury 9, phys 33, agi 8) | B(hp 70/117, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) gained qi instead of playing Great Spirit (level 2). They now have 2/2 qi
+  STATE after turn 8b: A(hp 32/138, def 0, qi 9, force 5, injury 9, phys 33, agi 8) | B(hp 70/117, def 0, qi 2)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 9 to 23
+  gained 1 qi. Now have 10 qi
+  gained 1 agility. Now have 9 agility
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 11 qi
+    gained 10 def. Now have 10 def
+    gained 11 force. Now have 6 force
+    gained 5 agility. Now have 14 agility
+  小布(pid3) finished playing Surging Waves
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 10 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 def. Now have 13 def
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 10 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 9a: A(hp 23/138, def 13, qi 10, force 6, injury 9, phys 33, agi 10) | B(hp 70/117, def 0, qi 2)
+turn 9a ends
+turn 9b begins
+  lost 2 qi. Now have 0 qi
+  谭舒雁(pid1) spent 2 qi to play Great Spirit (level 2)
+    gained 16 max_hp. Now have 133 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 70 to 74
+    gained 5 def. Now have 9 def
+    gained 5 def. Now have 14 def
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 9b: A(hp 23/138, def 13, qi 10, force 6, injury 9, phys 33, agi 10) | B(hp 74/133, def 14, qi 0)
+turn 9b ends
+turn 10a begins
+  lost 7 def. Now have 6 def
+  reduced 小布(pid3) hp by 9 to 14
+  gained 1 qi. Now have 11 qi
+  gained 1 agility. Now have 11 agility
+  reduced 小布(pid3) hp by 2 to 12
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 9 qi
+    gained 2 def. Now have 8 def
+    gained 2 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 9 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 14 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 12 to 62
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 4 to 8
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 23 to 39
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    Attacking for 21 from crash fist - shocked effect.
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 32 to 7
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 10a: A(hp 8/138, def 9, qi 9, force 4, injury 9, phys 33, agi 1) | B(hp 7/133, def 0, qi 0)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    lost 6 def. Now have 3 def
+    gained 5 def. Now have 5 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 10b: A(hp 8/138, def 3, qi 9, force 4, injury 9, phys 33, agi 1) | B(hp 7/133, def 5, qi 2)
+turn 10b ends
+turn 11a begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 9 to -1
+  gained 1 qi. Now have 10 qi
+  gained 1 agility. Now have 2 agility
+  STATE after turn 11a: A(hp -1/138, def 1, qi 10, force 4, injury 9, phys 33, agi 2) | B(hp 7/133, def 5, qi 2)
+turn 11a ends
+小布(pid3) loses 19 destiny, now at -13
+谭舒雁(pid1) (Tan Shuyan) wins

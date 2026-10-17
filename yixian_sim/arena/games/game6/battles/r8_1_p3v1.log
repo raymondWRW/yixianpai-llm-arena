@@ -1,0 +1,136 @@
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 24 physique
+    gained 2 max_hp. Now have 94 max_hp
+    healed 4 hp. Went from 70 to 74
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  player 0 is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 69
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Shifting Stars
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 2 to 67
+  player 0 spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 21 to 59
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mighty Force
+turn 3a ends
+turn 3b begins
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 3 star_power
+  player 0 finished playing Starry Moon
+turn 3b ends
+turn 4a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced player 1 hp by 16 to 43
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 5 force
+  player 0 finished playing Vigorous Force
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 10 to 57
+    reduced player 1 hp by 10 to 47
+  player 0 finished playing Astral Move - Flank
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 3 to 44
+  player 0 spent 3 hp to play Crash Fist - Block (level 1)
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 10 to 33
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 5a ends
+turn 5b begins
+  player 0 is playing Astral Move - Stand (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 9 to 35
+    gained 2 qi. Now have 4 qi
+  player 0 finished playing Astral Move - Stand
+turn 5b ends
+turn 6a begins
+  reduced player 0 hp by 4 to 31
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 2 def. Now have 2 def
+    lost 1 force. Now have 3 force
+    reduced player 1 hp by 14 to 19
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 6a ends
+turn 6b begins
+  player 0 is playing Astral Move - Block (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 24
+    gained 2 def. Now have 2 def
+  player 0 finished playing Astral Move - Block
+turn 6b ends
+turn 7a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 1 force. Now have 2 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 14 to 5
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 7a ends
+turn 7b begins
+  player 0 is playing Drag Moon In Sea (level 1)
+  player 0 finished playing Drag Moon In Sea
+turn 7b ends
+turn 8a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 1)
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 12 to -7
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+turn 8a ends
+player 1 loses 14 destiny, now at 63
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Majestic Qi (level 1)
+  Mighty Force (level 1)
+  Vigorous Force (level 2)
+  Crash Fist - Block (level 1)
+  Crash Fist - Shake (level 1)
+  Mountain-Cleaving Palms (level 2)
+  Mountain-Cleaving Palms (level 1)
+Player 1's deck:
+  Dotted Around (level 2)
+  Shifting Stars (level 1)
+  Starry Moon (level 1)
+  Astral Move - Flank (level 2)
+  Astral Move - Stand (level 2)
+  Astral Move - Block (level 1)
+  Drag Moon In Sea (level 1)
+  Cutting Weeds (level 1)

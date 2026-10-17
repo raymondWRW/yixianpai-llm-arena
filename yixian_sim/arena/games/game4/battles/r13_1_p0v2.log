@@ -1,0 +1,308 @@
+turn 1a begins
+  player 0 is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Earth Spirit - Dust (level 1)
+    reduced player 1 hp by 8 to 119
+  player 0 finished playing Earth Spirit - Dust
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 1 to 106
+  player 0 is playing Earth Spirit Seal (level 2)
+    reduced player 1 hp by 5 to 114
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  player 0 is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  player 0 finished playing Hexproof Formation
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 3 def
+  reduced player 0 hp by 2 to 104
+  player 0 is playing Water Spirit Seal (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+  player 0 finished playing Water Spirit Seal
+turn 3b ends
+turn 4a begins
+  lost 5 def. Now have 5 def
+  player 0 is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 2 to 102
+  player 0 is playing Scutturtle Formation (level 2)
+    gained 6 scutturtle_formation_stacks. Now have 6 scutturtle_formation_stacks
+  player 0 finished playing Scutturtle Formation
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 5 scutturtle_formation_stacks
+turn 4b ends
+turn 5a begins
+  lost 3 def. Now have 2 def
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 17 to 85
+  player 0 finished playing Giant Whale Spirit Sword
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 2 to 83
+  player 0 is playing Water Spirit - Great Waves (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 2 max_hp. Now have 109 max_hp
+    healed 2 hp. Went from 83 to 85
+    gained 2 force_of_water. Now have 2 force_of_water
+  player 0 finished playing Water Spirit - Great Waves
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  lost 2 def. Now have 0 def
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 10 to 75
+    gained 10 def. Now have 10 def
+  player 0 finished playing Earth Evil Sword
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 2 to 73
+  player 0 is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  lost 2 def. Now have 8 def
+turn 6b ends
+turn 7a begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 2 to 71
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 9 to 105
+    gained 1 force_of_water. Now have 3 force_of_water
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 100
+  player 0 finished playing Water Spirit - Waves
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  reduced player 1 hp by 3 to 97
+turn 7b ends
+turn 8a begins
+  player 0 is playing Scutturtle Formation (level 2)
+    gained 6 scutturtle_formation_stacks. Now have 6 scutturtle_formation_stacks
+  player 0 finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 5 scutturtle_formation_stacks
+turn 8a ends
+turn 8b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 2 to 69
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Water Spirit - Turbulent (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 10 to 87
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 82
+  player 0 finished playing Water Spirit - Turbulent
+  gained 3 def. Now have 5 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  reduced player 1 hp by 3 to 79
+turn 8b ends
+turn 9a begins
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  player 0 finished playing Transforming Spirits Rhythm
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  reduced player 0 hp by 2 to 67
+  player 0 is playing Earth Spirit - Dust (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 74
+    gained 4 def. Now have 6 def
+    gained 4 next_turn_def. Now have 4 next_turn_def
+  player 0 finished playing Earth Spirit - Dust
+  gained 3 def. Now have 9 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  reduced player 1 hp by 3 to 71
+turn 9b ends
+turn 10a begins
+  player 0 is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 6 hexproof
+    gained 10 def. Now have 10 def
+  player 0 finished playing Hexproof Formation
+  gained 3 def. Now have 13 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 4 def
+  lost 4 next_turn_def. Now have 0 next_turn_def
+  gained 4 def. Now have 8 def
+  reduced player 0 hp by 2 to 65
+  player 0 is playing Earth Spirit Seal (level 2)
+    lost 5 def. Now have 8 def
+    gained 6 def. Now have 14 def
+    gained 1 activate_earth_spirit_stacks. Now have 2 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+  lost 3 def. Now have 5 def
+turn 10b ends
+turn 11a begins
+  lost 3 def. Now have 2 def
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    lost 14 def. Now have 0 def
+    reduced player 1 hp by 12 to 53
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 48
+  player 0 finished playing Giant Whale Spirit Sword
+  gained 3 def. Now have 5 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 2 to 46
+  player 0 is playing Water Spirit Seal (level 2)
+    gained 3 qi. Now have 5 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  player 0 finished playing Water Spirit Seal
+  lost 3 def. Now have 2 def
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Earth Evil Sword (level 1)
+    reduced player 1 hp by 8 to 38
+    gained 8 def. Now have 9 def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 33
+  player 0 finished playing Earth Evil Sword
+  gained 3 def. Now have 12 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+turn 12a ends
+turn 12b begins
+  reduced player 0 hp by 2 to 31
+  player 0 is playing Water Spirit - Great Waves (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 2 max_hp. Now have 111 max_hp
+    healed 2 hp. Went from 31 to 33
+    gained 3 force_of_water. Now have 6 force_of_water
+  player 0 finished playing Water Spirit - Great Waves
+  lost 6 def. Now have 6 def
+turn 12b ends
+turn 13a begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 6 qi
+  player 0 finished playing Transforming Spirits Rhythm
+  gained 3 def. Now have 6 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+turn 13a ends
+turn 13b begins
+  reduced player 0 hp by 2 to 31
+  lost 2 qi. Now have 5 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 7 to 64
+    gained 1 force_of_water. Now have 7 force_of_water
+  player 0 finished playing Water Spirit - Waves
+  reduced player 1 hp by 7 to 57
+turn 13b ends
+turn 14a begins
+  player 0 is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 9 hexproof
+    gained 10 def. Now have 10 def
+  player 0 finished playing Hexproof Formation
+turn 14a ends
+turn 14b begins
+  reduced player 0 hp by 2 to 29
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Water Spirit - Turbulent (level 1)
+    lost 10 def. Now have 0 def
+    reduced player 1 hp by 7 to 50
+  player 0 finished playing Water Spirit - Turbulent
+  reduced player 1 hp by 7 to 43
+turn 14b ends
+turn 15a begins
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced player 1 hp by 16 to 13
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 8
+  player 0 finished playing Giant Whale Spirit Sword
+turn 15a ends
+turn 15b begins
+  reduced player 0 hp by 2 to 6
+  player 0 is playing Earth Spirit - Dust (level 1)
+    reduced player 1 hp by 8 to 35
+    gained 4 def. Now have 4 def
+    gained 4 next_turn_def. Now have 4 next_turn_def
+  player 0 finished playing Earth Spirit - Dust
+  reduced player 1 hp by 7 to 28
+turn 15b ends
+turn 16a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Earth Evil Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 4 to 2
+    gained 4 def. Now have 4 def
+  player 0 finished playing Earth Evil Sword
+turn 16a ends
+turn 16b begins
+  lost 4 next_turn_def. Now have 0 next_turn_def
+  gained 4 def. Now have 4 def
+  reduced player 0 hp by 2 to 0
+turn 16b ends
+player 1 loses 19 destiny, now at 2
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Cacopoisonous Formation (level 1)
+  Transforming Spirits Rhythm (level 2)
+  Hexproof Formation (level 1)
+  Fraccide Formation (level 2)
+  Giant Whale Spirit Sword (level 1)
+  Earth Evil Sword (level 1)
+  Endless Sword Formation (level 2)
+  Scutturtle Formation (level 2)
+Player 1's deck:
+  Earth Spirit - Dust (level 1)
+  Earth Spirit Seal (level 2)
+  Water Spirit Seal (level 2)
+  Scutturtle Formation (level 2)
+  Water Spirit - Great Waves (level 1)
+  Endless Sword Formation (level 1)
+  Water Spirit - Waves (level 2)
+  Water Spirit - Turbulent (level 1)

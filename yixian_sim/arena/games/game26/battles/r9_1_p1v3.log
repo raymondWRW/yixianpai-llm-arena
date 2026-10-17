@@ -1,0 +1,150 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 75
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 1a: A(hp 78/78, def 0, qi 0) | B(hp 75/89, def 0, qi 0, phys 11)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Gather Force (level 2)
+    gained 1 physique. Now have 12 physique
+    gained 1 max_hp. Now have 90 max_hp
+    healed 1 hp. Went from 75 to 76
+    reduced 谭舒雁(pid1) hp by 5 to 73
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 73/78, def 0, qi 0) | B(hp 76/90, def 0, qi 1, force 2, phys 12)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 73
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 2a: A(hp 73/78, def 0, qi 0) | B(hp 73/90, def 0, qi 1, force 2, phys 12)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 4 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 2b: A(hp 73/78, def 0, qi 0) | B(hp 73/90, def 0, qi 2, force 4, phys 12, agi 5)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 70
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 3a: A(hp 73/78, def 0, qi 0) | B(hp 70/90, def 0, qi 2, force 4, phys 12, agi 5)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  小布(pid3) finished playing Fraccide Formation
+  STATE after turn 3b: A(hp 73/78, def 0, qi 0) | B(hp 70/90, def 0, qi 2, force 4, phys 12, agi 5)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 67
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 4a: A(hp 73/78, def 0, qi 0) | B(hp 67/90, def 0, qi 2, force 4, phys 12, agi 5)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  小布(pid3) finished playing Endless Sword Formation
+  STATE after turn 4b: A(hp 73/78, def 0, qi 0) | B(hp 67/90, def 0, qi 2, force 4, phys 12, agi 5)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 64
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 5a: A(hp 73/78, def 0, qi 0) | B(hp 64/90, def 0, qi 2, force 4, phys 12, agi 5)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 18 to 55
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 5 force
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 12 to 43
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 5b: A(hp 43/78, def 0, qi 0) | B(hp 64/90, def 0, qi 1, force 4, phys 12, agi 5)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 61
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 43/78, def 0, qi 0) | B(hp 61/90, def 0, qi 1, force 4, phys 12, agi 5)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Rakshasa Pouncing (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 19 to 24
+    gained 1 qi. Now have 2 qi
+    gained 1 wound. Now have 1 wound
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 6 to 18
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 6b: A(hp 18/78, def 0, qi 0) | B(hp 61/90, def 0, qi 2, force 2, phys 12, agi 5)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 57
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 18/78, def 0, qi 0) | B(hp 57/90, def 0, qi 2, force 2, phys 12, agi 5)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Ghost Howling (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 16 to 2
+    gained 3 weaken. Now have 3 weaken
+  小布(pid3) finished playing Ghost Howling
+  lost 1 weaken. Now have 2 weaken
+  STATE after turn 7b: A(hp 2/78, def 0, qi 0) | B(hp 57/90, def 0, qi 1, force 1, phys 12, agi 5)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 53
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 2/78, def 0, qi 0) | B(hp 53/90, def 0, qi 1, force 1, phys 12, agi 5)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Standing Firm (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 force. Now have 4 force
+    lost 1 qi. Now have 0 qi
+    healed 5 hp. Went from 53 to 58
+  小布(pid3) finished playing Standing Firm
+  lost 1 weaken. Now have 1 weaken
+  STATE after turn 8b: A(hp 2/78, def 0, qi 0) | B(hp 58/90, def 5, qi 0, force 4, phys 12, agi 5)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 2/78, def 0, qi 0) | B(hp 58/90, def 2, qi 0, force 4, phys 12, agi 5)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Gather Force (level 2)
+    gained 1 physique. Now have 13 physique
+    gained 1 max_hp. Now have 91 max_hp
+    healed 1 hp. Went from 58 to 59
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 5 to -3
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 5 force
+  STATE after turn 9b: A(hp -3/78, def 0, qi 0) | B(hp 59/91, def 1, qi 1, force 5, phys 13, agi 5)
+turn 9b ends
+谭舒雁(pid1) loses 18 destiny, now at 71
+小布(pid3) (Xiao Bu) wins

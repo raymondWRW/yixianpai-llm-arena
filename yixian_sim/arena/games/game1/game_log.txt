@@ -1,0 +1,223 @@
+ARENA GAME 1 seed=201 model=deepseek-chat
+R1 pid0 dealt: 云剑·探云, 轻剑, 云剑·探云, 轻剑, 剑挡
+R1 pid1 dealt: 白鹤亮翅, 坤卦, 揽雀尾, 坤卦, 野马分鬃
+R1 pid2 dealt: 金灵印, 木灵·芽, 金灵印, 土灵·碎, 土灵·碎
+R1 pid3 dealt: 崩拳·弹, 千斤坠, 崩拳·弹, 锻拳, 锻拳
+R1 pid3 小布 acted (15s): board = ['崩拳·弹', '崩拳·弹', '锻拳']
+R1 pid1 谭舒雁 acted (50s): merged -> 坤卦+1 (+1 修为 = 1); board = ['坤卦+1', '白鹤亮翅', '揽雀尾']
+R1 pid0 牧逸风 acted (17s): merged -> 云剑·探云+1 (+1 修为 = 1); merged -> 轻剑+1 (+1 修为 = 2); board = ['剑挡', '轻剑+1', '云剑·探云+1']
+R1 pid2 吾行之 acted (34s): merged -> 金灵印+1 (+1 修为 = 1); merged -> 土灵·碎+1 (+1 修为 = 2); board = ['金灵印+1', '土灵·碎+1', '木灵·芽']
+  battle pid1(first) vs pid3: winner pid3 loser pid1 -2命 turns=9
+  battle pid2(first) vs pid0: winner pid2 loser pid0 -3命 turns=11
+R1 standings: pid0:97, pid1:98, pid2:100, pid3:100
+R2 pid0 dealt: 灵气灌注, 巨虎灵剑, 剑枝竹
+R2 pid1 dealt: 巽卦, 白鹤亮翅, 察体
+R2 pid2 dealt: 金灵印, 土灵·碎, 天谕·攻
+R2 pid3 dealt: 崩拳·弹, 抱气法, 研墨
+R2 pid2 吾行之 acted (59s): sidejob -> 7; board = ['金灵印+1', '金灵印', '土灵·碎+1', '木灵·芽']
+R2 pid0 牧逸风 acted (94s): rolled 灵气灌注 -> 轻剑; rolled 轻剑 -> 云剑·厚土; rolled 剑枝竹 -> 飞牙剑; rolled 云剑·厚土 -> 护身灵气; rolled 护身灵气 -> 云剑·探云; board = ['剑挡', '飞牙剑', '巨虎灵剑', '云剑·探云+1']; sidejob -> 1
+R2 pid1 谭舒雁 acted (45s): sidejob -> 7; board = ['坤卦+1', '白鹤亮翅', '野马分鬃', '揽雀尾']; took back 白鹤亮翅; merged -> 白鹤亮翅+1 (+1 修为 = 4); board = ['坤卦+1', '白鹤亮翅+1', '野马分鬃', '揽雀尾']; rolled 巽卦 -> 野马分鬃; rolled 野马分鬃 -> 野马分鬃
+R2 pid3 小布 acted (128s): sidejob -> 1; board = ['崩拳·弹', '崩拳·弹', '崩拳·弹', '锻拳']; rolled 千斤坠 -> 崩拳·封; rolled 研墨 -> 劈山掌; rolled 崩拳·封 -> 练笔; rolled 练笔 -> 抱气法 | 练笔[置换]: 换牌机会+2; merged -> 抱气法+1 (+1 修为 = 3); board = ['崩拳·弹', '崩拳·弹', '锻拳', '抱气法+1']; took back 锻拳; merged -> 锻拳+1 (+1 修为 = 4); board = ['崩拳·弹', '崩拳·弹', '锻拳+1', '抱气法+1']; rolled 劈山掌 -> 崩拳·戳
+  battle pid0(first) vs pid3: winner pid3 loser pid0 -4命 turns=10
+  battle pid2(first) vs pid1: winner pid1 loser pid2 -4命 turns=10
+R2 standings: pid0:93, pid1:98, pid2:96, pid3:100
+R3 pid0 dealt: 震雷剑, 云剑·探云, 归元草
+R3 pid1 dealt: 揽雀尾, 坤卦, 天谕·攻
+R3 pid2 dealt: 五行刺, 木灵印, 天谕·守
+R3 pid3 dealt: 罗刹扑, 崩拳·戳, 调色
+R3 pid0 牧逸风 acted (35s): merged -> 云剑·探云+1 (+1 修为 = 7); board = ['剑挡', '飞牙剑', '震雷剑', '巨虎灵剑', '云剑·探云+1']; absorbed 归元草: 修为 7->8
+R3 pid2 吾行之 acted (79s): rolled 五行刺 -> 土灵印; rolled 天谕·攻 -> 卜命; rolled 卜命 -> 天谕·守; rolled 天谕·守 -> 火灵印; board = ['金灵印+1', '木灵印', '金灵印', '土灵·碎+1', '木灵·芽']
+R3 pid1 谭舒雁 acted (84s): took back 野马分鬃; took back 揽雀尾; merged -> 野马分鬃+1 (+1 修为 = 7); merged -> 揽雀尾+1 (+1 修为 = 8); rolled 察体 -> 斗转星移; rolled 斗转星移 -> 掌心雷; rolled 掌心雷 -> 斗转星移; rolled 斗转星移 -> 星弈·夹; rolled 星弈·夹 -> 星罗棋布; rolled 星罗棋布 -> 巽卦; rolled 巽卦 -> 卜命; board = ['坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '天谕·攻']; absorbed 卜命: 修为 8->9
+R3 pid3 小布 acted (39s): merged -> 崩拳·戳+1 (+1 修为 = 7); took back 崩拳·弹; merged -> 崩拳·弹+1 (+1 修为 = 8); board = ['崩拳·戳+1', '崩拳·弹+1', '崩拳·弹', '锻拳+1', '抱气法+1']; rolled 罗刹扑 -> 血气方刚; rolled 调色 -> 练笔; rolled 练笔 -> 起势 | 练笔[置换]: 换牌机会+2; absorbed 血气方刚: 修为 8->9; absorbed 起势: 修为 9->10
+  battle pid3(first) vs pid1: winner pid1 loser pid3 -6命 turns=7
+  battle pid0(first) vs pid2: winner pid0 loser pid2 -4命 turns=10
+R3 standings: pid0:93, pid1:98, pid2:92, pid3:94
+R4 pid0 dealt: 云剑·飞刺, 灵气灌注, 归元草
+R4 pid1 dealt: 坤卦, 掌心雷, 天谕·攻
+R4 pid2 dealt: 木灵·芽, 金灵印, 天谕·攻
+R4 pid3 dealt: 锻拳, 罗刹扑, 练笔
+  pid2 天命@境2 picked 1:锻体 from [(82, '五行印记'), (1, '锻体'), (59, '陨星淬体'), (74, '木灵传承')]
+R4 pid2 吾行之 acted (105s): took back 金灵印; merged -> 金灵印+1 (+1 修为 = 9); took back 金灵印+1; took back 木灵印; took back 木灵·芽; merged -> 金灵印+2 (+1 修为 = 10); merged -> 木灵印+1 (+1 修为 = 11); merged -> 木灵·芽+1 (+1 修为 = 12); BREAKTHROUGH 境1->境2; HP 56; 体魄 0/21; 天命 ['战斗历练', '锻体']; board = ['木灵印+1', '天谕·攻', '金灵印+2', '土灵·碎+1', '木灵·芽+1', '土灵·碎']; rolled 天谕·守 -> 火灵印; merged -> 火灵印+1 (+1 修为 = 13); rolled 土灵印 -> 火灵·赤焰; board = ['木灵印+1', '天谕·攻', '金灵印+2', '土灵·碎+1', '木灵·芽+1', '火灵·赤焰']; rolled 土灵·碎 -> 土灵·碎; rolled 土灵·碎 -> 探灵
+  pid3 天命@境2 default 146:体修入道 from [(152, '锻体不息'), (118, '稳固根基'), (9, '云巅雷劫'), (146, '体修入道')]
+R4 pid3 小布 acted (96s): merged -> 罗刹扑+1 (+1 修为 = 13); BREAKTHROUGH 境1->境2; HP 51; 体魄 12/23; 天命 ['磨砺不止', '体修入道']; rolled 练笔 -> 练笔 | 练笔[置换]: 换牌机会+2; rolled 练笔 -> 罗刹扑 | 练笔[置换]: 换牌机会+2; rolled 罗刹扑 -> 锻拳; rolled 锻拳 -> 锻筋; board = ['崩拳·戳+1', '崩拳·弹+1', '锻拳+1', '抱气法+1', '锻筋', '罗刹扑+1']
+  pid1 天命@境2 default 59:陨星淬体 from [(63, '飞鸿踏雪'), (4, '感悟丛生'), (9, '云巅雷劫'), (59, '陨星淬体')]
+R4 pid1 谭舒雁 acted (34s): merged -> 坤卦+1 (+1 修为 = 12); merged -> 天谕·攻+1 (+1 修为 = 13); BREAKTHROUGH 境1->境2; HP 57; 体魄 0/21; 天命 ['勤学苦练', '陨星淬体']; board = ['坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '天谕·攻+1', '坤卦+1']; absorbed 掌心雷: 修为 13->14
+  pid0 天命@境2 default 118:稳固根基 from [(66, '剑不出鞘'), (119, '剑池问心'), (118, '稳固根基'), (9, '云巅雷劫')]
+R4 pid0 牧逸风 acted (66s): took back 云剑·探云+1; merged -> 云剑·探云+2 (+1 修为 = 11); BREAKTHROUGH 境1->境2; HP 57; 体魄 0/20; 天命 ['云雾变幻', '稳固根基']; merged -> 归元草+1 (+1 修为 = 11); absorbed 归元草+1: 修为 11->12; absorbed 灵气灌注: 修为 12->13; rolled 轻剑+1 -> 巨虎灵剑; took back 巨虎灵剑; merged -> 巨虎灵剑+1 (+1 修为 = 14); board = ['剑挡', '飞牙剑', '震雷剑', '巨虎灵剑+1', '云剑·探云+2', '云剑·飞刺']
+  battle pid1(first) vs pid2: winner pid1 loser pid2 -9命 turns=12
+  battle pid0(first) vs pid3: winner pid0 loser pid3 -6命 turns=8
+R4 standings: pid0:99, pid1:94, pid2:83, pid3:88
+R5 pid0 dealt: 地煞剑, 巨鲸灵剑, 神秘种子
+R5 pid1 dealt: 震卦, 星弈·点, 凶象
+R5 pid2 dealt: 木灵·复苏, 水灵印, 探灵
+R5 pid3 dealt: 抱气法, 崩拳·突, 调色
+R5 pid2 吾行之 acted (79s): merged -> 探灵+1 (+1 修为 = 16); rolled 水灵印 -> 天谕·攻; took back 天谕·攻; merged -> 天谕·攻+1 (+1 修为 = 17); rolled 木灵·复苏 -> 金灵·针; board = ['火灵印+1', '金灵印+2', '天谕·攻+1', '土灵·碎+1', '木灵·芽+1', '木灵印+1', '火灵·赤焰']; rolled 金灵·针 -> 浑天印; rolled 浑天印 -> 水灵·汹涌; rolled 水灵·汹涌 -> 金灵·穿心; rolled 金灵·穿心 -> 凶象; rolled 凶象 -> 天运·趋吉; absorbed 天运·趋吉: 修为 17->18
+R5 pid3 小布 acted (38s): rolled 调色 -> 势大力沉; board = ['崩拳·戳+1', '崩拳·弹+1', '崩拳·突', '锻拳+1', '抱气法+1', '锻筋', '罗刹扑+1']
+R5 pid0 牧逸风 acted (85s): rolled 地煞剑 -> 狂剑·一式; rolled 狂剑·一式 -> 失力草; rolled 巨鲸灵剑 -> 地煞剑; rolled 神秘种子 -> 护身灵气; absorbed 地煞剑: 修为 16->17; absorbed 失力草: 修为 17->18; rolled 护身灵气 -> 云剑·极意; board = ['剑挡', '飞牙剑', '震雷剑', '巨虎灵剑+1', '云剑·探云+2', '云剑·极意', '云剑·飞刺']
+R5 pid1 谭舒雁 acted (52s): board = ['坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '天谕·攻+1', '坤卦+1', '星弈·点']; rolled 震卦 -> 天谕·守; rolled 凶象 -> 飞星刺; absorbed 飞星刺: 修为 16->17; rolled 天谕·攻 -> 白鹤亮翅; rolled 天谕·守 -> 飞星刺; rolled 飞星刺 -> 气贯长虹
+  battle pid2(first) vs pid0: winner pid2 loser pid0 -9命 turns=10
+  battle pid1(first) vs pid3: winner pid3 loser pid1 -6命 turns=9
+R5 standings: pid0:90, pid1:88, pid2:83, pid3:88
+R6 pid0 dealt: 引气剑, 形意剑, 金梭兰
+R6 pid1 dealt: 揽雀尾, 星弈·立, 探灵
+R6 pid2 dealt: 浑天印, 金灵阵, 天运·趋吉
+R6 pid3 dealt: 风冥爪, 浩然正气, 练笔
+R6 pid3 小布 acted (149s): board = ['崩拳·戳+1', '崩拳·弹+1', '崩拳·突', '锻拳+1', '抱气法+1', '锻筋', '罗刹扑+1', '势大力沉']; rolled 练笔 -> 破空爪 | 练笔[置换]: 换牌机会+2; rolled 破空爪 -> 画蛇添足; absorbed 画蛇添足: 修为 17->18; rolled 风冥爪 -> 千斤坠; rolled 浩然正气 -> 夜鬼啸; absorbed 千斤坠: 修为 18->19; absorbed 夜鬼啸: 修为 19->20; rolled 崩拳·弹 -> 笔走龙蛇; rolled 笔走龙蛇 -> 崩拳·撼; board = ['崩拳·撼', '崩拳·戳+1', '崩拳·弹+1', '崩拳·突', '锻拳+1', '抱气法+1', '锻筋', '势大力沉']; rolled 罗刹扑+1 -> 浩然正气; rolled 浩然正气 -> 锻筋; took back 锻筋; merged -> 锻筋+1 (+1 修为 = 21); board = ['崩拳·撼', '崩拳·戳+1', '崩拳·弹+1', '崩拳·突', '锻拳+1', '抱气法+1', '锻筋+1', '势大力沉']; rolled 抱气法 -> 起势; absorbed 起势: 修为 21->22; rolled 锻拳 -> 练笔; rolled 练笔 -> 锻筋 | 练笔[置换]: 换牌机会+2; rolled 锻筋 -> 气沉丹田; absorbed 气沉丹田: 修为 22->23
+R6 pid2 吾行之 acted (52s): absorbed 天运·趋吉: 修为 20->21; rolled 金灵阵 -> 凶象; rolled 凶象 -> 火灵·聚炎; board = ['火灵印+1', '金灵印+2', '浑天印', '天谕·攻+1', '土灵·碎+1', '木灵·芽+1', '木灵印+1', '火灵·赤焰']; rolled 火灵·聚炎 -> 天运·趋吉; rolled 探灵+1 -> 浑天印; took back 浑天印; absorbed 天运·趋吉: 修为 21->22; merged -> 浑天印+1 (+1 修为 = 23); board = ['火灵印+1', '金灵印+2', '浑天印+1', '天谕·攻+1', '土灵·碎+1', '木灵·芽+1', '木灵印+1', '火灵·赤焰']
+R6 pid0 牧逸风 acted (53s): absorbed 金梭兰: 修为 20->21; absorbed 引气剑: 修为 21->22; absorbed 形意剑: 修为 22->23; board = ['剑挡', '飞牙剑', '震雷剑', '巨虎灵剑+1', '云剑·探云+2', '云剑·极意', '云剑·飞刺']
+R6 pid1 谭舒雁 acted (32s): absorbed 探灵: 修为 19->20; board = ['坤卦+1', '白鹤亮翅+1', '揽雀尾+1', '野马分鬃+1', '天谕·攻+1', '坤卦+1', '星弈·点', '星弈·立']; absorbed 揽雀尾: 修为 20->21; rolled 气贯长虹 -> 气贯长虹
+  battle pid0(first) vs pid1: winner pid1 loser pid0 -10命 turns=10
+  battle pid2(first) vs pid3: winner pid2 loser pid3 -8命 turns=6
+R6 standings: pid0:80, pid1:88, pid2:83, pid3:80
+R7 pid0 dealt: 巨虎灵剑, 云剑·无锋, 归元草
+R7 pid1 dealt: 星罗棋布, 斩草除根, 察体
+R7 pid2 dealt: 土灵·群山, 火灵·窜, 察体
+R7 pid3 dealt: 千斤坠, 血气方刚, 画饼充饥
+  pid2 天命@境3 default 12:顿悟 from [(81, '悠然葫芦'), (76, '火灵传承'), (59, '陨星淬体'), (12, '顿悟')]
+R7 pid2 吾行之 acted (50s): BREAKTHROUGH 境2->境3; HP 69; 体魄 0/36; 天命 ['战斗历练', '锻体', '顿悟']; board = ['察体', '火灵印+1', '金灵印+2', '浑天印+1', '天谕·攻+1', '土灵·碎+1', '木灵·芽+1', '火灵·赤焰']; absorbed 火灵·窜: 修为 28->29; rolled 土灵·群山 -> 金灵阵; absorbed 金灵阵: 修为 29->30
+  pid1 天命@境3 default 12:顿悟 from [(64, '雪羽清风'), (30, '卜卦'), (12, '顿悟'), (58, '星弈传承')]
+R7 pid1 谭舒雁 acted (44s): board = ['斩草除根', '坤卦+1', '白鹤亮翅+1', '揽雀尾+1', '野马分鬃+1', '天谕·攻+1', '坤卦+1', '星弈·点']; absorbed 星罗棋布: 修为 23->24; absorbed 星弈·立: 修为 24->25; BREAKTHROUGH 境2->境3; HP 70; 体魄 0/36; 天命 ['勤学苦练', '陨星淬体', '顿悟']
+  pid3 天命@境3 default 145:气势充沛 from [(153, '灵涌不竭'), (188, '副职兼修'), (150, '冥心烙印'), (145, '气势充沛')]
+R7 pid3 小布 acted (60s): BREAKTHROUGH 境2->境3; HP 64; 体魄 23/38; 天命 ['磨砺不止', '体修入道', '气势充沛']; rolled 千斤坠 -> 气若悬河; rolled 血气方刚 -> 崩拳·撼; rolled 画饼充饥 -> 踏破九霄; took back 崩拳·撼; merged -> 崩拳·撼+1 (+1 修为 = 26); board = ['气若悬河', '崩拳·撼+1', '崩拳·戳+1', '崩拳·弹+1', '崩拳·突', '锻拳+1', '抱气法+1', '势大力沉']; rolled 锻筋+1 -> 岿然不动; rolled 踏破九霄 -> 破空爪; rolled 岿然不动 -> 锻骨; rolled 破空爪 -> 势大力沉; took back 势大力沉; merged -> 势大力沉+1 (+1 修为 = 27); board = ['气若悬河', '崩拳·撼+1', '崩拳·戳+1', '崩拳·弹+1', '崩拳·突', '锻骨', '抱气法+1', '势大力沉+1']
+  pid0 天命@境3 default 6:变换之道 from [(14, '云海连绵'), (69, '云之道'), (6, '变换之道'), (56, '斩道')]
+R7 pid0 牧逸风 acted (167s): absorbed 归元草: 修为 25->26; BREAKTHROUGH 境2->境3; HP 70; 体魄 0/35; 天命 ['云雾变幻', '稳固根基', '变换之道']; rolled 巨虎灵剑 -> 硬枝竹; rolled 硬枝竹 -> 叶刃花; rolled 叶刃花 -> 云剑·汇灵; board = ['云剑·极意', '云剑·无锋', '云剑·探云+2', '云剑·飞刺', '云剑·汇灵', '巨虎灵剑+1', '飞牙剑', '震雷剑']; rolled 剑挡 -> 地煞剑; rolled 地煞剑 -> 云剑·极意; took back 云剑·极意; merged -> 云剑·极意+1 (+1 修为 = 27); board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·飞刺', '云剑·汇灵', '巨虎灵剑+1', '飞牙剑', '震雷剑']
+  battle pid0(first) vs pid3: winner pid0 loser pid3 -9命 turns=6
+  battle pid2(first) vs pid1: winner pid2 loser pid1 -10命 turns=11
+R7 standings: pid0:80, pid1:78, pid2:83, pid3:71
+R8 pid0 dealt: 云剑·飞刺, 云剑·点星, 清甘菊
+R8 pid1 dealt: 星弈·打, 掌心雷, 天命·重现
+R8 pid2 dealt: 水灵·波澜, 火灵·聚炎, 探灵
+R8 pid3 dealt: 岿然不动, 崩拳·降龙, 画蛇添足
+R8 pid3 小布 acted (135s): absorbed 画蛇添足: 修为 29->30; rolled 岿然不动 -> 迎风掌; rolled 迎风掌 -> 崩拳·突; took back 崩拳·突; merged -> 崩拳·突+1 (+1 修为 = 31); absorbed 锻拳+1: 修为 31->32; board = ['气若悬河', '崩拳·降龙', '崩拳·撼+1', '崩拳·戳+1', '崩拳·弹+1', '崩拳·突+1', '锻骨', '抱气法+1']; rolled 势大力沉+1 -> 饿虎扑食; absorbed 饿虎扑食: 修为 32->33
+  pid1 天命@境4 default 4:感悟丛生 from [(65, '雁影化身'), (4, '感悟丛生'), (31, '观星'), (72, '易数化劫')]
+R8 pid1 谭舒雁 acted (97s): absorbed 掌心雷: 修为 30->31 | 勤学苦练 drew ['螳螂捕蝉']; absorbed 星弈·打: 修为 31->32; absorbed 察体: 修为 32->33; absorbed 天命·重现: 修为 33->34; rolled 白鹤亮翅 -> 静气心法; board = ['静气心法', '坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '气贯长虹', '天谕·攻+1', '螳螂捕蝉']; absorbed 星弈·点: 修为 34->35; absorbed 坤卦+1: 修为 35->36; BREAKTHROUGH 境3->境4; HP 82; 体魄 0/41; 天命 ['勤学苦练', '陨星淬体', '顿悟', '感悟丛生']; board = ['静气心法', '坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '气贯长虹', '天谕·攻+1', '斩草除根']
+  pid2 天命@境4 default 6:变换之道 from [(83, '五行化身'), (6, '变换之道'), (56, '斩道'), (13, '储纳灵气')]
+R8 pid2 吾行之 acted (77s): absorbed 水灵·波澜: 修为 32->33; absorbed 火灵·聚炎: 修为 33->34; absorbed 探灵: 修为 34->35; absorbed 木灵印+1: 修为 35->36; BREAKTHROUGH 境3->境4; HP 81; 体魄 0/41; 天命 ['战斗历练', '锻体', '顿悟', '变换之道']; board = ['察体', '火灵印+1', '金灵印+2', '浑天印+1', '天谕·攻+1', '土灵·碎+1', '木灵·芽+1', '火灵·赤焰']
+R8 pid0 牧逸风 acted (65s): took back 云剑·飞刺; merged -> 云剑·飞刺+1 (+1 修为 = 30); board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·飞刺+1', '云剑·汇灵', '巨虎灵剑+1', '飞牙剑', '震雷剑']; absorbed 清甘菊: 修为 30->31; rolled 云剑·点星 -> 巨鹏灵剑; board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·飞刺+1', '云剑·汇灵', '巨虎灵剑+1', '巨鹏灵剑', '震雷剑']; rolled 飞牙剑 -> 向灵葵; absorbed 向灵葵: 修为 31->32; took back 震雷剑; rolled 震雷剑 -> 骤风剑; rolled 骤风剑 -> 云剑·飞刺; rolled 云剑·飞刺 -> 巨鲸灵剑; board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·飞刺+1', '云剑·汇灵', '巨虎灵剑+1', '巨鹏灵剑', '巨鲸灵剑']
+  battle pid2(first) vs pid3: winner pid3 loser pid2 -11命 turns=6
+  battle pid1(first) vs pid0: winner pid1 loser pid0 -13命 turns=12
+R8 standings: pid0:67, pid1:78, pid2:72, pid3:71
+R9 pid0 dealt: 云剑·柔心, 剑挡, 邪灵葵
+R9 pid1 dealt: 蜻蜓点水, 反震心法, 血光之灾
+R9 pid2 dealt: 火灵·灼心, 土灵·断崖, 天星·御心
+R9 pid3 dealt: 气沉丹田, 崩拳·突, 挥毫泼墨
+R9 pid2 吾行之 acted (103s): board = ['金灵印+2', '察体', '浑天印+1', '火灵印+1', '天谕·攻+1', '土灵·碎+1', '土灵·断崖', '火灵·赤焰']; rolled 火灵·灼心 -> 金灵·飞梭; rolled 天星·御心 -> 火灵·窜; rolled 木灵·芽+1 -> 土灵印; board = ['金灵印+2', '金灵·飞梭', '察体', '浑天印+1', '火灵印+1', '天谕·攻+1', '土灵·碎+1', '土灵·断崖']; absorbed 土灵印: 修为 38->39; absorbed 火灵·窜: 修为 39->40
+  pid3 天命@境4 default 154:生机不灭 from [(154, '生机不灭'), (175, '历战不屈'), (56, '斩道'), (150, '冥心烙印')]
+R9 pid3 小布 acted (28s): absorbed 气沉丹田: 修为 35->36; BREAKTHROUGH 境3->境4; HP 78; 体魄 23/48; 天命 ['磨砺不止', '体修入道', '气势充沛', '生机不灭']; absorbed 崩拳·突: 修为 36->37; rolled 挥毫泼墨 -> 夜鬼啸
+  pid0 天命@境4 picked 1:锻体 from [(7, '云影化身'), (119, '剑池问心'), (5, '善假于物'), (1, '锻体')]
+R9 pid0 牧逸风 acted (56s): absorbed 邪灵葵: 修为 34->35; absorbed 剑挡: 修为 35->36; BREAKTHROUGH 境3->境4; HP 94; 体魄 0/45; 天命 ['云雾变幻', '稳固根基', '变换之道', '锻体']; rolled 云剑·柔心 -> 凝意诀; absorbed 凝意诀: 修为 36->37; board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·飞刺+1', '云剑·汇灵', '巨虎灵剑+1', '巨鹏灵剑', '巨鲸灵剑']
+R9 pid1 谭舒雁 acted (75s): rolled 星弈·挡 -> 流水无情; rolled 流水无情 -> 探灵; rolled 蜻蜓点水 -> 气疗术; rolled 血光之灾 -> 蜻蜓点水; absorbed 流水无情: 修为 38->39; absorbed 蜻蜓点水: 修为 39->40
+  battle pid1(first) vs pid2: winner pid2 loser pid1 -11命 turns=16
+  battle pid0(first) vs pid3: winner pid0 loser pid3 -11命 turns=7
+R9 standings: pid0:67, pid1:67, pid2:72, pid3:60
+R10 pid0 dealt: 水月剑阵, 巨鹏灵剑, 归岩草
+R10 pid1 dealt: 星弈·夹, 白蛇吐信, 探灵
+R10 pid2 dealt: 金灵·锋芒, 火灵·窜, 天星·御心
+R10 pid3 dealt: 冥影身法, 夜鬼啸, 挥毫泼墨
+R10 pid2 吾行之 acted (82s): rolled 火灵·赤焰 -> 水灵·泉涌; rolled 金灵·锋芒 -> 诸事不宜; rolled 火灵·窜 -> 土灵印; rolled 天星·御心 -> 天命·重现; board = ['察体', '诸事不宜', '金灵印+2', '金灵·飞梭', '浑天印+1', '土灵印', '土灵·碎+1', '土灵·断崖']; absorbed 水灵·泉涌: 修为 42->43; absorbed 天命·重现: 修为 43->44; rolled 火灵印+1 -> 水灵·潜遁; rolled 天谕·攻+1 -> 火灵·瞬燃; absorbed 水灵·潜遁: 修为 44->45; absorbed 火灵·瞬燃: 修为 45->46
+R10 pid0 牧逸风 acted (46s): absorbed 归岩草: 修为 39->40; absorbed 水月剑阵: 修为 40->41; rolled 巨鹏灵剑 -> 飞枭灵芝; rolled 飞枭灵芝 -> 云剑·月影; rolled 云剑·月影 -> 云剑·汇灵; took back 云剑·汇灵; merged -> 云剑·汇灵+1 (+1 修为 = 42); board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·飞刺+1', '云剑·汇灵+1', '巨虎灵剑+1', '巨鹏灵剑', '巨鲸灵剑']
+R10 pid3 小布 acted (35s): merged -> 夜鬼啸+1 (+1 修为 = 40); absorbed 挥毫泼墨: 修为 40->41; absorbed 冥影身法: 修为 41->42; board = ['气若悬河', '崩拳·降龙', '崩拳·戳+1', '崩拳·弹+1', '崩拳·突+1', '崩拳·撼+1', '锻骨', '夜鬼啸+1']
+R10 pid1 谭舒雁 acted (89s): board = ['静气心法', '坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '气贯长虹', '气疗术', '反震心法']; absorbed 螳螂捕蝉: 修为 42->43 | 勤学苦练 drew ['轰雷掣电']; absorbed 星弈·夹: 修为 43->44; absorbed 白蛇吐信: 修为 44->45; absorbed 探灵: 修为 45->46; absorbed 探灵: 修为 46->47; rolled 斩草除根 -> 卜命; rolled 轰雷掣电 -> 察体; rolled 卜命 -> 天运·避凶; rolled 察体 -> 天运·趋吉; rolled 天运·趋吉 -> 气疗术; rolled 天运·避凶 -> 海底捞月; took back 气疗术; merged -> 气疗术+1 (+1 修为 = 48); absorbed 海底捞月: 修为 48->49; board = ['静气心法', '坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '气贯长虹', '气疗术+1', '反震心法']
+  battle pid1(first) vs pid3: winner pid1 loser pid3 -14命 turns=12
+  battle pid2(first) vs pid0: winner pid0 loser pid2 -14命 turns=13
+R10 standings: pid0:67, pid1:67, pid2:58, pid3:46
+R11 pid0 dealt: 灵犀剑阵, 镜花剑阵, 清甘菊
+R11 pid1 dealt: 金鸡独立, 六爻绝阵, 万事如意
+R11 pid2 dealt: 水灵·腾浪, 金灵·锋芒, 天星·御心
+R11 pid3 dealt: 鹤步, 玄手夺魂, 落纸云烟
+  pid1 天命@境5 default 118:稳固根基 from [(42, '斩断俗尘'), (53, '机缘造化'), (118, '稳固根基'), (72, '易数化劫')]
+R11 pid1 谭舒雁 acted (52s): board = ['静气心法', '反震心法', '坤卦+1', '白鹤亮翅+1', '野马分鬃+1', '揽雀尾+1', '气贯长虹', '气疗术+1']; absorbed 金鸡独立: 修为 51->52; absorbed 六爻绝阵: 修为 52->53; absorbed 万事如意: 修为 53->54 | 勤学苦练 drew ['天谕·守']; absorbed 天谕·守: 修为 54->55; BREAKTHROUGH 境4->境5; HP 116; 体魄 0/53; 天命 ['勤学苦练', '陨星淬体', '顿悟', '感悟丛生', '稳固根基']; rolled 天谕·攻+1 -> 枯木逢春; absorbed 枯木逢春: 修为 52->53
+R11 pid3 小布 acted (92s): absorbed 鹤步: 修为 44->45; absorbed 玄手夺魂: 修为 45->46; absorbed 落纸云烟: 修为 46->47; rolled 抱气法+1 -> 以画入道; rolled 以画入道 -> 冥影身法 | 以画入道[置换]: 获得门派牌(境4) 冥影身法; absorbed 冥影身法: 修为 47->48; board = ['气若悬河', '崩拳·降龙', '崩拳·戳+1', '崩拳·弹+1', '崩拳·突+1', '崩拳·撼+1', '锻骨', '夜鬼啸+1']
+R11 pid2 吾行之 acted (73s): rolled 水灵·腾浪 -> 土灵·扬尘; absorbed 金灵·锋芒: 修为 48->49; absorbed 土灵·扬尘: 修为 49->50; board = ['察体', '诸事不宜', '金灵印+2', '金灵·飞梭', '浑天印+1', '土灵印', '土灵·碎+1', '土灵·断崖']
+R11 pid0 牧逸风 acted (37s): absorbed 清甘菊: 修为 44->45; absorbed 镜花剑阵: 修为 45->46; absorbed 灵犀剑阵: 修为 46->47
+  battle pid1(first) vs pid0: winner pid1 loser pid0 -18命 turns=15
+  battle pid2(first) vs pid3: winner pid2 loser pid3 -15命 turns=11
+R11 standings: pid0:49, pid1:82, pid2:58, pid3:31
+R12 pid0 dealt: 飞牙剑, 巨鲲灵剑, 化灵诀, 硬枝竹
+R12 pid1 dealt: 白鹤亮翅, 白蛇吐信, 藕断丝连, 天谕·攻
+R12 pid2 dealt: 水灵·汹涌, 土灵·断崖, 金灵·穿心, 诸事不宜
+R12 pid3 dealt: 崩灭心法, 崩拳·降龙, 起势, 研墨
+  pid2 天命@境5 default 8:休养生息 from [(123, '五行传承'), (128, '五行专一'), (5, '善假于物'), (8, '休养生息')]
+R12 pid2 吾行之 acted (37s): absorbed 水灵·汹涌: 修为 52->53; absorbed 天星·御心: 修为 53->54; absorbed 土灵·断崖: 修为 54->55; BREAKTHROUGH 境4->境5; HP 102; 体魄 0/61; 天命 ['战斗历练', '锻体', '顿悟', '变换之道', '休养生息']
+R12 pid0 牧逸风 acted (36s): absorbed 硬枝竹: 修为 49->50; absorbed 飞牙剑: 修为 50->51; absorbed 巨鲲灵剑: 修为 51->52; absorbed 化灵诀: 修为 52->53
+R12 pid1 谭舒雁 acted (19s): absorbed 白蛇吐信: 修为 55->56; absorbed 藕断丝连: 修为 56->57; absorbed 天谕·攻: 修为 57->58; absorbed 白鹤亮翅: 修为 58->59
+R12 pid3 小布 acted (55s): took back 崩拳·降龙; merged -> 崩拳·降龙+1 (+1 修为 = 51); board = ['气若悬河', '崩灭心法', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '锻骨', '夜鬼啸+1', '崩拳·弹+1']; absorbed 研墨: 修为 51->52
+  battle pid1(first) vs pid3: winner pid3 loser pid1 -18命 turns=11
+  battle pid2(first) vs pid0: winner pid0 loser pid2 -14命 turns=15
+R12 standings: pid0:49, pid1:64, pid2:74, pid3:31
+R13 pid0 dealt: 狂剑·二式, 云舞诀, 灵犀剑阵, 叶刃花
+R13 pid1 dealt: 金蝉脱壳, 螳螂捕蝉, 星弈·断, 命运轮回
+R13 pid2 dealt: 木灵·巡林, 土灵阵, 金灵·蓄锐, 察体
+R13 pid3 dealt: 崩灭心法, 崩拳·撼, 崩拳·连崩, 触类旁通
+R13 pid2 吾行之 acted (142s): took back 察体; merged -> 察体+1 (+1 修为 = 58); took back 诸事不宜; merged -> 诸事不宜+1 (+1 修为 = 59); rolled 木灵·巡林 -> 金灵·飞梭; rolled 金灵·蓄锐 -> 天运·避凶; rolled 金灵·穿心 -> 火灵阵; took back 金灵·飞梭; merged -> 金灵·飞梭+1 (+1 修为 = 60); rolled 天运·避凶 -> 天机·顺应; rolled 火灵阵 -> 探灵; rolled 土灵阵 -> 木灵·疏影; rolled 探灵 -> 土灵阵; rolled 木灵·疏影 -> 火灵·聚炎; rolled 天机·顺应 -> 天命·重现; rolled 火灵·聚炎 -> 万事如意; rolled 天命·重现 -> 土灵阵; rolled 土灵阵 -> 木灵·巡林; board = ['察体+1', '诸事不宜+1', '金灵印+2', '金灵·飞梭+1', '浑天印+1', '土灵印', '土灵·碎+1', '土灵·断崖']
+R13 pid1 谭舒雁 acted (70s): absorbed 螳螂捕蝉: 修为 61->62; absorbed 星弈·断: 修为 62->63 | 勤学苦练 drew ['星弈·飞']; absorbed 星弈·飞: 修为 63->64; board = ['命运轮回', '静气心法', '反震心法', '金蝉脱壳', '坤卦+1', '白鹤亮翅+1', '揽雀尾+1', '气疗术+1']
+  pid0 天命@境5 default 12:顿悟 from [(17, '云泉道茶'), (70, '狂之执念'), (119, '剑池问心'), (12, '顿悟')]
+R13 pid0 牧逸风 acted (130s): BREAKTHROUGH 境4->境5; HP 115; 体魄 0/65; 天命 ['云雾变幻', '稳固根基', '变换之道', '锻体', '顿悟']; absorbed 狂剑·二式: 修为 61->62; rolled 云舞诀 -> 影枭灵芝; rolled 灵犀剑阵 -> 化灵诀; rolled 影枭灵芝 -> 灵植浇灌; rolled 化灵诀 -> 灵植浇灌; absorbed 灵植浇灌: 修为 62->63; absorbed 灵植浇灌: 修为 63->64; absorbed 叶刃花: 修为 64->65
+  pid3 天命@境5 default 188:副职兼修 from [(177, '修玄不泯'), (149, '再生之躯'), (188, '副职兼修'), (150, '冥心烙印')]
+R13 pid3 小布 acted (46s): absorbed 触类旁通: 修为 54->55; BREAKTHROUGH 境4->境5; HP 99; 体魄 32/68; 天命 ['磨砺不止', '体修入道', '气势充沛', '生机不灭', '副职兼修']; rolled 崩拳·连崩 -> 冥影身法; rolled 崩拳·戳+1 -> 势如破竹; absorbed 冥影身法: 修为 57->58; board = ['气若悬河', '势如破竹', '崩灭心法', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '锻骨', '崩拳·弹+1']
+  battle pid2(first) vs pid3: winner pid3 loser pid2 -16命 turns=11
+  battle pid0(first) vs pid1: winner pid1 loser pid0 -20命 turns=22
+R13 standings: pid0:29, pid1:64, pid2:58, pid3:31
+R14 pid0 dealt: 狂剑·二式, 云舞诀, 巨鲲灵剑, 失力草
+R14 pid1 dealt: 气吞山河, 飞星刺, 星弈·断, 天运·趋吉
+R14 pid2 dealt: 水灵·波澜, 木灵·玫刺, 火灵·烈燎原, 血光之灾
+R14 pid3 dealt: 百杀破境掌, 崩拳·截脉, 冲霄破浪, 触类旁通
+R14 pid1 谭舒雁 acted (73s): absorbed 野马分鬃+1: 修为 66->67; absorbed 气贯长虹: 修为 67->68; absorbed 气吞山河: 修为 68->69; absorbed 飞星刺: 修为 69->70; absorbed 天运·趋吉: 修为 70->71; board = ['静气心法', '反震心法', '金蝉脱壳', '坤卦+1', '白鹤亮翅+1', '轰雷掣电', '气疗术+1', '星弈·断']; rolled 揽雀尾+1 -> 星弈·挡; rolled 命运轮回 -> 凶象; absorbed 星弈·挡: 修为 71->72; absorbed 凶象: 修为 72->73 | 勤学苦练 drew ['凶象']; absorbed 凶象: 修为 73->74
+R14 pid2 吾行之 acted (56s): board = ['察体+1', '诸事不宜+1', '金灵印+2', '金灵·飞梭+1', '浑天印+1', '火灵·烈燎原', '土灵·碎+1', '土灵·断崖']; rolled 土灵阵 -> 火灵·瞬燃; rolled 木灵·巡林 -> 命运轮回; rolled 土灵·绝壁 -> 火灵印; rolled 水灵·波澜 -> 土灵·断崖; rolled 木灵·玫刺 -> 土灵·扬尘; rolled 血光之灾 -> 木灵·暗香; took back 土灵·断崖; merged -> 土灵·断崖+1 (+1 修为 = 63); board = ['察体+1', '诸事不宜+1', '金灵印+2', '金灵·飞梭+1', '浑天印+1', '火灵·烈燎原', '土灵·碎+1', '土灵·断崖+1']; rolled 土灵印 -> 金灵·铁骨; rolled 万事如意 -> 水灵·潜遁; rolled 命运轮回 -> 火灵·轰爆; rolled 火灵印 -> 水灵·潜遁; rolled 土灵·扬尘 -> 水灵·纳百川; rolled 木灵·暗香 -> 诸事不宜; merged -> 水灵·潜遁+1 (+1 修为 = 64); absorbed 金灵·铁骨: 修为 64->65; absorbed 火灵·轰爆: 修为 65->66; absorbed 水灵·纳百川: 修为 66->67; absorbed 诸事不宜: 修为 67->68; absorbed 火灵·瞬燃: 修为 68->69
+R14 pid3 小布 acted (60s): board = ['气若悬河', '崩灭心法', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '崩拳·弹+1', '锻骨', '夜鬼啸+1']; rolled 触类旁通 -> 驱邪丹 | 触类旁通[置换]: 换牌机会+1, 获得副职牌 驱邪丹; absorbed 双鬼拍门: 修为 60->61; absorbed 驱邪丹: 修为 61->62; absorbed 百杀破境掌: 修为 62->63; absorbed 势如破竹: 修为 63->64; took back 崩灭心法; merged -> 崩灭心法+1 (+1 修为 = 65); board = ['气若悬河', '崩灭心法+1', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '崩拳·弹+1', '锻骨', '夜鬼啸+1']; rolled 起势 -> 荷重前行; rolled 冲霄破浪 -> 运笔如飞; rolled 崩拳·截脉 -> 血气方刚
+R14 pid0 牧逸风 acted (166s): absorbed 火梭兰: 修为 67->68; absorbed 失力草: 修为 68->69; board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·飞刺+1', '云剑·汇灵+1', '云舞诀', '巨虎灵剑+1', '巨鲲灵剑']; rolled 狂剑·二式 -> 云剑·凌波; board = ['云剑·极意+1', '云剑·无锋', '云剑·探云+2', '云剑·凌波', '云剑·汇灵+1', '云舞诀', '巨虎灵剑+1', '巨鲲灵剑']; rolled 巨鹏灵剑 -> 破气剑; rolled 巨鲸灵剑 -> 镜花剑阵
+  battle pid1(first) vs pid2: winner pid1 loser pid2 -22命 turns=25
+  battle pid0(first) vs pid3: winner pid0 loser pid3 -16命 turns=10
+R14 standings: pid0:29, pid1:64, pid2:36, pid3:15
+R15 pid0 dealt: 狂剑·一式, 震雷剑, 凝意诀, 噬仙古藤
+R15 pid1 dealt: 藕断丝连, 星弈·断, 白蛇吐信, 天星·牵引
+R15 pid2 dealt: 土灵·绝壁, 五行流转, 金灵·蓄锐, 诸事不宜
+R15 pid3 dealt: 玄心斩魄, 灵玄迷踪步, 气若悬河, 灵感迸发
+R15 pid2 吾行之 acted (38s): absorbed 五行流转: 修为 71->72; absorbed 土灵·绝壁: 修为 72->73; rolled 水灵·潜遁+1 -> 火灵·烈燎原; rolled 金灵·蓄锐 -> 五行刺; took back 火灵·烈燎原; merged -> 火灵·烈燎原+1 (+1 修为 = 74); board = ['察体+1', '诸事不宜+1', '金灵印+2', '金灵·飞梭+1', '浑天印+1', '火灵·烈燎原+1', '土灵·碎+1', '土灵·断崖+1']; rolled 五行刺 -> 卜命; rolled 诸事不宜 -> 土灵·绝壁; absorbed 卜命: 修为 74->75; absorbed 土灵·绝壁: 修为 75->76
+R15 pid1 谭舒雁 acted (60s): took back 星弈·断; merged -> 星弈·断+1 (+1 修为 = 77); absorbed 藕断丝连: 修为 77->78; absorbed 白蛇吐信: 修为 78->79; absorbed 天星·牵引: 修为 79->80; board = ['静气心法', '反震心法', '金蝉脱壳', '坤卦+1', '白鹤亮翅+1', '星弈·断+1', '气疗术+1', '轰雷掣电']
+R15 pid0 牧逸风 acted (70s): rolled 狂剑·一式 -> 云剑·无锋; rolled 镜花剑阵 -> 玄韵道果; rolled 噬仙古藤 -> 灵犀剑阵; rolled 破气剑 -> 云剑·厚土; took back 云剑·无锋; merged -> 云剑·无锋+1 (+1 修为 = 72); absorbed 玄韵道果: 修为 72->73; rolled 云剑·飞刺+1 -> 叶刃花; rolled 震雷剑 -> 暗鸦灵剑; rolled 凝意诀 -> 流云乱剑; rolled 云剑·厚土 -> 飞灵闪影剑; board = ['云剑·极意+1', '云剑·无锋+1', '云剑·探云+2', '云剑·凌波', '云剑·汇灵+1', '云舞诀', '巨虎灵剑+1', '巨鲲灵剑']; absorbed 叶刃花: 修为 73->74; absorbed 流云乱剑: 修为 74->75; absorbed 飞灵闪影剑: 修为 75->76; absorbed 暗鸦灵剑: 修为 76->77
+R15 pid3 小布 acted (22s): took back 气若悬河; merged -> 气若悬河+1 (+1 修为 = 68); board = ['气若悬河+1', '崩灭心法+1', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '崩拳·弹+1', '锻骨', '夜鬼啸+1']; absorbed 运笔如飞: 修为 68->69; absorbed 血气方刚: 修为 69->70; absorbed 玄心斩魄: 修为 70->71; absorbed 灵玄迷踪步: 修为 71->72; absorbed 灵感迸发: 修为 72->73; absorbed 崩拳·撼: 修为 73->74; absorbed 荷重前行: 修为 74->75
+  pid3 化身 生机不灭 consumed (kept 1 命, cost 0 修为)
+  battle pid2(first) vs pid3: winner pid2 loser pid3 -14命 turns=11
+  battle pid1(first) vs pid0: winner pid1 loser pid0 -27命 turns=19
+R15 standings: pid0:2, pid1:64, pid2:36, pid3:1
+R16 pid0 dealt: 云剑·回守, 流云乱剑, 连环剑阵, 叶盾花
+R16 pid1 dealt: 艮卦, 星弈·打, 金蝉脱壳, 万事如意
+R16 pid2 dealt: 金灵·巨鼎落, 五行流转, 火灵·瞬燃, 吉运初显
+R16 pid3 dealt: 崩拳·惊触, 崩灭心法, 气若悬河, 落纸云烟
+R16 pid0 牧逸风 acted (80s): rolled 叶盾花 -> 白鹭灵剑; rolled 连环剑阵 -> 云剑·闪风; rolled 流云乱剑 -> 云剑·无妄; rolled 灵犀剑阵 -> 云舞诀; rolled 云剑·回守 -> 引气剑; took back 云舞诀; merged -> 云舞诀+1 (+1 修为 = 80); rolled 引气剑 -> 剑劈; rolled 云剑·无妄 -> 归岩草; rolled 云剑·闪风 -> 化灵诀; rolled 剑劈 -> 云剑·极意; rolled 归岩草 -> 水月剑阵; rolled 化灵诀 -> 飞牙剑; took back 云剑·极意+1; board = ['云剑·极意+1', '云剑·无锋+1', '云剑·探云+2', '云剑·凌波', '云剑·汇灵+1', '云舞诀+1', '巨虎灵剑+1', '巨鲲灵剑']; rolled 白鹭灵剑 -> 神秘种子; rolled 水月剑阵 -> 金梭兰; rolled 飞牙剑 -> 灵感剑; absorbed 金梭兰: 修为 80->81; absorbed 云剑·极意: 修为 81->82; absorbed 灵感剑: 修为 82->83
+R16 pid3 小布 acted (52s): board = ['气若悬河+1', '崩灭心法+1', '崩拳·惊触', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '崩拳·弹+1', '夜鬼啸+1']; absorbed 落纸云烟: 修为 77->78; rolled 崩灭心法 -> 双鬼拍门; rolled 双鬼拍门 -> 冥影身法; rolled 气若悬河 -> 鹤步; absorbed 冥影身法: 修为 78->79; absorbed 鹤步: 修为 79->80
+R16 pid1 谭舒雁 acted (83s): rolled 艮卦 -> 星弈·夹; rolled 星弈·打 -> 万事如意; rolled 万事如意 -> 六爻绝阵; rolled 金蝉脱壳 -> 梅开二度; rolled 星弈·夹 -> 天机·顺应; rolled 万事如意 -> 斩草除根; rolled 六爻绝阵 -> 两仪阵; rolled 梅开二度 -> 天元心法; rolled 天机·顺应 -> 天命·飞逝; rolled 斩草除根 -> 坎卦; rolled 两仪阵 -> 气疗术; rolled 天元心法 -> 两仪阵; rolled 天命·飞逝 -> 众星拱月; rolled 坎卦 -> 白蛇吐信; rolled 气疗术 -> 枯木逢春; rolled 两仪阵 -> 落花有意; rolled 众星拱月 -> 星弈·点; rolled 白蛇吐信 -> 卜命; rolled 枯木逢春 -> 众星拱月; rolled 落花有意 -> 流水无情; rolled 星弈·点 -> 天星·御心; rolled 卜命 -> 星弈·立; rolled 众星拱月 -> 御雷卦诀; rolled 流水无情 -> 金鸡独立; rolled 天星·御心 -> 螳螂捕蝉; rolled 星弈·立 -> 星轨推衍; rolled 御雷卦诀 -> 乾卦; rolled 金鸡独立 -> 诸事不宜; rolled 螳螂捕蝉 -> 天谕·守; rolled 星轨推衍 -> 天谕·守; rolled 乾卦 -> 命运轮回; rolled 诸事不宜 -> (nothing); merged -> 天谕·守+1 (+1 修为 = 83); board = ['静气心法', '反震心法', '诸事不宜', '坤卦+1', '白鹤亮翅+1', '星弈·断+1', '气疗术+1', '轰雷掣电']; board = ['静气心法', '反震心法', '诸事不宜', '坤卦+1', '白鹤亮翅+1', '金蝉脱壳', '星弈·断+1', '轰雷掣电']
+R16 pid2 吾行之 acted (39s): board = ['察体+1', '诸事不宜+1', '金灵印+2', '金灵·飞梭+1', '浑天印+1', '火灵·烈燎原+1', '火灵·瞬燃', '土灵·断崖+1']; absorbed 五行流转: 修为 78->79; rolled 吉运初显 -> 金灵印; rolled 金灵·巨鼎落 -> 察体; absorbed 察体: 修为 79->80; absorbed 金灵印: 修为 80->81
+  battle pid0(first) vs pid2: winner pid2 loser pid0 -22命 turns=15
+  battle pid1(first) vs pid3: winner pid3 loser pid1 -21命 turns=11
+  pid0 牧逸风 ELIMINATED
+R16 standings: pid0:0, pid1:43, pid2:36, pid3:1
+R17 pid1 dealt: 藕断丝连, 轰雷掣电, 天元心法, 天运·趋吉
+R17 pid2 dealt: 浑天印, 土灵·群山, 水灵·涛, 血光之灾
+R17 pid3 dealt: 灵玄迷踪步, 血气方刚, 灵玄迷踪步, 妙笔生花
+R17 pid3 小布 acted (21s): absorbed 锻骨: 修为 82->83; absorbed 妙笔生花: 修为 83->84; absorbed 血气方刚: 修为 84->85
+R17 pid1 谭舒雁 acted (93s): rolled 藕断丝连 -> 蜻蜓点水; rolled 天运·趋吉 -> 枯木逢春; rolled 天元心法 -> 五雷轰顶; rolled 命运轮回 -> 吉运初显; board = ['静气心法', '反震心法', '诸事不宜', '坤卦+1', '白鹤亮翅+1', '金蝉脱壳', '星弈·断+1', '轰雷掣电']
+  pid2 hit the turn cap without end_turn
+R17 pid2 吾行之 acted (160s): took back 浑天印+1; board = ['察体+1', '诸事不宜+1', '金灵印+2', '金灵·飞梭+1', '浑天印+1', '火灵·烈燎原+1', '火灵·瞬燃', '土灵·断崖+1']; rolled 水灵·涛 -> 万事如意; rolled 土灵·群山 -> 水灵·纳百川; rolled 血光之灾 -> 五行天髓诀; rolled 万事如意 -> 水灵·涛; rolled 水灵·纳百川 -> 金灵·飞梭; rolled 五行天髓诀 -> 木灵印; rolled 土灵·碎+1 -> 土灵·绝壁; rolled 浑天印 -> 木灵·复苏; rolled 水灵·涛 -> 金灵·铁骨; rolled 金灵·飞梭 -> 火灵·烈燎原; rolled 木灵印 -> 水灵印; rolled 土灵·绝壁 -> 木灵·柳纷飞; rolled 木灵·复苏 -> 五行流转; rolled 金灵·铁骨 -> 五行流转; rolled 水灵印 -> 天机·逆施; rolled 木灵·柳纷飞 -> 火灵·赤焰; rolled 五行流转 -> 察体; rolled 五行流转 -> 火灵·瞬燃; rolled 火灵·赤焰 -> 木灵·疏影; took back 火灵·瞬燃; merged -> 火灵·瞬燃+1 (+1 修为 = 84); rolled 木灵·疏影 -> 天谕·守; rolled 天机·逆施 -> 混元无极阵; rolled 天谕·守 -> 木灵印; rolled 混元无极阵 -> 火灵·灼心; rolled 察体 -> 水灵阵
+  battle pid3(first) vs pid2: winner pid3 loser pid2 -23命 turns=10
+  battle pid1(first) vs pid3: winner pid3 loser pid1 -22命 turns=11 [extra for pid1]
+R17 standings: pid0:0, pid1:21, pid2:13, pid3:1
+R18 pid1 dealt: 黄雀在后, 御雷卦诀, 艮卦, 诸事不宜
+R18 pid2 dealt: 金灵·针, 火灵·轰爆, 木灵·芽, 厄劫缠身
+R18 pid3 dealt: 荷重前行, 崩天步, 朝气蓬勃, 调色
+R18 pid3 小布 acted (89s): merged -> 灵玄迷踪步+1 (+1 修为 = 88); rolled 调色 -> 崩拳·缠; rolled 朝气蓬勃 -> 崩拳·突; rolled 荷重前行 -> 神来之笔; rolled 神来之笔 -> 以画入道; rolled 灵玄迷踪步+1 -> 锻髓; rolled 崩拳·缠 -> 威震四方; rolled 以画入道 -> 锻神开海 | 以画入道[置换]: 获得门派牌(境5) 锻神开海; rolled 威震四方 -> 画龙点睛; rolled 锻髓 -> 气沉丹田; board = ['画龙点睛', '气若悬河+1', '崩灭心法+1', '崩拳·惊触', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '夜鬼啸+1']; rolled 崩天步 -> 崩拳·惊触; rolled 锻神开海 -> 迎风掌; rolled 气沉丹田 -> 崩拳·惊触; merged -> 崩拳·惊触+1 (+1 修为 = 89); board = ['画龙点睛', '气若悬河+1', '崩灭心法+1', '崩拳·惊触+1', '崩拳·降龙+1', '崩拳·突+1', '崩拳·撼+1', '夜鬼啸+1']; rolled 迎风掌 -> 鹤步; rolled 崩拳·惊触 -> 灵感迸发; rolled 鹤步 -> 崩拳·封; rolled 灵感迸发 -> 势大力沉; absorbed 崩拳·封: 修为 89->90; absorbed 势大力沉: 修为 90->91; absorbed 崩拳·弹+1: 修为 91->92
+R18 pid2 吾行之 acted (169s): board = ['察体+1', '诸事不宜+1', '木灵印', '木灵·芽', '水灵阵', '土灵·断崖+1', '厄劫缠身', '火灵·烈燎原+1']; absorbed 金灵·针: 修为 86->87
+R18 pid1 谭舒雁 acted (55s): took back 诸事不宜; took back 轰雷掣电; merged -> 诸事不宜+1 (+1 修为 = 88); merged -> 轰雷掣电+1 (+1 修为 = 89); board = ['静气心法', '反震心法', '诸事不宜+1', '坤卦+1', '白鹤亮翅+1', '金蝉脱壳', '星弈·断+1', '轰雷掣电+1']; absorbed 艮卦: 修为 89->90; absorbed 五雷轰顶: 修为 90->91; absorbed 黄雀在后: 修为 91->92; absorbed 御雷卦诀: 修为 92->93 | 勤学苦练 drew ['坎卦']
+  battle pid3(first) vs pid2: winner pid3 loser pid2 -27命 turns=10
+  battle pid1(first) vs pid2: winner pid1 loser pid2 -30命 (not applied) turns=26 [extra for pid1]
+  pid2 吾行之 ELIMINATED
+R18 standings: pid0:0, pid1:21, pid2:0, pid3:1
+R19 pid1 dealt: 紫气东来, 海底捞月, 气贯长虹, 天运·避凶
+R19 pid3 dealt: 威震四方, 崩拳·连崩, 踏破九霄, 神来之笔
+R19 pid3 小布 acted (46s): took back 崩拳·突+1; absorbed 崩拳·突: 修为 94->95; absorbed 威震四方: 修为 95->96; absorbed 踏破九霄: 修为 96->97; absorbed 神来之笔: 修为 97->98; absorbed 崩拳·连崩: 修为 98->99; board = ['画龙点睛', '气若悬河+1', '崩灭心法+1', '崩拳·降龙+1', '崩拳·突+1', '崩拳·惊触+1', '崩拳·撼+1', '夜鬼啸+1']
+R19 pid1 谭舒雁 acted (258s): absorbed 蜻蜓点水: 修为 95->96; absorbed 枯木逢春: 修为 96->97; absorbed 吉运初显: 修为 97->98; absorbed 坎卦: 修为 98->99; absorbed 紫气东来: 修为 99->100; absorbed 海底捞月: 修为 100->101; absorbed 气贯长虹: 修为 101->102; board = ['静气心法', '反震心法', '诸事不宜+1', '白鹤亮翅+1', '星弈·断+1', '金蝉脱壳', '坤卦+1', '轰雷掣电+1']; board = ['静气心法', '反震心法', '诸事不宜+1', '天谕·守+1', '白鹤亮翅+1', '星弈·断+1', '金蝉脱壳', '天运·避凶']
+  battle pid1(first) vs pid3: winner pid1 loser pid3 -23命 turns=17
+  pid3 小布 ELIMINATED
+R19 standings: pid0:0, pid1:21, pid2:0, pid3:0
+GAME OVER after R19. Winner: pid1 谭舒雁 命=21

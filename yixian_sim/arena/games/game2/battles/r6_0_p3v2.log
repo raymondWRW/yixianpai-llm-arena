@@ -1,0 +1,185 @@
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 22 physique
+    gained 2 max_hp. Now have 92 max_hp
+    healed 4 hp. Went from 70 to 74
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Earth Spirit Formation (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 earth_spirit_formation_stacks. Now have 2 earth_spirit_formation_stacks
+  player 0 finished playing Earth Spirit Formation
+turn 1b ends
+turn 2a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 5 to 50
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 2a ends
+turn 2b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    gained 2 def. Now have 2 def
+    reduced player 1 hp by 12 to 62
+  player 0 finished playing Earth Spirit - Smash
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 59
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    lost 1 force. Now have 1 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 8 to 42
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cracking Voice (level 2)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 9 to 50
+  player 0 finished playing Cracking Voice
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 2 to 48
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 4 def
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 12 to 30
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 4a ends
+turn 4b begins
+  player 0 is playing Metal Spirit Seal (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 2 to 46
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 4b ends
+turn 5a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 1)
+    reduced player 1 hp by 10 to 20
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+turn 5b ends
+turn 6a begins
+  player 0 is playing Detect-Horse Palms (level 1)
+    reduced player 1 hp by 7 to 13
+    gained 8 def. Now have 8 def
+  player 0 finished playing Detect-Horse Palms
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+turn 6b ends
+turn 7a begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Exercise Tendons (level 1)
+    reduced player 1 hp by 5 to 8
+    gained 2 physique. Now have 24 physique
+    gained 2 max_hp. Now have 94 max_hp
+    gained 4 def. Now have 8 def
+  player 0 finished playing Exercise Tendons
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+  player 0 upgrades Water Spirit - Waves (level 2) to Water Spirit - Waves (level 3)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 8 to 38
+    gained 1 force_of_water. Now have 1 force_of_water
+  player 0 finished playing Water Spirit - Waves
+  reduced player 1 hp by 1 to 37
+turn 7b ends
+turn 8a begins
+  player 0 is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 26 physique
+    gained 2 max_hp. Now have 96 max_hp
+    healed 1 hp. Went from 37 to 38
+  player 0 finished playing Embracing Qi Technique
+turn 8a ends
+turn 8b begins
+  player 0 is playing Earth Spirit - Mountains (level 2)
+    gained 2 def. Now have 2 def
+    reduced player 1 hp by 6 to 32
+    gained 3 def. Now have 5 def
+  player 0 finished playing Earth Spirit - Mountains
+  reduced player 1 hp by 1 to 31
+turn 8b ends
+turn 9a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 2 qi
+    gained 2 physique. Now have 28 physique
+    gained 2 max_hp. Now have 98 max_hp
+    healed 4 hp. Went from 31 to 35
+  player 0 finished playing Embracing Qi Technique
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 1 qi
+    healed 4 hp. Went from 8 to 12
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  reduced player 1 hp by 1 to 34
+turn 9b ends
+turn 10a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 5
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced player 1 hp by 4 to 30
+    reduced player 1 hp by 4 to 26
+    reduced player 1 hp by 4 to 22
+  player 0 finished playing Fire Spirit - Scarlet Flame
+  reduced player 1 hp by 1 to 21
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 3 to 18
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+  healed 3 hp. Went from 18 to 21
+  player 0 healed 3 hp from crash fist bounce
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 10 to -5
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 11a ends
+player 1 loses 11 destiny, now at 68
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Vigorous Force (level 2)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 2)
+  Mountain-Cleaving Palms (level 1)
+  Detect-Horse Palms (level 1)
+  Exercise Tendons (level 1)
+  Embracing Qi Technique (level 1)
+Player 1's deck:
+  Earth Spirit Formation (level 1)
+  Earth Spirit - Smash (level 2)
+  Cracking Voice (level 2)
+  Metal Spirit Seal (level 1)
+  Water Spirit - Waves (level 3)
+  Earth Spirit - Mountains (level 2)
+  Wood Spirit Seal (level 1)
+  Fire Spirit - Scarlet Flame (level 1)

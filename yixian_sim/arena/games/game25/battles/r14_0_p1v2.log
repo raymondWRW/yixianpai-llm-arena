@@ -1,0 +1,437 @@
+gained 4 def. Now have 4 def
+reduced 吾行之(pid2) hp by 6 to 95
+gained 3 qi. Now have 3 qi
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 1a: A(hp 101/101, def 6, qi 0) | B(hp 95/101, def 0, qi 3)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  吾行之(pid2) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 101/101, def 6, qi 0) | B(hp 95/101, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  lost 3 def. Now have 3 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 2a: A(hp 101/101, def 3, qi 1) | B(hp 95/101, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 108 max_hp
+  healed 7 hp. Went from 95 to 102
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 2b: A(hp 101/101, def 3, qi 1, injury 1) | B(hp 102/108, def 7, qi 3)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 1 def
+  reduced 谭舒雁(pid1) hp by 1 to 100
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 3a: A(hp 100/101, def 1, qi 0, injury 1) | B(hp 102/108, def 7, qi 3, injury 4)
+turn 3a ends
+turn 3b begins
+  lost 4 def. Now have 3 def
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  reduced 吾行之(pid2) hp by 4 to 98
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 13 def
+  吾行之(pid2) finished playing Hexproof Formation
+  gained 7 def. Now have 20 def
+  gained 7 max_hp. Now have 115 max_hp
+  healed 7 hp. Went from 98 to 105
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 3b: A(hp 100/101, def 1, qi 0, injury 2) | B(hp 105/115, def 20, qi 3, injury 4)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 98
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    lost 2 hexproof. Now have 1 hexproof
+    reduced 吾行之(pid2) hp by 4 to 101
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 98/101, def 0, qi 0, injury 2) | B(hp 101/115, def 20, qi 3, injury 4)
+turn 4a ends
+turn 4b begins
+  lost 10 def. Now have 10 def
+  reduced 吾行之(pid2) hp by 4 to 97
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 117 max_hp
+    healed 2 hp. Went from 97 to 99
+  吾行之(pid2) finished playing Water Spirit - Dive
+  STATE after turn 4b: A(hp 98/101, def 0, qi 0, injury 2) | B(hp 99/117, def 10, qi 2, injury 4)
+turn 4b ends
+turn 5a begins
+  reduced 谭舒雁(pid1) hp by 2 to 96
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 96 to 100
+    lost 6 def. Now have 4 def
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 97
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 5a: A(hp 100/101, def 4, qi 0, injury 2) | B(hp 97/117, def 0, qi 2, injury 4)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 4 to 93
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 126 max_hp
+    healed 9 hp. Went from 93 to 102
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 3 def. Now have 1 def
+  STATE after turn 5b: A(hp 100/101, def 1, qi 0, injury 2) | B(hp 102/126, def 0, qi 0, injury 4)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 98
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 109 max_hp
+    healed 8 hp. Went from 98 to 106
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 6a: A(hp 106/109, def 0, qi 0, injury 2) | B(hp 102/126, def 0, qi 0, injury 4)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 4 to 98
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 3 to 103
+  STATE after turn 6b: A(hp 103/109, def 0, qi 0, injury 2) | B(hp 98/126, def 0, qi 2, injury 4)
+turn 6b ends
+turn 7a begins
+  reduced 谭舒雁(pid1) hp by 2 to 101
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    lost 1 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 7a: A(hp 101/109, def 2, qi 2, injury 2) | B(hp 98/126, def 0, qi 2, injury 4)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 4 to 94
+  吾行之(pid2) is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 3 qi
+    healed 4 hp. Went from 94 to 98
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 100
+  STATE after turn 7b: A(hp 100/109, def 0, qi 2, injury 2) | B(hp 98/126, def 0, qi 3, injury 4)
+turn 7b ends
+turn 8a begins
+  reduced 谭舒雁(pid1) hp by 2 to 98
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 117 max_hp
+    healed 8 hp. Went from 98 to 106
+    gained 4 fate_reincarnates_stacks. Now have 8 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 8a: A(hp 106/117, def 0, qi 2, injury 2) | B(hp 98/126, def 0, qi 3, injury 4)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 4 to 94
+  吾行之(pid2) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 132 max_hp
+    healed 7 hp. Went from 94 to 101
+  吾行之(pid2) finished playing Cure Formation
+  reduced 谭舒雁(pid1) hp by 3 to 103
+  STATE after turn 8b: A(hp 103/117, def 0, qi 2, injury 2) | B(hp 101/132, def 0, qi 3, injury 4)
+turn 8b ends
+turn 9a begins
+  reduced 谭舒雁(pid1) hp by 2 to 101
+  lost 2 qi. Now have 0 qi
+  谭舒雁(pid1) spent 2 qi to play Great Spirit (level 1)
+    gained 12 max_hp. Now have 129 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 4 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 9a: A(hp 101/129, def 4, qi 0, injury 2) | B(hp 101/132, def 0, qi 3, injury 4)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 4 to 97
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  lost 3 def. Now have 1 def
+  STATE after turn 9b: A(hp 101/129, def 1, qi 0, injury 2) | B(hp 97/132, def 10, qi 3, injury 4)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 99
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 10a: A(hp 99/129, def 0, qi 1, injury 2) | B(hp 97/132, def 10, qi 3, injury 4)
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 4 to 93
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 134 max_hp
+    healed 2 hp. Went from 93 to 95
+  吾行之(pid2) finished playing Water Spirit - Dive
+  reduced 谭舒雁(pid1) hp by 3 to 96
+  STATE after turn 10b: A(hp 96/129, def 0, qi 1, injury 2) | B(hp 95/134, def 5, qi 2, injury 4)
+turn 10b ends
+turn 11a begins
+  reduced 谭舒雁(pid1) hp by 2 to 94
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    lost 3 hexproof. Now have 0 hexproof
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 11a: A(hp 94/129, def 0, qi 0, injury 2) | B(hp 95/134, def 5, qi 2, injury 5)
+turn 11a ends
+turn 11b begins
+  lost 3 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 5 to 90
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 6 force_of_water
+    gained 12 max_hp. Now have 146 max_hp
+    healed 12 hp. Went from 90 to 102
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 6 to 88
+  STATE after turn 11b: A(hp 88/129, def 0, qi 0, injury 2) | B(hp 102/146, def 2, qi 0, injury 5)
+turn 11b ends
+turn 12a begins
+  reduced 谭舒雁(pid1) hp by 2 to 86
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 7 internal_injury
+    reduced 吾行之(pid2) hp by 7 to 95
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 12a: A(hp 86/129, def 0, qi 0, injury 2) | B(hp 95/146, def 2, qi 0, injury 7)
+turn 12a ends
+turn 12b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 7 to 88
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 2 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 6 to 80
+  STATE after turn 12b: A(hp 80/129, def 0, qi 0, injury 2) | B(hp 88/146, def 1, qi 2, injury 7)
+turn 12b ends
+turn 13a begins
+  reduced 谭舒雁(pid1) hp by 2 to 78
+  lost 1 fate_reincarnates_stacks. Now have 7 fate_reincarnates_stacks
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 8 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 13a: A(hp 78/129, def 2, qi 2, injury 2) | B(hp 88/146, def 1, qi 2, injury 8)
+turn 13a ends
+turn 13b begins
+  lost 1 def. Now have 0 def
+  reduced 吾行之(pid2) hp by 8 to 80
+  吾行之(pid2) is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 3 qi
+    healed 4 hp. Went from 80 to 84
+    gained 1 activate_wood_spirit_stacks. Now have 2 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 4 to 74
+  STATE after turn 13b: A(hp 74/129, def 0, qi 2, injury 2) | B(hp 84/146, def 0, qi 3, injury 8)
+turn 13b ends
+turn 14a begins
+  reduced 谭舒雁(pid1) hp by 2 to 72
+  lost 2 qi. Now have 0 qi
+  谭舒雁(pid1) spent 2 qi to play Great Spirit (level 1)
+    gained 12 max_hp. Now have 141 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 24 hp. Went from 72 to 96
+  谭舒雁(pid1) finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 6 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 14a: A(hp 96/141, def 4, qi 0, injury 2) | B(hp 84/146, def 0, qi 3, injury 8)
+turn 14a ends
+turn 14b begins
+  reduced 吾行之(pid2) hp by 8 to 76
+  吾行之(pid2) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 152 max_hp
+    healed 7 hp. Went from 76 to 83
+  吾行之(pid2) finished playing Cure Formation
+  lost 4 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 94
+  STATE after turn 14b: A(hp 94/141, def 0, qi 0, injury 2) | B(hp 83/152, def 0, qi 3, injury 8)
+turn 14b ends
+turn 15a begins
+  reduced 谭舒雁(pid1) hp by 2 to 92
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 15a: A(hp 92/141, def 0, qi 1, injury 2) | B(hp 83/152, def 0, qi 3, injury 8)
+turn 15a ends
+turn 15b begins
+  reduced 吾行之(pid2) hp by 8 to 75
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 6 to 86
+  STATE after turn 15b: A(hp 86/141, def 0, qi 1, injury 2) | B(hp 75/152, def 10, qi 3, injury 8)
+turn 15b ends
+turn 16a begins
+  reduced 谭舒雁(pid1) hp by 2 to 84
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    lost 3 hexproof. Now have 0 hexproof
+    gained 1 internal_injury. Now have 9 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 16a: A(hp 84/141, def 0, qi 0, injury 2) | B(hp 75/152, def 10, qi 3, injury 9)
+turn 16a ends
+turn 16b begins
+  lost 5 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 9 to 66
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 154 max_hp
+    healed 2 hp. Went from 66 to 68
+  吾行之(pid2) finished playing Water Spirit - Dive
+  reduced 谭舒雁(pid1) hp by 6 to 78
+  STATE after turn 16b: A(hp 78/141, def 0, qi 0, injury 2) | B(hp 68/154, def 5, qi 2, injury 9)
+turn 16b ends
+turn 17a begins
+  reduced 谭舒雁(pid1) hp by 2 to 76
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 11 internal_injury
+    reduced 吾行之(pid2) hp by 11 to 57
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 17a: A(hp 76/141, def 0, qi 0, injury 2) | B(hp 57/154, def 5, qi 2, injury 11)
+turn 17a ends
+turn 17b begins
+  lost 3 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 11 to 46
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 9 force_of_water
+    gained 15 max_hp. Now have 169 max_hp
+    healed 15 hp. Went from 46 to 61
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 9 to 67
+  STATE after turn 17b: A(hp 67/141, def 0, qi 0, injury 2) | B(hp 61/169, def 2, qi 0, injury 11)
+turn 17b ends
+turn 18a begins
+  reduced 谭舒雁(pid1) hp by 2 to 65
+  lost 1 fate_reincarnates_stacks. Now have 6 fate_reincarnates_stacks
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 12 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 18a: A(hp 65/141, def 2, qi 2, injury 2) | B(hp 61/169, def 2, qi 0, injury 12)
+turn 18a ends
+turn 18b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 12 to 49
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 3 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 58
+  STATE after turn 18b: A(hp 58/141, def 0, qi 2, injury 2) | B(hp 49/169, def 1, qi 2, injury 12)
+turn 18b ends
+turn 19a begins
+  reduced 谭舒雁(pid1) hp by 2 to 56
+  lost 2 qi. Now have 0 qi
+  谭舒雁(pid1) spent 2 qi to play Great Spirit (level 1)
+    gained 12 max_hp. Now have 153 max_hp
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    healed 24 hp. Went from 56 to 80
+  谭舒雁(pid1) finished playing Great Spirit
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 8 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 19a: A(hp 80/153, def 4, qi 0, injury 2) | B(hp 49/169, def 1, qi 2, injury 12)
+turn 19a ends
+turn 19b begins
+  lost 1 def. Now have 0 def
+  reduced 吾行之(pid2) hp by 12 to 37
+  吾行之(pid2) is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 3 qi
+    healed 4 hp. Went from 37 to 41
+    gained 1 activate_wood_spirit_stacks. Now have 3 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  lost 4 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 5 to 75
+  STATE after turn 19b: A(hp 75/153, def 0, qi 0, injury 2) | B(hp 41/169, def 0, qi 3, injury 12)
+turn 19b ends
+turn 20a begins
+  reduced 谭舒雁(pid1) hp by 2 to 73
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 20a: A(hp 73/153, def 0, qi 1, injury 2) | B(hp 41/169, def 0, qi 3, injury 12)
+turn 20a ends
+turn 20b begins
+  reduced 吾行之(pid2) hp by 12 to 29
+  吾行之(pid2) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 175 max_hp
+    healed 7 hp. Went from 29 to 36
+  吾行之(pid2) finished playing Cure Formation
+  reduced 谭舒雁(pid1) hp by 9 to 64
+  STATE after turn 20b: A(hp 64/153, def 0, qi 1, injury 2) | B(hp 36/175, def 0, qi 3, injury 12)
+turn 20b ends
+turn 21a begins
+  reduced 谭舒雁(pid1) hp by 2 to 62
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 16 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 21a: A(hp 62/153, def 0, qi 0, injury 2) | B(hp 36/175, def 0, qi 3, injury 16)
+turn 21a ends
+turn 21b begins
+  reduced 吾行之(pid2) hp by 16 to 20
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 9 to 53
+  STATE after turn 21b: A(hp 53/153, def 0, qi 0, injury 2) | B(hp 20/175, def 10, qi 3, injury 16)
+turn 21b ends
+turn 22a begins
+  reduced 谭舒雁(pid1) hp by 2 to 51
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    lost 2 hexproof. Now have 1 hexproof
+    reduced 吾行之(pid2) hp by 16 to 4
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 22a: A(hp 51/153, def 0, qi 0, injury 2) | B(hp 4/175, def 10, qi 3, injury 16)
+turn 22a ends
+turn 22b begins
+  lost 5 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 16 to -12
+  STATE after turn 22b: A(hp 51/153, def 0, qi 0, injury 2) | B(hp -12/175, def 5, qi 3, injury 16)
+turn 22b ends
+吾行之(pid2) loses 24 destiny, now at -11
+谭舒雁(pid1) (Tan Shuyan) wins

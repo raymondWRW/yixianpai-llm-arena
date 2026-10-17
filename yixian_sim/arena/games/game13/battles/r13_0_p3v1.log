@@ -1,0 +1,174 @@
+gained 1 star_power. Now have 1 star_power
+gained 2 internal_injury. Now have 2 internal_injury
+gained 1 internal_injury. Now have 3 internal_injury
+turn 1a begins
+  reduced 小布(pid3) hp by 3 to 96
+  小布(pid3) is playing Crash Footwork (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  STATE after turn 1a: A(hp 96/100, def 0, qi 2, injury 3, phys 1, agi 4) | B(hp 99/99, def 0, qi 0, star 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 internal_injury. Now have 4 internal_injury
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 1b: A(hp 96/100, def 0, qi 2, injury 5, phys 1, agi 4) | B(hp 99/99, def 0, qi 2, star 1)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 5 to 91
+  小布(pid3) is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 2 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  小布(pid3) finished playing Crash Citta-Dharma
+  STATE after turn 2a: A(hp 91/100, def 0, qi 2, force 2, injury 5, phys 1, agi 4) | B(hp 99/99, def 0, qi 2, star 1)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2b: A(hp 91/100, def 0, qi 2, force 2, injury 6, phys 1, agi 4) | B(hp 99/99, def 0, qi 2, star 1)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 6 to 85
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 5 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 3a: A(hp 85/100, def 8, qi 2, force 5, injury 6, phys 1, agi 4) | B(hp 99/99, def 0, qi 2, star 1)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3b: A(hp 85/100, def 8, qi 2, force 5, injury 7, phys 1, agi 4) | B(hp 99/99, def 0, qi 2, star 1)
+turn 3b ends
+turn 4a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 7 to 78
+  reduced 小布(pid3) hp by 2 to 76
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    gained 1 force. Now have 6 force
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 8 force
+    lost 1 force. Now have 7 force
+    reduced 谭舒雁(pid1) hp by 28 to 71
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4a: A(hp 76/100, def 4, qi 0, force 7, injury 7, phys 1, agi 4) | B(hp 71/99, def 0, qi 2, star 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 74
+    gained 2 internal_injury. Now have 9 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4b: A(hp 74/100, def 0, qi 0, force 7, injury 9, phys 1, agi 4) | B(hp 71/99, def 0, qi 1, star 1)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 9 to 65
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 6 force
+    reduced 谭舒雁(pid1) hp by 8 to 63
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 8 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 5a: A(hp 65/100, def 0, qi 1, force 8, injury 9, phys 1, agi 4) | B(hp 63/99, def 0, qi 1, star 1)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 3 star_power
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 5b: A(hp 65/100, def 0, qi 1, force 8, injury 9, phys 1, agi 4) | B(hp 63/99, def 0, qi 2, star 3)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 9 to 56
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 8 force. Now have 0 force
+    gained 32 def. Now have 32 def
+    reduced 谭舒雁(pid1) hp by 24 to 39
+    gained 5 agility. Now have 9 agility
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 6a: A(hp 56/100, def 32, qi 1, injury 9, phys 1, agi 9) | B(hp 39/99, def 0, qi 2, star 3)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    lost 8 def. Now have 24 def
+    lost 8 def. Now have 16 def
+    lost 8 def. Now have 8 def
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 6b: A(hp 56/100, def 8, qi 1, injury 9, phys 1, agi 9) | B(hp 39/99, def 0, qi 1, star 3)
+turn 6b ends
+turn 7a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 9 to 47
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Soul Seizing (level 1)
+    reduced 谭舒雁(pid1) hp by 14 to 25
+    healed 14 hp. Went from 47 to 61
+  小布(pid3) finished playing Soul Seizing
+  STATE after turn 7a: A(hp 61/100, def 4, qi 0, injury 9, phys 1, agi 9) | B(hp 25/99, def 0, qi 1, star 3)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Five Thunders (level 2)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to 52
+  谭舒雁(pid1) finished playing Five Thunders
+  STATE after turn 7b: A(hp 52/100, def 0, qi 0, injury 9, phys 1, agi 9) | B(hp 25/99, def 0, qi 0, star 3)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 9 to 43
+  reduced 小布(pid3) hp by 6 to 37
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 1 force. Now have 1 force
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 12 to 13
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 8a: A(hp 37/100, def 0, qi 0, injury 9, phys 1, agi 9) | B(hp 13/99, def 0, qi 0, star 3)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Zhen Hexagram (level 2)
+    reduced 小布(pid3) hp by 7 to 30
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Zhen Hexagram
+  STATE after turn 8b: A(hp 30/100, def 0, qi 0, injury 9, phys 1, agi 9) | B(hp 13/99, def 0, qi 0, star 3, hex 1)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 9 to 21
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 12 max_force
+    gained 3 force. Now have 3 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 9a: A(hp 21/100, def 8, qi 0, force 3, injury 9, phys 1, agi 9) | B(hp 13/99, def 0, qi 0, star 3, hex 1)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 internal_injury. Now have 10 internal_injury
+    gained 1 internal_injury. Now have 11 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 9b: A(hp 21/100, def 8, qi 0, force 3, injury 11, phys 1, agi 9) | B(hp 13/99, def 0, qi 2, star 3, hex 1)
+turn 9b ends
+turn 10a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 11 to 10
+  reduced 小布(pid3) hp by 2 to 8
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 14 to -1
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  STATE after turn 10a: A(hp 8/100, def 4, qi 0, force 3, injury 11, phys 1, agi 9) | B(hp -1/99, def 0, qi 2, star 3, hex 1)
+turn 10a ends
+谭舒雁(pid1) loses 16 destiny, now at 63
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,213 @@
+gained 1 qi. Now have 1 qi
+gained 1 star_power. Now have 1 star_power
+gained 1 internal_injury. Now have 1 internal_injury
+gained 2 sword_intent. Now have 2 sword_intent
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 105/105, def 1, qi 2, star 1) | B(hp 105/105, def 0, qi 0, sword 2, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 2 to 103
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 spirit_gather_citta_dharma_stacks. Now have 2 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1b: A(hp 105/105, def 1, qi 2, star 1) | B(hp 103/105, def 0, qi 1, sword 2, injury 2)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2a: A(hp 105/105, def 0, qi 2, star 1) | B(hp 103/105, def 0, qi 1, sword 2, injury 4)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 99
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 2b: A(hp 105/105, def 0, qi 2, star 1) | B(hp 99/105, def 10, qi 2, sword 2, injury 4)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 2)
+    lost 7 def. Now have 3 def
+    lost 3 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 105/105, def 0, qi 1, star 1) | B(hp 99/105, def 3, qi 2, sword 2, injury 4)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 95
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced 谭舒雁(pid1) hp by 5 to 100
+    reduced 谭舒雁(pid1) hp by 5 to 95
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 95/105, def 0, qi 1, star 1) | B(hp 95/105, def 1, qi 6, injury 4)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 3)
+    gained 4 internal_injury. Now have 8 internal_injury
+    reduced 牧逸风(pid0) hp by 8 to 87
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 95/105, def 0, qi 1, star 1) | B(hp 87/105, def 1, qi 6, injury 8)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 7 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 8 to 79
+  lost 2 qi. Now have 5 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 12 to 83
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 3 qi. Now have 2 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 70
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  STATE after turn 4b: A(hp 70/105, def 0, qi 1, star 1) | B(hp 79/105, def 13, qi 2, injury 8)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 8 def
+    lost 5 def. Now have 3 def
+    reduced 牧逸风(pid0) max_hp by 9 to 96
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 5a: A(hp 70/105, def 0, qi 0, star 1) | B(hp 79/96, def 3, qi 2, injury 8)
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 1 def
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 8 to 71
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 谭舒雁(pid1) hp by 16 to 54
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5b: A(hp 54/105, def 0, qi 0, star 1) | B(hp 71/96, def 1, qi 2, injury 8)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 63
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 6a: A(hp 54/105, def 4, qi 0, star 1) | B(hp 63/96, def 0, qi 2, injury 8)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 8 to 55
+  lost 3 qi. Now have 0 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 48
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 43
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 6b: A(hp 43/105, def 0, qi 0, star 1) | B(hp 55/96, def 10, qi 0, injury 8)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 7a: A(hp 43/105, def 0, qi 0, star 1) | B(hp 55/96, def 10, qi 0, injury 8)
+turn 7a ends
+turn 7b begins
+  lost 5 def. Now have 5 def
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 8 to 47
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 15 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 7b: A(hp 43/105, def 0, qi 0, star 1) | B(hp 47/96, def 15, qi 1, injury 8)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Astral Fleche (level 1)
+    lost 5 def. Now have 10 def
+    gained 1 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 8a: A(hp 43/105, def 0, qi 0, star 2) | B(hp 47/96, def 10, qi 1, injury 8)
+turn 8a ends
+turn 8b begins
+  lost 5 def. Now have 5 def
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 8 to 39
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 5 qi
+    reduced 谭舒雁(pid1) hp by 3 to 40
+    reduced 谭舒雁(pid1) hp by 3 to 37
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 8b: A(hp 37/105, def 0, qi 0, star 2) | B(hp 39/96, def 5, qi 5, injury 8)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 9a: A(hp 37/105, def 1, qi 1, star 2) | B(hp 39/96, def 5, qi 5, injury 8)
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 8 to 31
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 11 to 26
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 3 qi. Now have 1 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 13
+    gained 13 def. Now have 15 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  STATE after turn 9b: A(hp 13/105, def 0, qi 1, star 2) | B(hp 31/96, def 15, qi 1, injury 8)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    lost 2 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 10a: A(hp 13/105, def 0, qi 1, star 2) | B(hp 31/96, def 15, qi 1, injury 8)
+turn 10a ends
+turn 10b begins
+  lost 8 def. Now have 7 def
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 8 to 23
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 谭舒雁(pid1) hp by 16 to -3
+  STATE after turn 10b: A(hp -3/105, def 0, qi 1, star 2) | B(hp 23/96, def 7, qi 1, injury 8)
+turn 10b ends
+谭舒雁(pid1) loses 22 destiny, now at 0
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,222 @@
+turn 1a begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1a: A(hp 117/122, def 0, qi 2, force 1, phys 5) | B(hp 105/105, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 117/122, def 0, qi 2, force 1, phys 5) | B(hp 105/105, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 3 force. Now have 4 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 2a: A(hp 117/122, def 0, qi 3, force 4, phys 5, agi 5) | B(hp 105/105, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  牧逸风(pid0) is playing Moon Water Sword Formation (level 1)
+    gained 10 def. Now have 10 def
+    gained 3 moon_water_sword_formation_stacks. Now have 3 moon_water_sword_formation_stacks
+  牧逸风(pid0) finished playing Moon Water Sword Formation
+  STATE after turn 2b: A(hp 117/122, def 0, qi 3, force 4, injury 1, phys 5, agi 5) | B(hp 105/105, def 10, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 1 to 116
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 7 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 3a: A(hp 116/122, def 8, qi 3, force 7, injury 1, phys 5, agi 5) | B(hp 105/105, def 10, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 2 moon_water_sword_formation_stacks
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 3 def. Now have 13 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 3b: A(hp 116/122, def 8, qi 3, force 7, injury 2, phys 5, agi 5) | B(hp 105/105, def 13, qi 3, sword 3)
+turn 3b ends
+turn 4a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 2 to 114
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 1 def. Now have 5 def
+    gained 3 force. Now have 9 force
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 5 to 109
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 6 def
+    gained 1 force. Now have 9 force
+    lost 1 force. Now have 8 force
+    lost 13 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 15 to 90
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 4a: A(hp 109/122, def 6, qi 2, force 8, injury 2, phys 5, agi 1) | B(hp 90/105, def 0, qi 3, sword 3)
+turn 4a ends
+turn 4b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 4b: A(hp 109/122, def 6, qi 2, force 8, injury 3, phys 5, agi 1) | B(hp 90/105, def 0, qi 5, sword 3)
+turn 4b ends
+turn 5a begins
+  lost 3 def. Now have 3 def
+  reduced 小布(pid3) hp by 3 to 106
+  reduced 小布(pid3) hp by 6 to 100
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 9 force
+    lost 1 force. Now have 8 force
+    reduced 牧逸风(pid0) hp by 30 to 60
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 5a: A(hp 100/122, def 3, qi 2, force 8, injury 3, phys 5, agi 1) | B(hp 60/105, def 0, qi 5, sword 3)
+turn 5a ends
+turn 5b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 2)
+    lost 5 qi. Now have 0 qi
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 38 to 62
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 5b: A(hp 62/122, def 3, qi 2, force 8, injury 3, phys 5, agi 1) | B(hp 60/105, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 3 to 59
+  reduced 小布(pid3) hp by 2 to 57
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 7 force
+    reduced 牧逸风(pid0) hp by 28 to 32
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 6a: A(hp 57/122, def 1, qi 2, force 7, injury 3, phys 5, agi 1) | B(hp 32/105, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 2). They now have 1/1 qi
+  STATE after turn 6b: A(hp 57/122, def 1, qi 2, force 7, injury 3, phys 5, agi 1) | B(hp 32/105, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 3 to 54
+  reduced 小布(pid3) hp by 2 to 52
+  小布(pid3) spent 2 hp to play Mountain-Cleaving Palms (level 2)
+    lost 1 force. Now have 6 force
+    reduced 牧逸风(pid0) hp by 22 to 10
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 7a: A(hp 52/122, def 0, qi 2, force 6, injury 3, phys 5, agi 1) | B(hp 10/105, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 13 to 39
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 7b: A(hp 39/122, def 0, qi 2, force 6, injury 3, phys 5, agi 1) | B(hp 10/105, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 3 to 36
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 force. Now have 7 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 8a: A(hp 36/122, def 0, qi 4, force 7, injury 3, phys 5, agi 1) | B(hp 10/105, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Thunder Sword (level 1). They now have 1/1 qi
+  STATE after turn 8b: A(hp 36/122, def 0, qi 4, force 7, injury 3, phys 5, agi 1) | B(hp 10/105, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 3 to 33
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 3 def. Now have 3 def
+    gained 5 force. Now have 9 force
+    gained 5 agility. Now have 6 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 9a: A(hp 33/122, def 3, qi 5, force 9, injury 3, phys 5, agi 6) | B(hp 10/105, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 31
+    reduced 小布(pid3) hp by 6 to 25
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 9b: A(hp 25/122, def 0, qi 5, force 9, injury 3, phys 5, agi 6) | B(hp 10/105, def 0, qi 0)
+turn 9b ends
+turn 10a begins
+  reduced 小布(pid3) hp by 3 to 22
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 12 max_force
+    gained 3 force. Now have 12 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 10a: A(hp 22/122, def 8, qi 5, force 12, injury 3, phys 5, agi 6) | B(hp 10/105, def 0, qi 0)
+turn 10a ends
+turn 10b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Form-Intention Sword (level 1). They now have 1/1 qi
+  STATE after turn 10b: A(hp 22/122, def 8, qi 5, force 12, injury 3, phys 5, agi 6) | B(hp 10/105, def 0, qi 1)
+turn 10b ends
+turn 11a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 3 to 19
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 def. Now have 7 def
+    gained 3 force. Now have 12 force
+    gained 6 agility. Now have 12 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 2
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 5 to 14
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+  healed 5 hp. Went from 14 to 19
+  小布(pid3) healed 5 hp from crash fist bounce
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 8 def
+    gained 1 force. Now have 12 force
+    lost 1 force. Now have 11 force
+    reduced 牧逸风(pid0) hp by 34 to -24
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  STATE after turn 11a: A(hp 19/122, def 8, qi 4, force 11, injury 3, phys 5, agi 2) | B(hp -24/105, def 0, qi 1)
+turn 11a ends
+牧逸风(pid0) loses 24 destiny, now at 12
+小布(pid3) (Xiao Bu) wins

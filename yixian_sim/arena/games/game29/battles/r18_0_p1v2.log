@@ -1,0 +1,239 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 def. Now have 4 def
+gained 4 def. Now have 8 def
+turn 1a begins
+  lost 4 def. Now have 4 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 internal_injury. Now have 2 internal_injury
+    gained 4 def. Now have 8 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 1a: A(hp 109/109, def 8, qi 2) | B(hp 109/109, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 2 to 107
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 3 qi. Now have 3 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 1b: A(hp 109/109, def 8, qi 2) | B(hp 107/109, def 0, qi 3, injury 2)
+turn 1b ends
+turn 2a begins
+  lost 4 def. Now have 4 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2a: A(hp 109/109, def 4, qi 2) | B(hp 107/109, def 0, qi 3, injury 3)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 3 to 104
+  吾行之(pid2) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  STATE after turn 2b: A(hp 109/109, def 4, qi 2) | B(hp 104/109, def 0, qi 3, injury 3)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 5 internal_injury
+    reduced 吾行之(pid2) hp by 5 to 99
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 3a: A(hp 109/109, def 2, qi 2) | B(hp 99/109, def 0, qi 3, injury 5)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 5 to 94
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 118 max_hp
+    healed 9 hp. Went from 94 to 103
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 108
+  STATE after turn 3b: A(hp 108/109, def 0, qi 2) | B(hp 103/118, def 0, qi 1, injury 5)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 7 internal_injury
+    reduced 吾行之(pid2) hp by 7 to 96
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 108/109, def 0, qi 2) | B(hp 96/118, def 0, qi 1, injury 7)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 7 to 89
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 3 to 105
+  STATE after turn 4b: A(hp 105/109, def 0, qi 2) | B(hp 89/118, def 10, qi 1, injury 7)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 5a: A(hp 105/109, def 4, qi 2) | B(hp 89/118, def 10, qi 1, injury 7)
+turn 5a ends
+turn 5b begins
+  lost 5 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 7 to 82
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 2 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 104
+  STATE after turn 5b: A(hp 104/109, def 0, qi 2) | B(hp 82/118, def 5, qi 1, injury 7)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 6a: A(hp 104/109, def 4, qi 2) | B(hp 82/118, def 5, qi 1, injury 7)
+turn 6a ends
+turn 6b begins
+  lost 3 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 7 to 75
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 2 def
+  吾行之(pid2) finished playing Normal Attack
+  lost 2 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 103
+  STATE after turn 6b: A(hp 103/109, def 0, qi 2) | B(hp 75/118, def 2, qi 1, injury 7)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Cide (level 1)
+    lost 2 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 14 to 61
+  谭舒雁(pid1) finished playing Astral Move - Cide
+  STATE after turn 7a: A(hp 103/109, def 0, qi 1) | B(hp 61/118, def 0, qi 1, injury 7)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 7 to 54
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 100
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 95
+  吾行之(pid2) finished playing Normal Attack
+  reduced 谭舒雁(pid1) hp by 3 to 92
+  STATE after turn 7b: A(hp 92/109, def 0, qi 1) | B(hp 54/118, def 0, qi 1, injury 7)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 2)
+    gained 6 max_hp. Now have 115 max_hp
+    healed 6 hp. Went from 92 to 98
+    gained 3 repel_citta_dharma_stacks. Now have 3 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 8a: A(hp 98/115, def 0, qi 1) | B(hp 54/118, def 0, qi 1, injury 7)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 7 to 47
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 95
+    reduced 吾行之(pid2) hp by 3 to 44
+  吾行之(pid2) finished playing Normal Attack
+  reduced 谭舒雁(pid1) hp by 3 to 92
+  STATE after turn 8b: A(hp 92/115, def 0, qi 1) | B(hp 44/118, def 0, qi 1, injury 7)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+    lost 1 hexproof. Now have 2 hexproof
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 9a: A(hp 92/115, def 4, qi 3) | B(hp 44/118, def 0, qi 1, injury 7)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 7 to 37
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  lost 3 def. Now have 1 def
+  STATE after turn 9b: A(hp 92/115, def 1, qi 3) | B(hp 37/118, def 0, qi 4, injury 7)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 1 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 10a: A(hp 92/115, def 0, qi 3) | B(hp 37/118, def 0, qi 4, injury 7)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 7 to 30
+  lost 2 qi. Now have 2 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 6 force_of_water
+    gained 12 max_hp. Now have 130 max_hp
+    healed 12 hp. Went from 30 to 42
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 6 to 86
+  STATE after turn 10b: A(hp 86/115, def 0, qi 3) | B(hp 42/130, def 0, qi 2, injury 7)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    lost 1 hexproof. Now have 0 hexproof
+    gained 1 internal_injury. Now have 8 internal_injury
+    reduced 吾行之(pid2) hp by 8 to 34
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 11a: A(hp 86/115, def 0, qi 3) | B(hp 34/130, def 0, qi 2, injury 8)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 8 to 26
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 6 to 80
+  STATE after turn 11b: A(hp 80/115, def 0, qi 3) | B(hp 26/130, def 10, qi 2, injury 8)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    lost 2 hexproof. Now have 1 hexproof
+    reduced 吾行之(pid2) hp by 8 to 18
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 12a: A(hp 80/115, def 0, qi 3) | B(hp 18/130, def 10, qi 2, injury 8)
+turn 12a ends
+turn 12b begins
+  lost 5 def. Now have 5 def
+  reduced 吾行之(pid2) hp by 8 to 10
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 77
+    lost 3 def. Now have 2 def
+  吾行之(pid2) finished playing Normal Attack
+  reduced 谭舒雁(pid1) hp by 6 to 71
+  STATE after turn 12b: A(hp 71/115, def 0, qi 3) | B(hp 10/130, def 2, qi 2, injury 8)
+turn 12b ends
+turn 13a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 13a: A(hp 71/115, def 4, qi 3) | B(hp 10/130, def 2, qi 2, injury 8)
+turn 13a ends
+turn 13b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 8 to 2
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 0
+  STATE after turn 13b: A(hp 71/115, def 3, qi 3) | B(hp 0/130, def 0, qi 2, injury 8)
+turn 13b ends
+吾行之(pid2) loses 29 destiny, now at -28
+谭舒雁(pid1) (Tan Shuyan) wins

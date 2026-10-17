@@ -1,0 +1,241 @@
+turn 1a begins
+  player 0 is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  player 0 finished playing Crash Footwork
+turn 1a ends
+turn 1b begins
+  player 0 is playing Polaris Citta-Dharma (level 1)
+    gained 2 star_power. Now have 2 star_power
+  player 0 finished playing Polaris Citta-Dharma
+turn 1b ends
+turn 2a begins
+  player 0 is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 2 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 3 star_power
+  player 0 finished playing Dotted Around
+turn 2b ends
+turn 3a begins
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 3 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 2)
+    reduced player 1 hp by 9 to 111
+    reduced player 1 hp by 9 to 102
+    reduced player 1 hp by 10 to 92
+  player 0 finished playing Astral Move - Hit
+turn 3b ends
+turn 4a begins
+  player 0 is playing Surging Waves (level 2)
+    gained 2 qi. Now have 6 qi
+    gained 3 def. Now have 3 def
+    gained 6 force. Now have 6 force
+    gained 5 agility. Now have 9 agility
+  player 0 finished playing Surging Waves
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Propitious Omen (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 3 qi. Now have 6 qi
+  player 0 finished playing Propitious Omen
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 3 to 89
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 def. Now have 2 def
+    gained 1 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 3 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 14 to 100
+    gained 3 def. Now have 6 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 73
+    reduced player 1 max_hp by 16 to 124
+  player 0 finished playing Fire Cloud Fulu
+turn 5b ends
+turn 6a begins
+  lost 3 def. Now have 3 def
+  reduced player 0 hp by 8 to 65
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 6 def
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 7 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 16 to 84
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 6a ends
+turn 6b begins
+  player 0 is playing Shifting Stars (level 2)
+    lost 7 def. Now have 0 def
+    reduced player 1 hp by 4 to 61
+    gained 1 qi. Now have 6 qi
+  player 0 finished playing Shifting Stars
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 2 to 59
+  player 0 spent 2 hp to play Strong Force (level 1)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 qi. Now have 5 qi
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 20 to 64
+    Attacking for 13 from crash fist - shocked effect.
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 19 to 45
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 7a ends
+turn 7b begins
+  player 0 is playing Astral Move - Block (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 10 to 49
+    gained 4 def. Now have 4 def
+  player 0 finished playing Astral Move - Block
+turn 7b ends
+turn 8a begins
+  player 0 is playing Overwhelming Force (level 2)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 12 to 33
+    gained 6 agility. Now have 15 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 8 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 8a ends
+turn 8b begins
+  player 0 is playing Hunter Becomes Preyer (level 2)
+    lost 6 def. Now have 10 def
+    lost 6 def. Now have 4 def
+    healed 6 hp. Went from 33 to 39
+  player 0 finished playing Hunter Becomes Preyer
+turn 8b ends
+turn 9a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Surging Waves (level 2)
+    gained 2 qi. Now have 10 qi
+    gained 5 def. Now have 7 def
+    gained 10 force. Now have 6 force
+    gained 5 agility. Now have 10 agility
+  player 0 finished playing Surging Waves
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  reduced player 0 hp by 3 to 46
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 def. Now have 8 def
+    gained 1 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 9 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 14 to 25
+    gained 3 def. Now have 12 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 9a ends
+turn 9b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 8 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 4 star_power
+  player 0 finished playing Dotted Around
+turn 9b ends
+turn 10a begins
+  lost 6 def. Now have 6 def
+  reduced player 0 hp by 8 to 38
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 9 def
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 10 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 13 to 12
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 2)
+    lost 10 def. Now have 0 def
+    reduced player 1 hp by 10 to 28
+    reduced player 1 hp by 11 to 17
+  player 0 finished playing Astral Move - Hit
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 2 to 15
+  player 0 spent 2 hp to play Strong Force (level 1)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 qi. Now have 9 qi
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 20 to -8
+    Attacking for 22 from crash fist - shocked effect.
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 33 to -41
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+turn 11a ends
+player 1 loses 23 destiny, now at 36
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Crash Footwork (level 1)
+  Crash Citta-Dharma (level 1)
+  Majestic Qi (level 2)
+  Surging Waves (level 2)
+  Crash Fist - Block (level 2)
+  Crash Fist - Shocked (level 1)
+  Strong Force (level 1)
+  Overwhelming Force (level 2)
+Player 1's deck:
+  Polaris Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Astral Move - Hit (level 2)
+  Propitious Omen (level 1)
+  Fire Cloud Fulu (level 2)
+  Shifting Stars (level 2)
+  Astral Move - Block (level 2)
+  Hunter Becomes Preyer (level 2)

@@ -1,0 +1,124 @@
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 37
+    reduced player 1 max_hp by 3 to 37
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+turn 1b ends
+turn 2a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to 28
+    reduced player 1 hp by 2 to 26
+  player 0 finished playing Fire Spirit - Rush
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    reduced player 1 hp by 6 to 34
+  player 0 finished playing Astral Move - Flank
+turn 2b ends
+turn 3a begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+    reduced player 1 hp by 6 to 20
+  player 0 finished playing Metal Spirit - Needle
+turn 3a ends
+turn 3b begins
+  player 0 is playing Astral Move - Block (level 1)
+    reduced player 1 hp by 6 to 28
+  player 0 finished playing Astral Move - Block
+turn 3b ends
+turn 4a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 17
+  player 0 finished playing Normal Attack
+turn 4a ends
+turn 4b begins
+  player 0 is playing Incessant (level 1)
+    reduced player 1 hp by 6 to 22
+  player 0 finished playing Incessant
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 14
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 19
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 16
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 5
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 2
+    reduced player 1 max_hp by 3 to 34
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to -7
+    reduced player 1 hp by 2 to -9
+turn 10a ends
+player 1 loses 5 destiny, now at 95
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 1)
+  Fire Spirit - Rush (level 1)
+  Metal Spirit - Needle (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Astral Move - Flank (level 1)
+  Astral Move - Block (level 1)
+  Incessant (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

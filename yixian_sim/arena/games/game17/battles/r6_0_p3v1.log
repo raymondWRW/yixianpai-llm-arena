@@ -1,0 +1,187 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 1 physique. Now have 4 physique
+    gained 1 max_hp. Now have 66 max_hp
+    healed 1 hp. Went from 62 to 63
+    gained 3 physique. Now have 7 physique
+    gained 3 max_hp. Now have 69 max_hp
+    gained 2 entangle. Now have 2 entangle
+    gained 10 def. Now have 10 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 1 entangle
+  STATE after turn 1a: A(hp 63/69, def 10, qi 0, phys 7) | B(hp 62/62, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 9 def. Now have 1 def
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 1b: A(hp 63/69, def 1, qi 0, phys 7) | B(hp 62/62, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  小布(pid3) is playing Magnanimous Righteousness (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 def. Now have 4 def
+    gained 2 hexproof. Now have 2 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  lost 1 entangle. Now have 0 entangle
+  STATE after turn 2a: A(hp 63/69, def 4, qi 1, phys 7) | B(hp 62/62, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 1 to 62
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 2b: A(hp 62/69, def 0, qi 1, phys 7) | B(hp 62/62, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 57
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3a: A(hp 62/69, def 0, qi 2, force 2, phys 7) | B(hp 57/62, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 小布(pid3) hp by 7 to 55
+    reduced 小布(pid3) hp by 7 to 48
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 48/69, def 0, qi 2, force 2, phys 7) | B(hp 57/62, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 13 to 44
+    lost 1 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 4a: A(hp 48/69, def 0, qi 1, force 3, phys 7) | B(hp 44/62, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Heavenly Decree - Attack (level 2)
+    reduced 小布(pid3) hp by 9 to 39
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Heavenly Decree - Attack
+  STATE after turn 4b: A(hp 39/69, def 0, qi 1, force 3, phys 7) | B(hp 44/62, def 4, qi 0)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 3 to 36
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    lost 1 force. Now have 2 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 34
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 5a: A(hp 36/69, def 0, qi 1, force 2, phys 7) | B(hp 34/62, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 36/69, def 0, qi 1, force 2, phys 7) | B(hp 34/62, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 3 to 33
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 14 to 20
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 6a: A(hp 33/69, def 0, qi 1, force 1, phys 7) | B(hp 20/62, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 小布(pid3) hp by 3 to 30
+    reduced 小布(pid3) hp by 3 to 27
+    gained 5 def. Now have 5 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 6b: A(hp 27/69, def 0, qi 1, force 1, phys 7) | B(hp 20/62, def 5, qi 0)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    lost 1 force. Now have 0 force
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 17
+    gained 1 qi. Now have 2 qi
+    lost 1 hexproof. Now have 1 hexproof
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 7a: A(hp 27/69, def 0, qi 2, phys 7) | B(hp 17/62, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Astral Fleche (level 1)
+    reduced 小布(pid3) hp by 5 to 22
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 7b: A(hp 22/69, def 0, qi 2, phys 7) | B(hp 17/62, def 0, qi 0, star 1)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 2 to 20
+  小布(pid3) spent 2 hp to play Youthful Vigor (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 9
+    lost 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 4 to 5
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 8a: A(hp 20/69, def 0, qi 1, phys 7) | B(hp 5/62, def 0, qi 0, star 1)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Cutting Weeds (level 1). They now have 1/1 qi
+  STATE after turn 8b: A(hp 20/69, def 0, qi 1, phys 7) | B(hp 5/62, def 0, qi 1, star 1)
+turn 8b ends
+turn 9a begins
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 1 physique. Now have 8 physique
+    gained 1 max_hp. Now have 70 max_hp
+    healed 1 hp. Went from 20 to 21
+    gained 3 physique. Now have 11 physique
+    gained 3 max_hp. Now have 73 max_hp
+    lost 1 hexproof. Now have 0 hexproof
+    gained 1 entangle. Now have 1 entangle
+    gained 9 def. Now have 9 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 0 entangle
+  STATE after turn 9a: A(hp 21/73, def 9, qi 1, phys 11) | B(hp 5/62, def 0, qi 1, star 1)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 5 def. Now have 4 def
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 1 to 20
+    reduced 小布(pid3) max_hp by 4 to 69
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 9b: A(hp 20/69, def 0, qi 1, phys 11) | B(hp 5/62, def 0, qi 0, star 1)
+turn 9b ends
+turn 10a begins
+  小布(pid3) is playing Magnanimous Righteousness (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 4 def. Now have 4 def
+    gained 2 hexproof. Now have 2 hexproof
+  小布(pid3) finished playing Magnanimous Righteousness
+  STATE after turn 10a: A(hp 20/69, def 4, qi 2, phys 11) | B(hp 5/62, def 0, qi 0, star 1)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 1 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 10b: A(hp 20/69, def 1, qi 2, phys 11) | B(hp 5/62, def 0, qi 0, star 1)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 0
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 2 force
+  STATE after turn 11a: A(hp 20/69, def 0, qi 3, force 2, phys 11) | B(hp 0/62, def 0, qi 0, star 1)
+turn 11a ends
+谭舒雁(pid1) loses 10 destiny, now at 84
+小布(pid3) (Xiao Bu) wins

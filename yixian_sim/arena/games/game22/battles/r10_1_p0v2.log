@@ -1,0 +1,160 @@
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 1a: A(hp 80/80, def 0, qi 0, sword 1) | B(hp 80/80, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 1b: A(hp 80/80, def 0, qi 0, sword 1) | B(hp 80/80, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 5 qi
+    reduced 吾行之(pid2) hp by 4 to 76
+    reduced 吾行之(pid2) hp by 4 to 72
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2a: A(hp 80/80, def 0, qi 5) | B(hp 72/80, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 12 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 2b: A(hp 80/80, def 0, qi 5) | B(hp 72/80, def 6, qi 0)
+turn 2b ends
+turn 3a begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 7 qi
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 qi. Now have 9 qi
+    lost 6 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 3 to 69
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 3a: A(hp 80/80, def 1, qi 9) | B(hp 69/80, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 1)
+    gained 1 penetrate. Now have 13 penetrate
+    gained 4 def. Now have 4 def
+    gained 5 penetrate. Now have 18 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 3b: A(hp 80/80, def 1, qi 9) | B(hp 69/80, def 4, qi 0)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 67
+    reduced 吾行之(pid2) hp by 2 to 65
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 4a: A(hp 80/80, def 0, qi 9) | B(hp 65/80, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 19 penetrate
+    penetrating 19 damage
+    lost 19 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 26 to 54
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 4b: A(hp 54/80, def 0, qi 9) | B(hp 65/80, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Inspiration Sword (level 2)
+    reduced 吾行之(pid2) hp by 12 to 53
+    gained 9 sword_intent. Now have 9 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 5a: A(hp 54/80, def 0, qi 9, sword 9) | B(hp 53/80, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  STATE after turn 5b: A(hp 54/80, def 0, qi 9, sword 9) | B(hp 53/80, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 8 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 38 to 15
+    lost 9 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 6a: A(hp 54/80, def 0, qi 8) | B(hp 15/80, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 12 to 42
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 牧逸风(pid0) hp by 5 to 37
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 6b: A(hp 37/80, def 0, qi 8) | B(hp 15/80, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 12
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 37/80, def 0, qi 8) | B(hp 12/80, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 30
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 牧逸风(pid0) hp by 5 to 25
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 7b: A(hp 25/80, def 0, qi 8) | B(hp 12/80, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 9
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 25/80, def 0, qi 8) | B(hp 9/80, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Earth Spirit - Quicksand (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 15
+  吾行之(pid2) finished playing Earth Spirit - Quicksand
+  STATE after turn 8b: A(hp 15/80, def 0, qi 8) | B(hp 9/80, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 11 qi
+    reduced 吾行之(pid2) hp by 3 to 6
+    reduced 吾行之(pid2) hp by 3 to 3
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9a: A(hp 15/80, def 0, qi 11) | B(hp 3/80, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 8 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 9b: A(hp 15/80, def 0, qi 11) | B(hp 3/80, def 6, qi 0)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 qi. Now have 13 qi
+    lost 6 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 7 to -4
+  STATE after turn 10a: A(hp 15/80, def 1, qi 13) | B(hp -4/80, def 0, qi 0)
+turn 10a ends
+吾行之(pid2) loses 15 destiny, now at 47
+牧逸风(pid0) (Mu Yifeng) wins

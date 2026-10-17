@@ -1,0 +1,136 @@
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+healed 4 hp. Went from 107 to 111
+turn 1a begins
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 1a: A(hp 114/114, def 0, qi 1) | B(hp 111/133, def 0, qi 0, phys 26)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 27 physique
+    gained 1 max_hp. Now have 134 max_hp
+    healed 1 hp. Went from 111 to 112
+    gained 3 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 114/114, def 0, qi 1) | B(hp 112/134, def 0, qi 3, force 1, phys 27)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    reduced 小布(pid3) hp by 3 to 109
+    reduced 小布(pid3) hp by 3 to 106
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2a: A(hp 114/114, def 0, qi 4) | B(hp 106/134, def 0, qi 3, force 1, phys 27)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Intense Force (level 2)
+    gained 10 def. Now have 10 def
+    gained 4 max_force. Now have 10 max_force
+    gained 4 force. Now have 5 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 2b: A(hp 114/114, def 0, qi 4) | B(hp 106/134, def 10, qi 3, force 5, phys 27)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 6 qi
+    lost 3 def. Now have 7 def
+    lost 3 def. Now have 4 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3a: A(hp 114/114, def 0, qi 6) | B(hp 106/134, def 4, qi 3, force 5, phys 27)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 2 def
+  小布(pid3) is playing Surging Waves (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 5 force. Now have 10 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 3b: A(hp 114/114, def 0, qi 6) | B(hp 106/134, def 2, qi 5, force 10, phys 27, agi 5)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 9 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 4a: A(hp 114/114, def 0, qi 9) | B(hp 106/134, def 2, qi 5, force 10, phys 27, agi 5)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 def. Now have 4 def
+    gained 3 force. Now have 10 force
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 5 to 101
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 5 def
+    gained 1 force. Now have 10 force
+    lost 1 force. Now have 9 force
+    reduced 牧逸风(pid0) hp by 30 to 84
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 4b: A(hp 84/114, def 0, qi 9) | B(hp 101/134, def 5, qi 4, force 9, phys 27, agi 1)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 12 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 5a: A(hp 84/114, def 0, qi 12) | B(hp 101/134, def 5, qi 4, force 9, phys 27, agi 1)
+turn 5a ends
+turn 5b begins
+  lost 3 def. Now have 2 def
+  reduced 小布(pid3) hp by 8 to 93
+  小布(pid3) spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 10 force
+    lost 1 force. Now have 9 force
+    reduced 牧逸风(pid0) hp by 30 to 54
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shocked
+  STATE after turn 5b: A(hp 54/114, def 0, qi 12) | B(hp 93/134, def 2, qi 4, force 9, phys 27, agi 1)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Egret Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 41 to 52
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 6a: A(hp 54/114, def 0, qi 12) | B(hp 52/134, def 2, qi 4, force 9, phys 27, agi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 6 to 46
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 10 force
+    lost 1 force. Now have 9 force
+    reduced 牧逸风(pid0) hp by 22 to 32
+    Attacking for 14 from crash fist - shocked effect.
+    lost 1 force. Now have 8 force
+    reduced 牧逸风(pid0) hp by 26 to 6
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 6b: A(hp 6/114, def 0, qi 12) | B(hp 46/134, def 1, qi 4, force 8, phys 27, agi 1)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 2)
+    lost 12 qi. Now have 0 qi
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 76 to -30
+  STATE after turn 7a: A(hp 6/114, def 0, qi 0) | B(hp -30/134, def 0, qi 4, force 8, phys 27, agi 1)
+turn 7a ends
+小布(pid3) loses 24 destiny, now at 17
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,110 @@
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1a: A(hp 53/53, def 0, qi 2) | B(hp 53/58, def 0, qi 0, phys 5)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 3 to 50
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 46
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 1b: A(hp 46/53, def 0, qi 2) | B(hp 50/58, def 2, qi 0, phys 5)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 2a: A(hp 46/53, def 0, qi 4) | B(hp 50/58, def 2, qi 0, phys 5)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 4 to 46
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 2 def. Now have 3 def
+    reduced 牧逸风(pid0) hp by 10 to 36
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 2b: A(hp 36/53, def 0, qi 4) | B(hp 46/58, def 3, qi 0, phys 5)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 10 to 36
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 3a: A(hp 36/53, def 0, qi 3) | B(hp 36/58, def 3, qi 0, phys 5)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 2 to 34
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 1 wound. Now have 1 wound
+    reduced 牧逸风(pid0) hp by 9 to 27
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 3b: A(hp 27/53, def 0, qi 3) | B(hp 34/58, def 1, qi 0, phys 5)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to 25
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4a: A(hp 27/53, def 0, qi 2) | B(hp 25/58, def 0, qi 0, phys 5)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 23
+  小布(pid3) spent 2 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 16
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 4b: A(hp 16/53, def 0, qi 2) | B(hp 23/58, def 0, qi 0, phys 5)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 小布(pid3) hp by 8 to 15
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 5a: A(hp 16/53, def 8, qi 1) | B(hp 15/58, def 0, qi 0, phys 5)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 8 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 14
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 5b: A(hp 14/53, def 0, qi 1) | B(hp 15/58, def 0, qi 0, phys 5)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 1)
+    reduced 小布(pid3) hp by 6 to 9
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 6a: A(hp 14/53, def 0, qi 1) | B(hp 9/58, def 0, qi 0, phys 5)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Mountain Falling (level 2)
+    reduced 牧逸风(pid0) hp by 10 to 4
+  小布(pid3) finished playing Mountain Falling
+  STATE after turn 6b: A(hp 4/53, def 0, qi 1) | B(hp 9/58, def 0, qi 0, phys 5)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 小布(pid3) hp by 5 to 4
+    reduced 小布(pid3) hp by 3 to 1
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 7a: A(hp 4/53, def 0, qi 1) | B(hp 1/58, def 0, qi 0, phys 5)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 4 to 0
+  STATE after turn 7b: A(hp 0/53, def 0, qi 1) | B(hp 1/58, def 0, qi 0, phys 5)
+turn 7b ends
+牧逸风(pid0) loses 6 destiny, now at 88
+小布(pid3) (Xiao Bu) wins

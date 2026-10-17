@@ -1,0 +1,120 @@
+reduced player 1 hp by 2 to 49
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 13 physique
+    gained 2 max_hp. Now have 64 max_hp
+    healed 4 hp. Went from 49 to 53
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 1b ends
+turn 2a begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 47
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 2a ends
+turn 2b begins
+  player 0 is playing Sword Slash (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 5 to 48
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Slash
+turn 2b ends
+turn 3a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 15 to 32
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 12 to 36
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 3b ends
+turn 4a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 1)
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 11 to 21
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 30
+    reduced player 1 hp by 8 to 22
+  player 0 finished playing Thunder Sword
+turn 4b ends
+turn 5a begins
+  reduced player 0 hp by 3 to 19
+  player 0 spent 3 hp to play Crash Fist - Block (level 1)
+    reduced player 1 hp by 7 to 14
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Form-Intention Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 13
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Form-Intention Sword
+turn 5b ends
+turn 6a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 5
+    gained 1 physique. Now have 14 physique
+    gained 1 max_hp. Now have 65 max_hp
+  player 0 finished playing Exercise Fist
+turn 6a ends
+turn 6b begins
+  player 0 is playing Foretell Fate (level 1)
+    reduced player 1 hp by 6 to 7
+  player 0 finished playing Foretell Fate
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 2
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 6 to 1
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to -1
+turn 8a ends
+player 1 loses 5 destiny, now at 82
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Vigorous Force (level 2)
+  Mountain-Cleaving Palms (level 2)
+  Mountain-Cleaving Palms (level 1)
+  Crash Fist - Block (level 1)
+  Exercise Fist (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Qi Perfusion (level 1)
+  Sword Slash (level 2)
+  Cloud Sword - Touch Sky (level 2)
+  Thunder Sword (level 2)
+  Form-Intention Sword (level 1)
+  Foretell Fate (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

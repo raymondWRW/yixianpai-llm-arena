@@ -1,0 +1,231 @@
+gained 1 qi. Now have 1 qi
+gained 4 def. Now have 4 def
+turn 1a begins
+  player 0 is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  player 0 finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 87 max_hp
+  healed 7 hp. Went from 80 to 87
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+turn 1a ends
+turn 1b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 5 def
+turn 1b ends
+turn 2a begins
+  lost 4 def. Now have 3 def
+  player 0 is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 94 max_hp
+  healed 7 hp. Went from 87 to 94
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 5 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 5 def
+turn 2b ends
+turn 3a begins
+  lost 5 def. Now have 5 def
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 3 qi
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 8 qi
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 2 to 92
+    reduced player 1 hp by 7 to 85
+    lost 4 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 9 to 71
+    reduced player 1 hp by 3 to 68
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 63
+  player 0 finished playing Fire Spirit - Rush
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 79
+    reduced player 1 hp by 8 to 71
+  player 0 finished playing Thunder Sword
+turn 4b ends
+turn 5a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 13 to 50
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 45
+  player 0 finished playing Water Spirit - Waves
+turn 5a ends
+turn 5b begins
+  player 0 is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+  gained 3 def. Now have 7 def
+turn 5b ends
+turn 6a begins
+  player 0 is playing Earth Spirit - Mountains (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 6 def
+    gained 3 def. Now have 3 def
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 5 def
+  player 0 finished playing Earth Spirit - Mountains
+turn 6a ends
+turn 6b begins
+  lost 3 def. Now have 2 def
+  lost 1 qi. Now have 6 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 66
+  player 0 finished playing Flying Fang Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+  player 0 upgrades Metal Spirit - Needle (level 1) to Metal Spirit - Needle (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 5 to 40
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 9 to 57
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 3)
+    reduced player 1 hp by 24 to 33
+  player 0 finished playing Giant Whale Spirit Sword
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Blast (level 2). They now have 1/1 qi
+turn 8a ends
+turn 8b begins
+  player 0 is playing Detect Qi (level 2)
+    gained 3 qi. Now have 5 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 2 increase_atk
+  player 0 finished playing Fire Spirit - Blast
+turn 9a ends
+turn 9b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 6 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 4 def
+turn 9b ends
+turn 10a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 3 qi
+    reduced player 1 hp by 4 to 36
+    reduced player 1 max_hp by 4 to 76
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 9 qi
+    reduced player 1 hp by 7 to 26
+    reduced player 1 hp by 7 to 19
+    lost 4 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 2 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 15 to 21
+    reduced player 1 hp by 5 to 16
+  player 0 finished playing Fire Spirit - Rush
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 8 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 13
+    reduced player 1 hp by 8 to 5
+  player 0 finished playing Thunder Sword
+turn 11b ends
+turn 12a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 15 to 1
+  player 0 finished playing Water Spirit - Waves
+turn 12a ends
+turn 12b begins
+  player 0 is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+  gained 3 def. Now have 7 def
+turn 12b ends
+turn 13a begins
+  player 0 is playing Earth Spirit - Mountains (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 2 def. Now have 5 def
+    gained 3 def. Now have 3 def
+  player 0 finished playing Earth Spirit - Mountains
+turn 13a ends
+turn 13b begins
+  lost 3 def. Now have 2 def
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 0
+turn 13b ends
+player 0 loses 12 destiny, now at 38
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Motionless Tutelary Formation (level 1)
+  Endless Sword Formation (level 2)
+  Fire Spirit - Flame Eater (level 2)
+  Fire Spirit - Rush (level 2)
+  Water Spirit - Waves (level 2)
+  Earth Spirit - Mountains (level 2)
+  Metal Spirit - Needle (level 2)
+  Fire Spirit - Blast (level 2)
+Player 1's deck:
+  Detect Qi (level 2)
+  Contemplate Spirits Rhythm (level 2)
+  Spiritage Sword (level 2)
+  Thunder Sword (level 2)
+  Everything is Unadvisable (level 1)
+  Flying Fang Sword (level 1)
+  Giant Roc Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 3)

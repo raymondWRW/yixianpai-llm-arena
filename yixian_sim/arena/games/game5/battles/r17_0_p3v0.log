@@ -1,0 +1,245 @@
+turn 1a begins
+  player 0 is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  player 0 finished playing Crash Footwork
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cacopoisonous Formation (level 2)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 1b ends
+turn 2a begins
+  player 0 is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 2 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 1 to 125
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 force. Now have 3 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  player 0 is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 6 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 2 to 123
+  player 0 is playing Surging Waves (level 2)
+    gained 2 qi. Now have 6 qi
+    gained 3 def. Now have 3 def
+    gained 6 force. Now have 6 force
+    gained 5 agility. Now have 9 agility
+  player 0 finished playing Surging Waves
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  player 0 is playing Anthomania Formation (level 1)
+    gained 2 anthomania_formation_stacks. Now have 2 anthomania_formation_stacks
+  player 0 finished playing Anthomania Formation
+  gained 1 decrease_atk. Now have 1 decrease_atk
+  reduced player 1 hp by 1 to 122
+  healed 1 hp. Went from 107 to 107
+  lost 1 anthomania_formation_stacks. Now have 1 anthomania_formation_stacks
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 3 to 119
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Vast Universe (level 2)
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 2 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 17 to 90
+    healed 6 hp. Went from 119 to 125
+    gained 15 agility. Now have 24 agility
+  player 0 finished playing Vast Universe
+  Spent 10 agility to chase. Agility is now 14
+  incremented chases to 1
+  chase!!
+  reduced player 0 hp by 8 to 117
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 3 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 14 to 76
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 20 to 97
+  player 0 finished playing Giant Whale Spirit Sword
+  gained 1 decrease_atk. Now have 2 decrease_atk
+  reduced player 1 hp by 2 to 95
+  healed 2 hp. Went from 76 to 78
+  lost 1 anthomania_formation_stacks. Now have 0 anthomania_formation_stacks
+turn 5b ends
+turn 6a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 3 to 92
+  reduced player 0 hp by 2 to 90
+  player 0 spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 qi. Now have 3 qi
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 def. Now have 2 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 24 to 54
+    Attacking for 9 from crash fist - shocked effect.
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 10 to 44
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Strong Force
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  player 0 is playing Overwhelming Force (level 2)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 18 def
+    reduced player 1 hp by 16 to 28
+    gained 6 agility. Now have 10 agility
+  player 0 finished playing Overwhelming Force
+turn 6a ends
+turn 6b begins
+  lost 3 qi. Now have 1 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    lost 13 def. Now have 5 def
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 8 to 82
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6b ends
+turn 7a begins
+  reduced player 0 hp by 3 to 79
+  player 0 is playing Majestic Qi (level 2)
+    gained 3 qi. Now have 6 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  player 0 is playing Surging Waves (level 2)
+    gained 2 qi. Now have 8 qi
+    gained 3 def. Now have 3 def
+    gained 8 force. Now have 6 force
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Surging Waves
+turn 7a ends
+turn 7b begins
+  lost 7 def. Now have 6 def
+  player 0 is playing Impact Formation (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 74
+    reduced player 1 hp by 3 to 71
+  player 0 finished playing Impact Formation
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 3 to 68
+  lost 2 qi. Now have 6 qi
+  player 0 spent 2 qi to play Vast Universe (level 2)
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 10 to 18
+    healed 6 hp. Went from 68 to 74
+    gained 15 agility. Now have 20 agility
+  player 0 finished playing Vast Universe
+  Spent 10 agility to chase. Agility is now 10
+  incremented chases to 1
+  chase!!
+  reduced player 0 hp by 8 to 66
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 force. Now have 6 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 def. Now have 2 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 12 to 6
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 8a ends
+turn 8b begins
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 3 to 63
+  reduced player 0 hp by 2 to 61
+  player 0 spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 qi. Now have 5 qi
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 def. Now have 2 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 24 to -18
+    Attacking for 16 from crash fist - shocked effect.
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 21 to -39
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 9a ends
+player 1 loses 30 destiny, now at -29
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Crash Footwork (level 1)
+  Crash Citta-Dharma (level 1)
+  Majestic Qi (level 2)
+  Surging Waves (level 2)
+  Vast Universe (level 2)
+  Crash Fist - Shocked (level 1)
+  Strong Force (level 2)
+  Overwhelming Force (level 2)
+Player 1's deck:
+  Cacopoisonous Formation (level 2)
+  Qi Perfusion (level 2)
+  Transforming Spirits Rhythm (level 1)
+  Anthomania Formation (level 1)
+  Giant Whale Spirit Sword (level 2)
+  Giant Kun Spirit Sword (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Impact Formation (level 2)

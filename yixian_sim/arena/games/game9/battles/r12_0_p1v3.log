@@ -1,0 +1,190 @@
+gained 1 internal_injury. Now have 1 internal_injury
+reduced 小布(pid3) hp by 3 to 81
+gained 6 max_hp. Now have 110 max_hp
+healed 6 hp. Went from 104 to 110
+gained 1 qi. Now have 1 qi
+reduced 小布(pid3) hp by 2 to 108
+gained 1 qi. Now have 2 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 1a: A(hp 108/110, def 3, qi 2, star 1) | B(hp 81/105, def 0, qi 2, injury 1, phys 21)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 1 to 80
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 102
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 1b: A(hp 102/110, def 3, qi 2, star 1) | B(hp 80/105, def 0, qi 2, injury 1, phys 21)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 102/110, def 2, qi 3, star 1) | B(hp 80/105, def 0, qi 2, injury 2, phys 21)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 2 to 78
+  小布(pid3) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 2b: A(hp 102/110, def 2, qi 3, star 1) | B(hp 78/105, def 0, qi 4, injury 2, phys 21)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3a: A(hp 102/110, def 1, qi 3, star 1) | B(hp 78/105, def 0, qi 4, injury 3, phys 21)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 3 to 75
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 101
+    gained 1 qi. Now have 5 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3b: A(hp 101/110, def 0, qi 3, star 1) | B(hp 75/105, def 0, qi 5, force 2, injury 3, phys 21)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 5 internal_injury
+    reduced 小布(pid3) hp by 5 to 70
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 101/110, def 0, qi 3, star 1) | B(hp 70/105, def 0, qi 5, force 2, injury 5, phys 21)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 5 to 65
+  小布(pid3) is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 4 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  小布(pid3) finished playing Crash Citta-Dharma
+  STATE after turn 4b: A(hp 101/110, def 0, qi 3, star 1) | B(hp 65/105, def 0, qi 5, force 4, injury 5, phys 21)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 101 to 110
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 5a: A(hp 110/110, def 9, qi 2, star 1) | B(hp 65/105, def 0, qi 5, force 4, injury 5, phys 21)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 5 to 60
+  reduced 小布(pid3) hp by 2 to 58
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    gained 1 force. Now have 5 force
+    lost 2 qi. Now have 3 qi
+    gained 1 def. Now have 1 def
+    gained 2 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 9 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 16 to 94
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 5b: A(hp 94/110, def 0, qi 2, star 1) | B(hp 58/105, def 1, qi 3, force 5, injury 5, phys 21)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 小布(pid3) hp by 8 to 50
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 6a: A(hp 94/110, def 0, qi 2, star 1) | B(hp 50/105, def 1, qi 3, force 5, injury 5, phys 21)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 5 to 45
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 21 to 73
+    lost 1 qi. Now have 2 qi
+    gained 2 force. Now have 6 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 6b: A(hp 73/110, def 0, qi 2, star 1) | B(hp 45/105, def 0, qi 2, force 6, injury 5, phys 21)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Lucky Start (level 3)
+    healed 13 hp. Went from 73 to 86
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 7a: A(hp 86/110, def 0, qi 2, star 1) | B(hp 45/105, def 0, qi 2, force 6, injury 5, phys 21)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 5 to 40
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 24 to 62
+    gained 1 internal_injury. Now have 6 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 7b: A(hp 62/110, def 0, qi 2, star 1) | B(hp 40/105, def 0, qi 1, force 5, injury 6, phys 21)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    reduced 小布(pid3) hp by 14 to 26
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 8a: A(hp 62/110, def 0, qi 1, star 1) | B(hp 26/105, def 0, qi 1, force 5, injury 6, phys 21)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 6 to 20
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 5 force. Now have 0 force
+    gained 20 def. Now have 20 def
+    reduced 谭舒雁(pid1) hp by 15 to 47
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 8b: A(hp 47/110, def 0, qi 1, star 1) | B(hp 20/105, def 20, qi 1, injury 6, phys 21)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 9a: A(hp 47/110, def 3, qi 3, star 2) | B(hp 20/105, def 20, qi 1, injury 6, phys 21)
+turn 9a ends
+turn 9b begins
+  lost 10 def. Now have 10 def
+  reduced 小布(pid3) hp by 6 to 14
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 41
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 9b: A(hp 41/110, def 3, qi 3, star 2) | B(hp 14/105, def 10, qi 1, injury 6, phys 21)
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10a: A(hp 41/110, def 2, qi 4, star 2) | B(hp 14/105, def 10, qi 1, injury 7, phys 21)
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 5 def
+  reduced 小布(pid3) hp by 7 to 7
+  小布(pid3) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 10b: A(hp 41/110, def 2, qi 4, star 2) | B(hp 7/105, def 5, qi 3, injury 7, phys 21)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 8 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11a: A(hp 41/110, def 1, qi 4, star 2) | B(hp 7/105, def 5, qi 3, injury 8, phys 21)
+turn 11a ends
+turn 11b begins
+  lost 3 def. Now have 2 def
+  reduced 小布(pid3) hp by 8 to -1
+  STATE after turn 11b: A(hp 41/110, def 1, qi 4, star 2) | B(hp -1/105, def 2, qi 3, injury 8, phys 21)
+turn 11b ends
+小布(pid3) loses 20 destiny, now at 36
+谭舒雁(pid1) (Tan Shuyan) wins

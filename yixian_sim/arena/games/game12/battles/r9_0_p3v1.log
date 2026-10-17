@@ -1,0 +1,303 @@
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+gained 4 max_hp. Now have 82 max_hp
+gained 1 def. Now have 1 def
+healed 4 hp. Went from 78 to 82
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 0 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 78
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 78/82, def 0, qi 1, force 2, phys 4) | B(hp 78/82, def 1, qi 0)
+turn 1a ends
+turn 1b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+  谭舒雁(pid1) finished playing Water Hexagram
+  STATE after turn 1b: A(hp 78/82, def 0, qi 1, force 2, phys 4) | B(hp 78/82, def 0, qi 0, hex 2)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 2 to 76
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 1 qi. Now have 0 qi
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 18 to 60
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 2a: A(hp 76/82, def 0, qi 0, force 2, phys 4) | B(hp 60/82, def 1, qi 0, hex 2)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 60 to 62
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 2b: A(hp 76/82, def 0, qi 0, force 2, phys 4) | B(hp 62/82, def 4, qi 0, hex 2)
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sailing through Sky (level 1). They now have 1/1 qi
+  STATE after turn 3a: A(hp 76/82, def 0, qi 1, force 2, phys 4) | B(hp 62/82, def 4, qi 0, hex 2)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 3 god_luck_avoid_stacks
+    gained 3 def. Now have 5 def
+    gained 1 def. Now have 6 def
+    healed 2 hp. Went from 62 to 64
+    lost 1 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 3b: A(hp 76/82, def 0, qi 1, force 2, phys 4) | B(hp 64/82, def 6, qi 0, hex 2)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 5 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 4a: A(hp 76/82, def 0, qi 0, force 5, phys 4) | B(hp 64/82, def 6, qi 0, hex 2)
+turn 4a ends
+turn 4b begins
+  lost 3 def. Now have 3 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 4 def
+    healed 7 hp. Went from 64 to 71
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 4b: A(hp 76/82, def 0, qi 0, force 5, phys 4) | B(hp 71/82, def 4, qi 0, hex 2)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 2 to 74
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 force. Now have 4 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 62
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 5a: A(hp 74/82, def 0, qi 0, force 4, phys 4) | B(hp 62/82, def 1, qi 0, hex 2)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Qi Therapy (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 74/82, def 0, qi 0, force 4, phys 4) | B(hp 62/82, def 0, qi 1, hex 2)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 4 to 70
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 14 to 48
+    gained 1 def. Now have 1 def
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 6a: A(hp 70/82, def 0, qi 0, force 3, phys 4) | B(hp 48/82, def 1, qi 1, hex 2)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 90 max_hp
+    lost 1 hexagram. Now have 1 hexagram
+    gained 1 def. Now have 1 def
+    healed 18 hp. Went from 48 to 66
+    gained 3 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 2 hp. Went from 66 to 68
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 6b: A(hp 70/82, def 0, qi 0, force 3, phys 4) | B(hp 68/90, def 5, qi 0, hex 1)
+turn 6b ends
+turn 7a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 2 force
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 58
+    gained 1 def. Now have 1 def
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 7a: A(hp 70/82, def 0, qi 0, force 2, phys 4) | B(hp 58/90, def 1, qi 0, hex 1)
+turn 7a ends
+turn 7b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Imposing (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 1 def. Now have 4 def
+    healed 2 hp. Went from 58 to 60
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 7b: A(hp 70/82, def 0, qi 0, force 2, phys 4) | B(hp 60/90, def 4, qi 3, hex 1)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 3 to 67
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 2 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 8 to 52
+    gained 1 def. Now have 1 def
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 8a: A(hp 67/82, def 0, qi 0, force 3, phys 4) | B(hp 52/90, def 1, qi 3, hex 1)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 2)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 8b: A(hp 67/82, def 0, qi 0, force 3, phys 4) | B(hp 52/90, def 0, qi 3, hex 1)
+turn 8b ends
+turn 9a begins
+  reduced 小布(pid3) hp by 2 to 65
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 16 to 36
+    gained 1 def. Now have 1 def
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 9a: A(hp 65/82, def 0, qi 0, force 2, phys 4) | B(hp 36/90, def 1, qi 3, hex 1)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 小布(pid3) hp by 10 to 55
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 小布(pid3) hp by 7 to 48
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 9b: A(hp 48/82, def 0, qi 0, force 2, phys 4) | B(hp 36/90, def 0, qi 2)
+turn 9b ends
+turn 10a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 6 to 30
+    gained 1 def. Now have 1 def
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 10a: A(hp 48/82, def 0, qi 1, force 3, phys 4) | B(hp 30/90, def 1, qi 2)
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Water Hexagram
+  STATE after turn 10b: A(hp 48/82, def 0, qi 1, force 3, phys 4) | B(hp 30/90, def 0, qi 3, hex 2)
+turn 10b ends
+turn 11a begins
+  reduced 小布(pid3) hp by 2 to 46
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 1 qi. Now have 0 qi
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 19 to 11
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 11a: A(hp 46/82, def 0, qi 0, force 3, phys 4) | B(hp 11/90, def 1, qi 3, hex 2)
+turn 11a ends
+turn 11b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 1 def. Now have 1 def
+    healed 7 hp. Went from 11 to 18
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 11b: A(hp 46/82, def 0, qi 0, force 3, phys 4) | B(hp 18/90, def 1, qi 3, hex 2)
+turn 11b ends
+turn 12a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sailing through Sky (level 1). They now have 1/1 qi
+  STATE after turn 12a: A(hp 46/82, def 0, qi 1, force 3, phys 4) | B(hp 18/90, def 1, qi 3, hex 2)
+turn 12a ends
+turn 12b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 98 max_hp
+    lost 1 hexagram. Now have 1 hexagram
+    gained 1 def. Now have 1 def
+    healed 18 hp. Went from 18 to 36
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 12b: A(hp 46/82, def 0, qi 1, force 3, phys 4) | B(hp 36/98, def 1, qi 2, hex 1)
+turn 12b ends
+turn 13a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 12 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 2
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 2 to 44
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 force. Now have 5 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 13 to 23
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 13a: A(hp 44/82, def 0, qi 0, force 5, phys 4) | B(hp 23/98, def 1, qi 2, hex 1)
+turn 13a ends
+turn 13b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Imposing (level 2)
+    gained 3 qi. Now have 5 qi
+    gained 1 def. Now have 1 def
+    healed 9 hp. Went from 23 to 32
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 13b: A(hp 44/82, def 0, qi 0, force 5, phys 4) | B(hp 32/98, def 1, qi 5, hex 1)
+turn 13b ends
+turn 14a begins
+  reduced 小布(pid3) hp by 4 to 40
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+  healed 4 hp. Went from 40 to 44
+  小布(pid3) healed 4 hp from crash fist bounce
+    lost 1 force. Now have 4 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 14 to 18
+    gained 1 def. Now have 1 def
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 14a: A(hp 44/82, def 0, qi 0, force 4, phys 4) | B(hp 18/98, def 1, qi 5, hex 1)
+turn 14a ends
+turn 14b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 2)
+    reduced 小布(pid3) hp by 18 to 26
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 4 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 小布(pid3) hp by 10 to 16
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 小布(pid3) hp by 7 to 9
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 14b: A(hp 9/82, def 0, qi 0, force 4, phys 4) | B(hp 18/98, def 0, qi 4)
+turn 14b ends
+turn 15a begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 18 to 0
+    gained 1 def. Now have 1 def
+  STATE after turn 15a: A(hp 9/82, def 0, qi 0, force 3, phys 4) | B(hp 0/98, def 1, qi 4)
+turn 15a ends
+谭舒雁(pid1) loses 11 destiny, now at 65
+小布(pid3) (Xiao Bu) wins

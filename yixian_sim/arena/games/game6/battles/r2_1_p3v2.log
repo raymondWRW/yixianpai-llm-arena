@@ -1,0 +1,132 @@
+turn 1a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 33
+    gained 1 physique. Now have 7 physique
+    gained 1 max_hp. Now have 49 max_hp
+  player 0 finished playing Exercise Fist
+turn 1a ends
+turn 1b begins
+  player 0 is playing Heavenly Decree - Defend (level 1)
+    reduced player 1 hp by 2 to 40
+    gained 9 def. Now have 9 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 1b ends
+turn 2a begins
+  player 0 is playing Mountain Falling (level 1)
+    lost 6 def. Now have 3 def
+  player 0 finished playing Mountain Falling
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 37
+    reduced player 1 max_hp by 3 to 46
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 2b ends
+turn 3a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 8 to 25
+  player 0 finished playing Vigorous Force
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to 28
+    reduced player 1 hp by 2 to 26
+  player 0 finished playing Fire Spirit - Rush
+turn 3b ends
+turn 4a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 9 physique
+    gained 2 max_hp. Now have 48 max_hp
+    healed 4 hp. Went from 26 to 30
+  player 0 finished playing Embracing Qi Technique
+turn 4a ends
+turn 4b begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+    reduced player 1 hp by 6 to 24
+  player 0 finished playing Metal Spirit - Needle
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 22
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 21
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 19
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 18
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 16
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 15
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 12
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 4
+    gained 1 physique. Now have 10 physique
+    gained 1 max_hp. Now have 49 max_hp
+  player 0 finished playing Exercise Fist
+turn 9a ends
+turn 9b begins
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 9
+    reduced player 1 max_hp by 3 to 46
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9b ends
+turn 10a begins
+  player 0 is playing Mountain Falling (level 1)
+    reduced player 1 hp by 6 to -2
+turn 10a ends
+player 1 loses 5 destiny, now at 95
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Exercise Fist (level 2)
+  Mountain Falling (level 1)
+  Vigorous Force (level 2)
+  Embracing Qi Technique (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Heavenly Decree - Defend (level 1)
+  Fire Spirit Seal (level 1)
+  Fire Spirit - Rush (level 1)
+  Metal Spirit - Needle (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

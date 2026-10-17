@@ -1,0 +1,209 @@
+reduced 吾行之(pid2) hp by 3 to 75
+turn 1a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 吾行之(pid2) hp by 8 to 67
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 1a: A(hp 86/86, def 0, qi 0) | B(hp 67/78, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 1b: A(hp 86/86, def 0, qi 0) | B(hp 67/78, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 86/86, def 1, qi 1) | B(hp 67/78, def 0, qi 0, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 1 to 66
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 84
+    reduced 谭舒雁(pid1) max_hp by 2 to 84
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 2b: A(hp 84/84, def 1, qi 1) | B(hp 66/78, def 0, qi 0, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 60
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 84/84, def 0, qi 0) | B(hp 60/78, def 0, qi 0, injury 3)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 3 to 57
+  吾行之(pid2) is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 57 to 61
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  STATE after turn 3b: A(hp 84/84, def 0, qi 0) | B(hp 61/78, def 0, qi 2, injury 3)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Mountain Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 2 max_hp. Now have 86 max_hp
+    healed 2 hp. Went from 84 to 86
+  谭舒雁(pid1) finished playing Mountain Hexagram
+  STATE after turn 4a: A(hp 86/86, def 0, qi 0, hex 2) | B(hp 61/78, def 0, qi 2, injury 3)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 3 to 58
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 14 to 72
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 4b: A(hp 72/86, def 0, qi 0, hex 2) | B(hp 58/78, def 0, qi 2, injury 3)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 55
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 5a: A(hp 72/86, def 0, qi 0, hex 2) | B(hp 55/78, def 0, qi 2, injury 3)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 3 to 52
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 8 to 64
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 5b: A(hp 64/86, def 0, qi 0, hex 2) | B(hp 52/78, def 0, qi 2, injury 3)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 49
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 64/86, def 0, qi 0, hex 2) | B(hp 49/78, def 0, qi 2, injury 3)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 3 to 46
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 14 to 50
+    gained 7 penetrate. Now have 7 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 6b: A(hp 50/86, def 0, qi 0, hex 2) | B(hp 46/78, def 0, qi 2, injury 3)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 43
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 50/86, def 0, qi 0, hex 2) | B(hp 43/78, def 0, qi 2, injury 3)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 3 to 40
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    penetrating 7 damage
+    lost 7 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 18 to 32
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 7b: A(hp 32/86, def 0, qi 0, hex 2) | B(hp 40/78, def 0, qi 2, injury 3)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 37
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 32/86, def 0, qi 0, hex 2) | B(hp 37/78, def 0, qi 2, injury 3)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 3 to 34
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    reduced 谭舒雁(pid1) hp by 2 to 30
+    reduced 谭舒雁(pid1) max_hp by 2 to 84
+    reduced 谭舒雁(pid1) hp by 5 to 25
+    reduced 谭舒雁(pid1) hp by 5 to 20
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  STATE after turn 8b: A(hp 20/84, def 0, qi 0, hex 2) | B(hp 34/78, def 0, qi 1, injury 3)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 吾行之(pid2) hp by 8 to 26
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 9a: A(hp 20/84, def 0, qi 0, hex 2) | B(hp 26/78, def 0, qi 1, injury 3)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 3 to 23
+  吾行之(pid2) is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 23 to 27
+    gained 1 activate_wood_spirit_stacks. Now have 2 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  STATE after turn 9b: A(hp 20/84, def 0, qi 0, hex 2) | B(hp 27/78, def 0, qi 3, injury 3)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10a: A(hp 20/84, def 1, qi 1, hex 2) | B(hp 27/78, def 0, qi 3, injury 4)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 4 to 23
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 1 def. Now have 0 def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 9 to 11
+    gained 1 activate_metal_spirit_stacks. Now have 3 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 10b: A(hp 11/84, def 0, qi 1, hex 2) | B(hp 23/78, def 0, qi 3, injury 4)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 吾行之(pid2) hp by 6 to 17
+    gained 2 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 11a: A(hp 11/84, def 0, qi 0, hex 2) | B(hp 17/78, def 0, qi 3, injury 6)
+turn 11a ends
+turn 11b begins
+  reduced 吾行之(pid2) hp by 6 to 11
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 8 to 3
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 11b: A(hp 3/84, def 0, qi 0, hex 2) | B(hp 11/78, def 0, qi 3, injury 6)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Mountain Hexagram (level 1)
+    gained 2 hexagram. Now have 4 hexagram
+    gained 2 max_hp. Now have 86 max_hp
+    healed 2 hp. Went from 3 to 5
+  谭舒雁(pid1) finished playing Mountain Hexagram
+  STATE after turn 12a: A(hp 5/86, def 0, qi 0, hex 4) | B(hp 11/78, def 0, qi 3, injury 6)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 6 to 5
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 14 to -9
+    gained 7 penetrate. Now have 7 penetrate
+  STATE after turn 12b: A(hp -9/86, def 0, qi 0, hex 4) | B(hp 5/78, def 0, qi 3, injury 6)
+turn 12b ends
+谭舒雁(pid1) loses 12 destiny, now at 42
+吾行之(pid2) (Wu Xingzhi) wins

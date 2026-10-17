@@ -1,0 +1,224 @@
+turn 1a begins
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 1a ends
+turn 1b begins
+  player 0 is playing Flame Hexagram (level 1)
+    gained 3 hexagram. Now have 3 hexagram
+    reducing hp to max_hp of 106
+    reduced player 1 max_hp by 2 to 106
+  player 0 finished playing Flame Hexagram
+turn 1b ends
+turn 2a begins
+  player 0 is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  player 0 finished playing Spirit Gather Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Heaven Hexagram (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 hexagram. Now have 4 hexagram
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Heaven Hexagram
+  incremented chases to 1
+  chase!!
+  player 0 is playing Star Trail Divination (level 1)
+    gained 6 def. Now have 6 def
+    lost 4 hexagram. Now have 0 hexagram
+    gained 4 star_power. Now have 4 star_power
+    gained 4 qi. Now have 5 qi
+    healed 4 hp. Went from 117 to 117
+  player 0 finished playing Star Trail Divination
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 8 qi
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 2 to 115
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 3a ends
+turn 3b begins
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 7 star_power
+    gained 1 qi. Now have 6 qi
+  player 0 finished playing Starry Moon
+turn 3b ends
+turn 4a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 5 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 102
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Dharma Spirit Sword (level 1)
+    lost 5 qi. Now have 0 qi
+    reduced player 1 hp by 30 to 72
+  player 0 finished playing Dharma Spirit Sword
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 13 def. Now have 0 def
+    reduced player 1 hp by 1 to 105
+    reduced player 1 hp by 14 to 91
+  player 0 finished playing Astral Move - Flank
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 1)
+    reduced player 1 hp by 9 to 82
+    reduced player 1 hp by 9 to 73
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    reduced player 1 hp by 5 to 68
+    reduced player 1 hp by 5 to 63
+  player 0 finished playing Astral Move - Hit
+turn 5b ends
+turn 6a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 12 to 60
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 54
+    reduced player 1 hp by 8 to 46
+  player 0 finished playing Thunder Sword
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    reduced player 1 hp by 5 to 58
+    reduced player 1 hp by 5 to 53
+    reduced player 1 max_hp by 6 to 100
+  player 0 finished playing Cutting Weeds
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 7a ends
+turn 7b begins
+  player 0 is playing Flame Hexagram (level 1)
+    gained 3 hexagram. Now have 3 hexagram
+    reduced player 1 max_hp by 2 to 98
+  player 0 finished playing Flame Hexagram
+turn 7b ends
+turn 8a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 7 qi
+    reduced player 1 hp by 7 to 39
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 8a ends
+turn 8b begins
+  player 0 is playing Heaven Hexagram (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 hexagram. Now have 4 hexagram
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Heaven Hexagram
+  incremented chases to 1
+  chase!!
+  player 0 is playing Star Trail Divination (level 1)
+    gained 6 def. Now have 6 def
+    lost 4 hexagram. Now have 0 hexagram
+    gained 4 star_power. Now have 11 star_power
+    gained 4 qi. Now have 7 qi
+    healed 4 hp. Went from 39 to 43
+  player 0 finished playing Star Trail Divination
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 5 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 7 to 36
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Dharma Spirit Sword (level 1)
+    lost 5 qi. Now have 0 qi
+    reduced player 1 hp by 30 to 6
+  player 0 finished playing Dharma Spirit Sword
+turn 9a ends
+turn 9b begins
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 14 star_power
+    gained 1 qi. Now have 8 qi
+    gained 1 qi. Now have 9 qi
+  player 0 finished playing Starry Moon
+turn 9b ends
+turn 10a begins
+  lost 7 def. Now have 6 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 8 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 15 to 38
+    reduced player 1 hp by 21 to 17
+  player 0 finished playing Astral Move - Flank
+turn 10b ends
+turn 11a begins
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 12 to -6
+    gained 1 this_card_chases. Now have 1 this_card_chases
+turn 11a ends
+player 1 loses 21 destiny, now at 11
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Transforming Spirits Rhythm (level 2)
+  Spirit Gather Citta-Dharma (level 1)
+  Cloud Sword - Pierce the Star (level 1)
+  Giant Kun Spirit Sword (level 2)
+  Dharma Spirit Sword (level 1)
+  Qi Perfusion (level 1)
+  Giant Roc Spirit Sword (level 2)
+  Thunder Sword (level 2)
+Player 1's deck:
+  Flame Hexagram (level 1)
+  Heaven Hexagram (level 1)
+  Star Trail Divination (level 1)
+  Starry Moon (level 2)
+  Astral Move - Flank (level 2)
+  Astral Move - Fly (level 1)
+  Astral Move - Hit (level 1)
+  Cutting Weeds (level 1)

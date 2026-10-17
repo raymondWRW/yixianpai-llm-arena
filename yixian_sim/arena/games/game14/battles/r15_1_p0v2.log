@@ -1,0 +1,197 @@
+gained 2 sword_intent. Now have 2 sword_intent
+gained 2 qi. Now have 2 qi
+turn 1a begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 spirit_gather_citta_dharma_stacks. Now have 2 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1a: A(hp 103/103, def 0, qi 1, sword 2) | B(hp 103/103, def 0, qi 2)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 2)
+    gained 4 penetrate. Now have 4 penetrate
+    gained 2 metal_spirit_formation_stacks. Now have 2 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 1b: A(hp 103/103, def 0, qi 1, sword 2) | B(hp 103/103, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 2a: A(hp 103/103, def 10, qi 2, sword 2) | B(hp 103/103, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 2 penetrate. Now have 6 penetrate
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 13 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 2b: A(hp 103/103, def 10, qi 2, sword 2) | B(hp 103/103, def 6, qi 2)
+turn 2b ends
+turn 3a begins
+  lost 5 def. Now have 5 def
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 3a: A(hp 103/103, def 5, qi 3, sword 2) | B(hp 103/103, def 6, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 3 def
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 2 penetrate. Now have 15 penetrate
+    lost 5 def. Now have 0 def
+    penetrating 15 damage
+    lost 15 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 19 to 84
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 3b: A(hp 84/103, def 0, qi 3, sword 2) | B(hp 103/103, def 3, qi 2)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 4 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 7 qi
+    lost 3 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 101
+    reduced 吾行之(pid2) hp by 5 to 96
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 吾行之(pid2) hp by 7 to 89
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 4a: A(hp 84/103, def 0, qi 7) | B(hp 89/103, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Giant Tripod (level 1)
+    gained 2 penetrate. Now have 2 penetrate
+    gained 1 metal_spirit_giant_tripod_stacks. Now have 1 metal_spirit_giant_tripod_stacks
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 18 to 66
+    lost 1 metal_spirit_giant_tripod_stacks. Now have 0 metal_spirit_giant_tripod_stacks
+  吾行之(pid2) finished playing Metal Spirit - Giant Tripod
+  STATE after turn 4b: A(hp 66/103, def 0, qi 7) | B(hp 89/103, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 6 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 12 to 77
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 吾行之(pid2) hp by 5 to 72
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 吾行之(pid2) hp by 16 to 56
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 吾行之(pid2) hp by 5 to 51
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5a: A(hp 66/103, def 0, qi 5) | B(hp 51/103, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Metal Spirit - Giant Tripod (level 1)
+    gained 2 penetrate. Now have 2 penetrate
+    gained 1 metal_spirit_giant_tripod_stacks. Now have 1 metal_spirit_giant_tripod_stacks
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 18 to 48
+    lost 1 metal_spirit_giant_tripod_stacks. Now have 0 metal_spirit_giant_tripod_stacks
+  吾行之(pid2) finished playing Metal Spirit - Giant Tripod
+  STATE after turn 5b: A(hp 48/103, def 0, qi 5) | B(hp 51/103, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 3 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 13 to 38
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    reduced 吾行之(pid2) hp by 11 to 27
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 6a: A(hp 48/103, def 13, qi 2) | B(hp 27/103, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 2)
+    gained 2 penetrate. Now have 2 penetrate
+    lost 10 def. Now have 3 def
+    gained 2 ignore_def. Now have 2 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 6b: A(hp 48/103, def 3, qi 2) | B(hp 27/103, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  lost 2 def. Now have 1 def
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 6 hexproof
+    gained 10 def. Now have 11 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 7a: A(hp 48/103, def 11, qi 3) | B(hp 27/103, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 2 penetrate. Now have 4 penetrate
+    lost 1 ignore_def. Now have 1 ignore_def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 11 to 37
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 7b: A(hp 37/103, def 11, qi 3) | B(hp 27/103, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  lost 6 def. Now have 5 def
+  gained 1 qi. Now have 4 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 7 qi
+    reduced 吾行之(pid2) hp by 3 to 24
+    reduced 吾行之(pid2) hp by 3 to 21
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 8a: A(hp 37/103, def 5, qi 7) | B(hp 21/103, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 15 to 22
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 8b: A(hp 22/103, def 5, qi 7) | B(hp 21/103, def 0, qi 2)
+turn 8b ends
+turn 9a begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 6 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 12 to 9
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 吾行之(pid2) hp by 16 to -7
+  STATE after turn 9a: A(hp 22/103, def 2, qi 5) | B(hp -7/103, def 0, qi 2)
+turn 9a ends
+吾行之(pid2) loses 21 destiny, now at -6
+牧逸风(pid0) (Mu Yifeng) wins

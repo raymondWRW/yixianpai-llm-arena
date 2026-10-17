@@ -1,0 +1,103 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 59
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1a: A(hp 64/64, def 0, qi 0, sword 3) | B(hp 59/64, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 1b: A(hp 64/64, def 0, qi 0, sword 3) | B(hp 59/64, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 2a: A(hp 64/64, def 2, qi 2, sword 5) | B(hp 59/64, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Astral Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 61
+    gained 2 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 2b: A(hp 61/64, def 0, qi 2, sword 5) | B(hp 59/64, def 0, qi 3, star 2)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 48
+    reduced 谭舒雁(pid1) hp by 13 to 35
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 3a: A(hp 61/64, def 0, qi 1) | B(hp 35/64, def 0, qi 3, star 2)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 52
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 3b: A(hp 52/64, def 0, qi 1) | B(hp 35/64, def 0, qi 4, star 2)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    gained 1 def. Now have 1 def
+    reduced 谭舒雁(pid1) hp by 4 to 31
+    reduced 谭舒雁(pid1) hp by 4 to 27
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 4a: A(hp 52/64, def 1, qi 1) | B(hp 27/64, def 0, qi 4, star 2)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 45
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4b: A(hp 45/64, def 0, qi 1) | B(hp 27/64, def 0, qi 4, star 2)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    gained 1 def. Now have 1 def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 6 to 21
+    reduced 谭舒雁(pid1) hp by 5 to 16
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 5a: A(hp 45/64, def 1, qi 1) | B(hp 16/64, def 0, qi 4, star 2)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 37
+    reduced 牧逸风(pid0) hp by 9 to 28
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 5b: A(hp 28/64, def 0, qi 1) | B(hp 16/64, def 0, qi 3, star 2)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    gained 1 def. Now have 1 def
+    reduced 谭舒雁(pid1) hp by 9 to 7
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 6a: A(hp 28/64, def 1, qi 1) | B(hp 7/64, def 0, qi 3, star 2)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 11 to 17
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 6b: A(hp 17/64, def 0, qi 1) | B(hp 7/64, def 0, qi 2, star 2)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    gained 1 def. Now have 1 def
+    reduced 谭舒雁(pid1) hp by 9 to -2
+  STATE after turn 7a: A(hp 17/64, def 1, qi 1) | B(hp -2/64, def 0, qi 2, star 2)
+turn 7a ends
+谭舒雁(pid1) loses 11 destiny, now at 70
+牧逸风(pid0) (Mu Yifeng) wins

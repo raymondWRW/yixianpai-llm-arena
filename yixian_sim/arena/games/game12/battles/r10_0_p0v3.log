@@ -1,0 +1,132 @@
+gained 1 max_force. Now have 7 max_force
+gained 1 force. Now have 1 force
+turn 1a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 1a: A(hp 83/83, def 2, qi 2, sword 2) | B(hp 80/84, def 0, qi 0, force 1, phys 4)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 0 force
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 80
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 80/83, def 0, qi 2, sword 2) | B(hp 80/84, def 0, qi 1, force 2, phys 4)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    reduced 小布(pid3) hp by 6 to 74
+    reduced 小布(pid3) hp by 6 to 68
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 2a: A(hp 80/83, def 0, qi 2) | B(hp 68/84, def 0, qi 1, force 2, phys 4)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  STATE after turn 2b: A(hp 80/83, def 0, qi 2) | B(hp 68/84, def 0, qi 2, force 2, phys 4)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 2 increase_atk
+  牧逸风(pid0) finished playing Cloud Sword - Moon Shade
+  STATE after turn 3a: A(hp 80/83, def 1, qi 2) | B(hp 68/84, def 0, qi 2, force 2, phys 4)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 3 force. Now have 5 force
+    gained 5 agility. Now have 9 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 3b: A(hp 80/83, def 1, qi 2) | B(hp 68/84, def 0, qi 3, force 5, phys 4)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 15 to 53
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 4a: A(hp 80/83, def 0, qi 2) | B(hp 53/84, def 0, qi 3, force 5, phys 4)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 51
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 0 qi
+    gained 1 def. Now have 1 def
+    gained 3 force. Now have 7 force
+    lost 1 force. Now have 6 force
+    reduced 牧逸风(pid0) hp by 34 to 46
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4b: A(hp 46/83, def 0, qi 2) | B(hp 51/84, def 1, qi 0, force 6, phys 4)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 7 to 44
+    reduced 小布(pid3) hp by 7 to 37
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 5a: A(hp 46/83, def 0, qi 2) | B(hp 37/84, def 0, qi 0, force 6, phys 4)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sailing through Sky (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 46/83, def 0, qi 2) | B(hp 37/84, def 0, qi 1, force 6, phys 4)
+turn 5b ends
+turn 6a begins
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 22 to 15
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 6a: A(hp 46/83, def 0, qi 0) | B(hp 15/84, def 0, qi 1, force 6, phys 4)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 2 def. Now have 2 def
+    gained 3 force. Now have 7 force
+    gained 6 agility. Now have 15 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 5
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 2 to 13
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 force. Now have 6 force
+    reduced 牧逸风(pid0) hp by 15 to 31
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 6b: A(hp 31/83, def 0, qi 0) | B(hp 13/84, def 2, qi 0, force 6, phys 4)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to 4
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 7a: A(hp 31/83, def 0, qi 0) | B(hp 4/84, def 0, qi 0, force 6, phys 4)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 1 force. Now have 5 force
+    reduced 牧逸风(pid0) hp by 24 to 7
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 7b: A(hp 7/83, def 0, qi 0) | B(hp 4/84, def 0, qi 0, force 5, phys 4)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 小布(pid3) hp by 9 to -5
+    gained 5 qi. Now have 5 qi
+  STATE after turn 8a: A(hp 7/83, def 0, qi 5) | B(hp -5/84, def 0, qi 0, force 5, phys 4)
+turn 8a ends
+小布(pid3) loses 14 destiny, now at 53
+牧逸风(pid0) (Mu Yifeng) wins

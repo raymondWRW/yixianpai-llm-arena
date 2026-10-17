@@ -1,0 +1,175 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 1 internal_injury. Now have 2 internal_injury
+turn 1a begins
+  reduced 牧逸风(pid0) hp by 2 to 76
+  牧逸风(pid0) is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  牧逸风(pid0) finished playing Cacopoisonous Formation
+  STATE after turn 1a: A(hp 76/78, def 0, qi 0, injury 2) | B(hp 86/86, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1b: A(hp 76/78, def 0, qi 0, injury 3) | B(hp 86/86, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  reduced 牧逸风(pid0) hp by 3 to 73
+  牧逸风(pid0) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 2a: A(hp 73/78, def 0, qi 0, injury 3) | B(hp 86/86, def 0, qi 0, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 谭舒雁(pid1) hp by 1 to 85
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2b: A(hp 73/78, def 0, qi 0, injury 4) | B(hp 85/86, def 1, qi 1, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  reduced 牧逸风(pid0) hp by 4 to 69
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 3a: A(hp 69/78, def 2, qi 2, sword 2, injury 4) | B(hp 85/86, def 1, qi 1, injury 2)
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 83
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 3b: A(hp 69/78, def 2, qi 2, sword 2, injury 5) | B(hp 83/86, def 1, qi 2, injury 2)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 1 def
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  reduced 牧逸风(pid0) hp by 5 to 64
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 14 to 69
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 7 to 62
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4a: A(hp 64/78, def 1, qi 1, injury 5) | B(hp 62/86, def 0, qi 2, injury 3)
+turn 4a ends
+turn 4b begins
+  reduced 谭舒雁(pid1) hp by 3 to 59
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 4b: A(hp 64/78, def 1, qi 1, injury 6) | B(hp 59/86, def 0, qi 2, injury 3)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 6 to 58
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 51
+    gained 8 def. Now have 8 def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 46
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 5a: A(hp 58/78, def 8, qi 0, injury 6) | B(hp 46/86, def 0, qi 2, injury 3)
+turn 5a ends
+turn 5b begins
+  reduced 谭舒雁(pid1) hp by 3 to 43
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 5b: A(hp 58/78, def 8, qi 0, injury 6) | B(hp 43/86, def 0, qi 2, injury 3)
+turn 5b ends
+turn 6a begins
+  lost 4 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 6 to 52
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 36
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 31
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 6a: A(hp 52/78, def 4, qi 0, injury 6) | B(hp 31/86, def 0, qi 2, injury 3)
+turn 6a ends
+turn 6b begins
+  reduced 谭舒雁(pid1) hp by 3 to 28
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 45
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 6b: A(hp 45/78, def 0, qi 0, injury 6) | B(hp 28/86, def 0, qi 1, injury 3)
+turn 6b ends
+turn 7a begins
+  reduced 牧逸风(pid0) hp by 6 to 39
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 23
+    reduced 谭舒雁(pid1) hp by 3 to 20
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 7a: A(hp 39/78, def 0, qi 0, injury 6) | B(hp 20/86, def 0, qi 1, injury 3)
+turn 7a ends
+turn 7b begins
+  reduced 谭舒雁(pid1) hp by 3 to 17
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 32
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 7b: A(hp 32/78, def 0, qi 0, injury 6) | B(hp 17/86, def 0, qi 0, injury 3)
+turn 7b ends
+turn 8a begins
+  reduced 牧逸风(pid0) hp by 6 to 26
+  牧逸风(pid0) is playing Impact Formation (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 11
+    reduced 谭舒雁(pid1) hp by 2 to 9
+  牧逸风(pid0) finished playing Impact Formation
+  STATE after turn 8a: A(hp 26/78, def 0, qi 0, injury 6) | B(hp 9/86, def 0, qi 0, injury 3)
+turn 8a ends
+turn 8b begins
+  reduced 谭舒雁(pid1) hp by 3 to 6
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Hit (level 1). They now have 1/1 qi
+  STATE after turn 8b: A(hp 26/78, def 0, qi 0, injury 6) | B(hp 6/86, def 0, qi 1, injury 3)
+turn 8b ends
+turn 9a begins
+  reduced 牧逸风(pid0) hp by 6 to 20
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 9a: A(hp 20/78, def 2, qi 2, sword 2, injury 6) | B(hp 6/86, def 0, qi 1, injury 3)
+turn 9a ends
+turn 9b begins
+  reduced 谭舒雁(pid1) hp by 3 to 3
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 17
+    reduced 牧逸风(pid0) hp by 5 to 12
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 9b: A(hp 12/78, def 0, qi 2, sword 2, injury 6) | B(hp 3/86, def 0, qi 0, injury 3)
+turn 9b ends
+turn 10a begins
+  reduced 牧逸风(pid0) hp by 6 to 6
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 15 to -12
+    lost 2 sword_intent. Now have 0 sword_intent
+  STATE after turn 10a: A(hp 6/78, def 0, qi 1, injury 6) | B(hp -12/86, def 0, qi 0, injury 3)
+turn 10a ends
+谭舒雁(pid1) loses 13 destiny, now at 83
+牧逸风(pid0) (Mu Yifeng) wins

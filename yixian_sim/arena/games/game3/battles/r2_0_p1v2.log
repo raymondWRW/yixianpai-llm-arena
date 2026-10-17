@@ -1,0 +1,107 @@
+turn 1a begins
+  player 0 is playing White Crane Bright Wings (level 1)
+    reduced player 1 hp by 1 to 41
+    gained 1 qi. Now have 1 qi
+  player 0 finished playing White Crane Bright Wings
+turn 1a ends
+turn 1b begins
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 39
+    reduced player 1 max_hp by 3 to 39
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1b ends
+turn 2a begins
+  player 0 is playing Earth Hexagram (level 1)
+    gained 2 def. Now have 2 def
+    gained 2 hexagram. Now have 2 hexagram
+  player 0 finished playing Earth Hexagram
+turn 2a ends
+turn 2b begins
+  player 0 is playing Metal Spirit Seal (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 4 to 35
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 31
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 24
+  player 0 finished playing Sparrow's Tail
+turn 3a ends
+turn 3b begins
+  player 0 is playing Five Elements Fleche (level 1)
+    reduced player 1 hp by 8 to 27
+  player 0 finished playing Five Elements Fleche
+turn 3b ends
+turn 4a begins
+  player 0 is playing Palm Thunder (level 2)
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 13 to 11
+  player 0 finished playing Palm Thunder
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced player 1 hp by 11 to 16
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Fire Spirit - Rush
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 5
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 2
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 4
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to -1
+turn 8a ends
+player 1 loses 3 destiny, now at 93
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  White Crane Bright Wings (level 1)
+  Earth Hexagram (level 1)
+  Sparrow's Tail (level 2)
+  Palm Thunder (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Fire Spirit Seal (level 1)
+  Metal Spirit Seal (level 1)
+  Five Elements Fleche (level 1)
+  Fire Spirit - Rush (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

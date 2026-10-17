@@ -1,0 +1,202 @@
+turn 1a begins
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 73
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 2 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 34 physique
+    gained 2 max_hp. Now have 116 max_hp
+    healed 4 hp. Went from 73 to 77
+  player 0 finished playing Embracing Qi Technique
+turn 1b ends
+turn 2a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 74
+    reduced player 1 max_hp by 3 to 113
+    gained 2 qi. Now have 3 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 2a ends
+turn 2b begins
+  player 0 is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+    reduced player 1 hp by 11 to 63
+    reduced player 1 hp by 3 to 60
+  player 0 finished playing Fire Spirit - Rush
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 2 to 58
+  player 0 spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced player 1 hp by 22 to 63
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mighty Force
+turn 3b ends
+turn 4a begins
+  player 0 is playing Metal Spirit - Heart Pierce (level 1)
+    reduced player 1 hp by 7 to 51
+  player 0 finished playing Metal Spirit - Heart Pierce
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 4 to 47
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced player 1 hp by 14 to 49
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 4b ends
+turn 5a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    reduced player 1 hp by 7 to 40
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 3 to 37
+  player 0 spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 10 to 39
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 5b ends
+turn 6a begins
+  player 0 is playing Earth Spirit Seal (level 2)
+    lost 2 def. Now have 0 def
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 7 to 30
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 6a ends
+turn 6b begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 force. Now have 3 force
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 12 to 27
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 5 force
+  player 0 finished playing Vigorous Force
+turn 6b ends
+turn 7a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced player 1 hp by 10 to 20
+  player 0 finished playing Water Spirit - Waves
+turn 7a ends
+turn 7b begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 19 to 8
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 7b ends
+turn 8a begins
+  player 0 is playing Heavenly Decree - Defend (level 2)
+    reduced player 1 hp by 3 to 17
+    gained 12 def. Now have 12 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 8a ends
+turn 8b begins
+  player 0 is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 12 def. Now have 0 def
+    gained 5 agility. Now have 5 agility
+  player 0 finished playing Overwhelming Force
+turn 8b ends
+turn 9a begins
+  player 0 is playing Cosmos Seal (level 2)
+    lost 9 def. Now have 7 def
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 9a ends
+turn 9b begins
+  lost 4 def. Now have 3 def
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 36 physique
+    gained 2 max_hp. Now have 115 max_hp
+    healed 4 hp. Went from 17 to 21
+  player 0 finished playing Embracing Qi Technique
+turn 9b ends
+turn 10a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 4 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 18
+    reduced player 1 max_hp by 3 to 112
+    gained 2 qi. Now have 3 qi
+    gained 1 activate_fire_spirit_stacks. Now have 5 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  player 0 finished playing Majestic Qi
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 10 to 8
+    reduced player 1 hp by 3 to 5
+  player 0 finished playing Fire Spirit - Rush
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 2 to 3
+  player 0 spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 3 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced player 1 hp by 22 to -14
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+turn 11b ends
+player 0 loses 13 destiny, now at 56
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Cosmos Seal (level 2)
+  Fire Spirit Seal (level 2)
+  Fire Spirit - Rush (level 2)
+  Metal Spirit - Heart Pierce (level 1)
+  Metal Spirit - Needle (level 2)
+  Earth Spirit Seal (level 2)
+  Water Spirit - Waves (level 1)
+  Heavenly Decree - Defend (level 2)
+Player 1's deck:
+  Embracing Qi Technique (level 2)
+  Majestic Qi (level 1)
+  Mighty Force (level 1)
+  Crash Fist - Shake (level 1)
+  Crash Fist - Block (level 1)
+  Vigorous Force (level 2)
+  Mountain-Cleaving Palms (level 2)
+  Overwhelming Force (level 1)

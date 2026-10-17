@@ -1,0 +1,92 @@
+turn 1a begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    reduced 牧逸风(pid0) hp by 9 to 33
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 1a: A(hp 42/42, def 0, qi 0) | B(hp 33/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 吾行之(pid2) hp by 5 to 37
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1b: A(hp 37/42, def 0, qi 0) | B(hp 33/42, def 0, qi 0, sword 3)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Water Spirit Seal (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 2a: A(hp 37/42, def 0, qi 2) | B(hp 33/42, def 0, qi 0, sword 3)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Flying Fang Sword (level 1). They now have 1/1 qi
+  STATE after turn 2b: A(hp 37/42, def 0, qi 2) | B(hp 33/42, def 0, qi 1, sword 3)
+turn 2b ends
+turn 3a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced 牧逸风(pid0) hp by 13 to 20
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 牧逸风(pid0) hp by 1 to 19
+  STATE after turn 3a: A(hp 37/42, def 0, qi 0) | B(hp 19/42, def 0, qi 1, sword 3)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 吾行之(pid2) hp by 11 to 26
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 3b: A(hp 26/42, def 0, qi 0) | B(hp 19/42, def 0, qi 0, sword 3)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 11
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 1 to 10
+  STATE after turn 4a: A(hp 26/42, def 0, qi 0) | B(hp 10/42, def 0, qi 0, sword 3)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Wind Sword (level 1)
+    reduced 吾行之(pid2) hp by 6 to 20
+    reduced 吾行之(pid2) hp by 6 to 14
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Wind Sword
+  STATE after turn 4b: A(hp 14/42, def 0, qi 0) | B(hp 10/42, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 7
+  吾行之(pid2) finished playing Normal Attack
+  reduced 牧逸风(pid0) hp by 1 to 6
+  STATE after turn 5a: A(hp 14/42, def 0, qi 0) | B(hp 6/42, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 14/42, def 0, qi 0) | B(hp 6/42, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 3
+  吾行之(pid2) finished playing Normal Attack
+  reduced 牧逸风(pid0) hp by 1 to 2
+  STATE after turn 6a: A(hp 14/42, def 0, qi 0) | B(hp 2/42, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 4
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 6b: A(hp 4/42, def 0, qi 0) | B(hp 2/42, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to -1
+  STATE after turn 7a: A(hp 4/42, def 0, qi 0) | B(hp -1/42, def 0, qi 0)
+turn 7a ends
+牧逸风(pid0) loses 3 destiny, now at 95
+吾行之(pid2) (Wu Xingzhi) wins

@@ -1,0 +1,150 @@
+gained 1 qi. Now have 1 qi
+gained 1 star_power. Now have 1 star_power
+gained 1 internal_injury. Now have 1 internal_injury
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 105/105, def 1, qi 2, star 1) | B(hp 111/122, def 0, qi 1, injury 2, phys 11)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 2 to 109
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 1b: A(hp 105/105, def 1, qi 2, star 1) | B(hp 109/122, def 0, qi 4, injury 2, phys 11)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2a: A(hp 105/105, def 0, qi 2, star 1) | B(hp 109/122, def 0, qi 4, injury 4, phys 11)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 4 to 105
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 2b: A(hp 105/105, def 0, qi 2, star 1) | B(hp 105/122, def 0, qi 6, force 1, injury 4, phys 11)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 2)
+    reduced 小布(pid3) hp by 7 to 98
+    gained 3 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 105/105, def 0, qi 1, star 1) | B(hp 98/122, def 0, qi 6, force 1, injury 7, phys 11)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 7 to 91
+  reduced 小布(pid3) hp by 2 to 89
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 3 qi
+    gained 3 force. Now have 4 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 30 to 75
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 3b: A(hp 75/105, def 0, qi 1, star 1) | B(hp 89/122, def 0, qi 3, force 4, injury 7, phys 11)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 3)
+    gained 4 internal_injury. Now have 11 internal_injury
+    reduced 小布(pid3) hp by 11 to 78
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 4a: A(hp 75/105, def 0, qi 1, star 1) | B(hp 78/122, def 0, qi 3, force 4, injury 11, phys 11)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 11 to 67
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 1 def. Now have 1 def
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 4b: A(hp 75/105, def 0, qi 1, star 1) | B(hp 67/122, def 1, qi 2, force 6, injury 11, phys 11, agi 6)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 63
+    reduced 小布(pid3) hp by 5 to 58
+    reduced 小布(pid3) max_hp by 11 to 111
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 5a: A(hp 75/105, def 0, qi 0, star 1) | B(hp 58/111, def 0, qi 2, force 6, injury 11, phys 11, agi 6)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 11 to 47
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Soul Cleaving (level 1)
+    gained 2 internal_injury. Now have 2 internal_injury
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 def. Now have 1 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 21 to 54
+  小布(pid3) finished playing Soul Cleaving
+  STATE after turn 5b: A(hp 54/105, def 0, qi 0, star 1, injury 2) | B(hp 47/111, def 1, qi 1, force 5, injury 11, phys 11, agi 6)
+turn 5b ends
+turn 6a begins
+  reduced 谭舒雁(pid1) hp by 2 to 52
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 8 to 39
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 6a: A(hp 52/105, def 4, qi 0, star 1, injury 2) | B(hp 39/111, def 0, qi 1, force 5, injury 11, phys 11, agi 6)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 11 to 28
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Soul Seizing (level 1)
+    reduced 谭舒雁(pid1) hp by 14 to 38
+    healed 14 hp. Went from 28 to 42
+  小布(pid3) finished playing Soul Seizing
+  STATE after turn 6b: A(hp 38/105, def 4, qi 0, star 1, injury 2) | B(hp 42/111, def 0, qi 0, force 5, injury 11, phys 11, agi 6)
+turn 6b ends
+turn 7a begins
+  lost 2 def. Now have 2 def
+  reduced 谭舒雁(pid1) hp by 2 to 36
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 7a: A(hp 36/105, def 2, qi 0, star 1, injury 2) | B(hp 42/111, def 0, qi 0, force 5, injury 11, phys 11, agi 6)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 11 to 31
+  小布(pid3) is playing Tiger Pouncing (level 2)
+    lost 1 force. Now have 4 force
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 31 to 5
+  小布(pid3) finished playing Tiger Pouncing
+  STATE after turn 7b: A(hp 5/105, def 0, qi 0, star 1, injury 2) | B(hp 31/111, def 0, qi 0, force 4, injury 11, phys 11, agi 6)
+turn 7b ends
+turn 8a begins
+  reduced 谭舒雁(pid1) hp by 2 to 3
+  谭舒雁(pid1) is playing Astral Fleche (level 1)
+    reduced 小布(pid3) hp by 5 to 26
+    gained 1 star_power. Now have 2 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 8a: A(hp 3/105, def 0, qi 0, star 2, injury 2) | B(hp 26/111, def 0, qi 0, force 4, injury 11, phys 11, agi 6)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 11 to 15
+  reduced 小布(pid3) hp by 2 to 13
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 12 to -9
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  STATE after turn 8b: A(hp -9/105, def 0, qi 0, star 2, injury 2) | B(hp 13/111, def 0, qi 0, force 3, injury 11, phys 11, agi 6)
+turn 8b ends
+谭舒雁(pid1) loses 22 destiny, now at -22
+小布(pid3) (Xiao Bu) wins

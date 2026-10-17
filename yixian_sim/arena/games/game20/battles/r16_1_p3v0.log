@@ -1,0 +1,169 @@
+gained 3 qi. Now have 3 qi
+turn 1a begins
+  reduced 小布(pid3) hp by 4 to 101
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 physique. Now have 29 physique
+    gained 1 max_hp. Now have 134 max_hp
+    healed 2 hp. Went from 101 to 103
+    reduced 牧逸风(pid0) hp by 11 to 94
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 1a: A(hp 103/134, def 0, qi 3, phys 29) | B(hp 94/105, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 def. Now have 1 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 1 qi. Now have 1 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 1b: A(hp 103/134, def 0, qi 3, phys 29) | B(hp 94/105, def 1, qi 1)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 4 to 99
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 2 wound. Now have 2 wound
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 11 to 83
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 2a: A(hp 99/134, def 0, qi 3, phys 29) | B(hp 83/105, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  牧逸风(pid0) is playing Spiritage Formation (level 2)
+    gained 3 spiritage_formation_stacks. Now have 3 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 99/134, def 0, qi 3, phys 29) | B(hp 83/105, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 6 to 93
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 15 to 68
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 3a: A(hp 93/134, def 0, qi 3, force 1, phys 29) | B(hp 68/105, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  gained 2 qi. Now have 3 qi
+  lost 2 qi. Now have 1 qi
+  牧逸风(pid0) spent 2 qi to play Giant Kun Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 13 to 80
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 2)
+    gained 3 qi. Now have 4 qi
+    reduced 小布(pid3) hp by 4 to 76
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 3b: A(hp 76/134, def 0, qi 3, force 1, phys 29) | B(hp 68/105, def 13, qi 4)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 3 to 73
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 2 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    lost 13 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 65
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 4a: A(hp 73/134, def 0, qi 3, force 2, phys 29) | B(hp 65/105, def 0, qi 4)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 6 qi
+  牧逸风(pid0) is playing Inspiration Sword (level 2)
+    reduced 小布(pid3) hp by 12 to 61
+    gained 6 sword_intent. Now have 6 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 4b: A(hp 61/134, def 0, qi 3, force 2, phys 29) | B(hp 65/105, def 0, qi 6, sword 6)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 4 force. Now have 6 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 5a: A(hp 61/134, def 0, qi 4, force 6, phys 29, agi 5) | B(hp 65/105, def 0, qi 6, sword 6)
+turn 5a ends
+turn 5b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 8 qi
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 10 qi
+    reduced 小布(pid3) hp by 9 to 52
+    reduced 小布(pid3) hp by 9 to 43
+    lost 6 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 5b: A(hp 43/134, def 0, qi 4, force 6, phys 29, agi 5) | B(hp 65/105, def 0, qi 10)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 2 to 41
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 1 qi
+    gained 3 def. Now have 3 def
+    gained 3 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 牧逸风(pid0) hp by 34 to 31
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 6a: A(hp 41/134, def 3, qi 1, force 5, phys 29, agi 5) | B(hp 31/105, def 0, qi 10)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 8 to 33
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 6b: A(hp 33/134, def 0, qi 1, force 5, phys 29, agi 5) | B(hp 31/105, def 0, qi 10)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 5 to 28
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 28 to 3
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 7a: A(hp 28/134, def 0, qi 1, force 4, phys 29, agi 5) | B(hp 3/105, def 0, qi 10)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 12 qi
+    reduced 小布(pid3) hp by 12 to 16
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 7b: A(hp 16/134, def 0, qi 1, force 4, phys 29, agi 5) | B(hp 3/105, def 0, qi 12)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 1 def. Now have 1 def
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 4 to 12
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 physique. Now have 30 physique
+    gained 1 max_hp. Now have 135 max_hp
+    healed 2 hp. Went from 12 to 14
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 5 force
+    reduced 牧逸风(pid0) hp by 26 to -23
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  STATE after turn 8a: A(hp 14/135, def 1, qi 0, force 5, phys 30, agi 1) | B(hp -23/105, def 0, qi 12)
+turn 8a ends
+牧逸风(pid0) loses 23 destiny, now at -22
+小布(pid3) (Xiao Bu) wins

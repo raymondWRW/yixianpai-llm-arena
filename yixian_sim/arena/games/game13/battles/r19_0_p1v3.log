@@ -1,0 +1,117 @@
+gained 1 star_power. Now have 1 star_power
+gained 2 internal_injury. Now have 2 internal_injury
+gained 1 internal_injury. Now have 3 internal_injury
+小布(pid3) downgrades Overwhelming Force (level 2) to Overwhelming Force (level 1)
+reduced 小布(pid3) hp by 6 to 105
+turn 1a begins
+  谭舒雁(pid1) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 119 max_hp
+    healed 8 hp. Went from 111 to 119
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  谭舒雁(pid1) finished playing Cycle of Fate
+  STATE after turn 1a: A(hp 119/119, def 0, qi 0, star 1) | B(hp 105/114, def 0, qi 0, injury 3, phys 3)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 3 to 102
+  小布(pid3) is playing Crash Footwork (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  STATE after turn 1b: A(hp 119/119, def 0, qi 0, star 1) | B(hp 102/114, def 0, qi 2, injury 3, phys 3, agi 4)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 internal_injury. Now have 4 internal_injury
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 2a: A(hp 119/119, def 0, qi 2, star 1) | B(hp 102/114, def 0, qi 2, injury 5, phys 3, agi 4)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 5 to 97
+  reduced 小布(pid3) hp by 5 to 92
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    reduced 谭舒雁(pid1) hp by 10 to 109
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 2b: A(hp 109/119, def 0, qi 2, star 1) | B(hp 92/114, def 0, qi 2, injury 5, phys 3, agi 4)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3a: A(hp 109/119, def 0, qi 2, star 1) | B(hp 92/114, def 0, qi 2, injury 7, phys 3, agi 4)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 7 to 85
+  reduced 小布(pid3) hp by 8 to 77
+  小布(pid3) spent 8 hp to play Crash Fist - Shocked (level 2)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    reduced 谭舒雁(pid1) hp by 16 to 93
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shocked
+  STATE after turn 3b: A(hp 93/119, def 0, qi 2, star 1) | B(hp 77/114, def 0, qi 2, injury 7, phys 3, agi 4)
+turn 3b ends
+turn 4a begins
+  lost 1 fate_reincarnates_stacks. Now have 3 fate_reincarnates_stacks
+  gained 1 internal_injury. Now have 8 internal_injury
+  lost 1 fate_reincarnates_stacks. Now have 2 fate_reincarnates_stacks
+  reduced 小布(pid3) hp by 6 to 71
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 12 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 4a: A(hp 93/119, def 0, qi 1, star 1) | B(hp 71/114, def 0, qi 2, injury 12, phys 3, agi 4)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 12 to 59
+  reduced 小布(pid3) hp by 6 to 53
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 2)
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    reduced 谭舒雁(pid1) hp by 16 to 77
+    Attacking for 12 from crash fist - shocked effect.
+    reduced 谭舒雁(pid1) hp by 12 to 65
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 4b: A(hp 65/119, def 0, qi 1, star 1) | B(hp 53/114, def 0, qi 2, injury 12, phys 3, agi 4)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 65 to 67
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 5a: A(hp 67/119, def 0, qi 0, star 1) | B(hp 53/114, def 0, qi 2, injury 12, phys 3, agi 4)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 12 to 41
+  小布(pid3) is playing Overwhelming Force (level 1)
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    gained 5 agility. Now have 9 agility
+    Attacking for 15 from crash fist - shocked effect.
+    reduced 谭舒雁(pid1) hp by 15 to 52
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 5b: A(hp 52/119, def 0, qi 0, star 1) | B(hp 41/114, def 0, qi 2, injury 12, phys 3, agi 9)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 2 internal_injury. Now have 14 internal_injury
+    reduced 小布(pid3) hp by 14 to 27
+    gained 2 internal_injury. Now have 16 internal_injury
+    reduced 小布(pid3) hp by 16 to 11
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 6a: A(hp 52/119, def 0, qi 0, star 1) | B(hp 11/114, def 0, qi 2, injury 16, phys 3, agi 9)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 16 to -5
+  STATE after turn 6b: A(hp 52/119, def 0, qi 0, star 1) | B(hp -5/114, def 0, qi 2, injury 16, phys 3, agi 9)
+turn 6b ends
+gained 4 max_hp. Now have 118 max_hp
+gained 4 max_physique. Now have 100 max_physique
+小布(pid3) loses 3 destiny, now at 1
+谭舒雁(pid1) (Tan Shuyan) wins

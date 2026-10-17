@@ -1,0 +1,203 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1a: A(hp 80/80, def 0, qi 2) | B(hp 80/80, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Formation (level 2)
+    gained 3 spiritage_formation_stacks. Now have 3 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 1b: A(hp 80/80, def 0, qi 2) | B(hp 80/80, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 87 max_hp
+  healed 7 hp. Went from 80 to 87
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 2a: A(hp 87/87, def 7, qi 2) | B(hp 80/80, def 0, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  gained 2 qi. Now have 3 qi
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 2)
+    gained 1 qi. Now have 4 qi
+    gained 2 spirit_gather_citta_dharma_stacks. Now have 2 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 2b: A(hp 87/87, def 7, qi 2) | B(hp 80/80, def 0, qi 4)
+turn 2b ends
+turn 3a begins
+  lost 4 def. Now have 3 def
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 1 qi
+    reduced 牧逸风(pid0) hp by 13 to 67
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 94 max_hp
+  healed 7 hp. Went from 87 to 94
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  reduced 牧逸风(pid0) hp by 1 to 66
+  STATE after turn 3a: A(hp 94/94, def 10, qi 1) | B(hp 66/80, def 0, qi 4)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 7 qi
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 10 qi
+    lost 3 def. Now have 7 def
+    lost 3 def. Now have 4 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 94/94, def 4, qi 1) | B(hp 66/80, def 0, qi 10)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 2 def
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  reduced 牧逸风(pid0) hp by 1 to 65
+  STATE after turn 4a: A(hp 94/94, def 2, qi 2) | B(hp 65/80, def 0, qi 10)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 11 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 13 qi
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 15 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 4b: A(hp 94/94, def 2, qi 2) | B(hp 65/80, def 0, qi 15)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 1 def
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    gained 1 qi. Now have 1 qi
+    reduced 牧逸风(pid0) hp by 10 to 55
+    gained 1 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 牧逸风(pid0) hp by 2 to 53
+  STATE after turn 5a: A(hp 94/94, def 1, qi 1) | B(hp 53/80, def 0, qi 15)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 16 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 18 qi
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 吾行之(pid2) hp by 18 to 76
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 5b: A(hp 76/94, def 1, qi 1) | B(hp 53/80, def 0, qi 18)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 1 qi
+    reduced 牧逸风(pid0) hp by 12 to 41
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 牧逸风(pid0) hp by 2 to 39
+  STATE after turn 6a: A(hp 76/94, def 0, qi 1) | B(hp 39/80, def 0, qi 18)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 19 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 18 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 41 to 35
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 6b: A(hp 35/94, def 0, qi 1) | B(hp 39/80, def 0, qi 18)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    reduced 牧逸风(pid0) hp by 16 to 23
+  吾行之(pid2) finished playing World Smash
+  reduced 牧逸风(pid0) hp by 2 to 21
+  STATE after turn 7a: A(hp 35/94, def 0, qi 0) | B(hp 21/80, def 0, qi 18)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 19 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 18 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 吾行之(pid2) hp by 8 to 27
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 7b: A(hp 27/94, def 0, qi 0) | B(hp 21/80, def 8, qi 18)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    lost 6 def. Now have 2 def
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  lost 2 def. Now have 0 def
+  STATE after turn 8a: A(hp 27/94, def 0, qi 0) | B(hp 21/80, def 0, qi 18)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 19 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 吾行之(pid2) hp by 6 to 21
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 8b: A(hp 21/94, def 0, qi 0) | B(hp 21/80, def 0, qi 19)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+  reduced 牧逸风(pid0) hp by 2 to 19
+  STATE after turn 9a: A(hp 21/94, def 0, qi 1) | B(hp 19/80, def 0, qi 19)
+turn 9a ends
+turn 9b begins
+  gained 1 qi. Now have 20 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 23 qi
+    reduced 吾行之(pid2) hp by 3 to 18
+    reduced 吾行之(pid2) hp by 3 to 15
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9b: A(hp 15/94, def 0, qi 1) | B(hp 19/80, def 0, qi 23)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    reduced 牧逸风(pid0) hp by 4 to 15
+    reduced 牧逸风(pid0) hp by 4 to 11
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  reduced 牧逸风(pid0) hp by 2 to 9
+  STATE after turn 10a: A(hp 15/94, def 0, qi 0) | B(hp 9/80, def 0, qi 23)
+turn 10a ends
+turn 10b begins
+  gained 1 qi. Now have 24 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 26 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 10b: A(hp 15/94, def 0, qi 0) | B(hp 9/80, def 0, qi 26)
+turn 10b ends
+turn 11a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+  reduced 牧逸风(pid0) hp by 2 to 7
+  STATE after turn 11a: A(hp 15/94, def 0, qi 1) | B(hp 7/80, def 0, qi 26)
+turn 11a ends
+turn 11b begins
+  gained 1 qi. Now have 27 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 29 qi
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 吾行之(pid2) hp by 29 to -14
+  STATE after turn 11b: A(hp -14/94, def 0, qi 1) | B(hp 7/80, def 0, qi 29)
+turn 11b ends
+吾行之(pid2) loses 16 destiny, now at 41
+牧逸风(pid0) (Mu Yifeng) wins

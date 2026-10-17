@@ -1,0 +1,118 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1a ends
+turn 1b begins
+  player 0 is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 1b ends
+turn 2a begins
+  reduced player 0 hp by 3 to 41
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 9 to 35
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 30
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 2a ends
+turn 2b begins
+  player 0 is playing Impact Formation (level 1)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 8 to 33
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 5 to 28
+  player 0 finished playing Impact Formation
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 2 to 26
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 def. Now have 3 def
+    reduced player 1 hp by 11 to 19
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 3a ends
+turn 3b begins
+  player 0 is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Defence
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 4 physique
+    gained 2 max_hp. Now have 48 max_hp
+    healed 1 hp. Went from 26 to 27
+  player 0 finished playing Embracing Qi Technique
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 2 def
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Thunder Sword (level 2). They now have 1/1 qi
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Exercise Fist (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 12
+    gained 1 physique. Now have 5 physique
+    gained 1 max_hp. Now have 49 max_hp
+  player 0 finished playing Exercise Fist
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 8 to 19
+    reduced player 1 hp by 10 to 9
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 3
+  player 0 finished playing Cloud Sword - Fleche
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 6
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 0
+turn 7b ends
+player 0 loses 5 destiny, now at 92
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Examine Body (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 2)
+  Embracing Qi Technique (level 1)
+  Exercise Fist (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Fraccide Formation (level 1)
+  Impact Formation (level 1)
+  Sword Defence (level 1)
+  Thunder Sword (level 2)
+  Cloud Sword - Fleche (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

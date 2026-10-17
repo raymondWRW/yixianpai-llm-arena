@@ -1,0 +1,215 @@
+gained 1 smash_def. Now have 1 smash_def
+gained 1 internal_injury. Now have 1 internal_injury
+turn 1a begins
+  reduced 吾行之(pid2) hp by 1 to 102
+  吾行之(pid2) is playing Metal Spirit - Shuttle (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    reduced 谭舒雁(pid1) hp by 4 to 104
+    gained 1 def. Now have 1 def
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 4 max_hp. Now have 107 max_hp
+    healed 4 hp. Went from 102 to 106
+    gained 3 qi. Now have 3 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 1a: A(hp 106/107, def 0, qi 3, injury 1) | B(hp 104/108, def 1, qi 0)
+turn 1a ends
+turn 1b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 4 internal_injury
+    reduced 吾行之(pid2) hp by 4 to 102
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1b: A(hp 102/107, def 0, qi 3, injury 4) | B(hp 104/108, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  reduced 吾行之(pid2) hp by 4 to 98
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 谭舒雁(pid1) hp by 2 to 102
+  gained 1 def. Now have 1 def
+  STATE after turn 2a: A(hp 98/107, def 0, qi 3, injury 4) | B(hp 102/108, def 1, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 smash_def. Now have 2 smash_def
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 2b: A(hp 98/107, def 0, qi 3, injury 5) | B(hp 102/108, def 0, qi 3)
+turn 2b ends
+turn 3a begins
+  reduced 吾行之(pid2) hp by 5 to 93
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 5 force_of_water
+    gained 11 max_hp. Now have 118 max_hp
+    healed 11 hp. Went from 93 to 104
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 5 to 97
+  gained 1 def. Now have 1 def
+  STATE after turn 3a: A(hp 104/118, def 0, qi 1, injury 5) | B(hp 97/108, def 1, qi 3)
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 3b: A(hp 104/118, def 0, qi 1, injury 5) | B(hp 97/108, def 0, qi 3)
+turn 3b ends
+turn 4a begins
+  reduced 吾行之(pid2) hp by 5 to 99
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    reduced 谭舒雁(pid1) hp by 19 to 78
+    gained 1 def. Now have 1 def
+    gained 3 force_of_water. Now have 8 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 71
+  gained 1 def. Now have 1 def
+  STATE after turn 4a: A(hp 99/118, def 0, qi 0, injury 5) | B(hp 71/108, def 1, qi 3)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Cide (level 1)
+    lost 1 smash_def. Now have 1 smash_def
+    reduced 吾行之(pid2) hp by 16 to 83
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 吾行之(pid2) hp by 5 to 78
+  谭舒雁(pid1) finished playing Astral Move - Cide
+  STATE after turn 4b: A(hp 78/118, def 0, qi 0, injury 5) | B(hp 71/108, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  reduced 吾行之(pid2) hp by 5 to 73
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing World Smash (level 1). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 8 to 63
+  gained 1 def. Now have 1 def
+  STATE after turn 5a: A(hp 73/118, def 0, qi 1, injury 5) | B(hp 63/108, def 1, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Thunder And Lighting (level 2)
+    reduced 吾行之(pid2) hp by 4 to 69
+    reduced 吾行之(pid2) hp by 4 to 65
+  谭舒雁(pid1) finished playing Thunder And Lighting
+  STATE after turn 5b: A(hp 65/118, def 0, qi 1, injury 5) | B(hp 63/108, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  reduced 吾行之(pid2) hp by 5 to 60
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play World Smash (level 1)
+    reduced 谭舒雁(pid1) hp by 16 to 47
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing World Smash
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 40
+  gained 1 def. Now have 1 def
+  STATE after turn 6a: A(hp 60/118, def 0, qi 0, injury 5) | B(hp 40/108, def 1, qi 2)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    gained 5 max_hp. Now have 113 max_hp
+    gained 1 def. Now have 5 def
+    healed 4 hp. Went from 40 to 44
+    gained 1 smash_def. Now have 1 smash_def
+    gained 1 smash_def. Now have 2 smash_def
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 6b: A(hp 60/118, def 0, qi 0, injury 5) | B(hp 44/113, def 5, qi 2)
+turn 6b ends
+turn 7a begins
+  reduced 吾行之(pid2) hp by 5 to 55
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 42
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 35
+  gained 1 def. Now have 1 def
+  STATE after turn 7a: A(hp 55/118, def 0, qi 0, injury 5) | B(hp 35/113, def 1, qi 2)
+turn 7a ends
+turn 7b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 7b: A(hp 55/118, def 0, qi 0, injury 6) | B(hp 35/113, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  reduced 吾行之(pid2) hp by 6 to 49
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Rush (level 1). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 8 to 27
+  gained 1 def. Now have 1 def
+  STATE after turn 8a: A(hp 49/118, def 0, qi 1, injury 6) | B(hp 27/113, def 1, qi 2)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    lost 1 smash_def. Now have 1 smash_def
+    reduced 吾行之(pid2) hp by 10 to 39
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 8b: A(hp 39/118, def 0, qi 1, injury 6) | B(hp 27/113, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  reduced 吾行之(pid2) hp by 6 to 33
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 9 to 18
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 11
+  gained 1 def. Now have 1 def
+  STATE after turn 9a: A(hp 33/118, def 0, qi 0, injury 6) | B(hp 11/113, def 1, qi 1)
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 9 internal_injury
+    reduced 吾行之(pid2) hp by 9 to 24
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 9b: A(hp 24/118, def 0, qi 0, injury 9) | B(hp 11/113, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  reduced 吾行之(pid2) hp by 9 to 15
+  吾行之(pid2) is playing Metal Spirit - Shuttle (level 1)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    reduced 谭舒雁(pid1) hp by 4 to 7
+    gained 1 def. Now have 1 def
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 4 max_hp. Now have 122 max_hp
+    healed 4 hp. Went from 15 to 19
+    gained 3 qi. Now have 3 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 0
+  gained 1 def. Now have 1 def
+  STATE after turn 10a: A(hp 19/122, def 0, qi 3, injury 9) | B(hp 0/113, def 1, qi 1)
+turn 10a ends
+谭舒雁(pid1) loses 20 destiny, now at 8
+吾行之(pid2) (Wu Xingzhi) wins

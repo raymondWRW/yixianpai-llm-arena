@@ -1,0 +1,189 @@
+turn 1a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 5 to 80
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1a: A(hp 78/78, def 0, qi 0, sword 3) | B(hp 80/99, def 0, qi 0, phys 14)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 3 to 77
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 71
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 1b: A(hp 71/78, def 0, qi 0, sword 3) | B(hp 77/99, def 2, qi 0, phys 14)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 2a: A(hp 71/78, def 2, qi 2, sword 5) | B(hp 77/99, def 2, qi 0, phys 14)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 3 to 74
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 def. Now have 3 def
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 66
+    gained 2 def. Now have 5 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 2b: A(hp 66/78, def 0, qi 2, sword 5) | B(hp 74/99, def 5, qi 0, phys 14)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    gained 1 def. Now have 1 def
+    lost 5 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 70
+    reduced 小布(pid3) hp by 9 to 61
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 3a: A(hp 66/78, def 1, qi 2) | B(hp 61/99, def 0, qi 0, phys 14)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 6 to 60
+    gained 7 def. Now have 7 def
+  小布(pid3) finished playing Detect-Horse Palms
+  STATE after turn 3b: A(hp 60/78, def 0, qi 2) | B(hp 61/99, def 7, qi 0, phys 14)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    gained 1 def. Now have 1 def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 6 to 55
+    lost 5 def. Now have 2 def
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 4a: A(hp 60/78, def 1, qi 2) | B(hp 55/99, def 2, qi 0, phys 14)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 3 physique. Now have 17 physique
+    gained 3 max_hp. Now have 102 max_hp
+    gained 2 entangle. Now have 2 entangle
+    gained 10 def. Now have 11 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 1 entangle
+  STATE after turn 4b: A(hp 60/78, def 1, qi 2) | B(hp 55/102, def 11, qi 0, phys 17)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    gained 1 def. Now have 1 def
+    lost 9 def. Now have 2 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5a: A(hp 60/78, def 1, qi 2) | B(hp 55/102, def 2, qi 0, phys 17)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 4 to 51
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 2 def. Now have 3 def
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 9 to 51
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  lost 1 entangle. Now have 0 entangle
+  STATE after turn 5b: A(hp 51/78, def 0, qi 2) | B(hp 51/102, def 3, qi 0, phys 17)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    gained 1 def. Now have 1 def
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 6 to 45
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 6a: A(hp 51/78, def 1, qi 2) | B(hp 45/102, def 0, qi 0, phys 17)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 3 to 42
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 9 to 42
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 6b: A(hp 42/78, def 0, qi 2) | B(hp 42/102, def 0, qi 0, force 1, phys 17)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Tri-Peak Sword (level 2)
+    reduced 小布(pid3) hp by 4 to 38
+    reduced 小布(pid3) hp by 4 to 34
+    reduced 小布(pid3) hp by 4 to 30
+  牧逸风(pid0) finished playing Tri-Peak Sword
+  STATE after turn 7a: A(hp 42/78, def 0, qi 2) | B(hp 30/102, def 0, qi 0, force 1, phys 17)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 2 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 7b: A(hp 42/78, def 0, qi 2) | B(hp 30/102, def 0, qi 2, force 2, phys 17)
+turn 7b ends
+turn 8a begins
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 20 to 10
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 8a: A(hp 42/78, def 0, qi 0) | B(hp 10/102, def 0, qi 2, force 2, phys 17)
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 19 to 23
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 8b: A(hp 23/78, def 0, qi 0) | B(hp 10/102, def 0, qi 1, force 2, injury 1, phys 17)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 5 to 5
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 9a: A(hp 23/78, def 0, qi 0, sword 3) | B(hp 5/102, def 0, qi 1, force 2, injury 1, phys 17)
+turn 9a ends
+turn 9b begins
+  reduced 小布(pid3) hp by 1 to 4
+  reduced 小布(pid3) hp by 3 to 1
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 3 force
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 11 to 12
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 9b: A(hp 12/78, def 0, qi 0, sword 3) | B(hp 1/102, def 2, qi 1, force 2, injury 1, phys 17)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 10a: A(hp 12/78, def 2, qi 2, sword 5) | B(hp 1/102, def 2, qi 1, force 2, injury 1, phys 17)
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 1 to 0
+  STATE after turn 10b: A(hp 12/78, def 2, qi 2, sword 5) | B(hp 0/102, def 1, qi 1, force 2, injury 1, phys 17)
+turn 10b ends
+小布(pid3) loses 12 destiny, now at 49
+牧逸风(pid0) (Mu Yifeng) wins

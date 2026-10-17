@@ -1,0 +1,274 @@
+gained 3 qi. Now have 3 qi
+healed 3 hp. Went from 95 to 98
+turn 1a begins
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 97 max_hp
+    healed 2 hp. Went from 95 to 97
+  吾行之(pid2) finished playing Water Spirit - Dive
+  STATE after turn 1a: A(hp 97/97, def 0, qi 2) | B(hp 98/115, def 0, qi 0, phys 20)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 21 physique
+    gained 1 max_hp. Now have 116 max_hp
+    healed 1 hp. Went from 98 to 99
+    gained 3 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 97/97, def 0, qi 2) | B(hp 99/116, def 0, qi 3, force 1, phys 21)
+turn 1b ends
+turn 2a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 106 max_hp
+    healed 9 hp. Went from 97 to 106
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 小布(pid3) hp by 3 to 96
+  STATE after turn 2a: A(hp 106/106, def 0, qi 0) | B(hp 96/116, def 0, qi 3, force 1, phys 21)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 2 to 94
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 2 qi
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 15 to 91
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 2b: A(hp 91/106, def 0, qi 0) | B(hp 94/116, def 0, qi 2, force 1, phys 21)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 小布(pid3) hp by 3 to 91
+  STATE after turn 3a: A(hp 91/106, def 0, qi 2) | B(hp 91/116, def 0, qi 2, force 1, phys 21)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  小布(pid3) finished playing Endless Sword Formation
+  STATE after turn 3b: A(hp 91/106, def 0, qi 2) | B(hp 91/116, def 0, qi 2, force 1, phys 21)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 88
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 3 to 85
+  STATE after turn 4a: A(hp 91/106, def 0, qi 2) | B(hp 85/116, def 0, qi 2, force 1, phys 21)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 4 to 81
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 16 to 75
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 6 to 69
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 4b: A(hp 69/106, def 0, qi 2) | B(hp 81/116, def 0, qi 2, force 1, phys 21)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 78
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 3 to 75
+  STATE after turn 5a: A(hp 69/106, def 0, qi 2) | B(hp 75/116, def 0, qi 2, force 1, phys 21)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  小布(pid3) finished playing Fraccide Formation
+  STATE after turn 5b: A(hp 69/106, def 0, qi 2) | B(hp 75/116, def 0, qi 2, force 1, phys 21)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 72
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 3 to 69
+  STATE after turn 6a: A(hp 69/106, def 0, qi 2) | B(hp 69/116, def 0, qi 2, force 1, phys 21)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 6 to 63
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 吾行之(pid2) hp by 8 to 55
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6b: A(hp 55/106, def 0, qi 2) | B(hp 69/116, def 0, qi 2, phys 21)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 66
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 3 to 63
+  STATE after turn 7a: A(hp 55/106, def 0, qi 2) | B(hp 63/116, def 0, qi 2, phys 21)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 52
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7b: A(hp 52/106, def 0, qi 2) | B(hp 63/116, def 0, qi 2, phys 21)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 60
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 3 to 57
+  STATE after turn 8a: A(hp 52/106, def 0, qi 2) | B(hp 57/116, def 0, qi 2, phys 21)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 49
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 8b: A(hp 49/106, def 0, qi 2) | B(hp 57/116, def 0, qi 2, phys 21)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Dive (level 1)
+    gained 2 max_hp. Now have 108 max_hp
+    healed 2 hp. Went from 49 to 51
+  吾行之(pid2) finished playing Water Spirit - Dive
+  reduced 小布(pid3) hp by 3 to 54
+  STATE after turn 9a: A(hp 51/108, def 0, qi 1) | B(hp 54/116, def 0, qi 2, phys 21)
+turn 9a ends
+turn 9b begins
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 22 physique
+    gained 1 max_hp. Now have 117 max_hp
+    healed 1 hp. Went from 54 to 55
+    gained 3 qi. Now have 5 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 9b: A(hp 51/108, def 0, qi 1) | B(hp 55/117, def 0, qi 5, force 1, phys 22)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  reduced 小布(pid3) hp by 3 to 52
+  STATE after turn 10a: A(hp 51/108, def 0, qi 2) | B(hp 52/117, def 0, qi 5, force 1, phys 22)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 2 to 50
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 4 qi
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 15 to 36
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 10b: A(hp 36/108, def 0, qi 2) | B(hp 50/117, def 0, qi 4, force 1, phys 22)
+turn 10b ends
+turn 11a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 3 force_of_water. Now have 6 force_of_water
+    gained 12 max_hp. Now have 120 max_hp
+    healed 12 hp. Went from 36 to 48
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 小布(pid3) hp by 6 to 44
+  STATE after turn 11a: A(hp 48/120, def 0, qi 0) | B(hp 44/117, def 0, qi 4, force 1, phys 22)
+turn 11a ends
+turn 11b begins
+  reduced 小布(pid3) hp by 4 to 40
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 2 this_card_crash_fist_blitz_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 16 to 32
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 11b: A(hp 32/120, def 0, qi 0) | B(hp 40/117, def 0, qi 4, force 1, phys 22)
+turn 11b ends
+turn 12a begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 小布(pid3) hp by 6 to 34
+  STATE after turn 12a: A(hp 32/120, def 0, qi 2) | B(hp 34/117, def 0, qi 4, force 1, phys 22)
+turn 12a ends
+turn 12b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 3 to 29
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 12b: A(hp 29/120, def 0, qi 2) | B(hp 34/117, def 0, qi 4, force 1, phys 22)
+turn 12b ends
+turn 13a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 31
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 6 to 25
+  STATE after turn 13a: A(hp 29/120, def 0, qi 2) | B(hp 25/117, def 0, qi 4, force 1, phys 22)
+turn 13a ends
+turn 13b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 3 to 26
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 13b: A(hp 26/120, def 0, qi 2) | B(hp 25/117, def 0, qi 4, phys 22)
+turn 13b ends
+turn 14a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 22
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 6 to 16
+  STATE after turn 14a: A(hp 26/120, def 0, qi 2) | B(hp 16/117, def 0, qi 4, phys 22)
+turn 14a ends
+turn 14b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 23
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 14b: A(hp 23/120, def 0, qi 2) | B(hp 16/117, def 0, qi 4, phys 22)
+turn 14b ends
+turn 15a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 13
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 6 to 7
+  STATE after turn 15a: A(hp 23/120, def 0, qi 2) | B(hp 7/117, def 0, qi 4, phys 22)
+turn 15a ends
+turn 15b begins
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 23 physique
+    gained 1 max_hp. Now have 118 max_hp
+    healed 1 hp. Went from 7 to 8
+    gained 3 qi. Now have 7 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 15b: A(hp 23/120, def 0, qi 2) | B(hp 8/118, def 0, qi 7, force 1, phys 23)
+turn 15b ends
+turn 16a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 5
+  吾行之(pid2) finished playing Normal Attack
+  reduced 小布(pid3) hp by 6 to -1
+  STATE after turn 16a: A(hp 23/120, def 0, qi 2) | B(hp -1/118, def 0, qi 7, force 1, phys 23)
+turn 16a ends
+小布(pid3) loses 17 destiny, now at 47
+吾行之(pid2) (Wu Xingzhi) wins

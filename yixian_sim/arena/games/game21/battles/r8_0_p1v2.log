@@ -1,0 +1,182 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 1a: A(hp 66/66, def 0, qi 3) | B(hp 66/66, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1b: A(hp 66/66, def 0, qi 3) | B(hp 66/66, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 吾行之(pid2) hp by 6 to 60
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 2a: A(hp 66/66, def 0, qi 3) | B(hp 60/66, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 4 qi
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 2b: A(hp 66/66, def 0, qi 3) | B(hp 60/66, def 0, qi 4)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 吾行之(pid2) hp by 5 to 55
+    reduced 吾行之(pid2) hp by 5 to 50
+    reduced 吾行之(pid2) max_hp by 4 to 62
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 3a: A(hp 66/66, def 0, qi 2) | B(hp 50/62, def 0, qi 4)
+turn 3a ends
+turn 3b begins
+  lost 2 qi. Now have 2 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 3 qi
+    reduced 谭舒雁(pid1) hp by 13 to 53
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  STATE after turn 3b: A(hp 53/66, def 0, qi 2) | B(hp 50/62, def 0, qi 3)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 吾行之(pid2) hp by 4 to 46
+    gained 1 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 4a: A(hp 53/66, def 0, qi 3) | B(hp 46/62, def 0, qi 3)
+turn 4a ends
+turn 4b begins
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    gained 1 qi. Now have 2 qi
+    reduced 谭舒雁(pid1) hp by 10 to 43
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 42
+  gained 1 def. Now have 1 def
+  STATE after turn 4b: A(hp 42/66, def 1, qi 3) | B(hp 46/62, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 吾行之(pid2) hp by 4 to 42
+    reduced 吾行之(pid2) hp by 4 to 38
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 5a: A(hp 42/66, def 2, qi 2) | B(hp 38/62, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 40
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 37
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Fire Spirit - Scarlet Flame
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 36
+  gained 1 def. Now have 1 def
+  STATE after turn 5b: A(hp 36/66, def 1, qi 2) | B(hp 38/62, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 吾行之(pid2) hp by 9 to 29
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 6a: A(hp 36/66, def 0, qi 1) | B(hp 29/62, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 1 qi
+    reduced 谭舒雁(pid1) hp by 12 to 24
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 23
+  gained 1 def. Now have 1 def
+  STATE after turn 6b: A(hp 23/66, def 1, qi 1) | B(hp 29/62, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 吾行之(pid2) hp by 11 to 18
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 7a: A(hp 23/66, def 0, qi 0) | B(hp 18/62, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 15
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Five Elements Fleche
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 14
+  gained 1 def. Now have 1 def
+  STATE after turn 7b: A(hp 14/66, def 1, qi 0) | B(hp 18/62, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Decree - Attack (level 1)
+    reduced 吾行之(pid2) hp by 6 to 12
+    gained 3 def. Now have 3 def
+  谭舒雁(pid1) finished playing Heavenly Decree - Attack
+  STATE after turn 8a: A(hp 14/66, def 3, qi 0) | B(hp 12/62, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 11
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 10
+  gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp 10/66, def 1, qi 0) | B(hp 12/62, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 9a: A(hp 10/66, def 0, qi 2) | B(hp 12/62, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 3 qi
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  reduced 谭舒雁(pid1) hp by 2 to 8
+  gained 1 def. Now have 1 def
+  STATE after turn 9b: A(hp 8/66, def 1, qi 2) | B(hp 12/62, def 0, qi 3)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 吾行之(pid2) hp by 6 to 6
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 10a: A(hp 8/66, def 0, qi 2) | B(hp 6/62, def 0, qi 3)
+turn 10a ends
+turn 10b begins
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 2 qi
+    reduced 谭舒雁(pid1) hp by 13 to -5
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 3 force_of_water
+  STATE after turn 10b: A(hp -5/66, def 1, qi 2) | B(hp 6/62, def 0, qi 2)
+turn 10b ends
+谭舒雁(pid1) loses 11 destiny, now at 59
+吾行之(pid2) (Wu Xingzhi) wins

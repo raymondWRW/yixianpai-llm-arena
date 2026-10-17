@@ -1,0 +1,302 @@
+gained 1 qi. Now have 1 qi
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 1b ends
+turn 2a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 4 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 4 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 4 def
+turn 2b ends
+turn 3a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 max_hp. Now have 70 max_hp
+    healed 8 hp. Went from 67 to 70
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 6 qi
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 4 to 66
+    reduced player 1 hp by 7 to 59
+    lost 4 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 3b ends
+turn 4a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 3 max_hp. Now have 73 max_hp
+    healed 8 hp. Went from 59 to 67
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 61
+    reduced player 1 hp by 8 to 53
+  player 0 finished playing Thunder Sword
+turn 4b ends
+turn 5a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 6 qi
+    gained 3 max_hp. Now have 76 max_hp
+    healed 4 hp. Went from 53 to 57
+  player 0 finished playing Water Hexagram
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    reduced player 1 hp by 8 to 49
+  player 0 finished playing Flying Fang Sword
+turn 5b ends
+turn 6a begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 6 to 58
+  player 0 finished playing Shifting Stars
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced player 1 hp by 10 to 39
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 9 to 49
+    gained 3 qi. Now have 9 qi
+    gained 3 max_hp. Now have 79 max_hp
+    healed 12 hp. Went from 39 to 51
+  player 0 finished playing White Crane Bright Wings
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced player 1 hp by 20 to 31
+  player 0 finished playing Giant Whale Spirit Sword
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 8 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced player 1 hp by 11 to 38
+    lost 1 hexagram. Now have 1 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 8a ends
+turn 8b begins
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 3 qi
+    reduced player 1 hp by 1 to 30
+  player 0 finished playing Cloud Sword - Pierce the Star
+  lost 1 weaken. Now have 0 weaken
+turn 8b ends
+turn 9a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 10 qi
+    gained 3 max_hp. Now have 82 max_hp
+    healed 8 hp. Went from 30 to 38
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9a ends
+turn 9b begins
+  player 0 is playing Detect Qi (level 1)
+    gained 2 qi. Now have 5 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 12 qi
+    gained 3 max_hp. Now have 85 max_hp
+    healed 8 hp. Went from 38 to 46
+    gained 1 hexagram. Now have 2 hexagram
+  player 0 finished playing Wind Hexagram
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 6 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 4 def
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 4 hexagram
+    gained 1 qi. Now have 13 qi
+    gained 3 max_hp. Now have 88 max_hp
+    healed 4 hp. Went from 46 to 50
+  player 0 finished playing Water Hexagram
+turn 11a ends
+turn 11b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 8 qi
+    reduced player 1 hp by 7 to 43
+    reduced player 1 hp by 7 to 36
+    lost 4 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Spiritage Sword
+turn 11b ends
+turn 12a begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 5 to 33
+    gained 1 qi. Now have 14 qi
+    gained 3 max_hp. Now have 91 max_hp
+    healed 4 hp. Went from 36 to 40
+  player 0 finished playing Shifting Stars
+turn 12a ends
+turn 12b begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 34
+    reduced player 1 hp by 8 to 26
+  player 0 finished playing Thunder Sword
+turn 12b ends
+turn 13a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 3 hexagram
+    reduced player 1 hp by 10 to 23
+    gained 3 qi. Now have 17 qi
+    gained 3 max_hp. Now have 94 max_hp
+    healed 12 hp. Went from 26 to 38
+  player 0 finished playing White Crane Bright Wings
+turn 13a ends
+turn 13b begins
+  lost 1 qi. Now have 6 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    reduced player 1 hp by 8 to 30
+  player 0 finished playing Flying Fang Sword
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 16 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced player 1 hp by 11 to 12
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 14a ends
+turn 14b begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced player 1 hp by 6 to 24
+  player 0 finished playing Giant Tiger Spirit Sword
+  lost 1 weaken. Now have 0 weaken
+turn 14b ends
+turn 15a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 18 qi
+    gained 3 max_hp. Now have 97 max_hp
+    healed 8 hp. Went from 24 to 32
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 3 star_power
+  player 0 finished playing Dotted Around
+turn 15a ends
+turn 15b begins
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 17 to 15
+  player 0 finished playing Giant Whale Spirit Sword
+turn 15b ends
+turn 16a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 20 qi
+    gained 3 max_hp. Now have 100 max_hp
+    healed 8 hp. Went from 15 to 23
+    gained 1 hexagram. Now have 3 hexagram
+  player 0 finished playing Wind Hexagram
+turn 16a ends
+turn 16b begins
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 5 qi
+    reduced player 1 hp by 5 to 18
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 16b ends
+turn 17a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 5 hexagram
+    gained 1 qi. Now have 21 qi
+    gained 3 max_hp. Now have 103 max_hp
+    healed 4 hp. Went from 18 to 22
+  player 0 finished playing Water Hexagram
+turn 17a ends
+turn 17b begins
+  player 0 is playing Detect Qi (level 1)
+    gained 2 qi. Now have 7 qi
+  player 0 finished playing Detect Qi
+  gained 3 def. Now have 3 def
+turn 17b ends
+turn 18a begins
+  player 0 is playing Shifting Stars (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 7
+    gained 1 qi. Now have 22 qi
+    gained 3 max_hp. Now have 106 max_hp
+    healed 4 hp. Went from 22 to 26
+  player 0 finished playing Shifting Stars
+turn 18a ends
+turn 18b begins
+  player 0 is playing Contemplate Spirits Rhythm (level 2)
+    gained 1 qi. Now have 8 qi
+    gained 4 sword_intent. Now have 4 sword_intent
+  player 0 finished playing Contemplate Spirits Rhythm
+  gained 3 def. Now have 3 def
+turn 18b ends
+turn 19a begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 4 hexagram
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 8 to -1
+    gained 3 qi. Now have 25 qi
+    gained 3 max_hp. Now have 109 max_hp
+    healed 12 hp. Went from 26 to 38
+turn 19a ends
+player 1 loses 13 destiny, now at 71
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Stillness Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Wind Hexagram (level 2)
+  Water Hexagram (level 1)
+  Shifting Stars (level 1)
+  White Crane Bright Wings (level 3)
+  Golden Rooster Independence (level 1)
+Player 1's deck:
+  Detect Qi (level 1)
+  Contemplate Spirits Rhythm (level 2)
+  Spiritage Sword (level 1)
+  Thunder Sword (level 2)
+  Flying Fang Sword (level 1)
+  Giant Tiger Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 2)
+  Cloud Sword - Pierce the Star (level 1)

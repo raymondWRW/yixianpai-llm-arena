@@ -1,0 +1,231 @@
+gained 1 internal_injury. Now have 1 internal_injury
+reduced 牧逸风(pid0) hp by 3 to 77
+reduced 谭舒雁(pid1) hp by 3 to 82
+gained 1 def. Now have 1 def
+turn 1a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 4 internal_injury
+    reduced 牧逸风(pid0) hp by 4 to 73
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1a: A(hp 82/85, def 0, qi 0) | B(hp 73/80, def 0, qi 0, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 4 to 69
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 1 def. Now have 1 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 3 hexproof. Now have 3 hexproof
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 1b: A(hp 82/85, def 0, qi 0) | B(hp 69/80, def 1, qi 0, injury 4)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 68
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 2a: A(hp 82/85, def 0, qi 2) | B(hp 68/80, def 0, qi 0, injury 4)
+turn 2a ends
+turn 2b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 4 to 64
+  牧逸风(pid0) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 2b: A(hp 82/85, def 0, qi 2) | B(hp 64/80, def 0, qi 0, injury 4)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3a: A(hp 82/85, def 0, qi 2) | B(hp 64/80, def 0, qi 0, injury 4)
+turn 3a ends
+turn 3b begins
+  reduced 牧逸风(pid0) hp by 4 to 60
+  牧逸风(pid0) is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 3b: A(hp 82/85, def 0, qi 2) | B(hp 60/80, def 0, qi 3, injury 4)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 54
+    lost 2 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4a: A(hp 82/85, def 0, qi 1) | B(hp 54/80, def 0, qi 3, injury 4)
+turn 4a ends
+turn 4b begins
+  reduced 牧逸风(pid0) hp by 4 to 50
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 5 qi
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 5 to 77
+    gained 1 def. Now have 1 def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 73
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 4b: A(hp 73/85, def 1, qi 1) | B(hp 50/80, def 0, qi 5, injury 4)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 1 to 49
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 5a: A(hp 73/85, def 0, qi 2) | B(hp 49/80, def 0, qi 5, injury 4)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 4 to 45
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 60
+    gained 1 def. Now have 1 def
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 56
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 5b: A(hp 56/85, def 1, qi 2) | B(hp 45/80, def 0, qi 4, injury 4)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  谭舒雁(pid1) finished playing Bad Omen
+  STATE after turn 6a: A(hp 56/85, def 0, qi 2) | B(hp 45/80, def 0, qi 4, injury 4)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 4 to 41
+  lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+  gained 1 wound. Now have 1 wound
+  lost 3 qi. Now have 1 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 43
+    gained 1 def. Now have 1 def
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 36
+    gained 1 def. Now have 1 def
+    gained 1 sword_intent. Now have 1 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 6b: A(hp 36/85, def 1, qi 2) | B(hp 41/80, def 13, qi 1, sword 1, injury 4)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Snake (level 1)
+    lost 6 def. Now have 7 def
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 7a: A(hp 36/85, def 0, qi 2) | B(hp 41/80, def 7, qi 1, sword 1, injury 4)
+turn 7a ends
+turn 7b begins
+  lost 4 def. Now have 3 def
+  reduced 牧逸风(pid0) hp by 4 to 37
+  牧逸风(pid0) is playing Cloud Sword - Flash Wind (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 31
+    gained 1 def. Now have 1 def
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Flash Wind
+  STATE after turn 7b: A(hp 31/85, def 1, qi 2) | B(hp 37/80, def 3, qi 1, injury 4)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 31/85, def 0, qi 2) | B(hp 37/80, def 0, qi 1, injury 4)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 4 to 33
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 1 def. Now have 1 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 11 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 8b: A(hp 31/85, def 0, qi 2) | B(hp 33/80, def 11, qi 1, injury 4)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    lost 3 hexproof. Now have 0 hexproof
+    reduced 牧逸风(pid0) hp by 4 to 29
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 9a: A(hp 31/85, def 0, qi 2) | B(hp 29/80, def 11, qi 1, injury 4)
+turn 9a ends
+turn 9b begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  reduced 牧逸风(pid0) hp by 4 to 25
+  牧逸风(pid0) is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 4 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 9b: A(hp 31/85, def 0, qi 2) | B(hp 25/80, def 11, qi 4, injury 4)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 2 def. Now have 9 def
+    gained 2 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 10a: A(hp 31/85, def 0, qi 4) | B(hp 25/80, def 9, qi 4, injury 4)
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 4 to 21
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 6 qi
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 6 to 25
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 10b: A(hp 25/85, def 1, qi 4) | B(hp 21/80, def 4, qi 6, injury 4)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11a: A(hp 25/85, def 0, qi 4) | B(hp 21/80, def 4, qi 6, injury 5)
+turn 11a ends
+turn 11b begins
+  lost 2 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 5 to 16
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 15 to 10
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 11b: A(hp 10/85, def 1, qi 4) | B(hp 16/80, def 2, qi 5, injury 5)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 11
+    gained 2 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 12a: A(hp 10/85, def 0, qi 3) | B(hp 11/80, def 0, qi 5, injury 7)
+turn 12a ends
+turn 12b begins
+  reduced 牧逸风(pid0) hp by 7 to 4
+  lost 3 qi. Now have 2 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to -3
+    gained 1 def. Now have 1 def
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  STATE after turn 12b: A(hp -3/85, def 1, qi 3) | B(hp 4/80, def 13, qi 2, injury 7)
+turn 12b ends
+谭舒雁(pid1) loses 13 destiny, now at 53
+牧逸风(pid0) (Mu Yifeng) wins

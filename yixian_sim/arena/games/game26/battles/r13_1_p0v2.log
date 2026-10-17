@@ -1,0 +1,125 @@
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+turn 1a begins
+  牧逸风(pid0) is playing CentiBird Spirit Sword Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 centibird_spirit_sword_rhythm_stacks. Now have 1 centibird_spirit_sword_rhythm_stacks
+  牧逸风(pid0) finished playing CentiBird Spirit Sword Rhythm
+  STATE after turn 1a: A(hp 106/106, def 0, qi 1) | B(hp 99/99, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  STATE after turn 1b: A(hp 106/106, def 0, qi 1) | B(hp 99/99, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    reduced 吾行之(pid2) hp by 3 to 96
+    reduced 吾行之(pid2) hp by 3 to 93
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2a: A(hp 106/106, def 0, qi 4) | B(hp 93/99, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  吾行之(pid2) finished playing Fraccide Formation
+  STATE after turn 2b: A(hp 106/106, def 0, qi 4) | B(hp 93/99, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 3a: A(hp 106/106, def 0, qi 6) | B(hp 93/99, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 17 to 89
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 3b: A(hp 89/106, def 0, qi 6) | B(hp 93/99, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 9 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 4a: A(hp 89/106, def 0, qi 9) | B(hp 93/99, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Sharp (level 2)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 13 to 76
+    gained 6 penetrate. Now have 6 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Sharp
+  STATE after turn 4b: A(hp 76/106, def 0, qi 9) | B(hp 93/99, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 11 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 5a: A(hp 76/106, def 2, qi 11, sword 2) | B(hp 93/99, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    lost 2 def. Now have 0 def
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 19 to 57
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 5b: A(hp 57/106, def 0, qi 11, sword 2) | B(hp 93/99, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Spirit Coercion (level 1)
+    gained 1 def. Now have 1 def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 吾行之(pid2) hp by 9 to 84
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Spirit Coercion
+  STATE after turn 6a: A(hp 57/106, def 1, qi 11) | B(hp 84/99, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 1 def. Now have 0 def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 7 to 50
+    gained 1 ignore_def. Now have 1 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 6b: A(hp 50/106, def 0, qi 11) | B(hp 84/99, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Egret Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 38 to 46
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 7a: A(hp 50/106, def 0, qi 11) | B(hp 46/99, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Fire Spirit - Heart Fire (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 牧逸风(pid0) hp by 4 to 46
+    reduced 牧逸风(pid0) hp by 4 to 42
+  吾行之(pid2) finished playing Fire Spirit - Heart Fire
+  STATE after turn 7b: A(hp 42/106, def 0, qi 11) | B(hp 46/99, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 11 qi. Now have 0 qi
+    reduced 吾行之(pid2) hp by 60 to -14
+  STATE after turn 8a: A(hp 42/106, def 0, qi 0) | B(hp -14/99, def 0, qi 0)
+turn 8a ends
+吾行之(pid2) loses 22 destiny, now at 4
+牧逸风(pid0) (Mu Yifeng) wins

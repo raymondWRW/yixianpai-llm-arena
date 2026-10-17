@@ -1,0 +1,178 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Wind Hexagram
+  STATE after turn 1a: A(hp 105/105, def 0, qi 1, hex 1) | B(hp 84/84, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Water Spirit Seal (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 1b: A(hp 105/105, def 0, qi 1, hex 1) | B(hp 84/84, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Yin Yang Formation (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 def. Now have 1 def
+    healed 1 hp. Went from 105 to 105
+  谭舒雁(pid1) finished playing Yin Yang Formation
+  STATE after turn 2a: A(hp 105/105, def 1, qi 3, hex 1) | B(hp 84/84, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 2b: A(hp 105/105, def 1, qi 3, hex 1) | B(hp 84/84, def 0, qi 4)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 吾行之(pid2) hp by 7 to 77
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 3a: A(hp 105/105, def 0, qi 4, hex 1) | B(hp 77/84, def 0, qi 4)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 2 max_hp. Now have 86 max_hp
+    healed 2 hp. Went from 77 to 79
+    gained 3 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  reduced 谭舒雁(pid1) hp by 3 to 102
+  STATE after turn 3b: A(hp 102/105, def 0, qi 4, hex 1) | B(hp 79/86, def 0, qi 6)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    lost 1 hexagram. Now have 0 hexagram
+    reduced 吾行之(pid2) hp by 20 to 59
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 4a: A(hp 102/105, def 0, qi 3) | B(hp 59/86, def 0, qi 6)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 5 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 谭舒雁(pid1) hp by 5 to 97
+  STATE after turn 4b: A(hp 97/105, def 0, qi 3) | B(hp 59/86, def 0, qi 6)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 吾行之(pid2) hp by 11 to 48
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 5a: A(hp 97/105, def 0, qi 2) | B(hp 48/86, def 0, qi 6)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 5 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    reduced 谭舒雁(pid1) hp by 19 to 78
+    gained 3 force_of_water. Now have 8 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 8 to 70
+  STATE after turn 5b: A(hp 70/105, def 0, qi 2) | B(hp 48/86, def 0, qi 5)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Heaven Hexagram (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Heaven Hexagram
+  STATE after turn 6a: A(hp 70/105, def 0, qi 3, hex 1) | B(hp 48/86, def 0, qi 5)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 3 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 57
+    gained 1 force_of_water. Now have 9 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 9 to 48
+  STATE after turn 6b: A(hp 48/105, def 0, qi 3, hex 1) | B(hp 48/86, def 0, qi 3)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Qi Therapy (level 1)
+    gained 8 max_hp. Now have 113 max_hp
+    lost 1 hexagram. Now have 0 hexagram
+    healed 18 hp. Went from 48 to 66
+  谭舒雁(pid1) finished playing Qi Therapy
+  STATE after turn 7a: A(hp 66/113, def 0, qi 2) | B(hp 48/86, def 0, qi 3)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 55
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 谭舒雁(pid1) hp by 9 to 46
+  STATE after turn 7b: A(hp 46/113, def 0, qi 2) | B(hp 48/86, def 0, qi 3)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Imposing (level 1)
+    gained 2 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Imposing
+  STATE after turn 8a: A(hp 46/113, def 0, qi 4) | B(hp 48/86, def 0, qi 3)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 2 max_hp. Now have 88 max_hp
+    healed 2 hp. Went from 48 to 50
+    gained 2 force_of_water. Now have 11 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  reduced 谭舒雁(pid1) hp by 11 to 35
+  STATE after turn 8b: A(hp 35/113, def 0, qi 4) | B(hp 50/88, def 0, qi 5)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Wind Hexagram
+  STATE after turn 9a: A(hp 35/113, def 0, qi 5, hex 1) | B(hp 50/88, def 0, qi 5)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Water Spirit Seal (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 1 activate_water_spirit_stacks. Now have 3 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  reduced 谭舒雁(pid1) hp by 11 to 24
+  STATE after turn 9b: A(hp 24/113, def 0, qi 5, hex 1) | B(hp 50/88, def 0, qi 7)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Yin Yang Formation (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 1 def. Now have 1 def
+    healed 1 hp. Went from 24 to 25
+  谭舒雁(pid1) finished playing Yin Yang Formation
+  STATE after turn 10a: A(hp 25/113, def 1, qi 7, hex 1) | B(hp 50/88, def 0, qi 7)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 2 qi. Now have 9 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 10 to 15
+  STATE after turn 10b: A(hp 15/113, def 0, qi 7, hex 1) | B(hp 50/88, def 0, qi 9)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 吾行之(pid2) hp by 7 to 43
+    gained 1 qi. Now have 8 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 11a: A(hp 15/113, def 0, qi 8, hex 1) | B(hp 43/88, def 0, qi 9)
+turn 11a ends
+turn 11b begins
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 2 qi. Now have 11 qi
+    gained 2 max_hp. Now have 90 max_hp
+    healed 2 hp. Went from 43 to 45
+    gained 5 force_of_water. Now have 16 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  reduced 谭舒雁(pid1) hp by 16 to -1
+  STATE after turn 11b: A(hp -1/113, def 0, qi 8, hex 1) | B(hp 45/90, def 0, qi 11)
+turn 11b ends
+谭舒雁(pid1) loses 20 destiny, now at 19
+吾行之(pid2) (Wu Xingzhi) wins

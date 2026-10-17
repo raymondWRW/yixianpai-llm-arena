@@ -1,0 +1,134 @@
+gained 1 qi. Now have 1 qi
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 45
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 1a: A(hp 51/51, def 0, qi 1) | B(hp 45/51, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 4 to 47
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 1b: A(hp 47/51, def 0, qi 1) | B(hp 45/51, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 40
+    reduced 谭舒雁(pid1) hp by 3 to 37
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 2a: A(hp 47/51, def 0, qi 1) | B(hp 37/51, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 牧逸风(pid0) hp by 4 to 43
+    reduced 牧逸风(pid0) hp by 4 to 39
+    gained 9 def. Now have 9 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 2b: A(hp 39/51, def 0, qi 1) | B(hp 37/51, def 9, qi 1)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 3a: A(hp 39/51, def 9, qi 1) | B(hp 37/51, def 9, qi 1)
+turn 3a ends
+turn 3b begins
+  lost 5 def. Now have 4 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    lost 6 def. Now have 3 def
+    gained 2 def. Now have 6 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 3b: A(hp 39/51, def 3, qi 1) | B(hp 37/51, def 6, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    lost 3 def. Now have 3 def
+    lost 3 def. Now have 0 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 4a: A(hp 39/51, def 1, qi 3) | B(hp 37/51, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 31
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 4b: A(hp 31/51, def 0, qi 3) | B(hp 37/51, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 29
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 5a: A(hp 31/51, def 0, qi 2) | B(hp 29/51, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 26
+    gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 5b: A(hp 26/51, def 0, qi 2) | B(hp 29/51, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 19
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 6a: A(hp 26/51, def 0, qi 1) | B(hp 19/51, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 6b: A(hp 26/51, def 0, qi 1) | B(hp 19/51, def 0, qi 3)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 16
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 26/51, def 0, qi 1) | B(hp 16/51, def 0, qi 3)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 23
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7b: A(hp 23/51, def 0, qi 1) | B(hp 16/51, def 0, qi 3)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 13
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 23/51, def 0, qi 1) | B(hp 13/51, def 0, qi 3)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 20
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8b: A(hp 20/51, def 0, qi 1) | B(hp 13/51, def 0, qi 3)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 谭舒雁(pid1) hp by 6 to 7
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 9a: A(hp 20/51, def 0, qi 1) | B(hp 7/51, def 0, qi 3)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 牧逸风(pid0) hp by 7 to 13
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 9b: A(hp 13/51, def 0, qi 1) | B(hp 7/51, def 0, qi 4)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 2
+    reduced 谭舒雁(pid1) hp by 3 to -1
+  STATE after turn 10a: A(hp 13/51, def 0, qi 1) | B(hp -1/51, def 0, qi 4)
+turn 10a ends
+谭舒雁(pid1) loses 7 destiny, now at 88
+牧逸风(pid0) (Mu Yifeng) wins

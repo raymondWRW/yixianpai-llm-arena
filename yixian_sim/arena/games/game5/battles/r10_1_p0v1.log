@@ -1,0 +1,188 @@
+turn 1a begins
+  player 0 is playing Fraccide Formation (level 2)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  player 0 is playing Cacopoisonous Formation (level 2)
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 64
+    reduced player 1 max_hp by 16 to 64
+  player 0 finished playing Fire Cloud Fulu
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 1 def
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  reduced player 0 hp by 1 to 92
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 5 to 59
+    reduced player 1 hp by 6 to 53
+    reduced player 1 hp by 6 to 47
+  player 0 finished playing Astral Move - Hit
+turn 3b ends
+turn 4a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 23 to 69
+  player 0 finished playing Giant Whale Spirit Sword
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 67
+  player 0 is playing Shifting Stars (level 2)
+    reduced player 1 hp by 8 to 39
+  player 0 finished playing Shifting Stars
+turn 4b ends
+turn 5a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced player 1 hp by 16 to 51
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 3 to 48
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 10 to 29
+  player 0 finished playing Incessant
+turn 5b ends
+turn 6a begins
+  player 0 is playing Impact Formation (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 11 to 37
+    reduced player 1 hp by 3 to 34
+  player 0 finished playing Impact Formation
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 3 to 31
+  player 0 is playing Astral Move - Block (level 2)
+    reduced player 1 hp by 9 to 20
+    gained 4 def. Now have 4 def
+  player 0 finished playing Astral Move - Block
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 1/3 qi
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 3 to 28
+  player 0 is playing Guard Spirit Fulu (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 11 def. Now have 13 def
+  player 0 finished playing Guard Spirit Fulu
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 2/3 qi
+turn 8a ends
+turn 8b begins
+  lost 7 def. Now have 6 def
+  reduced player 0 hp by 3 to 25
+  player 0 is playing Hunter Becomes Preyer (level 2)
+    reduced player 1 hp by 3 to 17
+    reduced player 1 hp by 3 to 14
+    healed 6 hp. Went from 25 to 31
+  player 0 finished playing Hunter Becomes Preyer
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 3 qi
+  player 0 gained qi instead of playing Giant Kun Spirit Sword (level 1). They now have 3/3 qi
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 3 def
+  reduced player 0 hp by 3 to 28
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 def. Now have 6 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9b ends
+turn 10a begins
+  lost 3 qi. Now have 0 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 4 to 24
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Sword Slash (level 2)
+    reduced player 1 hp by 5 to 19
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Slash
+turn 10a ends
+turn 10b begins
+  reduced player 0 hp by 3 to 16
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    lost 7 def. Now have 3 def
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 4 to 10
+    reduced player 1 hp by 7 to 3
+  player 0 finished playing Astral Move - Hit
+turn 10b ends
+turn 11a begins
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 3 to 13
+  player 0 is playing Shifting Stars (level 2)
+    reduced player 1 hp by 8 to -5
+    gained 1 qi. Now have 3 qi
+turn 11b ends
+player 0 loses 15 destiny, now at 68
+player 1 (Tan Shuyan) wins
+Player 0's deck:
+  Fraccide Formation (level 2)
+  Cacopoisonous Formation (level 2)
+  Qi Perfusion (level 2)
+  Giant Whale Spirit Sword (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Impact Formation (level 2)
+  Giant Kun Spirit Sword (level 1)
+  Sword Slash (level 2)
+Player 1's deck:
+  Dotted Around (level 2)
+  Fire Cloud Fulu (level 2)
+  Astral Move - Hit (level 1)
+  Shifting Stars (level 2)
+  Incessant (level 2)
+  Astral Move - Block (level 2)
+  Guard Spirit Fulu (level 2)
+  Hunter Becomes Preyer (level 2)

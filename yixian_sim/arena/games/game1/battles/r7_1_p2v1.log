@@ -1,0 +1,169 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1a ends
+turn 1b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Cutting Weeds (level 1). They now have 1/1 qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 67
+    reduced player 1 max_hp by 3 to 67
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    reduced player 1 hp by 5 to 64
+    reduced player 1 hp by 5 to 59
+    reduced player 1 max_hp by 4 to 65
+  player 0 finished playing Cutting Weeds
+turn 2b ends
+turn 3a begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 12 to 55
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 50
+  player 0 finished playing Metal Spirit Seal
+turn 3a ends
+turn 3b begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 3b ends
+turn 4a begins
+  player 0 is playing Cosmos Seal (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 43
+    gained 1 qi. Now have 3 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 4a ends
+turn 4b begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 51
+    gained 2 qi. Now have 2 qi
+  player 0 finished playing White Crane Bright Wings
+turn 4b ends
+turn 5a begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 34
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 6 to 45
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 38
+  player 0 finished playing Sparrow's Tail
+turn 5b ends
+turn 6a begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    reduced player 1 hp by 7 to 27
+  player 0 finished playing Earth Spirit - Smash
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 34
+    reduced player 1 hp by 4 to 30
+    lost 1 hexagram. Now have 0 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 2)
+    lost 3 def. Now have 9 def
+    lost 3 def. Now have 6 def
+    lost 3 def. Now have 3 def
+  player 0 finished playing Wood Spirit - Bud
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 21
+    gained 4 def. Now have 5 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 1)
+    lost 4 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 3 to 24
+    reduced player 1 hp by 4 to 20
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 8a ends
+turn 8b begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 8b ends
+turn 9a begins
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Astral Move - Point (level 1)
+    reduced player 1 hp by 6 to 15
+  player 0 finished playing Astral Move - Point
+turn 9b ends
+turn 10a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 17
+    reduced player 1 max_hp by 3 to 64
+    gained 2 qi. Now have 3 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Cutting Weeds (level 1). They now have 1/1 qi
+turn 10b ends
+turn 11a begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    reduced player 1 hp by 12 to 5
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 0
+turn 11a ends
+player 1 loses 10 destiny, now at 78
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Examine Body (level 1)
+  Fire Spirit Seal (level 2)
+  Metal Spirit Seal (level 3)
+  Cosmos Seal (level 2)
+  Heavenly Decree - Attack (level 2)
+  Earth Spirit - Smash (level 2)
+  Wood Spirit - Bud (level 2)
+  Fire Spirit - Scarlet Flame (level 1)
+Player 1's deck:
+  Cutting Weeds (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Sparrow's Tail (level 2)
+  Wild Horses Part the Mane (level 2)
+  Heavenly Decree - Attack (level 2)
+  Earth Hexagram (level 2)
+  Astral Move - Point (level 1)

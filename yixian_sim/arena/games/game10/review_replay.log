@@ -1,0 +1,24 @@
+matchup matrix computed for review prompts
+  [review pid0] search_board opp=pid1 pools=[] lock_slots={} lock_cards=['万法归灵剑+1', '云舞诀+2'] obj=both evals=31 -> win 100% first / 100% second
+  [review pid0] search_board opp=pid1 pools=[1, 7] lock_slots={} lock_cards=[] obj=both evals=21 -> win 100% first / 100% second
+  [review pid0] search_board opp=pid1 pools=[5] lock_slots={} lock_cards=['万法归灵剑+1', '云舞诀+2'] obj=both evals=21 -> win 100% first / 100% second
+  [review pid1] search_board opp=pid2 pools=[7] lock_slots={} lock_cards=['天元心法+1', '厄劫缠身'] obj=both evals=61 -> win 100% first / 100% second
+  [review pid1] search_board opp=pid2 pools=[7, 2] lock_slots={} lock_cards=['天元心法+1', '厄劫缠身', '探灵'] obj=both evals=41 -> win 100% first / 100% second
+  [review pid1] search_board opp=pid0 pools=[7, 2] lock_slots={} lock_cards=['天元心法+1', '厄劫缠身', '探灵'] obj=both evals=41 -> win 100% first / 100% second
+  [review pid1] search_board opp=pid3 pools=[7, 2] lock_slots={} lock_cards=['天元心法+1', '厄劫缠身', '探灵'] obj=both evals=21 -> win 100% first / 100% second
+  [review pid1] search_board opp=pid2 pools=[7, 2] lock_slots={} lock_cards=['天元心法+1', '厄劫缠身', '探灵', '星弈·断+1'] obj=second evals=71 -> win 100% first / 100% second
+  [review pid1] search_board opp=pid2 pools=[7, 2] lock_slots={} lock_cards=['天元心法+1', '探灵+1', '厄劫缠身', '星弈·断+1'] obj=both evals=51 -> win 100% first / 100% second
+  [review pid2] search_board opp=pid1 pools=[5] lock_slots={} lock_cards=[] obj=first evals=31 -> win 100% first / 100% second
+  [review pid2] search_board opp=pid1 pools=[5] lock_slots={} lock_cards=[] obj=both evals=21 -> win 100% first / 100% second
+  [review pid2] search_board opp=pid1 pools=[5] lock_slots={} lock_cards=[] obj=both evals=41 -> win 100% first / 100% second
+  [review pid2] search_board opp=pid3 pools=[5] lock_slots={} lock_cards=[] obj=both evals=41 -> win 100% first / 100% second
+  [review pid2] search_board opp=pid1 pools=[2, 5] lock_slots={} lock_cards=[] obj=both evals=41 -> win 100% first / 100% second
+  [review pid2] search_board opp=pid0 pools=[5] lock_slots={} lock_cards=[] obj=both evals=31 -> win 100% first / 100% second
+  [review pid2] search_board opp=pid1 pools=[5] lock_slots={} lock_cards=[] obj=fast evals=21 -> win 100% first / 100% second
+  [review pid3] search_board opp=pid1 pools=[5] lock_slots={} lock_cards=['势如破竹', '磅礴之势', '崩灭心法'] obj=both evals=21 -> win 100% first / 0% second
+  [review pid3] search_board opp=pid1 pools=[7] lock_slots={} lock_cards=['势如破竹', '磅礴之势', '崩灭心法'] obj=second evals=31 -> win 100% first / 100% second
+  [review pid3] search_board opp=pid2 pools=[5] lock_slots={} lock_cards=['势如破竹', '磅礴之势', '崩灭心法'] obj=both evals=41 -> win 100% first / 100% second
+  [review pid3] search_board opp=pid2 pools=[5] lock_slots={} lock_cards=['势如破竹', '磅礴之势', '崩灭心法'] obj=both evals=21 -> win 100% first / 100% second
+  [review pid3] search_board opp=pid1 pools=[5, 3] lock_slots={} lock_cards=['势如破竹', '磅礴之势', '崩灭心法'] obj=both evals=21 -> win 100% first / 100% second
+  [review pid3] search_board opp=pid1 pools=[1, 6] lock_slots={} lock_cards=['势如破竹', '磅礴之势', '崩灭心法'] obj=both evals=51 -> win 100% first / 100% second
+  [review pid3] search_board opp=pid1 pools=[5] lock_slots={} lock_cards=['势如破竹', '磅礴之势', '崩灭心法'] obj=both evals=81 -> win 100% first / 100% second

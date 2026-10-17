@@ -1,0 +1,87 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Incessant (level 2)
+    reduced 牧逸风(pid0) hp by 9 to 33
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 1a: A(hp 42/42, def 0, qi 0) | B(hp 33/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 1b: A(hp 42/42, def 0, qi 0) | B(hp 33/42, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+  STATE after turn 2a: A(hp 42/42, def 0, qi 1) | B(hp 33/42, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 13 to 29
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 2b: A(hp 29/42, def 0, qi 1) | B(hp 33/42, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 24
+    reduced 牧逸风(pid0) hp by 5 to 19
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 3a: A(hp 29/42, def 0, qi 0) | B(hp 19/42, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 24
+    reduced 谭舒雁(pid1) hp by 6 to 18
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 3b: A(hp 18/42, def 0, qi 0) | B(hp 19/42, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Zhen Hexagram (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 12
+    gained 1 hexagram. Now have 1 hexagram
+  谭舒雁(pid1) finished playing Zhen Hexagram
+  STATE after turn 4a: A(hp 18/42, def 0, qi 0, hex 1) | B(hp 12/42, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Flying Fang Sword (level 1). They now have 1/1 qi
+  STATE after turn 4b: A(hp 18/42, def 0, qi 0, hex 1) | B(hp 12/42, def 0, qi 1)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Zhen Hexagram (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 5
+    gained 1 hexagram. Now have 2 hexagram
+  谭舒雁(pid1) finished playing Zhen Hexagram
+  STATE after turn 5a: A(hp 18/42, def 0, qi 0, hex 2) | B(hp 5/42, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 10
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 5b: A(hp 10/42, def 0, qi 0, hex 2) | B(hp 5/42, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 2
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 10/42, def 0, qi 0, hex 2) | B(hp 2/42, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 7
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6b: A(hp 7/42, def 0, qi 0, hex 2) | B(hp 2/42, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to -1
+  STATE after turn 7a: A(hp 7/42, def 0, qi 0, hex 2) | B(hp -1/42, def 0, qi 0)
+turn 7a ends
+牧逸风(pid0) loses 4 destiny, now at 94
+谭舒雁(pid1) (Tan Shuyan) wins

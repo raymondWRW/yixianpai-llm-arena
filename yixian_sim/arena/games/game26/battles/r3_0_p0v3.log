@@ -1,0 +1,117 @@
+turn 1a begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 1a: A(hp 49/49, def 0, qi 2) | B(hp 49/50, def 0, qi 0, phys 1)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Gather Force (level 2)
+    gained 1 physique. Now have 2 physique
+    gained 1 max_hp. Now have 51 max_hp
+    healed 1 hp. Went from 49 to 50
+    reduced 牧逸风(pid0) hp by 5 to 44
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 44/49, def 0, qi 2) | B(hp 50/51, def 0, qi 1, force 2, phys 2)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 小布(pid3) hp by 4 to 46
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 2a: A(hp 44/49, def 0, qi 2) | B(hp 46/51, def 0, qi 1, force 2, phys 2)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 9 to 35
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 2b: A(hp 35/49, def 0, qi 2) | B(hp 46/51, def 0, qi 0, force 3, phys 2)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 13 to 33
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  reduced 小布(pid3) hp by 4 to 29
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 3a: A(hp 35/49, def 0, qi 1) | B(hp 29/51, def 0, qi 0, force 3, phys 2)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Rakshasa Pouncing (level 2)
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 14 to 21
+    gained 1 qi. Now have 1 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 3b: A(hp 21/49, def 0, qi 1) | B(hp 29/51, def 0, qi 1, force 2, phys 2)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 小布(pid3) hp by 6 to 23
+    reduced 小布(pid3) hp by 7 to 16
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 4a: A(hp 21/49, def 0, qi 0) | B(hp 16/51, def 0, qi 1, force 2, phys 2)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 14
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 1)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 9 to 12
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 4b: A(hp 12/49, def 0, qi 0) | B(hp 14/51, def 0, qi 1, force 1, phys 2)
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Flying Fang Sword (level 1). They now have 1/1 qi
+  STATE after turn 5a: A(hp 12/49, def 0, qi 1) | B(hp 14/51, def 0, qi 1, force 1, phys 2)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 3 to 11
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+  healed 3 hp. Went from 11 to 14
+  小布(pid3) healed 3 hp from crash fist bounce
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 7 to 5
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 5b: A(hp 5/49, def 0, qi 1) | B(hp 14/51, def 2, qi 1, phys 2)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 7 to 7
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 6a: A(hp 5/49, def 0, qi 0) | B(hp 7/51, def 0, qi 1, phys 2)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 2
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6b: A(hp 2/49, def 0, qi 0) | B(hp 7/51, def 0, qi 1, phys 2)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 3
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 2/49, def 0, qi 0) | B(hp 3/51, def 0, qi 1, phys 2)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to -1
+  STATE after turn 7b: A(hp -1/49, def 0, qi 0) | B(hp 3/51, def 0, qi 1, phys 2)
+turn 7b ends
+牧逸风(pid0) loses 4 destiny, now at 90
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,168 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 吾行之(pid2) hp by 6 to 56
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 1a: A(hp 62/62, def 0, qi 1) | B(hp 56/62, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  吾行之(pid2) finished playing Cacopoisonous Formation
+  STATE after turn 1b: A(hp 62/62, def 0, qi 1) | B(hp 56/62, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    reduced 吾行之(pid2) hp by 6 to 50
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 2a: A(hp 62/62, def 0, qi 1, sword 2) | B(hp 50/62, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    reduced 牧逸风(pid0) hp by 6 to 56
+    gained 2 penetrate. Now have 2 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 2b: A(hp 56/62, def 0, qi 1, sword 2, injury 1) | B(hp 50/62, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 牧逸风(pid0) hp by 1 to 55
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 吾行之(pid2) hp by 7 to 43
+    reduced 吾行之(pid2) hp by 5 to 38
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 3a: A(hp 55/62, def 0, qi 1, injury 1) | B(hp 38/62, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+  STATE after turn 3b: A(hp 55/62, def 0, qi 1, injury 2) | B(hp 38/62, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  reduced 牧逸风(pid0) hp by 2 to 53
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 4a: A(hp 53/62, def 9, qi 1, injury 2) | B(hp 38/62, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+  STATE after turn 4b: A(hp 53/62, def 9, qi 1, injury 2) | B(hp 38/62, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  lost 5 def. Now have 4 def
+  reduced 牧逸风(pid0) hp by 2 to 51
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    reduced 吾行之(pid2) hp by 3 to 35
+    reduced 吾行之(pid2) hp by 3 to 32
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 5a: A(hp 51/62, def 4, qi 3, injury 2) | B(hp 32/62, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 4 def. Now have 0 def
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 11 to 40
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 牧逸风(pid0) hp by 1 to 39
+  STATE after turn 5b: A(hp 39/62, def 0, qi 3, injury 2) | B(hp 32/62, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  reduced 牧逸风(pid0) hp by 2 to 37
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 吾行之(pid2) hp by 8 to 24
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 6a: A(hp 37/62, def 8, qi 2, injury 2) | B(hp 24/62, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+  lost 1 def. Now have 7 def
+  STATE after turn 6b: A(hp 37/62, def 7, qi 2, injury 2) | B(hp 24/62, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 4 def. Now have 3 def
+  reduced 牧逸风(pid0) hp by 2 to 35
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 14
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 7a: A(hp 35/62, def 3, qi 1, injury 2) | B(hp 14/62, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  lost 1 def. Now have 2 def
+  STATE after turn 7b: A(hp 35/62, def 2, qi 1, injury 2) | B(hp 14/62, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 2 to 33
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 5 def. Now have 6 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 8a: A(hp 33/62, def 6, qi 2, injury 2) | B(hp 14/62, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 4 to 29
+    gained 1 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 牧逸风(pid0) hp by 2 to 27
+  STATE after turn 8b: A(hp 27/62, def 0, qi 2, injury 2) | B(hp 14/62, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  reduced 牧逸风(pid0) hp by 2 to 25
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    reduced 吾行之(pid2) hp by 6 to 8
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 9a: A(hp 25/62, def 0, qi 2, injury 2) | B(hp 8/62, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Turbulent (level 1). They now have 1/1 qi
+  reduced 牧逸风(pid0) hp by 2 to 23
+  STATE after turn 9b: A(hp 23/62, def 0, qi 2, injury 2) | B(hp 8/62, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  reduced 牧逸风(pid0) hp by 2 to 21
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    reduced 吾行之(pid2) hp by 6 to 2
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 10a: A(hp 21/62, def 0, qi 2, sword 2, injury 2) | B(hp 2/62, def 0, qi 1)
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    reduced 牧逸风(pid0) hp by 12 to 9
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 牧逸风(pid0) hp by 2 to 7
+  STATE after turn 10b: A(hp 7/62, def 0, qi 2, sword 2, injury 2) | B(hp 2/62, def 0, qi 0)
+turn 10b ends
+turn 11a begins
+  reduced 牧逸风(pid0) hp by 2 to 5
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 吾行之(pid2) hp by 7 to -5
+    reduced 吾行之(pid2) hp by 5 to -10
+    lost 2 sword_intent. Now have 0 sword_intent
+  STATE after turn 11a: A(hp 5/62, def 0, qi 2, injury 2) | B(hp -10/62, def 0, qi 0)
+turn 11a ends
+吾行之(pid2) loses 9 destiny, now at 67
+牧逸风(pid0) (Mu Yifeng) wins

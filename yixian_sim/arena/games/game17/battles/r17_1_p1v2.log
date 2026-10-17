@@ -1,0 +1,217 @@
+gained 1 qi. Now have 1 qi
+gained 1 star_power. Now have 1 star_power
+gained 1 internal_injury. Now have 1 internal_injury
+gained 1 internal_injury. Now have 2 internal_injury
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 internal_injury. Now have 3 internal_injury
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 1a: A(hp 107/107, def 2, qi 3, star 1) | B(hp 107/107, def 0, qi 0, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 4 to 103
+  吾行之(pid2) is playing Five Elements Heavenly Marrow Rhythm (level 1)
+    gained 2 five_elements_heavenly_marrow_rhythm_stacks. Now have 2 five_elements_heavenly_marrow_rhythm_stacks
+  吾行之(pid2) finished playing Five Elements Heavenly Marrow Rhythm
+  STATE after turn 1b: A(hp 107/107, def 2, qi 3, star 1) | B(hp 103/107, def 0, qi 0, injury 4)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 2a: A(hp 107/107, def 1, qi 3, star 1) | B(hp 103/107, def 0, qi 0, injury 6)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 6 to 97
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  gained 1 this_card_chases. Now have 1 this_card_chases
+  lost 1 five_elements_heavenly_marrow_rhythm_stacks. Now have 1 five_elements_heavenly_marrow_rhythm_stacks
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 116 max_hp
+    healed 9 hp. Went from 97 to 106
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 105
+  STATE after turn 2b: A(hp 105/107, def 0, qi 3, star 1) | B(hp 106/116, def 0, qi 1, injury 6)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 7 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3a: A(hp 105/107, def 0, qi 3, star 1) | B(hp 106/116, def 0, qi 1, injury 7)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 7 to 99
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 qi. Now have 4 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  gained 1 this_card_chases. Now have 1 this_card_chases
+  lost 1 five_elements_heavenly_marrow_rhythm_stacks. Now have 0 five_elements_heavenly_marrow_rhythm_stacks
+  incremented chases to 1
+  chase!!
+  lost 2 qi. Now have 2 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 3 qi
+    reduced 谭舒雁(pid1) hp by 13 to 92
+    gained 2 force_of_water. Now have 5 force_of_water
+    gained 1 force_of_water. Now have 6 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 6 to 86
+  STATE after turn 3b: A(hp 86/107, def 0, qi 3, star 1) | B(hp 99/116, def 0, qi 3, injury 7)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    healed 4 hp. Went from 86 to 90
+    gained 1 internal_injury. Now have 8 internal_injury
+    gained 1 internal_injury. Now have 9 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 4a: A(hp 90/107, def 4, qi 3, star 1) | B(hp 99/116, def 0, qi 3, injury 9)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 9 to 90
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 2 force_of_water. Now have 8 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  lost 4 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 4 to 86
+  STATE after turn 4b: A(hp 86/107, def 0, qi 3, star 1) | B(hp 90/116, def 0, qi 4, injury 9)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 5a: A(hp 86/107, def 4, qi 3, star 1) | B(hp 90/116, def 0, qi 4, injury 9)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 9 to 81
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 2 qi. Now have 7 qi
+    gained 2 max_hp. Now have 118 max_hp
+    healed 2 hp. Went from 81 to 83
+    gained 3 force_of_water. Now have 11 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  lost 4 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 7 to 79
+  STATE after turn 5b: A(hp 79/107, def 0, qi 3, star 1) | B(hp 83/118, def 0, qi 7, injury 9)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 79 to 81
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 6a: A(hp 81/107, def 0, qi 2, star 1) | B(hp 83/118, def 0, qi 7, injury 9)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 9 to 74
+  lost 1 qi. Now have 6 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 7 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 15 to 66
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 11 to 55
+  STATE after turn 6b: A(hp 55/107, def 0, qi 2, star 1) | B(hp 74/118, def 0, qi 7, injury 9)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 3 internal_injury. Now have 12 internal_injury
+    reduced 吾行之(pid2) hp by 12 to 62
+    gained 3 internal_injury. Now have 15 internal_injury
+    reduced 吾行之(pid2) hp by 15 to 47
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 7a: A(hp 55/107, def 0, qi 2, star 1) | B(hp 47/118, def 0, qi 7, injury 15)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 15 to 32
+  lost 2 qi. Now have 5 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 3 force_of_water. Now have 14 force_of_water
+    gained 20 max_hp. Now have 138 max_hp
+    healed 20 hp. Went from 32 to 52
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 谭舒雁(pid1) hp by 14 to 41
+  STATE after turn 7b: A(hp 41/107, def 0, qi 2, star 1) | B(hp 52/138, def 0, qi 6, injury 15)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Heavenly Fortune - Shun Misfortune (level 1)
+    gained 2 god_luck_avoid_stacks. Now have 2 god_luck_avoid_stacks
+    gained 3 def. Now have 3 def
+    healed 2 hp. Went from 41 to 43
+    lost 1 god_luck_avoid_stacks. Now have 1 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Fortune - Shun Misfortune
+  STATE after turn 8a: A(hp 43/107, def 3, qi 2, star 1) | B(hp 52/138, def 0, qi 6, injury 15)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 15 to 37
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 7 qi
+    gained 2 qi. Now have 9 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  lost 3 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 11 to 32
+  STATE after turn 8b: A(hp 32/107, def 0, qi 2, star 1) | B(hp 37/138, def 0, qi 9, injury 15)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 1 internal_injury. Now have 16 internal_injury
+    gained 1 internal_injury. Now have 17 internal_injury
+    gained 3 def. Now have 3 def
+    healed 2 hp. Went from 32 to 34
+    lost 1 god_luck_avoid_stacks. Now have 0 god_luck_avoid_stacks
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 9a: A(hp 34/107, def 3, qi 4, star 1) | B(hp 37/138, def 0, qi 9, injury 17)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 17 to 20
+  lost 2 qi. Now have 7 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 qi. Now have 8 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 30
+    gained 1 force_of_water. Now have 15 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 15 to 15
+  STATE after turn 9b: A(hp 15/107, def 0, qi 4, star 1) | B(hp 20/138, def 0, qi 8, injury 17)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 19 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 10a: A(hp 15/107, def 0, qi 4, star 1) | B(hp 20/138, def 0, qi 8, injury 19)
+turn 10a ends
+turn 10b begins
+  reduced 吾行之(pid2) hp by 19 to 1
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 9 qi
+    gained 2 force_of_water. Now have 17 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 谭舒雁(pid1) hp by 17 to -2
+  STATE after turn 10b: A(hp -2/107, def 0, qi 4, star 1) | B(hp 1/138, def 0, qi 9, injury 19)
+turn 10b ends
+谭舒雁(pid1) loses 2 destiny, now at 1
+吾行之(pid2) (Wu Xingzhi) wins

@@ -1,0 +1,190 @@
+gained 4 max_hp. Now have 107 max_hp
+healed 4 hp. Went from 103 to 107
+reduced 小布(pid3) hp by 3 to 87
+turn 1a begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 107 to 107
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 1a: A(hp 107/107, def 0, qi 0) | B(hp 87/94, def 0, qi 0, phys 4)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Crash Footwork (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  STATE after turn 1b: A(hp 107/107, def 0, qi 0) | B(hp 87/94, def 0, qi 2, phys 4, agi 4)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 107/107, def 1, qi 1) | B(hp 87/94, def 0, qi 2, injury 1, phys 4, agi 4)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 1 to 86
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 103
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2b: A(hp 103/107, def 0, qi 1) | B(hp 86/94, def 0, qi 3, force 2, injury 1, phys 4, agi 4)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 小布(pid3) hp by 8 to 78
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 3a: A(hp 103/107, def 0, qi 1) | B(hp 78/94, def 0, qi 3, force 2, injury 1, phys 4, agi 4)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 1 to 77
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 4 force. Now have 6 force
+    gained 5 agility. Now have 9 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 3b: A(hp 103/107, def 0, qi 1) | B(hp 77/94, def 0, qi 4, force 6, injury 1, phys 4, agi 9)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 小布(pid3) hp by 6 to 71
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4a: A(hp 103/107, def 0, qi 0) | B(hp 71/94, def 0, qi 4, force 6, injury 3, phys 4, agi 9)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 3 to 68
+  reduced 小布(pid3) hp by 2 to 66
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 25 to 78
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4b: A(hp 78/107, def 0, qi 0) | B(hp 66/94, def 2, qi 2, force 5, injury 3, phys 4, agi 9)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 5a: A(hp 78/107, def 0, qi 0) | B(hp 66/94, def 2, qi 2, force 5, injury 3, phys 4, agi 9)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 3 to 63
+  reduced 小布(pid3) hp by 4 to 59
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 15 to 63
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 5b: A(hp 63/107, def 0, qi 0) | B(hp 59/94, def 1, qi 2, force 4, injury 3, phys 4, agi 9)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 57
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 63/107, def 0, qi 0) | B(hp 57/94, def 0, qi 2, force 4, injury 3, phys 4, agi 9)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 3 to 54
+  reduced 小布(pid3) hp by 5 to 49
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 18 to 45
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 6b: A(hp 45/107, def 0, qi 0) | B(hp 49/94, def 0, qi 2, force 3, injury 3, phys 4, agi 9)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 46
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 45/107, def 0, qi 0) | B(hp 46/94, def 0, qi 2, force 3, injury 3, phys 4, agi 9)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 3 to 43
+  reduced 小布(pid3) hp by 2 to 41
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 qi. Now have 1 qi
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 20 to 25
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 7b: A(hp 25/107, def 0, qi 0) | B(hp 41/94, def 0, qi 1, force 2, injury 3, phys 4, agi 9)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 38
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 25/107, def 0, qi 0) | B(hp 38/94, def 0, qi 1, force 2, injury 3, phys 4, agi 9)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 3 to 35
+  小布(pid3) is playing Rakshasa Pouncing (level 2)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 13 to 12
+    gained 1 qi. Now have 2 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 8b: A(hp 12/107, def 0, qi 0) | B(hp 35/94, def 0, qi 2, force 1, injury 3, phys 4, agi 9)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    healed 7 hp. Went from 12 to 19
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 9a: A(hp 19/107, def 0, qi 0) | B(hp 35/94, def 0, qi 2, force 1, injury 3, phys 4, agi 9)
+turn 9a ends
+turn 9b begins
+  reduced 小布(pid3) hp by 3 to 32
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 5 to 14
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 9b: A(hp 14/107, def 0, qi 0) | B(hp 32/94, def 0, qi 3, force 2, injury 3, phys 4, agi 9)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10a: A(hp 14/107, def 1, qi 1) | B(hp 32/94, def 0, qi 3, force 2, injury 4, phys 4, agi 9)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 4 to 28
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 4 force. Now have 6 force
+    gained 5 agility. Now have 14 agility
+  小布(pid3) finished playing Surging Waves
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 2 to 26
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 24 to -10
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  STATE after turn 10b: A(hp -10/107, def 0, qi 1) | B(hp 26/94, def 2, qi 2, force 5, injury 4, phys 4, agi 4)
+turn 10b ends
+谭舒雁(pid1) loses 18 destiny, now at 24
+小布(pid3) (Xiao Bu) wins

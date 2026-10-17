@@ -1,0 +1,199 @@
+turn 1a begins
+  player 0 is playing Cacopoisonous Formation (level 2)
+    gained 3 def. Now have 3 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    gained 3 cacopoisonous_formation_stacks. Now have 3 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Polaris Citta-Dharma (level 1)
+    gained 2 star_power. Now have 2 star_power
+  player 0 finished playing Polaris Citta-Dharma
+turn 1b ends
+turn 2a begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  lost 1 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 1 to 115
+  player 0 is playing Propitious Omen (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 3 qi. Now have 5 qi
+  player 0 finished playing Propitious Omen
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 1 def
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  player 0 is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 6 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 2 to 113
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 4 star_power
+    gained 1 qi. Now have 6 qi
+    gained 1 qi. Now have 7 qi
+  player 0 finished playing Starry Moon
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 3 internal_injury
+  player 0 is playing Anthomania Formation (level 1)
+    gained 2 anthomania_formation_stacks. Now have 2 anthomania_formation_stacks
+  player 0 finished playing Anthomania Formation
+  gained 1 decrease_atk. Now have 1 decrease_atk
+  reduced player 1 hp by 1 to 112
+  healed 1 hp. Went from 103 to 103
+  lost 1 anthomania_formation_stacks. Now have 1 anthomania_formation_stacks
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 3 to 109
+  lost 1 qi. Now have 6 qi
+  player 0 spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 109 to 111
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  player 0 finished playing Strike Twice
+turn 4b ends
+turn 5a begins
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 20 to 91
+  player 0 finished playing Giant Whale Spirit Sword
+  gained 1 decrease_atk. Now have 2 decrease_atk
+  reduced player 1 hp by 2 to 89
+  healed 2 hp. Went from 103 to 103
+  lost 1 anthomania_formation_stacks. Now have 0 anthomania_formation_stacks
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 3 to 86
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 2)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    reduced player 1 hp by 8 to 95
+    reduced player 1 hp by 8 to 87
+    reduced player 1 hp by 9 to 78
+    reduced player 1 hp by 8 to 70
+    reduced player 1 hp by 8 to 62
+    reduced player 1 hp by 9 to 53
+  player 0 finished playing Astral Move - Hit
+turn 5b ends
+turn 6a begins
+  lost 3 qi. Now have 1 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 73
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 60
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 3 to 57
+  player 0 is playing Soul Requiem Fulu (level 1)
+    reduced player 1 hp by 8 to 45
+    reduced player 1 max_hp by 16 to 87
+  player 0 finished playing Soul Requiem Fulu
+turn 6b ends
+turn 7a begins
+  lost 7 def. Now have 6 def
+  player 0 is playing Impact Formation (level 2)
+    reduced player 1 hp by 8 to 49
+    reduced player 1 hp by 3 to 46
+  player 0 finished playing Impact Formation
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 3 to 43
+  player 0 is playing Astral Move - Point (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 2 to 43
+  player 0 finished playing Astral Move - Point
+turn 7b ends
+turn 8a begins
+  player 0 is playing Qi Perfusion (level 2)
+    gained 3 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 8a ends
+turn 8b begins
+  reduced player 0 hp by 3 to 40
+  player 0 is playing Astral Move - Block (level 2)
+    reduced player 1 hp by 10 to 33
+    gained 4 def. Now have 4 def
+  player 0 finished playing Astral Move - Block
+turn 8b ends
+turn 9a begins
+  player 0 is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 6 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 9a ends
+turn 9b begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 3 to 37
+  player 0 is playing Propitious Omen (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 3 qi. Now have 10 qi
+  player 0 finished playing Propitious Omen
+turn 9b ends
+turn 10a begins
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 20 to 17
+  player 0 finished playing Giant Whale Spirit Sword
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 3 to 14
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 6 star_power
+    gained 1 qi. Now have 11 qi
+    gained 1 qi. Now have 12 qi
+  player 0 finished playing Starry Moon
+turn 10b ends
+turn 11a begins
+  lost 3 qi. Now have 1 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 12 to 2
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to -11
+turn 11a ends
+player 1 loses 23 destiny, now at 36
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Cacopoisonous Formation (level 2)
+  Qi Perfusion (level 2)
+  Transforming Spirits Rhythm (level 1)
+  Anthomania Formation (level 1)
+  Giant Whale Spirit Sword (level 2)
+  Giant Kun Spirit Sword (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Impact Formation (level 2)
+Player 1's deck:
+  Polaris Citta-Dharma (level 1)
+  Propitious Omen (level 1)
+  Starry Moon (level 1)
+  Strike Twice (level 1)
+  Astral Move - Hit (level 2)
+  Soul Requiem Fulu (level 1)
+  Astral Move - Point (level 1)
+  Astral Move - Block (level 2)

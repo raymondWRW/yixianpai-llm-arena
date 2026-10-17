@@ -1,0 +1,239 @@
+gained 4 def. Now have 4 def
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 4 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 82/82, def 4, qi 2) | B(hp 82/82, def 0, qi 0, sword 1, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 1 to 81
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 1b: A(hp 82/82, def 4, qi 2) | B(hp 81/82, def 0, qi 0, sword 1, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 2 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 2)
+    reduced 牧逸风(pid0) hp by 6 to 75
+    lost 3 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 2a: A(hp 82/82, def 2, qi 1) | B(hp 75/82, def 0, qi 0, sword 1, injury 1)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 1 to 74
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 82/82, def 2, qi 1) | B(hp 74/82, def 0, qi 0, sword 1, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 68
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 82/82, def 1, qi 0) | B(hp 68/82, def 0, qi 0, sword 1, injury 3)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  reduced 牧逸风(pid0) hp by 3 to 65
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 5 qi
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 79
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 76
+    gained 1 def. Now have 1 def
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 76/82, def 1, qi 0) | B(hp 65/82, def 0, qi 5, injury 3)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 4a: A(hp 76/82, def 4, qi 0) | B(hp 65/82, def 0, qi 5, injury 3)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 7 qi
+  reduced 牧逸风(pid0) hp by 3 to 62
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 9 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 3 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 4b: A(hp 76/82, def 1, qi 0) | B(hp 62/82, def 0, qi 9, injury 3)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 4 hp. Went from 76 to 80
+    gained 4 def. Now have 9 def
+    gained 4 def. Now have 13 def
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 5a: A(hp 80/82, def 13, qi 0) | B(hp 62/82, def 0, qi 9, injury 3)
+turn 5a ends
+turn 5b begins
+  reduced 牧逸风(pid0) hp by 3 to 59
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 2 def. Now have 11 def
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 5b: A(hp 80/82, def 11, qi 0) | B(hp 59/82, def 0, qi 9, sword 4, injury 3)
+turn 5b ends
+turn 6a begins
+  lost 6 def. Now have 5 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 2). They now have 1/1 qi
+  STATE after turn 6a: A(hp 80/82, def 5, qi 1) | B(hp 59/82, def 0, qi 9, sword 4, injury 3)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 3 to 56
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 77
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 70
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 6b: A(hp 70/82, def 1, qi 1) | B(hp 56/82, def 0, qi 9, injury 3)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 49
+    reduced 牧逸风(pid0) hp by 7 to 42
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 7a: A(hp 70/82, def 0, qi 0) | B(hp 42/82, def 0, qi 9, injury 3)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 3 to 39
+  lost 2 qi. Now have 7 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 20 to 50
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 7b: A(hp 50/82, def 1, qi 0) | B(hp 39/82, def 0, qi 7, injury 3)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Golden Rooster Independence (level 1). They now have 1/1 qi
+  STATE after turn 8a: A(hp 50/82, def 0, qi 1) | B(hp 39/82, def 0, qi 7, injury 3)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 3 to 36
+  lost 2 qi. Now have 5 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 16 to 34
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 8b: A(hp 34/82, def 1, qi 1) | B(hp 36/82, def 0, qi 5, injury 3)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 25
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 9a: A(hp 34/82, def 0, qi 0) | B(hp 25/82, def 0, qi 5, injury 3)
+turn 9a ends
+turn 9b begins
+  reduced 牧逸风(pid0) hp by 3 to 22
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 9b: A(hp 34/82, def 0, qi 0) | B(hp 22/82, def 10, qi 5, injury 3)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Revitalized (level 1). They now have 1/1 qi
+  STATE after turn 10a: A(hp 34/82, def 0, qi 1) | B(hp 22/82, def 10, qi 5, injury 3)
+turn 10a ends
+turn 10b begins
+  lost 5 def. Now have 5 def
+  reduced 牧逸风(pid0) hp by 3 to 19
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 8 qi
+    reduced 谭舒雁(pid1) hp by 3 to 31
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 29
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 10b: A(hp 29/82, def 1, qi 1) | B(hp 19/82, def 5, qi 8, injury 3)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 14
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 11a: A(hp 29/82, def 0, qi 0) | B(hp 14/82, def 0, qi 8, injury 3)
+turn 11a ends
+turn 11b begins
+  reduced 牧逸风(pid0) hp by 3 to 11
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 10 qi
+    reduced 谭舒雁(pid1) hp by 10 to 19
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 11b: A(hp 19/82, def 1, qi 0) | B(hp 11/82, def 0, qi 10, injury 3)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 12a: A(hp 19/82, def 2, qi 2) | B(hp 11/82, def 0, qi 10, injury 3)
+turn 12a ends
+turn 12b begins
+  reduced 牧逸风(pid0) hp by 3 to 8
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 13
+    gained 1 def. Now have 1 def
+    gained 7 sword_intent. Now have 7 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 12b: A(hp 13/82, def 1, qi 2) | B(hp 8/82, def 0, qi 10, sword 7, injury 3)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 2)
+    reduced 牧逸风(pid0) hp by 6 to 2
+    lost 2 hexproof. Now have 0 hexproof
+    gained 1 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 13a: A(hp 13/82, def 0, qi 1) | B(hp 2/82, def 0, qi 10, sword 7, injury 4)
+turn 13a ends
+turn 13b begins
+  reduced 牧逸风(pid0) hp by 4 to -2
+  STATE after turn 13b: A(hp 13/82, def 0, qi 1) | B(hp -2/82, def 0, qi 10, sword 7, injury 4)
+turn 13b ends
+牧逸风(pid0) loses 15 destiny, now at 26
+谭舒雁(pid1) (Tan Shuyan) wins

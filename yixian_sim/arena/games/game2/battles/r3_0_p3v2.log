@@ -1,0 +1,168 @@
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 8 physique
+    gained 2 max_hp. Now have 57 max_hp
+    healed 4 hp. Went from 49 to 53
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to 46
+  player 0 finished playing Earth Spirit - Smash
+turn 1b ends
+turn 2a begins
+  player 0 is playing Vigorous Force (level 1)
+    reduced player 1 hp by 6 to 43
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cracking Voice (level 1)
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 6 to 40
+  player 0 finished playing Cracking Voice
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 37
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 10 to 33
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3a ends
+turn 3b begins
+  player 0 is playing Metal Spirit Seal (level 1)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 3 to 34
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  player 0 finished playing Metal Spirit Seal
+turn 3b ends
+turn 4a begins
+  reduced player 0 hp by 2 to 32
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 1)
+    gained 3 def. Now have 3 def
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 8 to 25
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 3 to 29
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+  healed 3 hp. Went from 29 to 32
+  player 0 healed 3 hp from crash fist bounce
+    reduced player 1 hp by 9 to 16
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 1)
+  player 0 upgrades Water Spirit - Waves (level 1) to Water Spirit - Waves (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    reduced player 1 hp by 13 to 19
+    gained 1 force_of_water. Now have 1 force_of_water
+  player 0 finished playing Water Spirit - Waves
+  reduced player 1 hp by 1 to 18
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 15
+  player 0 finished playing Normal Attack
+  reduced player 1 hp by 1 to 14
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+  reduced player 1 hp by 1 to 10
+turn 8b ends
+turn 9a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 10 physique
+    gained 2 max_hp. Now have 59 max_hp
+    healed 4 hp. Went from 10 to 14
+  player 0 finished playing Embracing Qi Technique
+turn 9a ends
+turn 9b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+  reduced player 1 hp by 1 to 10
+turn 9b ends
+turn 10a begins
+  player 0 is playing Vigorous Force (level 1)
+    reduced player 1 hp by 6 to 1
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 10a ends
+turn 10b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+  reduced player 1 hp by 1 to 6
+turn 10b ends
+turn 11a begins
+  reduced player 0 hp by 3 to 3
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 13 to -12
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 11a ends
+player 1 loses 6 destiny, now at 86
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Vigorous Force (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Bounce (level 1)
+  Crash Fist - Poke (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Earth Spirit - Smash (level 2)
+  Cracking Voice (level 1)
+  Metal Spirit Seal (level 1)
+  Water Spirit - Waves (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

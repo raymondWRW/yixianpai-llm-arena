@@ -1,0 +1,230 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  player 0 finished playing Crash Footwork
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 1 to 116
+  reduced player 0 hp by 4 to 112
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 2)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 11 to 120
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  player 0 is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  player 0 finished playing Hexproof Formation
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 2 to 110
+  reduced player 0 hp by 2 to 108
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    lost 2 hexproof. Now have 1 hexproof
+    lost 10 def. Now have 0 def
+    reduced player 1 hp by 1 to 119
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 3b ends
+turn 4a begins
+  player 0 is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 106
+  reduced player 0 hp by 3 to 103
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+  healed 3 hp. Went from 103 to 106
+  player 0 healed 3 hp from crash fist bounce
+    reduced player 1 hp by 9 to 110
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 4b ends
+turn 5a begins
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 18 to 88
+  player 0 finished playing Giant Whale Spirit Sword
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 2 to 86
+  reduced player 0 hp by 3 to 83
+  player 0 spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 3 def. Now have 3 def
+    reduced player 1 hp by 11 to 99
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Burst Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 15 to 68
+    lost 2 qi. Now have 0 qi
+  player 0 finished playing Burst Sword
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 2 to 66
+  player 0 is playing Examine Body (level 2)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 6b ends
+turn 7a begins
+  player 0 is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 2 to 64
+  reduced player 0 hp by 4 to 60
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced player 1 hp by 17 to 82
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced player 1 hp by 8 to 74
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 7b ends
+turn 8a begins
+  player 0 is playing Scutturtle Formation (level 2)
+    gained 6 scutturtle_formation_stacks. Now have 6 scutturtle_formation_stacks
+  player 0 finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 5 scutturtle_formation_stacks
+turn 8a ends
+turn 8b begins
+  reduced player 0 hp by 2 to 58
+  reduced player 0 hp by 8 to 50
+  player 0 spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 9 to 65
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shocked
+turn 8b ends
+turn 9a begins
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  player 0 finished playing Transforming Spirits Rhythm
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 2 to 48
+  reduced player 0 hp by 4 to 44
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 8 to 57
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    Attacking for 16 from crash fist - shocked effect.
+    reduced player 1 hp by 16 to 41
+    gained 1 hp_cost_card_count. Now have 7 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 9b ends
+turn 10a begins
+  player 0 is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 4 hexproof
+    gained 10 def. Now have 10 def
+  player 0 finished playing Hexproof Formation
+  gained 3 def. Now have 13 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+turn 10a ends
+turn 10b begins
+  reduced player 0 hp by 2 to 42
+  reduced player 0 hp by 2 to 40
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    lost 2 hexproof. Now have 2 hexproof
+    lost 11 def. Now have 2 def
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 8 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 1 def
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 19 to 21
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 16
+  player 0 finished playing Giant Whale Spirit Sword
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 2 to 14
+  reduced player 0 hp by 3 to 11
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+  healed 3 hp. Went from 11 to 14
+  player 0 healed 3 hp from crash fist bounce
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 5 to 36
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 9 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Burst Sword (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 10 to 4
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to -1
+turn 12a ends
+player 1 loses 22 destiny, now at 5
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Cacopoisonous Formation (level 1)
+  Transforming Spirits Rhythm (level 2)
+  Hexproof Formation (level 1)
+  Fraccide Formation (level 2)
+  Giant Whale Spirit Sword (level 1)
+  Burst Sword (level 2)
+  Endless Sword Formation (level 2)
+  Scutturtle Formation (level 2)
+Player 1's deck:
+  Crash Footwork (level 1)
+  Crash Fist - Entangle (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Block (level 2)
+  Crash Fist - Poke (level 2)
+  Examine Body (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Shocked (level 1)

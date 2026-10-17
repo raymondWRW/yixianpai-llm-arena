@@ -1,0 +1,215 @@
+turn 1a begins
+  player 0 is playing Earth Spirit - Steep (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    gained 12 def. Now have 12 def
+  player 0 finished playing Earth Spirit - Steep
+turn 1a ends
+turn 1b begins
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 1b ends
+turn 2a begins
+  lost 6 def. Now have 6 def
+  player 0 is playing Heavenly Decree - Defend (level 2)
+    reduced player 1 hp by 3 to 103
+    gained 12 def. Now have 18 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 2a ends
+turn 2b begins
+  player 0 is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  player 0 finished playing Spirit Gather Citta-Dharma
+turn 2b ends
+turn 3a begins
+  lost 9 def. Now have 9 def
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 94
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 8 qi
+    lost 8 def. Now have 1 def
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  player 0 finished playing Metal Spirit Formation
+turn 4a ends
+turn 4b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 5 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 95
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Dharma Spirit Sword (level 1)
+    lost 5 qi. Now have 0 qi
+    reduced player 1 hp by 30 to 65
+  player 0 finished playing Dharma Spirit Sword
+turn 4b ends
+turn 5a begins
+  player 0 is playing Metal Spirit - Heart Pierce (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    lost 10 def. Now have 3 def
+    gained 2 ignore_def. Now have 2 ignore_def
+  player 0 finished playing Metal Spirit - Heart Pierce
+turn 5a ends
+turn 5b begins
+  lost 2 def. Now have 1 def
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 5b ends
+turn 6a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 6 penetrate
+    lost 1 ignore_def. Now have 1 ignore_def
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 13 to 81
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 12 to 53
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 6 to 47
+    reduced player 1 hp by 8 to 39
+  player 0 finished playing Thunder Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    lost 1 ignore_def. Now have 0 ignore_def
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 12 to 69
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 15 to 54
+  player 0 finished playing Fire Spirit - Rush
+turn 8a ends
+turn 8b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 7 qi
+    reduced player 1 hp by 7 to 32
+  player 0 finished playing Cloud Sword - Pierce the Star
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Spirit - Steep (level 1)
+    gained 16 def. Now have 16 def
+  player 0 finished playing Earth Spirit - Steep
+turn 9a ends
+turn 9b begins
+  gained 1 qi. Now have 8 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 3 qi. Now have 5 qi
+  player 0 spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    lost 13 def. Now have 3 def
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Dharma Spirit Sword (level 1)
+    lost 5 qi. Now have 0 qi
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 27 to 5
+  player 0 finished playing Dharma Spirit Sword
+turn 9b ends
+turn 10a begins
+  player 0 is playing Cosmos Seal (level 2)
+    lost 9 def. Now have 4 def
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 2 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  player 0 is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  player 0 finished playing Qi Perfusion
+turn 10b ends
+turn 11a begins
+  player 0 is playing Metal Spirit - Heart Pierce (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+    gained 1 penetrate. Now have 1 penetrate
+    lost 2 def. Now have 0 def
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 9 to 45
+    gained 2 ignore_def. Now have 2 ignore_def
+  player 0 finished playing Metal Spirit - Heart Pierce
+turn 11a ends
+turn 11b begins
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 12 to -7
+    gained 1 this_card_chases. Now have 1 this_card_chases
+turn 11b ends
+player 0 loses 23 destiny, now at -19
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Earth Spirit - Steep (level 1)
+  Heavenly Decree - Defend (level 2)
+  Cosmos Seal (level 2)
+  Metal Spirit Formation (level 1)
+  Metal Spirit - Heart Pierce (level 2)
+  Metal Spirit - Needle (level 2)
+  Metal Spirit - Needle (level 2)
+  Fire Spirit - Rush (level 2)
+Player 1's deck:
+  Transforming Spirits Rhythm (level 2)
+  Spirit Gather Citta-Dharma (level 1)
+  Cloud Sword - Pierce the Star (level 1)
+  Giant Kun Spirit Sword (level 2)
+  Dharma Spirit Sword (level 1)
+  Qi Perfusion (level 1)
+  Giant Roc Spirit Sword (level 2)
+  Thunder Sword (level 2)

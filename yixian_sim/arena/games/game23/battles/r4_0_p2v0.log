@@ -1,0 +1,130 @@
+turn 1a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 46
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 1a: A(hp 51/51, def 0, qi 0) | B(hp 46/51, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 1b: A(hp 51/51, def 0, qi 0) | B(hp 46/51, def 5, qi 2)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    lost 5 def. Now have 0 def
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 2a: A(hp 51/51, def 0, qi 0) | B(hp 46/51, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 吾行之(pid2) hp by 4 to 47
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 2b: A(hp 47/51, def 0, qi 0) | B(hp 46/51, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+  STATE after turn 3a: A(hp 47/51, def 0, qi 1) | B(hp 46/51, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 13 to 34
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  reduced 吾行之(pid2) hp by 4 to 30
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 3b: A(hp 30/51, def 0, qi 1) | B(hp 46/51, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+  STATE after turn 4a: A(hp 30/51, def 0, qi 2) | B(hp 46/51, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 2)
+    reduced 吾行之(pid2) hp by 6 to 24
+    reduced 吾行之(pid2) hp by 8 to 16
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 4b: A(hp 16/51, def 0, qi 2) | B(hp 46/51, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    reduced 牧逸风(pid0) hp by 13 to 33
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 牧逸风(pid0) hp by 1 to 32
+  STATE after turn 5a: A(hp 16/51, def 0, qi 0) | B(hp 32/51, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Earth Evil Sword (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 16/51, def 0, qi 0) | B(hp 32/51, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 26
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  reduced 牧逸风(pid0) hp by 1 to 25
+  STATE after turn 6a: A(hp 16/51, def 0, qi 0) | B(hp 25/51, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 吾行之(pid2) hp by 8 to 8
+    gained 8 def. Now have 8 def
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 6b: A(hp 8/51, def 0, qi 0) | B(hp 25/51, def 8, qi 0)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Earth Spirit Seal (level 1)
+    lost 3 def. Now have 5 def
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  吾行之(pid2) finished playing Earth Spirit Seal
+  lost 1 def. Now have 4 def
+  STATE after turn 7a: A(hp 8/51, def 4, qi 0) | B(hp 25/51, def 4, qi 0)
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 2 def
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 6
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 7b: A(hp 6/51, def 0, qi 0) | B(hp 25/51, def 2, qi 0)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Turbulent (level 1). They now have 1/1 qi
+  lost 1 def. Now have 1 def
+  STATE after turn 8a: A(hp 6/51, def 0, qi 1) | B(hp 25/51, def 1, qi 0)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 3
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 3/51, def 0, qi 1) | B(hp 25/51, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 14
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 牧逸风(pid0) hp by 1 to 13
+  STATE after turn 9a: A(hp 3/51, def 0, qi 0) | B(hp 13/51, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 0
+  STATE after turn 9b: A(hp 0/51, def 0, qi 0) | B(hp 13/51, def 0, qi 0)
+turn 9b ends
+吾行之(pid2) loses 7 destiny, now at 79
+牧逸风(pid0) (Mu Yifeng) wins

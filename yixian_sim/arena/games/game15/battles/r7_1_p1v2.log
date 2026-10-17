@@ -1,0 +1,153 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 64/64, def 1, qi 1) | B(hp 64/64, def 0, qi 0, injury 1)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 1 to 63
+  吾行之(pid2) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  吾行之(pid2) finished playing Spiritage Formation
+  STATE after turn 1b: A(hp 64/64, def 1, qi 1) | B(hp 63/64, def 0, qi 0, injury 1)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 2a: A(hp 64/64, def 2, qi 2, star 1) | B(hp 63/64, def 0, qi 0, injury 1)
+turn 2a ends
+turn 2b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  reduced 吾行之(pid2) hp by 1 to 62
+  吾行之(pid2) is playing Water Spirit Seal (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 3 qi. Now have 5 qi
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+  吾行之(pid2) finished playing Water Spirit Seal
+  STATE after turn 2b: A(hp 64/64, def 2, qi 2, star 1) | B(hp 62/64, def 0, qi 5, injury 1)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 吾行之(pid2) hp by 8 to 54
+    reduced 吾行之(pid2) hp by 8 to 46
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3a: A(hp 64/64, def 1, qi 1, star 1) | B(hp 46/64, def 0, qi 5, injury 1)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 7 qi
+  reduced 吾行之(pid2) hp by 1 to 45
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 1 to 63
+  gained 1 def. Now have 1 def
+  STATE after turn 3b: A(hp 63/64, def 1, qi 1, star 1) | B(hp 45/64, def 0, qi 7, injury 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 吾行之(pid2) hp by 5 to 40
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 4a: A(hp 63/64, def 0, qi 1, star 1) | B(hp 40/64, def 0, qi 7, injury 1)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 1 to 39
+  lost 2 qi. Now have 5 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 50
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 48
+  gained 1 def. Now have 1 def
+  STATE after turn 4b: A(hp 48/64, def 1, qi 1, star 1) | B(hp 39/64, def 0, qi 5, injury 1)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 吾行之(pid2) hp by 10 to 29
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 5a: A(hp 48/64, def 0, qi 0, star 1) | B(hp 29/64, def 0, qi 5, injury 1)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 1 to 28
+  lost 2 qi. Now have 3 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 38
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 4 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 3 to 35
+  gained 1 def. Now have 1 def
+  STATE after turn 5b: A(hp 35/64, def 1, qi 0, star 1) | B(hp 28/64, def 0, qi 3, injury 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Astral Move - Point (level 2)
+    reduced 吾行之(pid2) hp by 11 to 17
+    lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 6a: A(hp 35/64, def 0, qi 0, star 1) | B(hp 17/64, def 0, qi 2, injury 1)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 1 to 16
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 25
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 5 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 4 to 21
+  gained 1 def. Now have 1 def
+  STATE after turn 6b: A(hp 21/64, def 1, qi 0, star 1) | B(hp 16/64, def 0, qi 0, injury 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Palm Thunder (level 2)
+    reduced 吾行之(pid2) hp by 7 to 9
+  谭舒雁(pid1) finished playing Palm Thunder
+  STATE after turn 7a: A(hp 21/64, def 0, qi 0, star 1) | B(hp 9/64, def 0, qi 0, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 1 to 8
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 2 qi
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  reduced 谭舒雁(pid1) hp by 5 to 16
+  gained 1 def. Now have 1 def
+  STATE after turn 7b: A(hp 16/64, def 1, qi 0, star 1) | B(hp 8/64, def 0, qi 2, injury 1)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Decree - Attack (level 1)
+    reduced 吾行之(pid2) hp by 6 to 2
+    gained 3 def. Now have 3 def
+  谭舒雁(pid1) finished playing Heavenly Decree - Attack
+  STATE after turn 8a: A(hp 16/64, def 3, qi 0, star 1) | B(hp 2/64, def 0, qi 2, injury 1)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 1 to 1
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 2)
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 16 to 0
+    gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp 0/64, def 1, qi 0, star 1) | B(hp 1/64, def 0, qi 1, injury 1)
+turn 8b ends
+谭舒雁(pid1) loses 8 destiny, now at 78
+吾行之(pid2) (Wu Xingzhi) wins

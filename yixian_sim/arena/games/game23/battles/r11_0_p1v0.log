@@ -1,0 +1,422 @@
+gained 4 def. Now have 4 def
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 1a: A(hp 95/95, def 6, qi 0) | B(hp 95/95, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 95/95, def 6, qi 0) | B(hp 95/95, def 0, qi 2)
+turn 1b ends
+turn 2a begins
+  lost 3 def. Now have 3 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Strike Twice (level 1). They now have 1/1 qi
+  STATE after turn 2a: A(hp 95/95, def 3, qi 1) | B(hp 95/95, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 102 max_hp
+  healed 7 hp. Went from 95 to 102
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 2b: A(hp 95/95, def 3, qi 1) | B(hp 102/102, def 7, qi 2)
+turn 2b ends
+turn 3a begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    healed 2 hp. Went from 95 to 95
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 3a: A(hp 95/95, def 1, qi 0) | B(hp 102/102, def 7, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 4 def. Now have 3 def
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 94
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 109 max_hp
+  healed 7 hp. Went from 102 to 109
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 3b: A(hp 94/95, def 1, qi 0) | B(hp 109/109, def 10, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 94/95, def 0, qi 1) | B(hp 109/109, def 10, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 5 def. Now have 5 def
+  牧逸风(pid0) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  牧逸风(pid0) finished playing Scutturtle Formation
+  gained 3 def. Now have 8 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  STATE after turn 4b: A(hp 94/95, def 0, qi 1) | B(hp 109/109, def 8, qi 1)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    lost 6 def. Now have 2 def
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 4 to 105
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 5a: A(hp 94/95, def 0, qi 0) | B(hp 105/109, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 谭舒雁(pid1) hp by 1 to 93
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 90
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  STATE after turn 5b: A(hp 90/95, def 1, qi 0) | B(hp 105/109, def 3, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 90/95, def 0, qi 0) | B(hp 105/109, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 3 to 87
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 6b: A(hp 87/95, def 1, qi 0) | B(hp 105/109, def 3, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 87/95, def 0, qi 0) | B(hp 105/109, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 84
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  STATE after turn 7b: A(hp 84/95, def 1, qi 0) | B(hp 105/109, def 3, qi 1)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 84/95, def 0, qi 0) | B(hp 105/109, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 81
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 81/95, def 1, qi 0) | B(hp 105/109, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 102
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 9a: A(hp 81/95, def 0, qi 0) | B(hp 102/109, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 3 qi
+    reduced 谭舒雁(pid1) hp by 3 to 78
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 76
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9b: A(hp 76/95, def 1, qi 0) | B(hp 102/109, def 0, qi 3)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 99
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 10a: A(hp 76/95, def 0, qi 0) | B(hp 99/109, def 0, qi 3)
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 65
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 10b: A(hp 65/95, def 1, qi 0) | B(hp 99/109, def 0, qi 2)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 11a: A(hp 65/95, def 4, qi 0) | B(hp 99/109, def 0, qi 2)
+turn 11a ends
+turn 11b begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 2 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 11b: A(hp 65/95, def 2, qi 0) | B(hp 99/109, def 0, qi 2)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 1 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Strike Twice (level 1). They now have 1/1 qi
+  STATE after turn 12a: A(hp 65/95, def 1, qi 1) | B(hp 99/109, def 0, qi 2)
+turn 12a ends
+turn 12b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 3 to 62
+    gained 1 def. Now have 2 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 12b: A(hp 62/95, def 2, qi 1) | B(hp 99/109, def 0, qi 2)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    gained 1 def. Now have 2 def
+    healed 2 hp. Went from 62 to 64
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 13a: A(hp 64/95, def 2, qi 0) | B(hp 99/109, def 0, qi 2)
+turn 13a ends
+turn 13b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 63
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 13b: A(hp 63/95, def 1, qi 0) | B(hp 99/109, def 0, qi 2)
+turn 13b ends
+turn 14a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 14a: A(hp 63/95, def 0, qi 1) | B(hp 99/109, def 0, qi 2)
+turn 14a ends
+turn 14b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 60
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 14b: A(hp 60/95, def 1, qi 1) | B(hp 99/109, def 0, qi 2)
+turn 14b ends
+turn 15a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    reduced 牧逸风(pid0) hp by 6 to 93
+    reduced 牧逸风(pid0) hp by 6 to 87
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 15a: A(hp 60/95, def 0, qi 0) | B(hp 87/109, def 0, qi 2)
+turn 15a ends
+turn 15b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced 谭舒雁(pid1) hp by 3 to 57
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 2 to 55
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 15b: A(hp 55/95, def 1, qi 0) | B(hp 87/109, def 0, qi 4)
+turn 15b ends
+turn 16a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 84
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 16a: A(hp 55/95, def 0, qi 0) | B(hp 84/109, def 0, qi 4)
+turn 16a ends
+turn 16b begins
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 14 to 41
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 16b: A(hp 41/95, def 1, qi 0) | B(hp 84/109, def 0, qi 3)
+turn 16b ends
+turn 17a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 81
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 17a: A(hp 41/95, def 0, qi 0) | B(hp 81/109, def 0, qi 3)
+turn 17a ends
+turn 17b begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    reduced 谭舒雁(pid1) hp by 4 to 37
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 34
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 17b: A(hp 34/95, def 1, qi 0) | B(hp 81/109, def 0, qi 3)
+turn 17b ends
+turn 18a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 78
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 18a: A(hp 34/95, def 0, qi 0) | B(hp 78/109, def 0, qi 3)
+turn 18a ends
+turn 18b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 3 to 31
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 18b: A(hp 31/95, def 1, qi 0) | B(hp 78/109, def 0, qi 3)
+turn 18b ends
+turn 19a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 75
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 19a: A(hp 31/95, def 0, qi 0) | B(hp 75/109, def 0, qi 3)
+turn 19a ends
+turn 19b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 28
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 19b: A(hp 28/95, def 1, qi 0) | B(hp 75/109, def 0, qi 3)
+turn 19b ends
+turn 20a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 72
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 20a: A(hp 28/95, def 0, qi 0) | B(hp 72/109, def 0, qi 3)
+turn 20a ends
+turn 20b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 25
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 20b: A(hp 25/95, def 1, qi 0) | B(hp 72/109, def 0, qi 3)
+turn 20b ends
+turn 21a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 21a: A(hp 25/95, def 4, qi 0) | B(hp 72/109, def 0, qi 3)
+turn 21a ends
+turn 21b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 1)
+    gained 2 qi. Now have 5 qi
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 3 def
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 2 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 21b: A(hp 25/95, def 2, qi 0) | B(hp 72/109, def 0, qi 5)
+turn 21b ends
+turn 22a begins
+  lost 1 def. Now have 1 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Strike Twice (level 1). They now have 1/1 qi
+  STATE after turn 22a: A(hp 25/95, def 1, qi 1) | B(hp 72/109, def 0, qi 5)
+turn 22a ends
+turn 22b begins
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 16 to 9
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 22b: A(hp 9/95, def 1, qi 1) | B(hp 72/109, def 0, qi 4)
+turn 22b ends
+turn 23a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    gained 1 def. Now have 1 def
+    healed 2 hp. Went from 9 to 11
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 23a: A(hp 11/95, def 1, qi 0) | B(hp 72/109, def 0, qi 4)
+turn 23a ends
+turn 23b begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 8
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 5
+    gained 1 def. Now have 1 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 23b: A(hp 5/95, def 1, qi 0) | B(hp 72/109, def 0, qi 4)
+turn 23b ends
+turn 24a begins
+  lost 1 def. Now have 0 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Ruthless Water (level 1). They now have 1/1 qi
+  STATE after turn 24a: A(hp 5/95, def 0, qi 1) | B(hp 72/109, def 0, qi 4)
+turn 24a ends
+turn 24b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 3 to 2
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 24b: A(hp 2/95, def 1, qi 1) | B(hp 72/109, def 0, qi 4)
+turn 24b ends
+turn 25a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    reduced 牧逸风(pid0) hp by 6 to 66
+    reduced 牧逸风(pid0) hp by 6 to 60
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 25a: A(hp 2/95, def 0, qi 0) | B(hp 60/109, def 0, qi 4)
+turn 25a ends
+turn 25b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to -1
+    gained 1 def. Now have 1 def
+  STATE after turn 25b: A(hp -1/95, def 1, qi 0) | B(hp 60/109, def 0, qi 4)
+turn 25b ends
+谭舒雁(pid1) loses 21 destiny, now at 16
+牧逸风(pid0) (Mu Yifeng) wins

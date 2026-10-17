@@ -1,0 +1,203 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 113
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 1a: A(hp 120/120, def 0, qi 0, sword 3) | B(hp 113/118, def 0, qi 1)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Polaris Citta-Dharma (level 2)
+    gained 3 star_power. Now have 3 star_power
+  谭舒雁(pid1) finished playing Polaris Citta-Dharma
+  STATE after turn 1b: A(hp 120/120, def 0, qi 0, sword 3) | B(hp 113/118, def 0, qi 1, star 3)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 2a: A(hp 120/120, def 2, qi 2, sword 5) | B(hp 113/118, def 0, qi 1, star 3)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 2b: A(hp 120/120, def 2, qi 2, sword 5) | B(hp 113/118, def 0, qi 3, star 3)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    gained 1 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 9 to 104
+    reduced 谭舒雁(pid1) hp by 9 to 95
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 3a: A(hp 120/120, def 2, qi 2) | B(hp 95/118, def 0, qi 3, star 3)
+turn 3a ends
+turn 3b begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 4 qi
+    gained 1 def. Now have 1 def
+    gained 2 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 3b: A(hp 120/120, def 2, qi 2, injury 2) | B(hp 95/118, def 1, qi 4, star 3)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 2 to 118
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    gained 1 def. Now have 2 def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 6 to 89
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 85
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 4a: A(hp 118/120, def 2, qi 2, injury 2) | B(hp 85/118, def 0, qi 4, star 3)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Astral Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 6 to 112
+    gained 2 star_power. Now have 5 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 4b: A(hp 112/120, def 0, qi 2, injury 2) | B(hp 85/118, def 0, qi 4, star 5)
+turn 4b ends
+turn 5a begins
+  reduced 牧逸风(pid0) hp by 2 to 110
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    gained 1 def. Now have 1 def
+    reduced 谭舒雁(pid1) hp by 9 to 76
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5a: A(hp 110/120, def 1, qi 2, injury 2) | B(hp 76/118, def 0, qi 4, star 5)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 12 to 98
+    gained 1 qi. Now have 5 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 5b: A(hp 98/120, def 0, qi 2, injury 2) | B(hp 76/118, def 0, qi 5, star 5)
+turn 5b ends
+turn 6a begins
+  reduced 牧逸风(pid0) hp by 2 to 96
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 2)
+    gained 1 def. Now have 1 def
+    reduced 谭舒雁(pid1) hp by 13 to 63
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 6a: A(hp 96/120, def 1, qi 2, injury 2) | B(hp 63/118, def 0, qi 5, star 5)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 4 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Cide (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 20 to 76
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+  谭舒雁(pid1) finished playing Astral Move - Cide
+  STATE after turn 6b: A(hp 76/120, def 0, qi 2, injury 2) | B(hp 63/118, def 0, qi 4, star 5)
+turn 6b ends
+turn 7a begins
+  reduced 牧逸风(pid0) hp by 2 to 74
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 20 to 43
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 7a: A(hp 74/120, def 0, qi 0, injury 2) | B(hp 43/118, def 0, qi 4, star 5)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 12 to 62
+    reduced 牧逸风(pid0) hp by 12 to 50
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 7b: A(hp 50/120, def 0, qi 0, injury 2) | B(hp 43/118, def 0, qi 3, star 5)
+turn 7b ends
+turn 8a begins
+  reduced 牧逸风(pid0) hp by 2 to 48
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 38
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 8a: A(hp 48/120, def 0, qi 0, sword 3, injury 2) | B(hp 38/118, def 0, qi 3, star 5)
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 2)
+    reduced 牧逸风(pid0) hp by 20 to 28
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 8b: A(hp 28/120, def 0, qi 0, sword 3, injury 2) | B(hp 38/118, def 0, qi 2, star 5)
+turn 8b ends
+turn 9a begins
+  reduced 牧逸风(pid0) hp by 2 to 26
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 9a: A(hp 26/120, def 2, qi 2, sword 5, injury 2) | B(hp 38/118, def 0, qi 2, star 5)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 9b: A(hp 26/120, def 2, qi 2, sword 5, injury 2) | B(hp 38/118, def 0, qi 4, star 5)
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 2 to 24
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    gained 1 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 9 to 29
+    reduced 谭舒雁(pid1) hp by 9 to 20
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 10a: A(hp 24/120, def 2, qi 2, injury 2) | B(hp 20/118, def 0, qi 4, star 5)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 10b: A(hp 24/120, def 2, qi 2, injury 3) | B(hp 20/118, def 1, qi 5, star 5)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 3 to 21
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    gained 1 def. Now have 2 def
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 谭舒雁(pid1) hp by 6 to 14
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 10
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 11a: A(hp 21/120, def 2, qi 2, injury 3) | B(hp 10/118, def 0, qi 5, star 5)
+turn 11a ends
+turn 11b begins
+  谭舒雁(pid1) is playing Astral Fleche (level 2)
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 13
+    gained 2 star_power. Now have 7 star_power
+  谭舒雁(pid1) finished playing Astral Fleche
+  STATE after turn 11b: A(hp 13/120, def 0, qi 2, injury 3) | B(hp 10/118, def 0, qi 5, star 7)
+turn 11b ends
+turn 12a begins
+  reduced 牧逸风(pid0) hp by 3 to 10
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    gained 1 def. Now have 1 def
+    reduced 谭舒雁(pid1) hp by 9 to 1
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 12a: A(hp 10/120, def 1, qi 2, injury 3) | B(hp 1/118, def 0, qi 5, star 7)
+turn 12a ends
+turn 12b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 14 to -4
+    gained 1 qi. Now have 6 qi
+  STATE after turn 12b: A(hp -4/120, def 0, qi 2, injury 3) | B(hp 1/118, def 0, qi 6, star 7)
+turn 12b ends
+牧逸风(pid0) loses 17 destiny, now at 47
+谭舒雁(pid1) (Tan Shuyan) wins

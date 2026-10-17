@@ -1,0 +1,197 @@
+turn 1a begins
+  牧逸风(pid0) is playing Thunderphilia Formation (level 1)
+    gained 2 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  牧逸风(pid0) finished playing Thunderphilia Formation
+  reduced 吾行之(pid2) hp by 4 to 49
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 1a: A(hp 58/58, def 0, qi 0) | B(hp 49/53, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Scutturtle Formation (level 1)
+    gained 4 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+  吾行之(pid2) finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+  STATE after turn 1b: A(hp 58/58, def 0, qi 0) | B(hp 49/53, def 3, qi 0)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    lost 3 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 47
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  reduced 吾行之(pid2) hp by 4 to 43
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 2a: A(hp 58/58, def 0, qi 0, sword 3) | B(hp 43/53, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  吾行之(pid2) finished playing Metal Spirit Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+  STATE after turn 2b: A(hp 58/58, def 0, qi 0, sword 3) | B(hp 43/53, def 3, qi 0)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 2)
+    gained 14 def. Now have 14 def
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 3a: A(hp 58/58, def 14, qi 3) | B(hp 43/53, def 3, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  吾行之(pid2) is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 43 to 47
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+  STATE after turn 3b: A(hp 58/58, def 14, qi 3) | B(hp 47/53, def 4, qi 2)
+turn 3b ends
+turn 4a begins
+  lost 7 def. Now have 7 def
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 9 to 38
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 4a: A(hp 58/58, def 7, qi 2) | B(hp 38/53, def 0, qi 2)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 penetrate. Now have 5 penetrate
+    lost 6 def. Now have 1 def
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+  STATE after turn 4b: A(hp 58/58, def 1, qi 2) | B(hp 38/53, def 3, qi 2)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    lost 3 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 6 to 32
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5a: A(hp 58/58, def 0, qi 2) | B(hp 32/53, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 6 penetrate
+    penetrating 6 damage
+    lost 6 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 13 to 45
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 5b: A(hp 45/58, def 0, qi 2) | B(hp 32/53, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 吾行之(pid2) hp by 5 to 27
+    reduced 吾行之(pid2) hp by 6 to 21
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 6a: A(hp 45/58, def 0, qi 1) | B(hp 21/53, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 14 to 31
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 牧逸风(pid0) hp by 1 to 30
+  STATE after turn 6b: A(hp 30/58, def 0, qi 1) | B(hp 21/53, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 18
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7a: A(hp 30/58, def 0, qi 1) | B(hp 18/53, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 牧逸风(pid0) hp by 11 to 19
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 1 to 18
+  STATE after turn 7b: A(hp 18/58, def 0, qi 1) | B(hp 18/53, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 15
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8a: A(hp 18/58, def 0, qi 1) | B(hp 15/53, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 15
+  吾行之(pid2) finished playing Normal Attack
+  reduced 牧逸风(pid0) hp by 1 to 14
+  STATE after turn 8b: A(hp 14/58, def 0, qi 1) | B(hp 15/53, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 吾行之(pid2) hp by 5 to 10
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 9a: A(hp 14/58, def 0, qi 1, sword 3) | B(hp 10/53, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 10 to 14
+    gained 1 activate_wood_spirit_stacks. Now have 2 activate_wood_spirit_stacks
+  吾行之(pid2) finished playing Wood Spirit Seal
+  reduced 牧逸风(pid0) hp by 1 to 13
+  STATE after turn 9b: A(hp 13/58, def 0, qi 1, sword 3) | B(hp 14/53, def 0, qi 2)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 2)
+    gained 14 def. Now have 14 def
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 qi. Now have 4 qi
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 10a: A(hp 13/58, def 14, qi 4) | B(hp 14/53, def 0, qi 2)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    gained 1 penetrate. Now have 1 penetrate
+    lost 6 def. Now have 8 def
+    gained 1 activate_metal_spirit_stacks. Now have 3 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  lost 1 def. Now have 7 def
+  STATE after turn 10b: A(hp 13/58, def 7, qi 4) | B(hp 14/53, def 0, qi 2)
+turn 10b ends
+turn 11a begins
+  lost 4 def. Now have 3 def
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 吾行之(pid2) hp by 13 to 1
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 11a: A(hp 13/58, def 3, qi 3) | B(hp 1/53, def 0, qi 2)
+turn 11a ends
+turn 11b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 2 penetrate
+    lost 3 def. Now have 0 def
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 6 to 7
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  reduced 牧逸风(pid0) hp by 1 to 6
+  STATE after turn 11b: A(hp 6/58, def 0, qi 3) | B(hp 1/53, def 0, qi 2)
+turn 11b ends
+turn 12a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 吾行之(pid2) hp by 9 to -8
+  STATE after turn 12a: A(hp 6/58, def 0, qi 3) | B(hp -8/53, def 0, qi 2)
+turn 12a ends
+吾行之(pid2) loses 8 destiny, now at 87
+牧逸风(pid0) (Mu Yifeng) wins

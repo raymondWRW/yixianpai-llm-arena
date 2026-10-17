@@ -1,0 +1,116 @@
+gained 1 qi. Now have 1 qi
+reduced 谭舒雁(pid1) hp by 3 to 46
+turn 1a begins
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 谭舒雁(pid1) hp by 2 to 47
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 46/51, def 0, qi 2, force 2, phys 2) | B(hp 47/49, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 1b: A(hp 46/51, def 0, qi 2, force 2, phys 2) | B(hp 47/49, def 2, qi 1, star 1)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    lost 1 force. Now have 1 force
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 40
+    gained 1 qi. Now have 3 qi
+    gained 1 wound. Now have 1 wound
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 2a: A(hp 46/51, def 0, qi 3, force 1, phys 2) | B(hp 40/49, def 0, qi 1, star 1)
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 小布(pid3) hp by 4 to 42
+    reduced 小布(pid3) hp by 4 to 38
+    gained 2 def. Now have 2 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 2b: A(hp 38/51, def 0, qi 3, force 1, phys 2) | B(hp 40/49, def 2, qi 0, star 1)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 force. Now have 0 force
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 35
+    lost 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 3a: A(hp 38/51, def 0, qi 2, force 2, phys 2) | B(hp 35/49, def 0, qi 0, star 1)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Astral Move - Flank (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 38/51, def 0, qi 2, force 2, phys 2) | B(hp 35/49, def 0, qi 1, star 1)
+turn 3b ends
+turn 4a begins
+  小布(pid3) is playing Exercise Fist (level 2)
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 10 to 25
+    gained 1 physique. Now have 3 physique
+    gained 1 max_hp. Now have 52 max_hp
+  小布(pid3) finished playing Exercise Fist
+  STATE after turn 4a: A(hp 38/52, def 0, qi 2, force 1, phys 3) | B(hp 25/49, def 0, qi 1, star 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 1)
+    reduced 小布(pid3) hp by 8 to 30
+    reduced 小布(pid3) hp by 7 to 23
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 4b: A(hp 23/52, def 0, qi 2, force 1, phys 3) | B(hp 25/49, def 0, qi 0, star 1)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 16 to 9
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 5a: A(hp 23/52, def 0, qi 1, injury 1, phys 3) | B(hp 9/49, def 0, qi 0, star 1)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 小布(pid3) hp by 8 to 15
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 5b: A(hp 15/52, def 0, qi 1, injury 1, phys 3) | B(hp 9/49, def 0, qi 0, star 1)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 1 to 14
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 6
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 6a: A(hp 14/52, def 0, qi 1, injury 1, phys 3) | B(hp 6/49, def 0, qi 0, star 1)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 小布(pid3) hp by 7 to 7
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 6b: A(hp 7/52, def 0, qi 1, injury 1, phys 3) | B(hp 6/49, def 0, qi 0, star 1)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 1 to 6
+  小布(pid3) is playing Normal Attack (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 3
+  小布(pid3) finished playing Normal Attack
+  STATE after turn 7a: A(hp 6/52, def 0, qi 1, injury 1, phys 3) | B(hp 3/49, def 0, qi 0, star 1)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 5 to 1
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7b: A(hp 1/52, def 0, qi 1, injury 1, phys 3) | B(hp 3/49, def 0, qi 0, star 1)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 1 to 0
+  STATE after turn 8a: A(hp 0/52, def 0, qi 1, injury 1, phys 3) | B(hp 3/49, def 0, qi 0, star 1)
+turn 8a ends
+小布(pid3) loses 4 destiny, now at 93
+谭舒雁(pid1) (Tan Shuyan) wins

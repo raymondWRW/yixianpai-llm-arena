@@ -1,0 +1,133 @@
+turn 1a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 1a ends
+turn 1b begins
+  reduced player 0 hp by 2 to 38
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 34
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 1b ends
+turn 2a begins
+  player 0 is playing White Crane Bright Wings (level 1)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 30
+    gained 1 qi. Now have 1 qi
+  player 0 finished playing White Crane Bright Wings
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 2 to 28
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 1)
+  healed 2 hp. Went from 28 to 30
+  player 0 healed 2 hp from crash fist bounce
+    reduced player 1 hp by 8 to 26
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 1)
+    reduced player 1 hp by 9 to 21
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 5 to 16
+  player 0 finished playing Sparrow's Tail
+turn 3a ends
+turn 3b begins
+  player 0 is playing Exercise Fist (level 1)
+    reduced player 1 hp by 6 to 20
+    gained 1 physique. Now have 1 physique
+    gained 1 max_hp. Now have 41 max_hp
+  player 0 finished playing Exercise Fist
+turn 3b ends
+turn 4a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 4a ends
+turn 4b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 17
+  player 0 finished playing Normal Attack
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 14
+  player 0 finished playing Normal Attack
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 11
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 4
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 1
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 5
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 4 hexagram
+  player 0 finished playing Earth Hexagram
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 2 to -1
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 1)
+  healed 2 hp. Went from -1 to 1
+  player 0 healed 2 hp from crash fist bounce
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to -1
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+turn 9b ends
+player 0 loses 2 destiny, now at 98
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 1)
+  Sparrow's Tail (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Crash Fist - Bounce (level 1)
+  Crash Fist - Bounce (level 1)
+  Exercise Fist (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

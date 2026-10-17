@@ -1,0 +1,354 @@
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1a: A(hp 105/105, def 0, qi 3) | B(hp 105/105, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 112 max_hp
+  healed 7 hp. Went from 105 to 112
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 1b: A(hp 105/105, def 0, qi 3) | B(hp 112/112, def 7, qi 0)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 2)
+    gained 3 qi. Now have 6 qi
+    lost 6 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 2a: A(hp 105/105, def 0, qi 6) | B(hp 112/112, def 1, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 0 def
+  吾行之(pid2) is playing Echo Formation (level 1)
+    triggering Motionless Tutelary Formation (level 1)
+      gained 2 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Echo Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 119 max_hp
+  healed 7 hp. Went from 112 to 119
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  STATE after turn 2b: A(hp 105/105, def 0, qi 6) | B(hp 119/119, def 7, qi 0)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 3a: A(hp 105/105, def 0, qi 6) | B(hp 119/119, def 7, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 4 def. Now have 3 def
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 126 max_hp
+  healed 7 hp. Went from 119 to 126
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 3b: A(hp 105/105, def 0, qi 6) | B(hp 126/126, def 10, qi 2)
+turn 3b ends
+turn 4a begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 8 qi
+  lost 1 qi. Now have 7 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    lost 10 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 125
+    lost 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 4a: A(hp 105/105, def 0, qi 7) | B(hp 125/126, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 133 max_hp
+  healed 7 hp. Went from 125 to 132
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 4b: A(hp 105/105, def 0, qi 7) | B(hp 132/133, def 7, qi 2)
+turn 4b ends
+turn 5a begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 9 qi
+  lost 1 qi. Now have 8 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    lost 7 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 4 to 128
+    lost 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 5a: A(hp 105/105, def 0, qi 8) | B(hp 128/133, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  STATE after turn 5b: A(hp 105/105, def 0, qi 8) | B(hp 128/133, def 0, qi 2)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 2)
+    gained 3 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 112 max_hp
+  healed 7 hp. Went from 105 to 112
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  STATE after turn 6a: A(hp 112/112, def 7, qi 8) | B(hp 128/133, def 0, qi 2)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 force_of_water. Now have 3 force_of_water
+    gained 9 max_hp. Now have 142 max_hp
+    healed 9 hp. Went from 128 to 137
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 3 def. Now have 4 def
+  STATE after turn 6b: A(hp 112/112, def 4, qi 8) | B(hp 137/142, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 2 def. Now have 2 def
+  lost 3 qi. Now have 5 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 127
+    gained 10 def. Now have 12 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 5 qi. Now have 0 qi
+    reduced 吾行之(pid2) hp by 30 to 97
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  gained 7 def. Now have 19 def
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 7a: A(hp 112/112, def 19, qi 0) | B(hp 97/142, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  lost 3 def. Now have 16 def
+  STATE after turn 7b: A(hp 112/112, def 16, qi 0) | B(hp 97/142, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  lost 8 def. Now have 8 def
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  gained 7 def. Now have 15 def
+  gained 7 max_hp. Now have 119 max_hp
+  healed 7 hp. Went from 112 to 119
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 8a: A(hp 119/119, def 15, qi 3) | B(hp 97/142, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 force_of_water. Now have 6 force_of_water
+    gained 12 max_hp. Now have 154 max_hp
+    healed 12 hp. Went from 97 to 109
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  lost 6 def. Now have 9 def
+  STATE after turn 8b: A(hp 119/119, def 9, qi 3) | B(hp 109/154, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  lost 5 def. Now have 4 def
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced 吾行之(pid2) hp by 6 to 103
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 9a: A(hp 119/119, def 4, qi 6) | B(hp 103/154, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 force_of_water. Now have 8 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  lost 4 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 4 to 115
+  STATE after turn 9b: A(hp 115/119, def 0, qi 6) | B(hp 103/154, def 0, qi 2)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    reduced 吾行之(pid2) hp by 11 to 92
+    lost 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 10a: A(hp 115/119, def 0, qi 5) | B(hp 92/154, def 0, qi 1)
+turn 10a ends
+turn 10b begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 force_of_water. Now have 10 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 牧逸风(pid0) hp by 10 to 105
+  STATE after turn 10b: A(hp 105/119, def 0, qi 5) | B(hp 92/154, def 0, qi 2)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    reduced 吾行之(pid2) hp by 11 to 81
+    lost 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 11a: A(hp 105/119, def 0, qi 4) | B(hp 81/154, def 0, qi 1)
+turn 11a ends
+turn 11b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 3)
+    reduced 牧逸风(pid0) hp by 14 to 91
+  吾行之(pid2) finished playing Five Elements Fleche
+  reduced 牧逸风(pid0) hp by 10 to 81
+  STATE after turn 11b: A(hp 81/119, def 0, qi 4) | B(hp 81/154, def 0, qi 1)
+turn 11b ends
+turn 12a begins
+  lost 3 qi. Now have 1 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 71
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 1 qi. Now have 0 qi
+    reduced 吾行之(pid2) hp by 10 to 61
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 12a: A(hp 81/119, def 10, qi 0) | B(hp 61/154, def 0, qi 1)
+turn 12a ends
+turn 12b begins
+  吾行之(pid2) is playing Echo Formation (level 1)
+    triggering Motionless Tutelary Formation (level 1)
+      gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Echo Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 161 max_hp
+  healed 7 hp. Went from 61 to 68
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  lost 10 def. Now have 0 def
+  STATE after turn 12b: A(hp 81/119, def 0, qi 0) | B(hp 68/161, def 7, qi 1)
+turn 12b ends
+turn 13a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 13a: A(hp 81/119, def 0, qi 3) | B(hp 68/161, def 7, qi 1)
+turn 13a ends
+turn 13b begins
+  lost 4 def. Now have 3 def
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 168 max_hp
+  healed 7 hp. Went from 68 to 75
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  reduced 牧逸风(pid0) hp by 10 to 71
+  STATE after turn 13b: A(hp 71/119, def 0, qi 3) | B(hp 75/168, def 10, qi 2)
+turn 13b ends
+turn 14a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 2)
+    gained 3 qi. Now have 6 qi
+    lost 6 def. Now have 4 def
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 14a: A(hp 71/119, def 0, qi 6) | B(hp 75/168, def 4, qi 2)
+turn 14a ends
+turn 14b begins
+  lost 2 def. Now have 2 def
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 force_of_water. Now have 13 force_of_water
+    gained 19 max_hp. Now have 187 max_hp
+    healed 19 hp. Went from 75 to 94
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 牧逸风(pid0) hp by 13 to 58
+  STATE after turn 14b: A(hp 58/119, def 0, qi 6) | B(hp 94/187, def 2, qi 1)
+turn 14b ends
+turn 15a begins
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 9 to 85
+    lost 1 qi. Now have 0 qi
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 15a: A(hp 58/119, def 0, qi 5) | B(hp 85/187, def 0, qi 0)
+turn 15a ends
+turn 15b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 1/2 qi
+  reduced 牧逸风(pid0) hp by 13 to 45
+  STATE after turn 15b: A(hp 45/119, def 0, qi 5) | B(hp 85/187, def 0, qi 1)
+turn 15b ends
+turn 16a begins
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    reduced 吾行之(pid2) hp by 11 to 74
+    lost 1 qi. Now have 0 qi
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 16a: A(hp 45/119, def 0, qi 4) | B(hp 74/187, def 0, qi 0)
+turn 16a ends
+turn 16b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 1/2 qi
+  reduced 牧逸风(pid0) hp by 13 to 32
+  STATE after turn 16b: A(hp 32/119, def 0, qi 4) | B(hp 74/187, def 0, qi 1)
+turn 16b ends
+turn 17a begins
+  lost 3 qi. Now have 1 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to 64
+    gained 10 def. Now have 10 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 1 qi. Now have 0 qi
+    reduced 吾行之(pid2) hp by 10 to 54
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 17a: A(hp 32/119, def 10, qi 0) | B(hp 54/187, def 0, qi 1)
+turn 17a ends
+turn 17b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Combine Rivers (level 1). They now have 2/2 qi
+  lost 10 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 3 to 29
+  STATE after turn 17b: A(hp 29/119, def 0, qi 0) | B(hp 54/187, def 0, qi 2)
+turn 17b ends
+turn 18a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 18a: A(hp 29/119, def 0, qi 3) | B(hp 54/187, def 0, qi 2)
+turn 18a ends
+turn 18b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Combine Rivers (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 force_of_water. Now have 16 force_of_water
+    gained 22 max_hp. Now have 209 max_hp
+    healed 22 hp. Went from 54 to 76
+  吾行之(pid2) finished playing Water Spirit - Combine Rivers
+  reduced 牧逸风(pid0) hp by 16 to 13
+  STATE after turn 18b: A(hp 13/119, def 0, qi 3) | B(hp 76/209, def 0, qi 1)
+turn 18b ends
+turn 19a begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced 吾行之(pid2) hp by 6 to 70
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 19a: A(hp 13/119, def 0, qi 6) | B(hp 70/209, def 0, qi 1)
+turn 19a ends
+turn 19b begins
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 2 force_of_water. Now have 18 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 牧逸风(pid0) hp by 18 to -5
+  STATE after turn 19b: A(hp -5/119, def 0, qi 6) | B(hp 70/209, def 0, qi 2)
+turn 19b ends
+牧逸风(pid0) loses 27 destiny, now at -6
+吾行之(pid2) (Wu Xingzhi) wins

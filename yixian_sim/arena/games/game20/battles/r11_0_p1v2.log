@@ -1,0 +1,240 @@
+gained 1 internal_injury. Now have 1 internal_injury
+reduced 吾行之(pid2) hp by 3 to 79
+reduced 谭舒雁(pid1) hp by 3 to 84
+gained 1 def. Now have 1 def
+gained 1 hexproof. Now have 1 hexproof
+turn 1a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 4 internal_injury
+    reduced 吾行之(pid2) hp by 4 to 75
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1a: A(hp 84/87, def 0, qi 0) | B(hp 75/82, def 0, qi 0, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 4 to 71
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 89 max_hp
+  healed 7 hp. Went from 71 to 78
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 1b: A(hp 84/87, def 0, qi 0) | B(hp 78/89, def 7, qi 0, injury 4)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 4 def. Now have 3 def
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 2a: A(hp 84/87, def 0, qi 2) | B(hp 78/89, def 3, qi 0, injury 4)
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 4 to 74
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 11 def
+  吾行之(pid2) finished playing Hexproof Formation
+  gained 7 def. Now have 18 def
+  gained 7 max_hp. Now have 96 max_hp
+  healed 7 hp. Went from 74 to 81
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 2b: A(hp 84/87, def 0, qi 2) | B(hp 81/96, def 18, qi 0, injury 4)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 3a: A(hp 84/87, def 0, qi 2) | B(hp 81/96, def 18, qi 0, injury 4)
+turn 3a ends
+turn 3b begins
+  lost 9 def. Now have 9 def
+  reduced 吾行之(pid2) hp by 4 to 77
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 3 qi. Now have 3 qi
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 3b: A(hp 84/87, def 0, qi 2) | B(hp 77/96, def 9, qi 3, injury 4)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 6 def. Now have 3 def
+    lost 2 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 4a: A(hp 84/87, def 0, qi 1) | B(hp 77/96, def 3, qi 3, injury 4)
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 4 to 73
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 谭舒雁(pid1) hp by 2 to 82
+  gained 1 def. Now have 1 def
+  STATE after turn 4b: A(hp 82/87, def 1, qi 1) | B(hp 73/96, def 1, qi 3, injury 4)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Bad Omen (level 1)
+    gained 1 bad_omen_stacks. Now have 1 bad_omen_stacks
+  谭舒雁(pid1) finished playing Bad Omen
+  STATE after turn 5a: A(hp 82/87, def 0, qi 1) | B(hp 73/96, def 1, qi 3, injury 4)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  reduced 吾行之(pid2) hp by 4 to 69
+  lost 1 bad_omen_stacks. Now have 0 bad_omen_stacks
+  gained 1 wound. Now have 1 wound
+  lost 2 qi. Now have 1 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 69
+    gained 1 def. Now have 1 def
+    gained 1 force_of_water. Now have 3 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 67
+  gained 1 def. Now have 1 def
+  STATE after turn 5b: A(hp 67/87, def 1, qi 1) | B(hp 69/96, def 0, qi 1, injury 4)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Snake (level 1)
+    reduced 吾行之(pid2) hp by 7 to 62
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 6a: A(hp 67/87, def 0, qi 1) | B(hp 62/96, def 0, qi 1, injury 4)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 4 to 58
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 54
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 52
+  gained 1 def. Now have 1 def
+  STATE after turn 6b: A(hp 52/87, def 1, qi 1) | B(hp 58/96, def 0, qi 0, injury 4)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 吾行之(pid2) hp by 12 to 46
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 7a: A(hp 52/87, def 0, qi 0) | B(hp 46/96, def 0, qi 0, injury 4)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 4 to 42
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Wood Spirit - Forest Guard (level 1). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 3 to 49
+  gained 1 def. Now have 1 def
+  STATE after turn 7b: A(hp 49/87, def 1, qi 0) | B(hp 42/96, def 0, qi 1, injury 4)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Everything Goes Your Way (level 1)
+    gained 3 everything_goes_way_stacks. Now have 3 everything_goes_way_stacks
+  谭舒雁(pid1) finished playing Everything Goes Your Way
+  STATE after turn 8a: A(hp 49/87, def 0, qi 0) | B(hp 42/96, def 0, qi 1, injury 4)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 4 to 38
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Wood Spirit - Forest Guard (level 1)
+    reduced 谭舒雁(pid1) hp by 1 to 48
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 47
+    gained 1 def. Now have 1 def
+    gained 1 chase_if_hp_gained. Now have 1 chase_if_hp_gained
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Wood Spirit - Forest Guard
+  incremented chases to 1
+  chase!!
+  吾行之(pid2) is playing Impact Formation (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 42
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 1 to 41
+    gained 1 def. Now have 1 def
+  吾行之(pid2) finished playing Impact Formation
+  lost 1 def. Now have 0 def
+  reduced 谭舒雁(pid1) hp by 2 to 39
+  gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp 39/87, def 1, qi 0) | B(hp 38/96, def 0, qi 0, injury 4)
+turn 8b ends
+turn 9a begins
+  lost 1 everything_goes_way_stacks. Now have 2 everything_goes_way_stacks
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 7 internal_injury
+    reduced 吾行之(pid2) hp by 7 to 31
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 9a: A(hp 39/87, def 0, qi 0) | B(hp 31/96, def 0, qi 0, injury 7)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 7 to 24
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  吾行之(pid2) finished playing Hexproof Formation
+  reduced 谭舒雁(pid1) hp by 3 to 36
+  gained 1 def. Now have 1 def
+  STATE after turn 9b: A(hp 36/87, def 1, qi 0) | B(hp 24/96, def 10, qi 0, injury 7)
+turn 9b ends
+turn 10a begins
+  lost 1 everything_goes_way_stacks. Now have 1 everything_goes_way_stacks
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 6 def. Now have 4 def
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 10a: A(hp 36/87, def 0, qi 2) | B(hp 24/96, def 4, qi 0, injury 7)
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 2 def
+  reduced 吾行之(pid2) hp by 7 to 17
+  吾行之(pid2) is playing Water Spirit - Spring (level 2)
+    gained 3 qi. Now have 3 qi
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 谭舒雁(pid1) hp by 3 to 33
+  gained 1 def. Now have 1 def
+  STATE after turn 10b: A(hp 33/87, def 1, qi 2) | B(hp 17/96, def 2, qi 3, injury 7)
+turn 10b ends
+turn 11a begins
+  lost 1 everything_goes_way_stacks. Now have 0 everything_goes_way_stacks
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    lost 1 hexproof. Now have 2 hexproof
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 11a: A(hp 33/87, def 0, qi 2) | B(hp 17/96, def 2, qi 3, injury 7)
+turn 11a ends
+turn 11b begins
+  lost 1 def. Now have 1 def
+  reduced 吾行之(pid2) hp by 7 to 10
+  吾行之(pid2) is playing Water Spirit - Billows (level 1)
+    gained 2 force_of_water. Now have 5 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Billows
+  reduced 谭舒雁(pid1) hp by 5 to 28
+  gained 1 def. Now have 1 def
+  STATE after turn 11b: A(hp 28/87, def 1, qi 2) | B(hp 10/96, def 1, qi 3, injury 7)
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 1 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 6 to 4
+    lost 2 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 12a: A(hp 28/87, def 0, qi 1) | B(hp 4/96, def 0, qi 3, injury 7)
+turn 12a ends
+turn 12b begins
+  reduced 吾行之(pid2) hp by 7 to -3
+  STATE after turn 12b: A(hp 28/87, def 0, qi 1) | B(hp -3/96, def 0, qi 3, injury 7)
+turn 12b ends
+吾行之(pid2) loses 18 destiny, now at 29
+谭舒雁(pid1) (Tan Shuyan) wins

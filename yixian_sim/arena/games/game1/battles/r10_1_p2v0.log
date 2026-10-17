@@ -1,0 +1,215 @@
+gained 1 smash_def. Now have 1 smash_def
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 79
+  player 0 finished playing Cloud Sword - Riddle
+turn 1b ends
+turn 2a begins
+  player 0 is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 3 def. Now have 1 def
+  player 0 finished playing Cloud Sword - Conceal
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Metal Spirit Seal (level 3)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 12 to 84
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 79
+  player 0 finished playing Metal Spirit Seal
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced player 1 hp by 6 to 73
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 3b ends
+turn 4a begins
+  player 0 is playing Metal Spirit - Shuttle (level 1)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    reduced player 1 hp by 4 to 75
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 66
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 67
+    reduced player 1 hp by 5 to 62
+  player 0 finished playing Cloud Sword - Fleche
+turn 4b ends
+turn 5a begins
+  player 0 is playing Earth Spirit Seal (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    reduced player 1 hp by 3 to 63
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 2 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 7 to 55
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 5b ends
+turn 6a begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to 56
+  player 0 finished playing Earth Spirit - Smash
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 42
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Earth Spirit - Cliff (level 1)
+    gained 10 def. Now have 10 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  player 0 finished playing Earth Spirit - Cliff
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 9 def. Now have 1 def
+    lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+    reduced player 0 hp by 9 to 47
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Giant Whale Spirit Sword (level 1). They now have 2/2 qi
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 8a ends
+turn 8b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced player 1 hp by 16 to 26
+  player 0 finished playing Giant Whale Spirit Sword
+turn 8b ends
+turn 9a begins
+  player 0 is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 9a ends
+turn 9b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 2 def. Now have 2 def
+  player 0 finished playing Cloud Sword - Riddle
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Metal Spirit Seal (level 3)
+    reduced player 1 hp by 12 to 35
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 30
+  player 0 finished playing Metal Spirit Seal
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 2 to 24
+  player 0 finished playing Cloud Sword - Conceal
+turn 10b ends
+turn 11a begins
+  player 0 is playing Metal Spirit - Shuttle (level 1)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    reduced player 1 hp by 4 to 26
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 17
+    gained 1 qi. Now have 2 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 11a ends
+turn 11b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    reduced player 1 hp by 12 to 12
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 11b ends
+turn 12a begins
+  player 0 is playing Earth Spirit Seal (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 3 activate_earth_spirit_stacks
+    reduced player 1 hp by 3 to 14
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 4 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 12a ends
+turn 12b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 2 to 10
+    reduced player 1 hp by 5 to 5
+  player 0 finished playing Cloud Sword - Fleche
+turn 12b ends
+turn 13a begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to 7
+  player 0 finished playing Earth Spirit - Smash
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    reduced player 1 hp by 11 to -6
+    gained 4 qi. Now have 4 qi
+turn 13b ends
+player 0 loses 14 destiny, now at 58
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Examine Body (level 1)
+  Everything is Unadvisable (level 1)
+  Metal Spirit Seal (level 3)
+  Metal Spirit - Shuttle (level 1)
+  Cosmos Seal (level 2)
+  Earth Spirit Seal (level 1)
+  Earth Spirit - Smash (level 2)
+  Earth Spirit - Cliff (level 1)
+Player 1's deck:
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Conceal (level 1)
+  Cloud Sword - Touch Sky (level 3)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Spirit Coercion (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 1)

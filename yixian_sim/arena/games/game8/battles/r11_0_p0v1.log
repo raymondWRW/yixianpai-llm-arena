@@ -1,0 +1,229 @@
+gained 1 smash_def. Now have 1 smash_def
+gained 1 internal_injury. Now have 1 internal_injury
+turn 1a begins
+  reduced 牧逸风(pid0) hp by 1 to 81
+  牧逸风(pid0) is playing Light Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 4 to 88
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 1a: A(hp 81/82, def 0, qi 2, injury 1) | B(hp 88/92, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 1b: A(hp 81/82, def 0, qi 2, injury 1) | B(hp 88/92, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  reduced 牧逸风(pid0) hp by 1 to 80
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 2a: A(hp 80/82, def 2, qi 4, sword 2, injury 1) | B(hp 88/92, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 1 smash_def. Now have 0 smash_def
+    lost 2 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 73
+    gained 2 qi. Now have 2 qi
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced 牧逸风(pid0) hp by 8 to 65
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 2b: A(hp 65/82, def 0, qi 4, sword 2, injury 1) | B(hp 88/92, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  reduced 牧逸风(pid0) hp by 1 to 64
+  牧逸风(pid0) is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 3a: A(hp 64/82, def 5, qi 4, sword 5, injury 1) | B(hp 88/92, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 62
+    reduced 牧逸风(pid0) hp by 7 to 55
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 55/82, def 0, qi 4, sword 5, injury 1) | B(hp 88/92, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  reduced 牧逸风(pid0) hp by 1 to 54
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 75
+    gained 13 def. Now have 13 def
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 4a: A(hp 54/82, def 13, qi 3, injury 1) | B(hp 75/92, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    lost 4 def. Now have 9 def
+    lost 4 def. Now have 5 def
+    gained 5 def. Now have 5 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 4b: A(hp 54/82, def 5, qi 3, injury 1) | B(hp 75/92, def 5, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 3 def. Now have 2 def
+  reduced 牧逸风(pid0) hp by 1 to 53
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 6 to 69
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 5a: A(hp 53/82, def 2, qi 2, sword 4, injury 1) | B(hp 69/92, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+  STATE after turn 5b: A(hp 53/82, def 2, qi 2, sword 4, injury 1) | B(hp 69/92, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 1 to 52
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 15 to 54
+    lost 4 sword_intent. Now have 0 sword_intent
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 6a: A(hp 52/82, def 1, qi 1, sword 4, injury 1) | B(hp 54/92, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 8 to 44
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 6b: A(hp 44/82, def 0, qi 1, sword 4, injury 1) | B(hp 54/92, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  reduced 牧逸风(pid0) hp by 1 to 43
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 9 to 45
+    reduced 谭舒雁(pid1) hp by 10 to 35
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 7a: A(hp 43/82, def 0, qi 0, injury 1) | B(hp 35/92, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 2)
+    gained 2 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 7b: A(hp 43/82, def 0, qi 0, injury 3) | B(hp 35/92, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 牧逸风(pid0) hp by 3 to 40
+  牧逸风(pid0) is playing Sharp Metal Fulu (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 27
+  牧逸风(pid0) finished playing Sharp Metal Fulu
+  STATE after turn 8a: A(hp 40/82, def 0, qi 0, injury 3) | B(hp 27/92, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Incessant (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 34
+  谭舒雁(pid1) finished playing Incessant
+  STATE after turn 8b: A(hp 34/82, def 0, qi 0, injury 3) | B(hp 27/92, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  reduced 牧逸风(pid0) hp by 3 to 31
+  牧逸风(pid0) is playing Light Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 4 to 23
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 9a: A(hp 31/82, def 0, qi 2, injury 3) | B(hp 23/92, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 96 max_hp
+    gained 4 max_hp. Now have 100 max_hp
+    healed 4 hp. Went from 23 to 27
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 9b: A(hp 31/82, def 0, qi 2, injury 3) | B(hp 27/100, def 0, qi 0)
+turn 9b ends
+turn 10a begins
+  reduced 牧逸风(pid0) hp by 3 to 28
+  牧逸风(pid0) is playing Cloud Dance Rhythm (level 1)
+    gained 2 qi. Now have 4 qi
+    gained 2 def. Now have 2 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Dance Rhythm
+  STATE after turn 10a: A(hp 28/82, def 2, qi 4, sword 2, injury 3) | B(hp 27/100, def 0, qi 0)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 10b: A(hp 28/82, def 2, qi 4, sword 2, injury 3) | B(hp 27/100, def 0, qi 0)
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 1 def
+  reduced 牧逸风(pid0) hp by 3 to 25
+  牧逸风(pid0) is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 11a: A(hp 25/82, def 6, qi 4, sword 5, injury 3) | B(hp 27/100, def 0, qi 0)
+turn 11a ends
+turn 11b begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 23
+    gained 2 qi. Now have 2 qi
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced 牧逸风(pid0) hp by 8 to 15
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 11b: A(hp 15/82, def 0, qi 4, sword 5, injury 3) | B(hp 27/100, def 0, qi 2)
+turn 11b ends
+turn 12a begins
+  reduced 牧逸风(pid0) hp by 3 to 12
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 13 to 14
+    reduced 牧逸风(pid0) hp by 2 to 10
+    gained 13 def. Now have 13 def
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Earth Evil Sword
+  STATE after turn 12a: A(hp 10/82, def 13, qi 3, injury 3) | B(hp 14/100, def 0, qi 2)
+turn 12a ends
+turn 12b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    lost 7 def. Now have 6 def
+    lost 6 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 9
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 12b: A(hp 9/82, def 0, qi 3, injury 3) | B(hp 14/100, def 0, qi 1)
+turn 12b ends
+turn 13a begins
+  reduced 牧逸风(pid0) hp by 3 to 6
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 3
+    reduced 牧逸风(pid0) hp by 2 to 4
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 13a: A(hp 4/82, def 0, qi 2, sword 4, injury 3) | B(hp 3/100, def 0, qi 1)
+turn 13a ends
+turn 13b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 牧逸风(pid0) hp by 4 to 0
+    reduced 牧逸风(pid0) hp by 4 to -4
+    gained 1 def. Now have 1 def
+  STATE after turn 13b: A(hp -4/82, def 0, qi 2, sword 4, injury 3) | B(hp 3/100, def 1, qi 0)
+turn 13b ends
+牧逸风(pid0) loses 14 destiny, now at 62
+谭舒雁(pid1) (Tan Shuyan) wins

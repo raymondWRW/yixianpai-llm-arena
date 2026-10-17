@@ -1,0 +1,368 @@
+gained 4 max_hp. Now have 130 max_hp
+gained 4 max_hp. Now have 134 max_hp
+healed 4 hp. Went from 126 to 130
+turn 1a begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1a: A(hp 99/99, def 0, qi 1) | B(hp 130/134, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 138 max_hp
+    gained 4 max_hp. Now have 142 max_hp
+    healed 4 hp. Went from 130 to 134
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 1b: A(hp 99/99, def 0, qi 1) | B(hp 134/142, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Light Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 4 to 130
+    reduced 牧逸风(pid0) hp by 2 to 97
+    gained 2 qi. Now have 4 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 2a: A(hp 97/99, def 0, qi 4) | B(hp 130/142, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+  STATE after turn 2b: A(hp 97/99, def 0, qi 4) | B(hp 130/142, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Soul Requiem Fulu (level 1)
+    reduced 谭舒雁(pid1) hp by 20 to 110
+    reduced 谭舒雁(pid1) max_hp by 22 to 120
+    lost 2 qi. Now have 0 qi
+  牧逸风(pid0) finished playing Soul Requiem Fulu
+  STATE after turn 3a: A(hp 97/99, def 0, qi 4) | B(hp 110/120, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+  STATE after turn 3b: A(hp 97/99, def 0, qi 4) | B(hp 110/120, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 4a: A(hp 97/99, def 5, qi 5, sword 3) | B(hp 110/120, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    gained 4 max_hp. Now have 124 max_hp
+    healed 9 hp. Went from 110 to 119
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 4b: A(hp 97/99, def 5, qi 5, sword 3) | B(hp 119/124, def 9, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 3 def. Now have 2 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    lost 9 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 114
+    lost 2 def. Now have 0 def
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 5a: A(hp 97/99, def 0, qi 4, sword 3) | B(hp 114/124, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  谭舒雁(pid1) is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Stillness Citta-Dharma
+  STATE after turn 5b: A(hp 97/99, def 0, qi 4, sword 3) | B(hp 114/124, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 11 to 103
+    reduced 牧逸风(pid0) hp by 2 to 95
+    gained 5 sword_intent. Now have 8 sword_intent
+    lost 3 sword_intent. Now have 5 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 6a: A(hp 95/99, def 0, qi 5, sword 5) | B(hp 103/124, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  谭舒雁(pid1) is playing Yin Yang Formation (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 4 max_hp. Now have 128 max_hp
+    healed 4 hp. Went from 103 to 107
+  谭舒雁(pid1) finished playing Yin Yang Formation
+  STATE after turn 6b: A(hp 95/99, def 0, qi 5, sword 5) | B(hp 107/128, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 21 to 86
+    reduced 牧逸风(pid0) hp by 2 to 93
+    lost 5 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 7a: A(hp 93/99, def 0, qi 3) | B(hp 86/128, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 4 max_hp. Now have 132 max_hp
+    healed 7 hp. Went from 86 to 93
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 7b: A(hp 93/99, def 0, qi 3) | B(hp 93/132, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 4 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 82
+    reduced 牧逸风(pid0) hp by 2 to 91
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 8a: A(hp 91/99, def 0, qi 3, sword 4) | B(hp 82/132, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 83
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 8b: A(hp 83/99, def 0, qi 3, sword 4) | B(hp 82/132, def 0, qi 2)
+turn 8b ends
+turn 9a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Light Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 8 to 74
+    reduced 牧逸风(pid0) hp by 2 to 81
+    gained 2 qi. Now have 5 qi
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 9a: A(hp 81/99, def 0, qi 5) | B(hp 74/132, def 0, qi 2)
+turn 9a ends
+turn 9b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 74
+    reduced 牧逸风(pid0) hp by 7 to 67
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 9b: A(hp 67/99, def 0, qi 5) | B(hp 74/132, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 10a: A(hp 67/99, def 5, qi 6, sword 3) | B(hp 74/132, def 0, qi 1)
+turn 10a ends
+turn 10b begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 10b: A(hp 67/99, def 5, qi 6, sword 3) | B(hp 74/132, def 0, qi 1)
+turn 10b ends
+turn 11a begins
+  lost 3 def. Now have 2 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 14 to 60
+    lost 2 def. Now have 0 def
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 11a: A(hp 67/99, def 0, qi 5, sword 3) | B(hp 60/132, def 0, qi 1)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    gained 4 max_hp. Now have 136 max_hp
+    healed 9 hp. Went from 60 to 69
+    gained 1 guard_up. Now have 1 guard_up
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 11b: A(hp 67/99, def 0, qi 5, sword 3) | B(hp 69/136, def 9, qi 0, guard 1)
+turn 11b ends
+turn 12a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    lost 9 def. Now have 0 def
+    prevented 2 damage to hp with guard up. 0 guard up remaining
+    reduced 牧逸风(pid0) hp by 2 to 65
+    gained 4 sword_intent. Now have 7 sword_intent
+    lost 3 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 12a: A(hp 65/99, def 0, qi 6, sword 4) | B(hp 69/136, def 0, qi 0)
+turn 12a ends
+turn 12b begins
+  谭舒雁(pid1) is playing Yin Yang Formation (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 4 max_hp. Now have 140 max_hp
+    healed 4 hp. Went from 69 to 73
+  谭舒雁(pid1) finished playing Yin Yang Formation
+  STATE after turn 12b: A(hp 65/99, def 0, qi 6, sword 4) | B(hp 73/140, def 0, qi 2)
+turn 12b ends
+turn 13a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 20 to 53
+    reduced 牧逸风(pid0) hp by 2 to 63
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 13a: A(hp 63/99, def 0, qi 4) | B(hp 53/140, def 0, qi 2)
+turn 13a ends
+turn 13b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 4 max_hp. Now have 144 max_hp
+    healed 7 hp. Went from 53 to 60
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 13b: A(hp 63/99, def 0, qi 4) | B(hp 60/144, def 0, qi 2)
+turn 13b ends
+turn 14a begins
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 49
+    reduced 牧逸风(pid0) hp by 2 to 61
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 14a: A(hp 61/99, def 0, qi 4, sword 4) | B(hp 49/144, def 0, qi 2)
+turn 14a ends
+turn 14b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 53
+    gained 1 qi. Now have 3 qi
+    gained 4 max_hp. Now have 148 max_hp
+    healed 2 hp. Went from 49 to 51
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 14b: A(hp 53/99, def 0, qi 4, sword 4) | B(hp 51/148, def 0, qi 3)
+turn 14b ends
+turn 15a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Light Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 8 to 43
+    reduced 牧逸风(pid0) hp by 2 to 51
+    gained 2 qi. Now have 6 qi
+    lost 4 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 15a: A(hp 51/99, def 0, qi 6) | B(hp 43/148, def 0, qi 3)
+turn 15a ends
+turn 15b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 44
+    reduced 牧逸风(pid0) hp by 7 to 37
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 15b: A(hp 37/99, def 0, qi 6) | B(hp 43/148, def 0, qi 2)
+turn 15b ends
+turn 16a begins
+  gained 1 qi. Now have 7 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Sword Defence (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 16a: A(hp 37/99, def 5, qi 7, sword 3) | B(hp 43/148, def 0, qi 2)
+turn 16a ends
+turn 16b begins
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 7 to 30
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    gained 4 max_hp. Now have 152 max_hp
+    healed 9 hp. Went from 43 to 52
+    gained 1 guard_up. Now have 1 guard_up
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 16b: A(hp 30/99, def 0, qi 7, sword 3) | B(hp 52/152, def 9, qi 1, guard 1)
+turn 16b ends
+turn 17a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 6 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    lost 9 def. Now have 0 def
+    prevented 5 damage to hp with guard up. 0 guard up remaining
+    reduced 牧逸风(pid0) hp by 2 to 28
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 17a: A(hp 28/99, def 0, qi 6) | B(hp 52/152, def 0, qi 1)
+turn 17a ends
+turn 17b begins
+  谭舒雁(pid1) is playing Yin Yang Formation (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 4 max_hp. Now have 156 max_hp
+    healed 4 hp. Went from 52 to 56
+  谭舒雁(pid1) finished playing Yin Yang Formation
+  STATE after turn 17b: A(hp 28/99, def 0, qi 6) | B(hp 56/156, def 0, qi 3)
+turn 17b ends
+turn 18a begins
+  gained 1 qi. Now have 7 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) is playing Inspiration Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 48
+    reduced 牧逸风(pid0) hp by 2 to 26
+    gained 7 sword_intent. Now have 7 sword_intent
+  牧逸风(pid0) finished playing Inspiration Sword
+  STATE after turn 18a: A(hp 26/99, def 0, qi 7, sword 7) | B(hp 48/156, def 0, qi 3)
+turn 18a ends
+turn 18b begins
+  谭舒雁(pid1) is playing Lucky Start (level 1)
+    gained 4 max_hp. Now have 160 max_hp
+    healed 7 hp. Went from 48 to 55
+  谭舒雁(pid1) finished playing Lucky Start
+  STATE after turn 18b: A(hp 26/99, def 0, qi 7, sword 7) | B(hp 55/160, def 0, qi 3)
+turn 18b ends
+turn 19a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 2 qi. Now have 5 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 23 to 32
+    reduced 牧逸风(pid0) hp by 2 to 24
+    lost 7 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 19a: A(hp 24/99, def 0, qi 5) | B(hp 32/160, def 0, qi 3)
+turn 19a ends
+turn 19b begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 牧逸风(pid0) hp by 8 to 16
+    gained 1 qi. Now have 4 qi
+    gained 4 max_hp. Now have 164 max_hp
+    healed 2 hp. Went from 32 to 34
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 19b: A(hp 16/99, def 0, qi 5) | B(hp 34/164, def 0, qi 4)
+turn 19b ends
+turn 20a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 23
+    reduced 牧逸风(pid0) hp by 2 to 14
+    gained 4 sword_intent. Now have 4 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 20a: A(hp 14/99, def 0, qi 5, sword 4) | B(hp 23/164, def 0, qi 4)
+turn 20a ends
+turn 20b begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 7
+    reduced 牧逸风(pid0) hp by 7 to 0
+  STATE after turn 20b: A(hp 0/99, def 0, qi 5, sword 4) | B(hp 23/164, def 0, qi 3)
+turn 20b ends
+牧逸风(pid0) loses 19 destiny, now at 26
+谭舒雁(pid1) (Tan Shuyan) wins

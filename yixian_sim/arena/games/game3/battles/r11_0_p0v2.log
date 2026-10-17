@@ -1,0 +1,178 @@
+turn 1a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 85
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 1a ends
+turn 1b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 89
+    reduced player 1 max_hp by 3 to 89
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 5 to 84
+    reduced player 1 hp by 3 to 81
+  player 0 finished playing Fire Spirit - Rush
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 9 to 76
+    reduced player 1 hp by 11 to 65
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 3a ends
+turn 3b begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 67
+  player 0 finished playing Five Elements Fleche
+turn 3b ends
+turn 4a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 56
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    reduced player 1 hp by 5 to 62
+    reduced player 1 hp by 5 to 57
+    reduced player 1 hp by 6 to 51
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 4b ends
+turn 5a begins
+  player 0 is playing Cloud Sword - Touch Earth (level 2)
+    reduced player 1 hp by 6 to 50
+    gained 6 def. Now have 6 def
+  player 0 finished playing Cloud Sword - Touch Earth
+turn 5a ends
+turn 5b begins
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 3 qi
+    reduced player 1 hp by 4 to 47
+    reduced player 1 max_hp by 4 to 85
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 5b ends
+turn 6a begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Cloud Sword - Reguard (level 2)
+    gained 11 def. Now have 14 def
+    healed 5 hp. Went from 47 to 52
+  player 0 finished playing Cloud Sword - Reguard
+turn 6a ends
+turn 6b begins
+  player 0 is playing Earth Spirit - Dust (level 1)
+  player 0 upgrades Earth Spirit - Dust (level 1) to Earth Spirit - Dust (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    lost 12 def. Now have 2 def
+  player 0 finished playing Earth Spirit - Dust
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 44
+    reduced player 1 hp by 5 to 39
+  player 0 finished playing Cloud Sword - Fleche
+turn 7a ends
+turn 7b begins
+  player 0 is playing Earth Spirit - Quicksand (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 8 to 44
+  player 0 finished playing Earth Spirit - Quicksand
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flow Cloud Chaos Sword (level 1)
+    reduced player 1 hp by 2 to 37
+    reduced player 1 hp by 2 to 35
+    reduced player 1 hp by 2 to 33
+    reduced player 1 hp by 2 to 31
+  player 0 finished playing Flow Cloud Chaos Sword
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play World Smash (level 1)
+    reduced player 1 hp by 12 to 32
+  player 0 finished playing World Smash
+turn 8b ends
+turn 9a begins
+  player 0 is playing Toning (level 2)
+    reduced player 1 hp by 3 to 28
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+  player 0 finished playing Toning
+turn 9a ends
+turn 9b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 29
+    reduced player 1 max_hp by 3 to 82
+    gained 2 qi. Now have 4 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Sword Defence (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Defence
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 5 to 24
+    reduced player 1 hp by 3 to 21
+  player 0 finished playing Fire Spirit - Rush
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 9 to 19
+    reduced player 1 hp by 11 to 8
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 11a ends
+turn 11b begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 7
+  player 0 finished playing Five Elements Fleche
+turn 11b ends
+turn 12a begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to -1
+turn 12a ends
+player 1 loses 14 destiny, now at 99
+player 0 (Mu Yifeng) wins
+Player 0's deck:
+  Toning (level 2)
+  Sword Defence (level 2)
+  Thunder Sword (level 2)
+  Cloud Sword - Touch Sky (level 2)
+  Cloud Sword - Touch Earth (level 2)
+  Cloud Sword - Reguard (level 2)
+  Cloud Sword - Fleche (level 2)
+  Flow Cloud Chaos Sword (level 1)
+Player 1's deck:
+  Fire Spirit Seal (level 2)
+  Fire Spirit - Rush (level 2)
+  Five Elements Fleche (level 3)
+  Fire Spirit - Scarlet Flame (level 2)
+  Fire Spirit - Flame Eater (level 2)
+  Earth Spirit - Dust (level 2)
+  Earth Spirit - Quicksand (level 1)
+  World Smash (level 1)

@@ -1,0 +1,156 @@
+gained 1 force. Now have 1 force
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 2 to 91
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Gather Force
+turn 1a ends
+turn 1b begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1b ends
+turn 2a begins
+  player 0 is playing Crash Citta-Dharma (level 2)
+    gained 3 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  player 0 finished playing Crash Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 4 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 2b ends
+turn 3a begins
+  reduced player 0 hp by 3 to 84
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 14 to 77
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3a ends
+turn 3b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 max_hp. Now have 96 max_hp
+    healed 8 hp. Went from 77 to 85
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  reduced player 0 hp by 4 to 80
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 6 force
+    gained 3 def. Now have 4 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 21 to 64
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 4a ends
+turn 4b begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 3 max_hp. Now have 99 max_hp
+    healed 8 hp. Went from 64 to 72
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 4b ends
+turn 5a begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 4 to 76
+  player 0 spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 17 to 55
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Entangle
+turn 5a ends
+turn 5b begins
+  player 0 is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 7 qi
+    gained 3 max_hp. Now have 102 max_hp
+    healed 8 hp. Went from 55 to 63
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  player 0 finished playing Flower Sentient
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 1 to 75
+  reduced player 0 hp by 3 to 72
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 1 force. Now have 6 force
+    gained 2 wound. Now have 2 wound
+    lost 1 force. Now have 5 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 14 to 49
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 6a ends
+turn 6b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+  player 0 finished playing Water Hexagram
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  reduced player 0 hp by 1 to 71
+  reduced player 0 hp by 2 to 69
+  player 0 spent 2 hp to play Strong Force (level 2)
+    gained 1 force. Now have 6 force
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 29 to 20
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 7a ends
+turn 7b begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 6 to 63
+  player 0 finished playing Shifting Stars
+turn 7b ends
+turn 8a begins
+  reduced player 0 hp by 1 to 62
+  reduced player 0 hp by 4 to 58
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 1 force. Now have 6 force
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 21 to -1
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+turn 8a ends
+player 1 loses 19 destiny, now at 58
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Gather Force (level 1)
+  Crash Citta-Dharma (level 2)
+  Crash Fist - Block (level 2)
+  Crash Fist - Blitz (level 2)
+  Crash Fist - Entangle (level 2)
+  Crash Fist - Poke (level 1)
+  Strong Force (level 2)
+  Crash Fist - Shake (level 1)
+Player 1's deck:
+  Stillness Citta-Dharma (level 1)
+  Stillness Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Wind Hexagram (level 2)
+  Flower Sentient (level 2)
+  Water Hexagram (level 1)
+  Shifting Stars (level 1)
+  White Crane Bright Wings (level 3)

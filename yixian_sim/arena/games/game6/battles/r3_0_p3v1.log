@@ -1,0 +1,118 @@
+turn 1a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 1)
+    reduced player 1 hp by 10 to 45
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 def. Now have 2 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 2 force
+  player 0 finished playing Standing Firm
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Astral Move - Block (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 2 to 47
+  player 0 finished playing Astral Move - Block
+turn 2b ends
+turn 3a begins
+  player 0 is playing Exercise Fist (level 2)
+    lost 1 force. Now have 1 force
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 9 to 36
+    gained 1 physique. Now have 11 physique
+    gained 1 max_hp. Now have 60 max_hp
+  player 0 finished playing Exercise Fist
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 1)
+    reduced player 1 hp by 7 to 40
+    reduced player 1 hp by 6 to 34
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 11 to 25
+  player 0 finished playing Vigorous Force
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Sparrow's Tail (level 2). They now have 1/1 qi
+turn 4b ends
+turn 5a begins
+  player 0 is playing Mountain Falling (level 1)
+    reduced player 1 hp by 6 to 19
+  player 0 finished playing Mountain Falling
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 24
+  player 0 finished playing Sparrow's Tail
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 16
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Sharp Metal Fulu (level 1)
+    reduced player 1 hp by 8 to 16
+  player 0 finished playing Sharp Metal Fulu
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 12
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 1)
+    reduced player 1 hp by 10 to 0
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+turn 9a ends
+player 1 loses 5 destiny, now at 86
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Mountain-Cleaving Palms (level 1)
+  Standing Firm (level 1)
+  Exercise Fist (level 2)
+  Vigorous Force (level 2)
+  Mountain Falling (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Dotted Around (level 1)
+  Astral Move - Block (level 1)
+  Astral Move - Flank (level 1)
+  Sparrow's Tail (level 2)
+  Sharp Metal Fulu (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

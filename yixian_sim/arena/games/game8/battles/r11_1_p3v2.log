@@ -1,0 +1,173 @@
+gained 2 internal_injury. Now have 2 internal_injury
+gained 2 regen. Now have 2 regen
+turn 1a begins
+  healed 2 hp. Went from 87 to 87
+  reduced 小布(pid3) hp by 2 to 85
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 吾行之(pid2) hp by 2 to 93
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1a: A(hp 85/87, def 0, qi 1, force 2, injury 2) | B(hp 93/95, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Fire Spirit Formation (level 1)
+    reduced 小布(pid3) hp by 2 to 83
+    reduced 小布(pid3) max_hp by 2 to 85
+    gained 2 fire_spirit_formation_stacks. Now have 2 fire_spirit_formation_stacks
+  吾行之(pid2) finished playing Fire Spirit Formation
+  STATE after turn 1b: A(hp 83/85, def 0, qi 1, force 2, injury 2) | B(hp 93/95, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  healed 2 hp. Went from 83 to 85
+  reduced 小布(pid3) hp by 2 to 83
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 3 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 2a: A(hp 83/85, def 0, qi 3, force 3, injury 2) | B(hp 93/95, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 小布(pid3) hp by 2 to 81
+    reduced 小布(pid3) max_hp by 2 to 83
+    reduced 小布(pid3) hp by 3 to 78
+    reduced 小布(pid3) max_hp by 3 to 80
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 2b: A(hp 78/80, def 0, qi 3, force 3, injury 2) | B(hp 93/95, def 0, qi 1)
+turn 2b ends
+turn 3a begins
+  healed 2 hp. Went from 78 to 80
+  reduced 小布(pid3) hp by 2 to 78
+  reduced 小布(pid3) hp by 3 to 75
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 吾行之(pid2) hp by 12 to 81
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 3a: A(hp 75/80, def 0, qi 3, force 3, injury 2) | B(hp 81/95, def 0, qi 1)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    reduced 小布(pid3) hp by 2 to 73
+    reduced 小布(pid3) max_hp by 2 to 78
+    gained 2 qi. Now have 3 qi
+    reduced 小布(pid3) hp by 3 to 70
+    reduced 小布(pid3) max_hp by 3 to 75
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 3b: A(hp 70/75, def 0, qi 3, force 3, injury 2) | B(hp 81/95, def 0, qi 3)
+turn 3b ends
+turn 4a begins
+  healed 2 hp. Went from 70 to 72
+  reduced 小布(pid3) hp by 2 to 70
+  reduced 小布(pid3) hp by 4 to 66
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 吾行之(pid2) hp by 18 to 63
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 4a: A(hp 66/75, def 0, qi 3, force 3, injury 2) | B(hp 63/95, def 0, qi 3)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Fire Spirit - Flash Fire (level 1)
+    reduced 小布(pid3) hp by 2 to 64
+    reduced 小布(pid3) max_hp by 2 to 73
+    reduced 小布(pid3) max_hp by 4 to 69
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Fire Spirit - Flash Fire
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 小布(pid3) hp by 2 to 62
+    reduced 小布(pid3) max_hp by 2 to 67
+    gained 1 increase_atk. Now have 1 increase_atk
+    reduced 小布(pid3) hp by 8 to 54
+    reduced 小布(pid3) max_hp by 8 to 59
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 4b: A(hp 54/59, def 0, qi 3, force 3, injury 2) | B(hp 63/95, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  healed 2 hp. Went from 54 to 56
+  reduced 小布(pid3) hp by 2 to 54
+  reduced 小布(pid3) hp by 6 to 48
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 2 wound. Now have 2 wound
+    lost 1 force. Now have 2 force
+    reduced 吾行之(pid2) hp by 16 to 47
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 5a: A(hp 48/59, def 0, qi 3, force 2, injury 2) | B(hp 47/95, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Blast (level 1)
+    reduced 小布(pid3) hp by 2 to 46
+    reduced 小布(pid3) max_hp by 2 to 57
+    gained 1 increase_atk. Now have 2 increase_atk
+    reduced 小布(pid3) hp by 9 to 37
+    reduced 小布(pid3) max_hp by 9 to 48
+  吾行之(pid2) finished playing Fire Spirit - Blast
+  STATE after turn 5b: A(hp 37/48, def 0, qi 3, force 2, injury 2) | B(hp 47/95, def 0, qi 1)
+turn 5b ends
+turn 6a begins
+  healed 2 hp. Went from 37 to 39
+  reduced 小布(pid3) hp by 2 to 37
+  reduced 小布(pid3) hp by 2 to 35
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 2 wound. Now have 4 wound
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 17 to 30
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 6a: A(hp 35/48, def 0, qi 3, force 1, injury 2) | B(hp 30/95, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced 小布(pid3) hp by 2 to 33
+    reduced 小布(pid3) max_hp by 2 to 46
+    reduced 小布(pid3) hp by 13 to 20
+    reduced 小布(pid3) hp by 5 to 15
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 6b: A(hp 15/46, def 0, qi 3, force 1, injury 2) | B(hp 30/95, def 0, qi 0)
+turn 6b ends
+turn 7a begins
+  healed 2 hp. Went from 15 to 17
+  reduced 小布(pid3) hp by 2 to 15
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 20 to 10
+    gained 1 internal_injury. Now have 3 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 7a: A(hp 15/46, def 0, qi 2, injury 3) | B(hp 10/95, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Fire Spirit - Scarlet Flame (level 1). They now have 1/1 qi
+  STATE after turn 7b: A(hp 15/46, def 0, qi 2, injury 3) | B(hp 10/95, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  healed 2 hp. Went from 15 to 17
+  reduced 小布(pid3) hp by 3 to 14
+  reduced 小布(pid3) hp by 2 to 12
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 1 qi
+    reduced 吾行之(pid2) hp by 21 to -11
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  STATE after turn 8a: A(hp 12/46, def 0, qi 1, injury 3) | B(hp -11/95, def 0, qi 1)
+turn 8a ends
+吾行之(pid2) loses 17 destiny, now at 100
+小布(pid3) (Xiao Bu) wins

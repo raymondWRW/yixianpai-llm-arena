@@ -1,0 +1,304 @@
+gained 4 def. Now have 4 def
+gained 2 internal_injury. Now have 2 internal_injury
+healed 2 hp. Went from 110 to 112
+gained 2 regen. Now have 2 regen
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 2)
+    gained 6 max_hp. Now have 138 max_hp
+    gained 4 max_hp. Now have 142 max_hp
+    healed 6 hp. Went from 132 to 138
+    gained 3 repel_citta_dharma_stacks. Now have 3 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 1a: A(hp 138/142, def 2, qi 0) | B(hp 112/119, def 0, qi 0, injury 2, phys 9)
+turn 1a ends
+turn 1b begins
+  healed 2 hp. Went from 112 to 114
+  reduced 小布(pid3) hp by 2 to 112
+  小布(pid3) is playing Gather Force (level 1)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 109
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 1b: A(hp 138/142, def 0, qi 0) | B(hp 109/119, def 0, qi 1, force 2, injury 2, phys 9)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 146 max_hp
+    gained 4 max_hp. Now have 150 max_hp
+    healed 4 hp. Went from 138 to 142
+    gained 2 repel_citta_dharma_stacks. Now have 5 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 2a: A(hp 142/150, def 0, qi 0) | B(hp 109/119, def 0, qi 1, force 2, injury 2, phys 9)
+turn 2a ends
+turn 2b begins
+  healed 2 hp. Went from 109 to 111
+  reduced 小布(pid3) hp by 2 to 109
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 3 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 2b: A(hp 142/150, def 0, qi 0) | B(hp 109/119, def 0, qi 3, force 3, injury 2, phys 9)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Heavenly Will - Defy (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 3 god_opportunity_reversal_stacks. Now have 3 god_opportunity_reversal_stacks
+  谭舒雁(pid1) finished playing Heavenly Will - Defy
+  STATE after turn 3a: A(hp 142/150, def 0, qi 2) | B(hp 109/119, def 0, qi 3, force 3, injury 2, phys 9)
+turn 3a ends
+turn 3b begins
+  healed 2 hp. Went from 109 to 111
+  reduced 小布(pid3) hp by 2 to 109
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 6 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 3b: A(hp 142/150, def 0, qi 2) | B(hp 109/119, def 8, qi 3, force 6, injury 2, phys 9)
+turn 3b ends
+turn 4a begins
+  lost 1 god_opportunity_reversal_stacks. Now have 2 god_opportunity_reversal_stacks
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    lost 4 def. Now have 4 def
+    gained 4 max_hp. Now have 154 max_hp
+    healed 9 hp. Went from 142 to 151
+    lost 4 def. Now have 0 def
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 4a: A(hp 151/154, def 9, qi 1) | B(hp 109/119, def 0, qi 3, force 6, injury 2, phys 9)
+turn 4a ends
+turn 4b begins
+  healed 2 hp. Went from 109 to 111
+  reduced 小布(pid3) hp by 2 to 109
+  reduced 小布(pid3) hp by 2 to 107
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 8 force
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 9 force
+    lost 1 force. Now have 8 force
+    lost 9 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 21 to 130
+    reduced 小布(pid3) hp by 5 to 102
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4b: A(hp 130/154, def 0, qi 1) | B(hp 102/119, def 0, qi 1, force 8, injury 2, phys 9)
+turn 4b ends
+turn 5a begins
+  lost 1 god_opportunity_reversal_stacks. Now have 1 god_opportunity_reversal_stacks
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    reduced 小布(pid3) hp by 2 to 100
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 5a: A(hp 130/154, def 4, qi 1) | B(hp 100/119, def 0, qi 1, force 8, injury 2, phys 9)
+turn 5a ends
+turn 5b begins
+  healed 2 hp. Went from 100 to 102
+  reduced 小布(pid3) hp by 2 to 100
+  gained 1 qi. Now have 2 qi
+  小布(pid3) gained qi instead of playing Vast Universe (level 2). They now have 2/2 qi
+  STATE after turn 5b: A(hp 130/154, def 4, qi 1) | B(hp 100/119, def 0, qi 2, force 8, injury 2, phys 9)
+turn 5b ends
+turn 6a begins
+  lost 1 god_opportunity_reversal_stacks. Now have 0 god_opportunity_reversal_stacks
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  STATE after turn 6a: A(hp 130/154, def 2, qi 1) | B(hp 100/119, def 0, qi 2, force 8, injury 2, phys 9)
+turn 6a ends
+turn 6b begins
+  healed 2 hp. Went from 100 to 102
+  reduced 小布(pid3) hp by 2 to 100
+  lost 2 qi. Now have 0 qi
+  小布(pid3) spent 2 qi to play Vast Universe (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 9 force
+    lost 1 force. Now have 8 force
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 9 to 121
+    reduced 小布(pid3) hp by 5 to 95
+    healed 6 hp. Went from 95 to 101
+    gained 21 agility. Now have 21 agility
+  小布(pid3) finished playing Vast Universe
+  Spent 10 agility to chase. Agility is now 11
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 4 to 97
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 force. Now have 7 force
+    reduced 谭舒雁(pid1) hp by 9 to 112
+    reduced 小布(pid3) hp by 5 to 92
+    gained 2 crash_fist_entangle_stacks. Now have 2 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 6b: A(hp 112/154, def 0, qi 1) | B(hp 92/119, def 0, qi 0, force 7, injury 2, phys 9)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 小布(pid3) hp by 8 to 84
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 7a: A(hp 112/154, def 0, qi 1) | B(hp 84/119, def 0, qi 0, force 7, injury 2, phys 9)
+turn 7a ends
+turn 7b begins
+  healed 2 hp. Went from 84 to 86
+  reduced 小布(pid3) hp by 2 to 84
+  reduced 小布(pid3) hp by 6 to 78
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 2)
+    gained 2 wound. Now have 2 wound
+    lost 1 force. Now have 6 force
+    reduced 谭舒雁(pid1) hp by 29 to 83
+    reduced 小布(pid3) hp by 5 to 73
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Double Trouble (level 1). They now have 1/1 qi
+  STATE after turn 7b: A(hp 83/154, def 0, qi 1) | B(hp 73/119, def 0, qi 1, force 6, injury 2, phys 9)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 小布(pid3) hp by 7 to 66
+    reduced 小布(pid3) hp by 7 to 59
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 8a: A(hp 83/154, def 0, qi 0) | B(hp 59/119, def 0, qi 1, force 6, injury 2, phys 9)
+turn 8a ends
+turn 8b begins
+  healed 2 hp. Went from 59 to 61
+  reduced 小布(pid3) hp by 2 to 59
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Double Trouble (level 1)
+    gained 1 internal_injury. Now have 3 internal_injury
+    healed 1 hp. Went from 59 to 60
+    gained 1 internal_injury. Now have 1 internal_injury
+    gained 1 wound. Now have 1 wound
+    healed 1 hp. Went from 60 to 61
+    gained 1 wound. Now have 3 wound
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 12 to 71
+    reduced 小布(pid3) hp by 5 to 56
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 12 to 59
+    reduced 小布(pid3) hp by 5 to 51
+  小布(pid3) finished playing Double Trouble
+  STATE after turn 8b: A(hp 59/154, def 0, qi 0, injury 1) | B(hp 51/119, def 0, qi 0, force 4, injury 3, phys 9)
+turn 8b ends
+turn 9a begins
+  reduced 谭舒雁(pid1) hp by 1 to 58
+  谭舒雁(pid1) is playing Heavenly Will - Defy (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 3 god_opportunity_reversal_stacks. Now have 3 god_opportunity_reversal_stacks
+  谭舒雁(pid1) finished playing Heavenly Will - Defy
+  STATE after turn 9a: A(hp 58/154, def 0, qi 2, injury 1) | B(hp 51/119, def 0, qi 0, force 4, injury 3, phys 9)
+turn 9a ends
+turn 9b begins
+  healed 2 hp. Went from 51 to 53
+  reduced 小布(pid3) hp by 3 to 50
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 5 to 53
+    reduced 小布(pid3) hp by 5 to 45
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 5 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 9b: A(hp 53/154, def 0, qi 2, injury 1) | B(hp 45/119, def 0, qi 1, force 5, injury 3, phys 9)
+turn 9b ends
+turn 10a begins
+  lost 1 god_opportunity_reversal_stacks. Now have 2 god_opportunity_reversal_stacks
+  reduced 谭舒雁(pid1) hp by 1 to 52
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    reduced 小布(pid3) hp by 4 to 41
+    gained 4 max_hp. Now have 158 max_hp
+    healed 9 hp. Went from 52 to 61
+    reduced 小布(pid3) hp by 4 to 37
+    gained 1 guard_up. Now have 1 guard_up
+  谭舒雁(pid1) finished playing Escape Plan
+  STATE after turn 10a: A(hp 61/158, def 9, qi 1, injury 1, guard 1) | B(hp 37/119, def 0, qi 1, force 5, injury 3, phys 9)
+turn 10a ends
+turn 10b begins
+  healed 2 hp. Went from 37 to 39
+  reduced 小布(pid3) hp by 3 to 36
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 force. Now have 6 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 10b: A(hp 61/158, def 9, qi 1, injury 1, guard 1) | B(hp 36/119, def 0, qi 3, force 6, injury 3, phys 9)
+turn 10b ends
+turn 11a begins
+  lost 1 god_opportunity_reversal_stacks. Now have 1 god_opportunity_reversal_stacks
+  lost 5 def. Now have 4 def
+  prevented 1 damage to hp with guard up. 0 guard up remaining
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 8 def
+    reduced 小布(pid3) hp by 2 to 34
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 11a: A(hp 61/158, def 8, qi 1, injury 1) | B(hp 34/119, def 0, qi 3, force 6, injury 3, phys 9)
+turn 11a ends
+turn 11b begins
+  healed 2 hp. Went from 34 to 36
+  reduced 小布(pid3) hp by 3 to 33
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 12 max_force
+    gained 3 force. Now have 9 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 11b: A(hp 61/158, def 8, qi 1, injury 1) | B(hp 33/119, def 8, qi 3, force 9, injury 3, phys 9)
+turn 11b ends
+turn 12a begins
+  lost 1 god_opportunity_reversal_stacks. Now have 0 god_opportunity_reversal_stacks
+  lost 4 def. Now have 4 def
+  reduced 谭舒雁(pid1) hp by 1 to 60
+  谭舒雁(pid1) is playing Drag Moon In Sea (level 1)
+    lost 8 def. Now have 0 def
+    reduced 小布(pid3) hp by 5 to 28
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  谭舒雁(pid1) finished playing Drag Moon In Sea
+  incremented chases to 1
+  chase!!
+  谭舒雁(pid1) is playing Shifting Stars (level 2)
+    reduced 小布(pid3) hp by 9 to 19
+    gained 1 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 12a: A(hp 60/158, def 4, qi 2, injury 1) | B(hp 19/119, def 0, qi 3, force 9, injury 3, phys 9)
+turn 12a ends
+turn 12b begins
+  healed 2 hp. Went from 19 to 21
+  reduced 小布(pid3) hp by 3 to 18
+  reduced 小布(pid3) hp by 2 to 16
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 11 force
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 12 force
+    lost 1 force. Now have 11 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 21 to 39
+    reduced 小布(pid3) hp by 5 to 11
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 12b: A(hp 39/158, def 0, qi 2, injury 1) | B(hp 11/119, def 0, qi 1, force 11, injury 3, phys 9)
+turn 12b ends
+turn 13a begins
+  reduced 谭舒雁(pid1) hp by 1 to 38
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 小布(pid3) hp by 8 to 3
+    reduced 小布(pid3) hp by 8 to -5
+  STATE after turn 13a: A(hp 38/158, def 0, qi 1, injury 1) | B(hp -5/119, def 0, qi 1, force 11, injury 3, phys 9)
+turn 13a ends
+小布(pid3) loses 24 destiny, now at 16
+谭舒雁(pid1) (Tan Shuyan) wins

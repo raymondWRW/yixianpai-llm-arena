@@ -1,0 +1,320 @@
+gained 1 unrestrained_sword_count. Now have 1 unrestrained_sword_count
+turn 1a begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1a: A(hp 101/101, def 0, qi 2, force 1) | B(hp 101/101, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1b: A(hp 101/101, def 0, qi 2, force 1) | B(hp 101/101, def 0, qi 3)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 6 to 95
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 13 to 88
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 2a: A(hp 95/101, def 0, qi 2, force 1) | B(hp 88/101, def 0, qi 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 5 qi
+    reduced 小布(pid3) hp by 5 to 90
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 2b: A(hp 90/101, def 0, qi 2, force 1) | B(hp 88/101, def 0, qi 5)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 4 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 3a: A(hp 90/101, def 8, qi 2, force 4) | B(hp 88/101, def 0, qi 5)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 2)
+    gained 3 motionless_tutelary_formation_stacks. Now have 3 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 108 max_hp
+  healed 7 hp. Went from 88 to 95
+  lost 1 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  STATE after turn 3b: A(hp 90/101, def 8, qi 2, force 4) | B(hp 95/108, def 7, qi 5)
+turn 3b ends
+turn 4a begins
+  lost 4 def. Now have 4 def
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 3 force. Now have 7 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 4a: A(hp 90/101, def 4, qi 3, force 7, agi 5) | B(hp 95/108, def 7, qi 5)
+turn 4a ends
+turn 4b begins
+  lost 4 def. Now have 3 def
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 13 to 77
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 115 max_hp
+  healed 7 hp. Went from 95 to 102
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 4b: A(hp 77/101, def 0, qi 3, force 7, agi 5) | B(hp 102/115, def 10, qi 4)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 2)
+    gained 2 def. Now have 2 def
+    gained 4 force. Now have 9 force
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 9 force. Now have 0 force
+    gained 36 def. Now have 38 def
+    lost 10 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 17 to 85
+    gained 5 agility. Now have 6 agility
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 5a: A(hp 77/101, def 38, qi 2, agi 6) | B(hp 85/115, def 0, qi 4)
+turn 5a ends
+turn 5b begins
+  牧逸风(pid0) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 122 max_hp
+  healed 7 hp. Went from 85 to 92
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 5b: A(hp 77/101, def 38, qi 2, agi 6) | B(hp 92/122, def 7, qi 4)
+turn 5b ends
+turn 6a begins
+  lost 19 def. Now have 19 def
+  小布(pid3) is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 4 agility. Now have 10 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  小布(pid3) finished playing Crash Footwork
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Thunderphilia Formation (level 2)
+    gained 3 thunderphilia_formation_stacks. Now have 3 thunderphilia_formation_stacks
+  小布(pid3) finished playing Thunderphilia Formation
+  lost 4 def. Now have 3 def
+  lost 1 thunderphilia_formation_stacks. Now have 2 thunderphilia_formation_stacks
+  STATE after turn 6a: A(hp 77/101, def 19, qi 3) | B(hp 92/122, def 3, qi 4)
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 1 def
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    lost 4 def. Now have 15 def
+    lost 4 def. Now have 11 def
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 5 to 72
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 6b: A(hp 72/101, def 11, qi 3) | B(hp 92/122, def 1, qi 4)
+turn 6b ends
+turn 7a begins
+  lost 6 def. Now have 5 def
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  lost 1 def. Now have 0 def
+  reduced 牧逸风(pid0) hp by 3 to 89
+  lost 1 thunderphilia_formation_stacks. Now have 1 thunderphilia_formation_stacks
+  STATE after turn 7a: A(hp 72/101, def 5, qi 5, force 1) | B(hp 89/122, def 0, qi 4)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 4 qi. Now have 0 qi
+    lost 5 def. Now have 0 def
+    reduced 小布(pid3) hp by 20 to 52
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 47
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 7b: A(hp 47/101, def 0, qi 5, force 1) | B(hp 89/122, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 6 to 41
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 13 to 76
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  reduced 牧逸风(pid0) hp by 4 to 72
+  lost 1 thunderphilia_formation_stacks. Now have 0 thunderphilia_formation_stacks
+  STATE after turn 8a: A(hp 41/101, def 0, qi 5, force 1) | B(hp 72/122, def 0, qi 0)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    reduced 小布(pid3) hp by 6 to 35
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 8b: A(hp 35/101, def 0, qi 5, force 1) | B(hp 72/122, def 0, qi 0, sword 2)
+turn 8b ends
+turn 9a begins
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 12 max_force
+    gained 3 force. Now have 4 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 9a: A(hp 35/101, def 8, qi 5, force 4) | B(hp 72/122, def 0, qi 0, sword 2)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9b: A(hp 35/101, def 8, qi 5, force 4) | B(hp 72/122, def 0, qi 3, sword 2)
+turn 9b ends
+turn 10a begins
+  lost 4 def. Now have 4 def
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 6 force. Now have 10 force
+    gained 5 agility. Now have 5 agility
+  小布(pid3) finished playing Surging Waves
+  STATE after turn 10a: A(hp 35/101, def 4, qi 6, force 10, agi 5) | B(hp 72/122, def 0, qi 3, sword 2)
+turn 10a ends
+turn 10b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 1)
+    gained 2 qi. Now have 5 qi
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 32
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 10b: A(hp 32/101, def 0, qi 6, force 10, agi 5) | B(hp 72/122, def 0, qi 5)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 5 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 2)
+    gained 2 def. Now have 2 def
+    gained 4 force. Now have 12 force
+    gained 6 agility. Now have 11 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 12 force. Now have 0 force
+    gained 48 def. Now have 50 def
+    reduced 牧逸风(pid0) hp by 36 to 36
+    gained 5 agility. Now have 6 agility
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 11a: A(hp 32/101, def 50, qi 5, agi 6) | B(hp 36/122, def 0, qi 5)
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 2)
+    lost 17 def. Now have 33 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 11b: A(hp 32/101, def 33, qi 5, agi 6) | B(hp 36/122, def 0, qi 4)
+turn 11b ends
+turn 12a begins
+  lost 17 def. Now have 16 def
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 7 qi
+    gained 1 force. Now have 1 force
+    gained 2 majestic_qi_stacks. Now have 4 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 12a: A(hp 32/101, def 16, qi 7, force 1, agi 6) | B(hp 36/122, def 0, qi 4)
+turn 12a ends
+turn 12b begins
+  牧逸风(pid0) is playing Cloud Sword - Necessity (level 1)
+    lost 4 def. Now have 12 def
+    lost 4 def. Now have 8 def
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Cloud Sword - Necessity
+  STATE after turn 12b: A(hp 32/101, def 8, qi 7, force 1, agi 6) | B(hp 36/122, def 0, qi 4)
+turn 12b ends
+turn 13a begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 6 to 26
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    lost 1 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 13 to 23
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 13a: A(hp 26/101, def 4, qi 7, force 1, agi 6) | B(hp 23/122, def 0, qi 4)
+turn 13a ends
+turn 13b begins
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 4 qi. Now have 0 qi
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 25 to 1
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 13b: A(hp 1/101, def 4, qi 7, force 1, agi 6) | B(hp 23/122, def 0, qi 0)
+turn 13b ends
+turn 14a begins
+  lost 2 def. Now have 2 def
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 10 def
+    gained 3 max_force. Now have 15 max_force
+    gained 3 force. Now have 4 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 14a: A(hp 1/101, def 10, qi 7, force 4, agi 6) | B(hp 23/122, def 0, qi 0)
+turn 14a ends
+turn 14b begins
+  牧逸风(pid0) is playing Cloud Sword - Riddle (level 1)
+    lost 6 def. Now have 4 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Riddle
+  STATE after turn 14b: A(hp 1/101, def 4, qi 7, force 4, agi 6) | B(hp 23/122, def 0, qi 0, sword 2)
+turn 14b ends
+turn 15a begins
+  lost 2 def. Now have 2 def
+  小布(pid3) is playing Surging Waves (level 1)
+    gained 1 qi. Now have 8 qi
+    gained 8 force. Now have 12 force
+    gained 5 agility. Now have 11 agility
+  小布(pid3) finished playing Surging Waves
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 7 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 2)
+    gained 1 def. Now have 3 def
+    gained 4 force. Now have 15 force
+    gained 6 agility. Now have 7 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 15a: A(hp 1/101, def 3, qi 7, force 15, agi 7) | B(hp 23/122, def 0, qi 0, sword 2)
+turn 15a ends
+turn 15b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 3 qi
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 15b: A(hp 1/101, def 3, qi 7, force 15, agi 7) | B(hp 23/122, def 0, qi 3, sword 2)
+turn 15b ends
+turn 16a begins
+  lost 2 def. Now have 1 def
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 15 force. Now have 0 force
+    gained 60 def. Now have 61 def
+    reduced 牧逸风(pid0) hp by 45 to -22
+    gained 5 agility. Now have 12 agility
+  STATE after turn 16a: A(hp 1/101, def 61, qi 7, agi 12) | B(hp -22/122, def 0, qi 3, sword 2)
+turn 16a ends
+牧逸风(pid0) loses 20 destiny, now at 30
+小布(pid3) (Xiao Bu) wins

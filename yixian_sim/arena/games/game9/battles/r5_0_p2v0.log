@@ -1,0 +1,109 @@
+turn 1a begins
+  吾行之(pid2) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  吾行之(pid2) finished playing Fraccide Formation
+  STATE after turn 1a: A(hp 53/53, def 0, qi 0) | B(hp 53/53, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 1b: A(hp 53/53, def 0, qi 0) | B(hp 53/53, def 5, qi 2)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Earth Spirit Seal (level 2)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 5 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 6 to 47
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 2 activate_earth_spirit_stacks
+  吾行之(pid2) finished playing Earth Spirit Seal
+  STATE after turn 2a: A(hp 53/53, def 6, qi 0) | B(hp 47/53, def 0, qi 2)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  牧逸风(pid0) finished playing Fraccide Formation
+  STATE after turn 2b: A(hp 53/53, def 6, qi 0) | B(hp 47/53, def 0, qi 2)
+turn 2b ends
+turn 3a begins
+  lost 3 def. Now have 3 def
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced 牧逸风(pid0) hp by 15 to 32
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 3a: A(hp 53/53, def 3, qi 0) | B(hp 32/53, def 0, qi 2)
+turn 3a ends
+turn 3b begins
+  lost 2 qi. Now have 0 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    lost 3 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 18 to 35
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 3b: A(hp 35/53, def 0, qi 0) | B(hp 32/53, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Impact Formation (level 1)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 牧逸风(pid0) hp by 9 to 23
+    reduced 牧逸风(pid0) hp by 2 to 21
+  吾行之(pid2) finished playing Impact Formation
+  STATE after turn 4a: A(hp 35/53, def 0, qi 0) | B(hp 21/53, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 4b: A(hp 35/53, def 0, qi 0) | B(hp 21/53, def 0, qi 1, sword 3)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 18
+    reduced 牧逸风(pid0) max_hp by 3 to 50
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 5a: A(hp 35/53, def 0, qi 1) | B(hp 18/50, def 0, qi 1, sword 3)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced 吾行之(pid2) hp by 12 to 23
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 吾行之(pid2) hp by 14 to 9
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 5b: A(hp 9/53, def 0, qi 1) | B(hp 18/50, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced 牧逸风(pid0) hp by 11 to 7
+    reduced 牧逸风(pid0) hp by 3 to 4
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 6a: A(hp 9/53, def 0, qi 0) | B(hp 4/50, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 1). They now have 1/1 qi
+  STATE after turn 6b: A(hp 9/53, def 0, qi 0) | B(hp 4/50, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 1
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7a: A(hp 9/53, def 0, qi 0) | B(hp 1/50, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    reduced 吾行之(pid2) hp by 10 to -1
+  STATE after turn 7b: A(hp -1/53, def 0, qi 0) | B(hp 1/50, def 0, qi 0)
+turn 7b ends
+吾行之(pid2) loses 6 destiny, now at 90
+牧逸风(pid0) (Mu Yifeng) wins

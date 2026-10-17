@@ -1,0 +1,157 @@
+turn 1a begins
+  player 0 is playing Earth Spirit Seal (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    reduced player 1 hp by 3 to 51
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 2 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Sword Slash (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 1 to 48
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Sword Slash
+turn 1b ends
+turn 2a begins
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 48
+    reduced player 1 max_hp by 3 to 51
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Thunder Sword (level 2). They now have 1/1 qi
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to 39
+    reduced player 1 hp by 2 to 37
+  player 0 finished playing Fire Spirit - Rush
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 2)
+    reduced player 1 hp by 9 to 39
+    reduced player 1 hp by 11 to 28
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 3b ends
+turn 4a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    reduced player 1 hp by 7 to 30
+  player 0 finished playing Metal Spirit - Needle
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Giant Tiger Spirit Sword (level 1). They now have 1/1 qi
+turn 4b ends
+turn 5a begins
+  player 0 is playing Heavenly Decree - Defend (level 2)
+    reduced player 1 hp by 3 to 27
+    gained 12 def. Now have 12 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 1)
+    lost 10 def. Now have 2 def
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 24
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Flying Fang Sword (level 1). They now have 1/1 qi
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 21
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Flying Fang Sword (level 1)
+    reduced player 1 hp by 8 to 20
+  player 0 finished playing Flying Fang Sword
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 18
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 2)
+    reduced player 1 hp by 9 to 11
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 15
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 3 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 1 def
+  player 0 finished playing Normal Attack
+turn 9b ends
+turn 10a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Fire Spirit Seal (level 1)
+    reduced player 1 hp by 3 to 12
+    reduced player 1 max_hp by 3 to 48
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 10a ends
+turn 10b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 1)
+    reduced player 1 hp by 9 to 3
+    reduced player 1 hp by 2 to 1
+  player 0 finished playing Fire Spirit - Rush
+turn 11a ends
+turn 11b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 5
+  player 0 finished playing Normal Attack
+turn 11b ends
+turn 12a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    reduced player 1 hp by 7 to -6
+turn 12a ends
+player 1 loses 6 destiny, now at 87
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Earth Spirit Seal (level 1)
+  Fire Spirit Seal (level 1)
+  Fire Spirit - Rush (level 1)
+  Metal Spirit - Needle (level 2)
+  Heavenly Decree - Defend (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Sword Slash (level 2)
+  Thunder Sword (level 2)
+  Giant Tiger Spirit Sword (level 1)
+  Flying Fang Sword (level 1)
+  Cloud Sword - Touch Sky (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

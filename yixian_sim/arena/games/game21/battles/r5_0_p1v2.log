@@ -1,0 +1,150 @@
+gained 1 qi. Now have 1 qi
+reduced 吾行之(pid2) hp by 2 to 51
+turn 1a begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 1a: A(hp 53/53, def 0, qi 3) | B(hp 51/53, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 48
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 1b: A(hp 48/53, def 0, qi 3) | B(hp 51/53, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 45
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 2a: A(hp 48/53, def 0, qi 3) | B(hp 45/53, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    reduced 谭舒雁(pid1) hp by 6 to 42
+    gained 2 penetrate. Now have 2 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 2b: A(hp 42/53, def 0, qi 3) | B(hp 45/53, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 吾行之(pid2) hp by 1 to 44
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 3a: A(hp 42/53, def 0, qi 4) | B(hp 44/53, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 1/2 qi
+  STATE after turn 3b: A(hp 42/53, def 0, qi 4) | B(hp 44/53, def 0, qi 1)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 吾行之(pid2) hp by 4 to 40
+    reduced 吾行之(pid2) hp by 4 to 36
+    gained 12 def. Now have 12 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 4a: A(hp 42/53, def 12, qi 3) | B(hp 36/53, def 0, qi 1)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 2). They now have 2/2 qi
+  STATE after turn 4b: A(hp 42/53, def 12, qi 3) | B(hp 36/53, def 0, qi 2)
+turn 4b ends
+turn 5a begins
+  lost 6 def. Now have 6 def
+  谭舒雁(pid1) is playing Astral Move - Block (level 1)
+    reduced 吾行之(pid2) hp by 6 to 30
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 5a: A(hp 42/53, def 6, qi 3) | B(hp 30/53, def 0, qi 2)
+turn 5a ends
+turn 5b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 2)
+    lost 6 def. Now have 0 def
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 谭舒雁(pid1) hp by 9 to 33
+    gained 1 force_of_water. Now have 1 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 1 to 32
+  STATE after turn 5b: A(hp 32/53, def 0, qi 3) | B(hp 30/53, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 1)
+    reduced 吾行之(pid2) hp by 9 to 21
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 6a: A(hp 32/53, def 0, qi 2) | B(hp 21/53, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 1/2 qi
+  reduced 谭舒雁(pid1) hp by 1 to 31
+  STATE after turn 6b: A(hp 31/53, def 0, qi 2) | B(hp 21/53, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced 吾行之(pid2) hp by 11 to 10
+    gained 1 weaken. Now have 1 weaken
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 7a: A(hp 31/53, def 0, qi 1) | B(hp 10/53, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 2 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Waves (level 1). They now have 2/2 qi
+  reduced 谭舒雁(pid1) hp by 1 to 30
+  lost 1 weaken. Now have 0 weaken
+  STATE after turn 7b: A(hp 30/53, def 0, qi 1) | B(hp 10/53, def 0, qi 2)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 7
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 30/53, def 0, qi 1) | B(hp 7/53, def 0, qi 2)
+turn 8a ends
+turn 8b begins
+  lost 2 qi. Now have 0 qi
+  吾行之(pid2) spent 2 qi to play Water Spirit - Waves (level 1)
+    reduced 谭舒雁(pid1) hp by 10 to 20
+    gained 1 force_of_water. Now have 2 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Waves
+  reduced 谭舒雁(pid1) hp by 2 to 18
+  STATE after turn 8b: A(hp 18/53, def 0, qi 1) | B(hp 7/53, def 0, qi 0)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 9a: A(hp 18/53, def 0, qi 3) | B(hp 7/53, def 0, qi 0)
+turn 9a ends
+turn 9b begins
+  gained 1 qi. Now have 1 qi
+  吾行之(pid2) gained qi instead of playing Water Spirit - Turbulent (level 1). They now have 1/1 qi
+  reduced 谭舒雁(pid1) hp by 2 to 16
+  STATE after turn 9b: A(hp 16/53, def 0, qi 3) | B(hp 7/53, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 1
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 10a: A(hp 16/53, def 0, qi 3) | B(hp 1/53, def 0, qi 1)
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    reduced 谭舒雁(pid1) hp by 12 to 4
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 谭舒雁(pid1) hp by 2 to 2
+  STATE after turn 10b: A(hp 2/53, def 0, qi 3) | B(hp 1/53, def 0, qi 0)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 1)
+    reduced 吾行之(pid2) hp by 4 to -3
+    gained 1 qi. Now have 4 qi
+  STATE after turn 11a: A(hp 2/53, def 0, qi 4) | B(hp -3/53, def 0, qi 0)
+turn 11a ends
+吾行之(pid2) loses 6 destiny, now at 76
+谭舒雁(pid1) (Tan Shuyan) wins

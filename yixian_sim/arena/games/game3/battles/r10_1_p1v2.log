@@ -1,0 +1,159 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 1a ends
+turn 1b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 81
+    reduced player 1 max_hp by 3 to 81
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1b ends
+turn 2a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 4 qi
+  player 0 finished playing Water Hexagram
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced player 1 hp by 11 to 70
+    reduced player 1 hp by 3 to 67
+  player 0 finished playing Fire Spirit - Rush
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 7 to 79
+    reduced player 1 hp by 7 to 72
+  player 0 finished playing Astral Move - Flank
+turn 3a ends
+turn 3b begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 53
+  player 0 finished playing Five Elements Fleche
+turn 3b ends
+turn 4a begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 63
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 1 to 52
+    reduced player 1 hp by 5 to 47
+    reduced player 1 hp by 6 to 41
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    reduced player 1 hp by 11 to 52
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 5a ends
+turn 5b begins
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 3 qi
+    reduced player 1 hp by 4 to 37
+    reduced player 1 max_hp by 4 to 77
+  player 0 finished playing Fire Spirit - Flame Eater
+  lost 1 weaken. Now have 0 weaken
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 42
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 7 to 35
+  player 0 finished playing Sparrow's Tail
+turn 6a ends
+turn 6b begins
+  player 0 is playing Earth Spirit - Dust (level 1)
+  player 0 upgrades Earth Spirit - Dust (level 1) to Earth Spirit - Dust (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    reduced player 1 hp by 12 to 25
+    gained 2 def. Now have 2 def
+    gained 2 next_turn_def. Now have 2 next_turn_def
+  player 0 finished playing Earth Spirit - Dust
+turn 6b ends
+turn 7a begins
+  player 0 is playing Incessant (level 3)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 10 to 25
+  player 0 finished playing Incessant
+turn 7a ends
+turn 7b begins
+  lost 2 next_turn_def. Now have 0 next_turn_def
+  gained 2 def. Now have 2 def
+  player 0 is playing Earth Spirit - Quicksand (level 1)
+    reduced player 1 hp by 9 to 16
+  player 0 finished playing Earth Spirit - Quicksand
+turn 7b ends
+turn 8a begins
+  player 0 is playing Palm Thunder (level 2)
+    lost 1 hexagram. Now have 0 hexagram
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 11 to 14
+  player 0 finished playing Palm Thunder
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 13
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 9a ends
+turn 9b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 10
+    reduced player 1 max_hp by 3 to 74
+    gained 2 qi. Now have 5 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9b ends
+turn 10a begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 4 qi
+  player 0 finished playing Water Hexagram
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    reduced player 1 hp by 11 to -1
+    reduced player 1 hp by 3 to -4
+turn 10b ends
+player 0 loses 15 destiny, now at 49
+player 1 (Wu Xingzhi) wins
+Player 0's deck:
+  Wind Hexagram (level 2)
+  Water Hexagram (level 1)
+  Astral Move - Flank (level 2)
+  Heavenly Decree - Attack (level 2)
+  Golden Rooster Independence (level 1)
+  Sparrow's Tail (level 2)
+  Incessant (level 3)
+  Palm Thunder (level 2)
+Player 1's deck:
+  Fire Spirit Seal (level 2)
+  Fire Spirit - Rush (level 2)
+  Five Elements Fleche (level 3)
+  Fire Spirit - Scarlet Flame (level 2)
+  Fire Spirit - Flame Eater (level 2)
+  Earth Spirit - Dust (level 2)
+  Earth Spirit - Quicksand (level 1)
+  Normal Attack (level 1)

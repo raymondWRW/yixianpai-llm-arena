@@ -1,0 +1,225 @@
+turn 1a begins
+  player 0 is playing Heavenly Decree - Defend (level 2)
+    reduced player 1 hp by 3 to 110
+    gained 12 def. Now have 12 def
+  player 0 finished playing Heavenly Decree - Defend
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  lost 6 def. Now have 6 def
+  player 0 is playing Earth Spirit - Steep (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    gained 13 def. Now have 19 def
+  player 0 finished playing Earth Spirit - Steep
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 4 star_power
+    gained 1 qi. Now have 3 qi
+  player 0 finished playing Starry Moon
+turn 2b ends
+turn 3a begins
+  lost 10 def. Now have 9 def
+  player 0 is playing Cosmos Seal (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 8 to 102
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 9 def. Now have 0 def
+    reduced player 1 hp by 2 to 104
+    reduced player 1 hp by 11 to 93
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  player 0 is playing Metal Spirit Formation (level 1)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 4 penetrate. Now have 4 penetrate
+    gained 1 metal_spirit_formation_stacks. Now have 1 metal_spirit_formation_stacks
+  player 0 finished playing Metal Spirit Formation
+turn 4a ends
+turn 4b begins
+  player 0 is playing Astral Move - Stand (level 2)
+    reduced player 1 hp by 12 to 81
+    gained 2 qi. Now have 4 qi
+  player 0 finished playing Astral Move - Stand
+turn 4b ends
+turn 5a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 12 to 90
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 5a ends
+turn 5b begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 76
+    gained 1 qi. Now have 5 qi
+  player 0 finished playing Shifting Stars
+turn 5b ends
+turn 6a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 12 to 78
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 1)
+    reduced player 1 hp by 6 to 70
+    reduced player 1 hp by 6 to 64
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Astral Move - Fly
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    reduced player 1 hp by 5 to 59
+    reduced player 1 hp by 5 to 54
+  player 0 finished playing Astral Move - Hit
+turn 6b ends
+turn 7a begins
+  player 0 is playing Metal Spirit - Heart Pierce (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 15 to 63
+    gained 2 ignore_def. Now have 2 ignore_def
+  player 0 finished playing Metal Spirit - Heart Pierce
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Cutting Weeds (level 1)
+    reduced player 1 hp by 5 to 49
+    reduced player 1 hp by 5 to 44
+    reduced player 1 max_hp by 7 to 99
+  player 0 finished playing Cutting Weeds
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 ignore_def. Now have 1 ignore_def
+    reduced player 1 hp by 11 to 52
+  player 0 finished playing Fire Spirit - Rush
+turn 8a ends
+turn 8b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 4 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 5 star_power
+  player 0 finished playing Dotted Around
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Spirit - Steep (level 1)
+    gained 16 def. Now have 16 def
+  player 0 finished playing Earth Spirit - Steep
+turn 9a ends
+turn 9b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 8 star_power
+    gained 1 qi. Now have 5 qi
+    gained 1 qi. Now have 6 qi
+  player 0 finished playing Starry Moon
+turn 9b ends
+turn 10a begins
+  lost 8 def. Now have 8 def
+  player 0 is playing Cosmos Seal (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced player 1 hp by 9 to 43
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 7 to 37
+    reduced player 1 hp by 15 to 22
+  player 0 finished playing Astral Move - Flank
+turn 10b ends
+turn 11a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+    gained 1 penetrate. Now have 1 penetrate
+    penetrating 1 damage
+    lost 1 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 8 to 35
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 11a ends
+turn 11b begins
+  player 0 is playing Astral Move - Stand (level 2)
+    reduced player 1 hp by 16 to 6
+    gained 2 qi. Now have 7 qi
+  player 0 finished playing Astral Move - Stand
+turn 11b ends
+turn 12a begins
+  player 0 is playing Metal Spirit - Needle (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 12 to 23
+    gained 4 penetrate. Now have 4 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 12a ends
+turn 12b begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 5 to 1
+    gained 1 qi. Now have 8 qi
+  player 0 finished playing Shifting Stars
+turn 12b ends
+turn 13a begins
+  player 0 is playing Metal Spirit - Heart Pierce (level 2)
+    gained 1 penetrate. Now have 5 penetrate
+    penetrating 5 damage
+    lost 5 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 15 to 8
+    gained 2 ignore_def. Now have 2 ignore_def
+  player 0 finished playing Metal Spirit - Heart Pierce
+turn 13a ends
+turn 13b begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Astral Move - Fly (level 1)
+    reduced player 1 hp by 10 to -9
+    reduced player 1 hp by 10 to -19
+    gained 1 this_card_chases. Now have 1 this_card_chases
+turn 13b ends
+player 0 loses 19 destiny, now at 4
+player 1 (Tan Shuyan) wins
+Player 0's deck:
+  Heavenly Decree - Defend (level 2)
+  Earth Spirit - Steep (level 1)
+  Cosmos Seal (level 2)
+  Metal Spirit Formation (level 1)
+  Metal Spirit - Needle (level 2)
+  Metal Spirit - Needle (level 2)
+  Metal Spirit - Heart Pierce (level 2)
+  Fire Spirit - Rush (level 2)
+Player 1's deck:
+  Dotted Around (level 2)
+  Starry Moon (level 2)
+  Astral Move - Flank (level 2)
+  Astral Move - Stand (level 2)
+  Shifting Stars (level 1)
+  Astral Move - Fly (level 1)
+  Astral Move - Hit (level 1)
+  Cutting Weeds (level 1)

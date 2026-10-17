@@ -1,0 +1,454 @@
+gained 1 smash_def. Now have 1 smash_def
+gained 5 def. Now have 5 def
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1b ends
+turn 2a begins
+  player 0 is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 126 max_hp
+    healed 4 hp. Went from 122 to 126
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  player 0 finished playing Repel Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 2b ends
+turn 3a begins
+  gained 1 qi. Now have 1 qi
+  healed 2 hp. Went from 126 to 126
+  player 0 gained qi instead of playing Escape Plan (level 1). They now have 1/1 qi
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Metal Spirit Seal (level 3)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 12 to 114
+    lost 2 def. Now have 1 def
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced player 1 hp by 8 to 106
+    lost 1 def. Now have 0 def
+    reduced player 0 hp by 1 to 105
+  player 0 finished playing Metal Spirit Seal
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 106 to 115
+  player 0 finished playing Escape Plan
+turn 4a ends
+turn 4b begins
+  player 0 is playing Metal Spirit - Shuttle (level 2)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    lost 8 def. Now have 1 def
+    reduced player 0 hp by 2 to 103
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cosmos Seal (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 8 to 107
+    reduced player 0 hp by 2 to 101
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 4b ends
+turn 5a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 5a ends
+turn 5b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Fire Spirit - Blazing Prairie (level 1). They now have 2/2 qi
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    reduced player 1 hp by 2 to 99
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 107 to 111
+  player 0 finished playing White Crane Bright Wings
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Fire Spirit - Blazing Prairie (level 1)
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 5 to 106
+    reduced player 0 hp by 2 to 97
+    reduced player 1 hp by 6 to 100
+    reduced player 0 hp by 2 to 95
+    reduced player 1 hp by 6 to 94
+    reduced player 0 hp by 2 to 93
+    reducing hp to max_hp of 92
+    reduced player 1 max_hp by 34 to 92
+  player 0 finished playing Fire Spirit - Blazing Prairie
+turn 6b ends
+turn 7a begins
+  player 0 is playing Thunder And Lighting (level 1)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    reduced player 1 hp by 4 to 89
+    gained 1 qi. Now have 3 qi
+    healed 2 hp. Went from 92 to 92
+    lost 1 hexagram. Now have 0 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced player 1 hp by 4 to 85
+    gained 1 qi. Now have 4 qi
+    healed 2 hp. Went from 92 to 92
+  player 0 finished playing Thunder And Lighting
+turn 7a ends
+turn 7b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to 85
+    reduced player 0 hp by 2 to 83
+  player 0 finished playing Earth Spirit - Smash
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 104 max_hp
+    healed 13 hp. Went from 85 to 98
+  player 0 finished playing Qi Therapy
+turn 8a ends
+turn 8b begins
+  player 0 is playing Earth Spirit - Cliff (level 2)
+    gained 15 def. Now have 15 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  player 0 finished playing Earth Spirit - Cliff
+turn 8b ends
+turn 9a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    lost 15 def. Now have 0 def
+    lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+    reduced player 0 hp by 15 to 83
+    reduced player 1 hp by 1 to 82
+  player 0 finished playing Astral Move - Cide
+turn 9a ends
+turn 9b begins
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 83 to 92
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 10a ends
+turn 10b begins
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 10b ends
+turn 11a begins
+  lost 5 def. Now have 4 def
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 6 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 11a ends
+turn 11b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Metal Spirit Seal (level 3)
+    lost 6 def. Now have 0 def
+    prevented 6 damage to hp with guard up. 0 guard up remaining
+    lost 2 def. Now have 0 def
+    gained 1 activate_metal_spirit_stacks. Now have 2 activate_metal_spirit_stacks
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced player 1 hp by 8 to 84
+    reduced player 0 hp by 2 to 80
+  player 0 finished playing Metal Spirit Seal
+turn 11b ends
+turn 12a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    reduced player 1 hp by 2 to 78
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 84 to 88
+  player 0 finished playing White Crane Bright Wings
+turn 12a ends
+turn 12b begins
+  player 0 is playing Metal Spirit - Shuttle (level 2)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    reduced player 1 hp by 8 to 80
+    reduced player 0 hp by 2 to 76
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 71
+    reduced player 0 hp by 2 to 74
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 12b ends
+turn 13a begins
+  player 0 is playing Thunder And Lighting (level 1)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    reduced player 1 hp by 4 to 70
+    gained 1 qi. Now have 4 qi
+    healed 2 hp. Went from 71 to 73
+    lost 1 hexagram. Now have 0 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced player 1 hp by 4 to 66
+    gained 1 qi. Now have 5 qi
+    healed 2 hp. Went from 73 to 75
+  player 0 finished playing Thunder And Lighting
+turn 13a ends
+turn 13b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Fire Spirit - Blazing Prairie (level 1). They now have 2/2 qi
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 116 max_hp
+    healed 22 hp. Went from 75 to 97
+  player 0 finished playing Qi Therapy
+turn 14a ends
+turn 14b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Fire Spirit - Blazing Prairie (level 1)
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+    reduced player 1 hp by 6 to 91
+    reduced player 0 hp by 2 to 64
+    reduced player 1 hp by 6 to 85
+    reduced player 0 hp by 2 to 62
+    reduced player 1 hp by 6 to 79
+    reduced player 0 hp by 2 to 60
+    reducing hp to max_hp of 77
+    reduced player 1 max_hp by 39 to 77
+  player 0 finished playing Fire Spirit - Blazing Prairie
+turn 14b ends
+turn 15a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    reduced player 1 hp by 16 to 44
+  player 0 finished playing Astral Move - Cide
+turn 15a ends
+turn 15b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 7 to 70
+    reduced player 0 hp by 2 to 42
+  player 0 finished playing Earth Spirit - Smash
+turn 15b ends
+turn 16a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 70 to 77
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 16a ends
+turn 16b begins
+  player 0 is playing Earth Spirit - Cliff (level 2)
+    gained 15 def. Now have 15 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  player 0 finished playing Earth Spirit - Cliff
+turn 16b ends
+turn 17a begins
+  lost 5 def. Now have 4 def
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 6 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 17a ends
+turn 17b begins
+  lost 8 def. Now have 7 def
+  lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+  lost 6 def. Now have 0 def
+  prevented 2 damage to hp with guard up. 0 guard up remaining
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 17b ends
+turn 18a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 7 def. Now have 0 def
+    reduced player 1 hp by 1 to 41
+    gained 2 qi. Now have 4 qi
+    healed 4 hp. Went from 77 to 77
+  player 0 finished playing White Crane Bright Wings
+turn 18a ends
+turn 18b begins
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 18b ends
+turn 19a begins
+  player 0 is playing Thunder And Lighting (level 1)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 4 def. Now have 1 def
+    gained 1 qi. Now have 5 qi
+    healed 2 hp. Went from 77 to 77
+    lost 1 hexagram. Now have 0 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 3 to 38
+    gained 1 qi. Now have 6 qi
+    healed 2 hp. Went from 77 to 77
+  player 0 finished playing Thunder And Lighting
+turn 19a ends
+turn 19b begins
+  player 0 is playing Metal Spirit Seal (level 3)
+    reduced player 1 hp by 12 to 65
+    reduced player 0 hp by 2 to 36
+    gained 1 activate_metal_spirit_stacks. Now have 3 activate_metal_spirit_stacks
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced player 1 hp by 8 to 57
+    reduced player 0 hp by 2 to 34
+  player 0 finished playing Metal Spirit Seal
+turn 19b ends
+turn 20a begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 89 max_hp
+    healed 14 hp. Went from 57 to 71
+  player 0 finished playing Qi Therapy
+turn 20a ends
+turn 20b begins
+  player 0 is playing Metal Spirit - Shuttle (level 2)
+    gained 1 disable_penetrate_stacks. Now have 1 disable_penetrate_stacks
+    reduced player 1 hp by 8 to 63
+    reduced player 0 hp by 2 to 32
+    lost 1 disable_penetrate_stacks. Now have 0 disable_penetrate_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Metal Spirit - Shuttle
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cosmos Seal (level 2)
+    reduced player 1 hp by 9 to 54
+    reduced player 0 hp by 2 to 30
+    gained 1 qi. Now have 1 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 20b ends
+turn 21a begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced player 1 hp by 10 to 20
+  player 0 finished playing Astral Move - Cide
+turn 21a ends
+turn 21b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Fire Spirit - Blazing Prairie (level 1). They now have 2/2 qi
+turn 21b ends
+turn 22a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 54 to 63
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 22a ends
+turn 22b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Fire Spirit - Blazing Prairie (level 1)
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+    lost 6 def. Now have 3 def
+    reduced player 0 hp by 2 to 18
+    lost 3 def. Now have 0 def
+    prevented 3 damage to hp with guard up. 0 guard up remaining
+    reduced player 0 hp by 2 to 16
+    reduced player 1 hp by 6 to 57
+    reduced player 0 hp by 2 to 14
+    reducing hp to max_hp of 55
+    reduced player 1 max_hp by 34 to 55
+  player 0 finished playing Fire Spirit - Blazing Prairie
+turn 22b ends
+turn 23a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 23a ends
+turn 23b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 10 to 45
+    reduced player 0 hp by 2 to 12
+  player 0 finished playing Earth Spirit - Smash
+turn 23b ends
+turn 24a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 4
+    gained 2 qi. Now have 5 qi
+    healed 4 hp. Went from 45 to 49
+  player 0 finished playing White Crane Bright Wings
+turn 24a ends
+turn 24b begins
+  player 0 is playing Earth Spirit - Cliff (level 2)
+    gained 15 def. Now have 15 def
+    gained 1 earth_spirit_cliff_stacks. Now have 1 earth_spirit_cliff_stacks
+  player 0 finished playing Earth Spirit - Cliff
+turn 24b ends
+turn 25a begins
+  player 0 is playing Thunder And Lighting (level 1)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 10 def. Now have 5 def
+    lost 1 earth_spirit_cliff_stacks. Now have 0 earth_spirit_cliff_stacks
+    reduced player 0 hp by 10 to 39
+    gained 1 qi. Now have 6 qi
+    healed 2 hp. Went from 39 to 41
+    lost 1 hexagram. Now have 0 hexagram
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 5 to -1
+    gained 1 qi. Now have 7 qi
+    healed 2 hp. Went from 41 to 43
+turn 25a ends
+player 1 loses 22 destiny, now at 36
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Repel Citta-Dharma (level 1)
+  Escape Plan (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Thunder And Lighting (level 1)
+  Qi Therapy (level 2)
+  Astral Move - Cide (level 1)
+Player 1's deck:
+  Examine Body (level 2)
+  Everything is Unadvisable (level 2)
+  Metal Spirit Seal (level 3)
+  Metal Spirit - Shuttle (level 2)
+  Cosmos Seal (level 2)
+  Fire Spirit - Blazing Prairie (level 1)
+  Earth Spirit - Smash (level 2)
+  Earth Spirit - Cliff (level 2)

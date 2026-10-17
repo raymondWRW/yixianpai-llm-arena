@@ -1,0 +1,96 @@
+reduced 小布(pid3) hp by 2 to 50
+turn 1a begins
+  牧逸风(pid0) is playing Sword Defence (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 sword_intent. Now have 2 sword_intent
+  牧逸风(pid0) finished playing Sword Defence
+  STATE after turn 1a: A(hp 50/52, def 4, qi 0, sword 2) | B(hp 51/55, def 0, qi 0, phys 4)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 2 to 49
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 4 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 5 to 45
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 1b: A(hp 45/52, def 0, qi 0, sword 2) | B(hp 49/55, def 0, qi 0, phys 4)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 7 to 42
+    gained 3 sword_intent. Now have 5 sword_intent
+    lost 2 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2a: A(hp 45/52, def 0, qi 0, sword 3) | B(hp 42/55, def 0, qi 0, phys 4)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 牧逸风(pid0) hp by 5 to 40
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2b: A(hp 40/52, def 0, qi 0, sword 3) | B(hp 42/55, def 0, qi 1, force 2, phys 4)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 1)
+    reduced 小布(pid3) hp by 7 to 35
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 3a: A(hp 40/52, def 0, qi 0) | B(hp 35/55, def 0, qi 1, force 2, phys 4)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Vigorous Force (level 1)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 9 to 31
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 3b: A(hp 31/52, def 0, qi 0) | B(hp 35/55, def 0, qi 0, force 3, phys 4)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 2)
+    reduced 小布(pid3) hp by 6 to 29
+    reduced 小布(pid3) hp by 5 to 24
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 4a: A(hp 31/52, def 0, qi 0) | B(hp 24/55, def 0, qi 0, force 3, phys 4)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 3 to 21
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 11 to 20
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 4b: A(hp 20/52, def 0, qi 0) | B(hp 21/55, def 0, qi 0, force 2, phys 4)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 2)
+    reduced 小布(pid3) hp by 9 to 12
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 5a: A(hp 20/52, def 0, qi 0) | B(hp 12/55, def 0, qi 0, force 2, phys 4)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 2 to 10
+  小布(pid3) spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 15 to 5
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Bounce
+  STATE after turn 5b: A(hp 5/52, def 0, qi 0) | B(hp 10/55, def 0, qi 0, force 1, phys 4)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Cloud Sword - Conceal (level 1)
+    reduced 小布(pid3) hp by 9 to 1
+  牧逸风(pid0) finished playing Cloud Sword - Conceal
+  STATE after turn 6a: A(hp 5/52, def 0, qi 0) | B(hp 1/55, def 0, qi 0, force 1, phys 4)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 牧逸风(pid0) hp by 6 to -1
+  STATE after turn 6b: A(hp -1/52, def 0, qi 0) | B(hp 1/55, def 0, qi 0, force 1, phys 4)
+turn 6b ends
+牧逸风(pid0) loses 5 destiny, now at 86
+小布(pid3) (Xiao Bu) wins

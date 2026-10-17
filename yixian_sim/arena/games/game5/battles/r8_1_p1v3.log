@@ -1,0 +1,169 @@
+turn 1a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1a ends
+turn 1b begins
+  player 0 is playing Crash Footwork (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 4 agility. Now have 4 agility
+    gained 1 crash_footwork_stacks. Now have 1 crash_footwork_stacks
+  player 0 finished playing Crash Footwork
+turn 1b ends
+turn 2a begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 56
+    reduced player 1 max_hp by 16 to 75
+  player 0 finished playing Fire Cloud Fulu
+turn 2a ends
+turn 2b begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 1 to 78
+    gained 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Gather Force
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 8 to 48
+    reduced player 1 hp by 8 to 40
+  player 0 finished playing Astral Move - Flank
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 3 to 37
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 10 to 68
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 3b ends
+turn 4a begins
+  player 0 is playing Shifting Stars (level 2)
+    reduced player 1 hp by 8 to 29
+  player 0 finished playing Shifting Stars
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 3 to 26
+  player 0 spent 3 hp to play Crash Fist - Block (level 2)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 12 to 56
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 4b ends
+turn 5a begins
+  player 0 is playing Incessant (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 7 to 19
+  player 0 finished playing Incessant
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 4 to 15
+  player 0 spent 4 hp to play Crash Fist - Shake (level 1)
+    gained 3 def. Now have 3 def
+    reduced player 1 hp by 10 to 46
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Shake
+turn 5b ends
+turn 6a begins
+  player 0 is playing Astral Move - Block (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 6 to 9
+    gained 4 def. Now have 4 def
+  player 0 finished playing Astral Move - Block
+turn 6a ends
+turn 6b begins
+  player 0 is playing Exercise Fist (level 2)
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 6 to 40
+    gained 1 physique. Now have 20 physique
+    gained 1 max_hp. Now have 76 max_hp
+  player 0 finished playing Exercise Fist
+turn 6b ends
+turn 7a begins
+  player 0 is playing Guard Spirit Fulu (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 11 def. Now have 11 def
+  player 0 finished playing Guard Spirit Fulu
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 4 force
+    gained 6 agility. Now have 10 agility
+  player 0 finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  reduced player 0 hp by 2 to 7
+  player 0 spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 3 force
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 13 to 27
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  player 0 finished playing Strong Force
+turn 7b ends
+turn 8a begins
+  player 0 is playing Hunter Becomes Preyer (level 1)
+    reduced player 1 hp by 2 to 5
+    reduced player 1 hp by 2 to 3
+    healed 4 hp. Went from 27 to 31
+  player 0 finished playing Hunter Becomes Preyer
+turn 8a ends
+turn 8b begins
+  player 0 is playing Gather Force (level 1)
+    lost 1 force. Now have 2 force
+    reduced player 1 hp by 2 to 29
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 4 force
+  player 0 finished playing Gather Force
+turn 8b ends
+turn 9a begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 3 to 0
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    lost 1 force. Now have 3 force
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 9 to 20
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+turn 9b ends
+player 1 loses 12 destiny, now at 60
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Dotted Around (level 2)
+  Fire Cloud Fulu (level 2)
+  Astral Move - Flank (level 2)
+  Shifting Stars (level 2)
+  Incessant (level 2)
+  Astral Move - Block (level 2)
+  Guard Spirit Fulu (level 2)
+  Hunter Becomes Preyer (level 1)
+Player 1's deck:
+  Crash Footwork (level 1)
+  Gather Force (level 1)
+  Crash Fist - Poke (level 1)
+  Crash Fist - Block (level 2)
+  Crash Fist - Shake (level 1)
+  Exercise Fist (level 2)
+  Sailing through Sky (level 1)
+  Strong Force (level 1)

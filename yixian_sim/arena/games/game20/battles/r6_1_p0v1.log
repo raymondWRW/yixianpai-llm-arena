@@ -1,0 +1,162 @@
+gained 1 smash_def. Now have 1 smash_def
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  牧逸风(pid0) is playing Light Sword (level 2)
+    gained 1 def. Now have 1 def
+    gained 1 moon_water_sword_formation_stacks. Now have 1 moon_water_sword_formation_stacks
+    reduced 谭舒雁(pid1) hp by 4 to 58
+    gained 1 def. Now have 1 def
+    gained 2 qi. Now have 2 qi
+  牧逸风(pid0) finished playing Light Sword
+  STATE after turn 1a: A(hp 62/62, def 1, qi 2) | B(hp 58/62, def 1, qi 1)
+turn 1a ends
+turn 1b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 1b: A(hp 62/62, def 1, qi 2) | B(hp 58/62, def 0, qi 1)
+turn 1b ends
+turn 2a begins
+  lost 1 moon_water_sword_formation_stacks. Now have 0 moon_water_sword_formation_stacks
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 53
+    gained 1 def. Now have 1 def
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 2a: A(hp 62/62, def 1, qi 2, sword 3) | B(hp 53/62, def 1, qi 1)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Detect Qi
+  STATE after turn 2b: A(hp 62/62, def 1, qi 2, sword 3) | B(hp 53/62, def 0, qi 3)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 9 to 44
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 34
+    gained 1 def. Now have 1 def
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 3a: A(hp 62/62, def 0, qi 1) | B(hp 34/62, def 1, qi 3)
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 牧逸风(pid0) hp by 5 to 57
+    reduced 牧逸风(pid0) hp by 5 to 52
+    reduced 牧逸风(pid0) max_hp by 8 to 54
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced 牧逸风(pid0) hp by 5 to 47
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 3b: A(hp 47/54, def 0, qi 1) | B(hp 34/62, def 0, qi 2)
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Thunder Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 5 to 29
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 24
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Thunder Sword
+  STATE after turn 4a: A(hp 47/54, def 0, qi 0) | B(hp 24/62, def 1, qi 2)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Falling Thunder (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 41
+  谭舒雁(pid1) finished playing Falling Thunder
+  STATE after turn 4b: A(hp 41/54, def 0, qi 0) | B(hp 24/62, def 0, qi 1)
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Giant Tiger Spirit Sword (level 2). They now have 1/1 qi
+  STATE after turn 5a: A(hp 41/54, def 0, qi 1) | B(hp 24/62, def 0, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 36
+    reduced 牧逸风(pid0) hp by 5 to 31
+    reduced 牧逸风(pid0) max_hp by 11 to 43
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 5b: A(hp 31/43, def 0, qi 1) | B(hp 24/62, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 13 to 11
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 6a: A(hp 31/43, def 0, qi 0) | B(hp 11/62, def 1, qi 0)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing White Crane Bright Wings (level 2)
+    reduced 牧逸风(pid0) hp by 3 to 28
+    gained 2 qi. Now have 2 qi
+  谭舒雁(pid1) finished playing White Crane Bright Wings
+  STATE after turn 6b: A(hp 28/43, def 0, qi 0) | B(hp 11/62, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Flying Fang Sword (level 1). They now have 1/1 qi
+  STATE after turn 7a: A(hp 28/43, def 0, qi 1) | B(hp 11/62, def 0, qi 2)
+turn 7a ends
+turn 7b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 25
+    reduced 牧逸风(pid0) hp by 3 to 22
+    gained 3 def. Now have 3 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 7b: A(hp 22/43, def 0, qi 1) | B(hp 11/62, def 3, qi 1)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 5 to 6
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 8a: A(hp 22/43, def 0, qi 0) | B(hp 6/62, def 1, qi 1)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 19
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8b: A(hp 19/43, def 0, qi 0) | B(hp 6/62, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 1 qi
+  牧逸风(pid0) gained qi instead of playing Earth Evil Sword (level 1). They now have 1/1 qi
+  STATE after turn 9a: A(hp 19/43, def 0, qi 1) | B(hp 6/62, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  谭舒雁(pid1) is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 9b: A(hp 19/43, def 0, qi 1) | B(hp 6/62, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  牧逸风(pid0) spent 1 qi to play Earth Evil Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to -2
+    gained 1 def. Now have 1 def
+    gained 8 def. Now have 8 def
+  STATE after turn 10a: A(hp 19/43, def 8, qi 0) | B(hp -2/62, def 1, qi 1)
+turn 10a ends
+谭舒雁(pid1) loses 11 destiny, now at 78
+牧逸风(pid0) (Mu Yifeng) wins

@@ -1,0 +1,176 @@
+gained 4 def. Now have 4 def
+小布(pid3) downgrades Gather Intense Force (level 2) to Gather Intense Force (level 1)
+gained 4 max_hp. Now have 119 max_hp
+gained 6 max_hp. Now have 125 max_hp
+gained 1 def. Now have 5 def
+healed 4 hp. Went from 115 to 119
+turn 1a begins
+  lost 3 def. Now have 2 def
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 1a: A(hp 119/125, def 6, qi 0) | B(hp 113/122, def 0, qi 0, phys 9)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 7 to 106
+  小布(pid3) spent 7 hp to play Crash Fist - Blink (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 5 def
+    gained 7 agility. Now have 7 agility
+    gained 7 crash_fist_blink_stacks. Now have 7 crash_fist_blink_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blink
+  STATE after turn 1b: A(hp 119/125, def 5, qi 0) | B(hp 106/122, def 0, qi 0, phys 9, agi 7)
+turn 1b ends
+turn 2a begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 2a: A(hp 119/125, def 2, qi 1) | B(hp 106/122, def 0, qi 0, phys 9, agi 7)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Gather Intense Force (level 1)
+    gained 8 def. Now have 8 def
+    gained 3 max_force. Now have 9 max_force
+    gained 3 force. Now have 3 force
+  小布(pid3) finished playing Gather Intense Force
+  STATE after turn 2b: A(hp 119/125, def 2, qi 1) | B(hp 106/122, def 8, qi 0, force 3, phys 9, agi 7)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  谭舒雁(pid1) finished playing Envelop In Disaster
+  STATE after turn 3a: A(hp 119/125, def 1, qi 0) | B(hp 106/122, def 8, qi 0, force 3, injury 4, phys 9, agi 7)
+turn 3a ends
+turn 3b begins
+  lost 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 4 to 102
+  小布(pid3) is playing Crash Citta-Dharma (level 1)
+    gained 2 force. Now have 5 force
+    gained 1 crash_citta_dharma_stacks. Now have 1 crash_citta_dharma_stacks
+  小布(pid3) finished playing Crash Citta-Dharma
+  STATE after turn 3b: A(hp 119/125, def 1, qi 0) | B(hp 102/122, def 4, qi 0, force 5, injury 4, phys 9, agi 7)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 4 max_hp. Now have 129 max_hp
+    gained 6 max_hp. Now have 135 max_hp
+    gained 1 def. Now have 1 def
+    healed 4 hp. Went from 119 to 123
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 4a: A(hp 123/135, def 1, qi 2) | B(hp 102/122, def 4, qi 0, force 5, injury 4, phys 9, agi 7)
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 2 def
+  reduced 小布(pid3) hp by 4 to 98
+  reduced 小布(pid3) hp by 5 to 93
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    gained 1 force. Now have 6 force
+    gained 7 agility. Now have 14 agility
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 force. Now have 5 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 116
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 6 to 87
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 2)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 5 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 34 to 82
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 4b: A(hp 82/135, def 1, qi 2) | B(hp 87/122, def 2, qi 0, force 5, injury 4, phys 9, agi 4)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 6 internal_injury
+    reduced 小布(pid3) hp by 6 to 81
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 5a: A(hp 82/135, def 0, qi 2) | B(hp 81/122, def 2, qi 0, force 5, injury 6, phys 9, agi 4)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 6 to 75
+  reduced 小布(pid3) hp by 8 to 67
+  小布(pid3) spent 8 hp to play Crash Fist - Shocked (level 1)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 22 to 60
+    gained 1 def. Now have 1 def
+    gained 1 crash_fist_shocked_stacks. Now have 1 crash_fist_shocked_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shocked
+  STATE after turn 5b: A(hp 60/135, def 1, qi 2) | B(hp 67/122, def 1, qi 0, force 5, injury 6, phys 9, agi 4)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 8 internal_injury
+    reduced 小布(pid3) hp by 8 to 59
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 6a: A(hp 60/135, def 0, qi 2) | B(hp 59/122, def 1, qi 0, force 5, injury 8, phys 9, agi 4)
+turn 6a ends
+turn 6b begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 8 to 51
+  reduced 小布(pid3) hp by 5 to 46
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    gained 1 force. Now have 6 force
+    gained 1 this_card_crash_fist_shocked_stacks. Now have 1 this_card_crash_fist_shocked_stacks
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 16 to 44
+    gained 1 def. Now have 1 def
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    Attacking for 14 from crash fist - shocked effect.
+    lost 1 force. Now have 4 force
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 20 to 24
+    gained 1 def. Now have 1 def
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 6b: A(hp 24/135, def 1, qi 2) | B(hp 46/122, def 0, qi 0, force 4, injury 8, phys 9, agi 4)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    reduced 小布(pid3) hp by 6 to 40
+    gained 2 internal_injury. Now have 10 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 7a: A(hp 24/135, def 0, qi 1) | B(hp 40/122, def 0, qi 0, force 4, injury 10, phys 9, agi 4)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 10 to 30
+  reduced 小布(pid3) hp by 4 to 26
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 force. Now have 5 force
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 28 to -4
+    gained 1 def. Now have 1 def
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  STATE after turn 7b: A(hp -4/135, def 1, qi 1) | B(hp 26/122, def 5, qi 0, force 4, injury 10, phys 9, agi 4)
+turn 7b ends
+谭舒雁(pid1) loses 24 destiny, now at 10
+小布(pid3) (Xiao Bu) wins

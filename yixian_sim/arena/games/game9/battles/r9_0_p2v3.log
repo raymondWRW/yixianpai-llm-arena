@@ -1,0 +1,180 @@
+gained 1 qi. Now have 1 qi
+reduced 小布(pid3) hp by 2 to 76
+gained 1 qi. Now have 2 qi
+turn 1a begins
+  吾行之(pid2) is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  吾行之(pid2) finished playing Fraccide Formation
+  STATE after turn 1a: A(hp 76/78, def 0, qi 0) | B(hp 78/97, def 0, qi 2, phys 19)
+turn 1a ends
+turn 1b begins
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 70
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 1b: A(hp 70/78, def 0, qi 0) | B(hp 78/97, def 0, qi 2, phys 19)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 84 max_hp
+    healed 7 hp. Went from 70 to 77
+  吾行之(pid2) finished playing Cure Formation
+  STATE after turn 2a: A(hp 77/84, def 0, qi 0) | B(hp 78/97, def 0, qi 2, phys 19)
+turn 2a ends
+turn 2b begins
+  小布(pid3) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 2b: A(hp 77/84, def 0, qi 0) | B(hp 78/97, def 0, qi 4, phys 19)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Earth Spirit Seal (level 2)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    reduced 小布(pid3) hp by 8 to 70
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 2 activate_earth_spirit_stacks
+  吾行之(pid2) finished playing Earth Spirit Seal
+  STATE after turn 3a: A(hp 77/84, def 6, qi 0) | B(hp 70/97, def 0, qi 4, phys 19)
+turn 3a ends
+turn 3b begins
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 6 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 3 to 74
+    lost 1 qi. Now have 3 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 3b: A(hp 74/84, def 0, qi 0) | B(hp 70/97, def 0, qi 3, force 2, phys 19)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced 小布(pid3) hp by 10 to 60
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 4a: A(hp 74/84, def 0, qi 0) | B(hp 60/97, def 0, qi 3, force 2, phys 19)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 58
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 吾行之(pid2) hp by 22 to 52
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4b: A(hp 52/84, def 0, qi 0) | B(hp 58/97, def 0, qi 1, force 3, phys 19)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Impact Formation (level 2)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced 小布(pid3) hp by 11 to 47
+    reduced 小布(pid3) hp by 3 to 44
+  吾行之(pid2) finished playing Impact Formation
+  STATE after turn 5a: A(hp 52/84, def 0, qi 0) | B(hp 44/97, def 0, qi 1, force 3, phys 19)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Exercise Tendons (level 1)
+    lost 1 force. Now have 2 force
+    reduced 吾行之(pid2) hp by 6 to 46
+    gained 2 physique. Now have 21 physique
+    gained 2 max_hp. Now have 99 max_hp
+    gained 4 def. Now have 4 def
+  小布(pid3) finished playing Exercise Tendons
+  STATE after turn 5b: A(hp 46/84, def 0, qi 0) | B(hp 44/99, def 4, qi 1, force 2, phys 21)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Fire Spirit Seal (level 1)
+    reduced 小布(pid3) hp by 3 to 41
+    reduced 小布(pid3) max_hp by 3 to 96
+    gained 1 qi. Now have 1 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  吾行之(pid2) finished playing Fire Spirit Seal
+  STATE after turn 6a: A(hp 46/84, def 0, qi 1) | B(hp 41/96, def 4, qi 1, force 2, phys 21)
+turn 6a ends
+turn 6b begins
+  lost 2 def. Now have 2 def
+  reduced 小布(pid3) hp by 2 to 39
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 15 to 31
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 6b: A(hp 31/84, def 0, qi 1) | B(hp 39/96, def 2, qi 0, force 1, phys 21)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 0 qi
+  吾行之(pid2) spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to 30
+    reduced 小布(pid3) hp by 3 to 27
+  吾行之(pid2) finished playing Fire Spirit - Rush
+  STATE after turn 7a: A(hp 31/84, def 0, qi 0) | B(hp 27/96, def 0, qi 0, force 1, phys 21)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 5 to 22
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 11 to 20
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 7b: A(hp 20/84, def 0, qi 0) | B(hp 22/96, def 0, qi 0, phys 21)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 2 qi
+    reduced 小布(pid3) hp by 3 to 19
+    reduced 小布(pid3) max_hp by 3 to 93
+  吾行之(pid2) finished playing Fire Spirit - Flame Eater
+  STATE after turn 8a: A(hp 20/84, def 0, qi 2) | B(hp 19/93, def 0, qi 0, phys 21)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 4 to 15
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 吾行之(pid2) hp by 19 to 1
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 8b: A(hp 1/84, def 0, qi 2) | B(hp 15/93, def 5, qi 0, phys 21)
+turn 8b ends
+turn 9a begins
+  吾行之(pid2) is playing Cure Formation (level 1)
+    gained 6 max_hp. Now have 90 max_hp
+    healed 7 hp. Went from 1 to 8
+  吾行之(pid2) finished playing Cure Formation
+  STATE after turn 9a: A(hp 8/90, def 0, qi 2) | B(hp 15/93, def 5, qi 0, phys 21)
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 吾行之(pid2) hp by 6 to 2
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 9b: A(hp 2/90, def 0, qi 2) | B(hp 15/93, def 2, qi 0, phys 21)
+turn 9b ends
+turn 10a begins
+  吾行之(pid2) is playing Earth Spirit Seal (level 2)
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 3 to 12
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 3 activate_earth_spirit_stacks
+  吾行之(pid2) finished playing Earth Spirit Seal
+  STATE after turn 10a: A(hp 2/90, def 6, qi 2) | B(hp 12/93, def 0, qi 0, phys 21)
+turn 10a ends
+turn 10b begins
+  小布(pid3) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 2 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 10b: A(hp 2/90, def 6, qi 2) | B(hp 12/93, def 0, qi 2, phys 21)
+turn 10b ends
+turn 11a begins
+  lost 3 def. Now have 3 def
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 小布(pid3) hp by 12 to 0
+  STATE after turn 11a: A(hp 2/90, def 3, qi 2) | B(hp 0/93, def 0, qi 2, phys 21)
+turn 11a ends
+小布(pid3) loses 10 destiny, now at 68
+吾行之(pid2) (Wu Xingzhi) wins

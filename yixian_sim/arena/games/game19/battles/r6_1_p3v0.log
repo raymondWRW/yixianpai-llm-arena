@@ -1,0 +1,135 @@
+turn 1a begins
+  小布(pid3) is playing Endless Sword Formation (level 1)
+    gained 1 physique. Now have 4 physique
+    gained 1 max_hp. Now have 66 max_hp
+    healed 1 hp. Went from 62 to 63
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  小布(pid3) finished playing Endless Sword Formation
+  STATE after turn 1a: A(hp 63/66, def 0, qi 0, phys 4) | B(hp 62/62, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Contemplate Spirits Rhythm (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Contemplate Spirits Rhythm
+  STATE after turn 1b: A(hp 63/66, def 0, qi 0, phys 4) | B(hp 62/62, def 0, qi 1, sword 3)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Gather Force (level 1)
+    reduced 牧逸风(pid0) hp by 2 to 60
+    gained 1 qi. Now have 1 qi
+    gained 2 force. Now have 2 force
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 6 to 54
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2a: A(hp 63/66, def 0, qi 1, force 1, phys 4) | B(hp 54/62, def 0, qi 1, sword 3)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 2)
+    gained 3 qi. Now have 4 qi
+    reduced 小布(pid3) hp by 7 to 56
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 2b: A(hp 56/66, def 0, qi 1, force 1, phys 4) | B(hp 54/62, def 0, qi 4)
+turn 2b ends
+turn 3a begins
+  小布(pid3) is playing Rakshasa Pouncing (level 1)
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 8 to 46
+    gained 1 qi. Now have 2 qi
+    gained 1 wound. Now have 1 wound
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 牧逸风(pid0) hp by 5 to 41
+  小布(pid3) finished playing Rakshasa Pouncing
+  STATE after turn 3a: A(hp 56/66, def 0, qi 2, phys 4) | B(hp 41/62, def 0, qi 4)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 6 to 50
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 3b: A(hp 50/66, def 0, qi 2, phys 4) | B(hp 41/62, def 0, qi 4, sword 3)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 48
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 19 to 22
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4a: A(hp 48/66, def 0, qi 0, force 1, phys 4) | B(hp 22/62, def 0, qi 4, sword 3)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Cure Formation (level 1)
+    healed 7 hp. Went from 22 to 29
+  牧逸风(pid0) finished playing Cure Formation
+  STATE after turn 4b: A(hp 48/66, def 0, qi 0, force 1, phys 4) | B(hp 29/62, def 0, qi 4, sword 3)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 3 to 45
+  小布(pid3) spent 3 hp to play Youthful Vigor (level 2)
+    lost 1 force. Now have 0 force
+    reduced 牧逸风(pid0) hp by 11 to 18
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 5a: A(hp 45/66, def 0, qi 0, phys 4) | B(hp 18/62, def 0, qi 4, sword 3)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 3 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 1)
+    reduced 小布(pid3) hp by 12 to 33
+    lost 3 sword_intent. Now have 0 sword_intent
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 5b: A(hp 33/66, def 0, qi 0, phys 4) | B(hp 18/62, def 0, qi 3, sword 3)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Tiger Pouncing (level 1). They now have 1/3 qi
+  STATE after turn 6a: A(hp 33/66, def 0, qi 1, phys 4) | B(hp 18/62, def 0, qi 3, sword 3)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 5 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 6b: A(hp 33/66, def 0, qi 1, phys 4) | B(hp 18/62, def 0, qi 5, sword 3)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 2 qi
+  小布(pid3) gained qi instead of playing Tiger Pouncing (level 1). They now have 2/3 qi
+  STATE after turn 7a: A(hp 33/66, def 0, qi 2, phys 4) | B(hp 18/62, def 0, qi 5, sword 3)
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 20 to 13
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Whale Spirit Sword
+  STATE after turn 7b: A(hp 13/66, def 0, qi 2, phys 4) | B(hp 18/62, def 0, qi 3)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 3 qi
+  小布(pid3) gained qi instead of playing Tiger Pouncing (level 1). They now have 3/3 qi
+  STATE after turn 8a: A(hp 13/66, def 0, qi 3, phys 4) | B(hp 18/62, def 0, qi 3)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 4 to 9
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 9/66, def 0, qi 3, phys 4) | B(hp 18/62, def 0, qi 3)
+turn 8b ends
+turn 9a begins
+  lost 3 qi. Now have 0 qi
+  小布(pid3) spent 3 qi to play Tiger Pouncing (level 1)
+    reduced 牧逸风(pid0) hp by 18 to 0
+  STATE after turn 9a: A(hp 9/66, def 0, qi 0, phys 4) | B(hp 0/62, def 0, qi 3)
+turn 9a ends
+牧逸风(pid0) loses 8 destiny, now at 74
+小布(pid3) (Xiao Bu) wins

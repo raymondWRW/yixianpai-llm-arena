@@ -1,0 +1,192 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 4 def. Now have 4 def
+turn 1a begins
+  lost 2 def. Now have 2 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 2 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 1a: A(hp 82/82, def 2, qi 0) | B(hp 82/85, def 0, qi 0, injury 2, phys 3)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 2 to 80
+  小布(pid3) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  小布(pid3) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 92 max_hp
+  healed 7 hp. Went from 80 to 87
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 1b: A(hp 82/82, def 2, qi 0) | B(hp 87/92, def 7, qi 0, injury 2, phys 3)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2a: A(hp 82/82, def 2, qi 1) | B(hp 87/92, def 7, qi 0, injury 3, phys 3)
+turn 2a ends
+turn 2b begins
+  lost 4 def. Now have 3 def
+  reduced 小布(pid3) hp by 3 to 84
+  小布(pid3) is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  小布(pid3) finished playing Fraccide Formation
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 99 max_hp
+  healed 7 hp. Went from 84 to 91
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 2b: A(hp 82/82, def 2, qi 1) | B(hp 91/99, def 10, qi 0, injury 3, phys 3)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 1)
+    lost 6 def. Now have 4 def
+    gained 2 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 3a: A(hp 82/82, def 1, qi 0) | B(hp 91/99, def 4, qi 0, injury 5, phys 3)
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 2 def
+  reduced 小布(pid3) hp by 5 to 86
+  reduced 小布(pid3) hp by 4 to 82
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 14 to 68
+    gained 3 crash_fist_shake_stacks. Now have 3 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 3b: A(hp 68/82, def 0, qi 0) | B(hp 82/99, def 2, qi 0, injury 5, phys 3)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  谭舒雁(pid1) finished playing Everything is Unadvisable
+  STATE after turn 4a: A(hp 68/82, def 4, qi 0) | B(hp 82/99, def 2, qi 0, injury 5, phys 3)
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 5 to 77
+  reduced 小布(pid3) hp by 4 to 73
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 3 force. Now have 3 force
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 force. Now have 2 force
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 61
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 4b: A(hp 61/82, def 0, qi 0) | B(hp 73/99, def 1, qi 0, force 2, injury 5, phys 3)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 86 max_hp
+    healed 4 hp. Went from 61 to 65
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Repel Citta-Dharma
+  STATE after turn 5a: A(hp 65/86, def 0, qi 0) | B(hp 73/99, def 1, qi 0, force 2, injury 5, phys 3)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 5 to 68
+  reduced 小布(pid3) hp by 5 to 63
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    gained 1 wound. Now have 1 wound
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 5 to 60
+    reduced 小布(pid3) hp by 2 to 61
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 5b: A(hp 60/86, def 0, qi 0) | B(hp 61/99, def 0, qi 0, force 1, injury 5, phys 3)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Astral Move - Point (level 2)
+    reduced 小布(pid3) hp by 10 to 51
+  谭舒雁(pid1) finished playing Astral Move - Point
+  STATE after turn 6a: A(hp 60/86, def 0, qi 0) | B(hp 51/99, def 0, qi 0, force 1, injury 5, phys 3)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 5 to 46
+  reduced 小布(pid3) hp by 3 to 43
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 18 to 42
+    lost 2 def. Now have 3 def
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 6b: A(hp 42/86, def 0, qi 0) | B(hp 43/99, def 3, qi 0, injury 5, phys 3)
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Golden Rooster Independence (level 2). They now have 1/1 qi
+  STATE after turn 7a: A(hp 42/86, def 0, qi 1) | B(hp 43/99, def 3, qi 0, injury 5, phys 3)
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 1 def
+  reduced 小布(pid3) hp by 5 to 38
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 7b: A(hp 42/86, def 0, qi 1) | B(hp 38/99, def 1, qi 1, injury 5, phys 3)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Golden Rooster Independence (level 2)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 14 to 24
+    gained 1 weaken. Now have 1 weaken
+  谭舒雁(pid1) finished playing Golden Rooster Independence
+  STATE after turn 8a: A(hp 42/86, def 0, qi 0) | B(hp 24/99, def 0, qi 1, injury 5, phys 3)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 5 to 19
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    reduced 谭舒雁(pid1) hp by 8 to 34
+    reduced 小布(pid3) hp by 2 to 17
+    gained 1 internal_injury. Now have 6 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  lost 1 weaken. Now have 0 weaken
+  STATE after turn 8b: A(hp 34/86, def 0, qi 0) | B(hp 17/99, def 0, qi 0, injury 6, phys 3)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Wild Horses Part the Mane (level 2). They now have 1/1 qi
+  STATE after turn 9a: A(hp 34/86, def 0, qi 1) | B(hp 17/99, def 0, qi 0, injury 6, phys 3)
+turn 9a ends
+turn 9b begins
+  reduced 小布(pid3) hp by 6 to 11
+  小布(pid3) is playing Exercise Tendons (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 28
+    reduced 小布(pid3) hp by 2 to 9
+    gained 2 physique. Now have 5 physique
+    gained 2 max_hp. Now have 101 max_hp
+  小布(pid3) finished playing Exercise Tendons
+  STATE after turn 9b: A(hp 28/86, def 0, qi 1) | B(hp 9/101, def 0, qi 0, injury 6, phys 5)
+turn 9b ends
+turn 10a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced 小布(pid3) hp by 4 to 5
+    reduced 小布(pid3) hp by 4 to 1
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 10a: A(hp 28/86, def 4, qi 0) | B(hp 1/101, def 0, qi 0, injury 6, phys 5)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 6 to -5
+  STATE after turn 10b: A(hp 28/86, def 4, qi 0) | B(hp -5/101, def 0, qi 0, injury 6, phys 5)
+turn 10b ends
+小布(pid3) loses 18 destiny, now at 33
+谭舒雁(pid1) (Tan Shuyan) wins

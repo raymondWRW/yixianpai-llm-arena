@@ -1,0 +1,143 @@
+gained 1 qi. Now have 1 qi
+reduced 谭舒雁(pid1) hp by 2 to 71
+gained 1 qi. Now have 2 qi
+reduced 谭舒雁(pid1) hp by 3 to 63
+reduced 谭舒雁(pid1) hp by 2 to 61
+turn 1a begins
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 谭舒雁(pid1) hp by 6 to 65
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 1a: A(hp 61/83, def 0, qi 2, phys 17) | B(hp 65/73, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  谭舒雁(pid1) is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  谭舒雁(pid1) finished playing Dotted Around
+  STATE after turn 1b: A(hp 61/83, def 0, qi 2, phys 17) | B(hp 65/73, def 3, qi 2, star 1)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Detect Qi (level 1)
+    gained 2 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 2a: A(hp 61/83, def 0, qi 4, phys 17) | B(hp 65/73, def 3, qi 2, star 1)
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 1 def
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 1 def. Now have 2 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 2b: A(hp 61/83, def 0, qi 4, injury 1, phys 17) | B(hp 65/73, def 2, qi 3, star 1)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 1 to 60
+  小布(pid3) is playing Vigorous Force (level 2)
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 7 to 58
+    lost 1 qi. Now have 3 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 3a: A(hp 60/83, def 0, qi 3, force 2, injury 1, phys 17) | B(hp 58/73, def 0, qi 3, star 1)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Flank (level 2)
+    reduced 小布(pid3) hp by 8 to 52
+    reduced 小布(pid3) hp by 8 to 44
+  谭舒雁(pid1) finished playing Astral Move - Flank
+  STATE after turn 3b: A(hp 44/83, def 0, qi 3, force 2, injury 1, phys 17) | B(hp 58/73, def 0, qi 2, star 1)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 1 to 43
+  reduced 小布(pid3) hp by 2 to 41
+  小布(pid3) spent 2 hp to play Mighty Force (level 1)
+    lost 2 qi. Now have 1 qi
+    gained 2 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 22 to 36
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 4a: A(hp 41/83, def 0, qi 1, force 3, injury 1, phys 17) | B(hp 36/73, def 0, qi 2, star 1)
+turn 4a ends
+turn 4b begins
+  谭舒雁(pid1) is playing Foretell Fate (level 2)
+    reduced 小布(pid3) hp by 8 to 33
+  谭舒雁(pid1) finished playing Foretell Fate
+  STATE after turn 4b: A(hp 33/83, def 0, qi 1, force 3, injury 1, phys 17) | B(hp 36/73, def 0, qi 2, star 1)
+turn 4b ends
+turn 5a begins
+  reduced 小布(pid3) hp by 1 to 32
+  小布(pid3) is playing Exercise Tendons (level 1)
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 6 to 30
+    gained 2 physique. Now have 19 physique
+    gained 2 max_hp. Now have 85 max_hp
+    gained 4 def. Now have 4 def
+  小布(pid3) finished playing Exercise Tendons
+  STATE after turn 5a: A(hp 32/85, def 4, qi 1, force 2, injury 1, phys 19) | B(hp 30/73, def 0, qi 2, star 1)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Wild Horses Part the Mane (level 1)
+    lost 3 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 30
+    gained 3 def. Now have 3 def
+  谭舒雁(pid1) finished playing Wild Horses Part the Mane
+  STATE after turn 5b: A(hp 30/85, def 0, qi 1, force 2, injury 1, phys 19) | B(hp 30/73, def 3, qi 1, star 1)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 1 to 29
+  reduced 小布(pid3) hp by 2 to 27
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 0 qi
+    lost 1 force. Now have 1 force
+    lost 3 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 14 to 16
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 6a: A(hp 27/85, def 0, qi 0, force 1, injury 1, phys 19) | B(hp 16/73, def 0, qi 1, star 1)
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    reduced 小布(pid3) hp by 6 to 21
+    reduced 小布(pid3) hp by 6 to 15
+    reduced 小布(pid3) hp by 6 to 9
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 6b: A(hp 9/85, def 0, qi 0, force 1, injury 1, phys 19) | B(hp 16/73, def 0, qi 0, star 1)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 1 to 8
+  reduced 小布(pid3) hp by 5 to 3
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 11 to 5
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 7a: A(hp 3/85, def 0, qi 0, injury 1, phys 19) | B(hp 5/73, def 0, qi 0, star 1)
+turn 7a ends
+turn 7b begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Falling Thunder (level 2). They now have 1/1 qi
+  STATE after turn 7b: A(hp 3/85, def 0, qi 0, injury 1, phys 19) | B(hp 5/73, def 0, qi 1, star 1)
+turn 7b ends
+turn 8a begins
+  reduced 小布(pid3) hp by 1 to 2
+  reduced 小布(pid3) hp by 4 to -2
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 谭舒雁(pid1) hp by 19 to -14
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  STATE after turn 8a: A(hp -2/85, def 5, qi 0, injury 1, phys 19) | B(hp -14/73, def 0, qi 1, star 1)
+turn 8a ends
+谭舒雁(pid1) loses 11 destiny, now at 73
+小布(pid3) (Xiao Bu) wins

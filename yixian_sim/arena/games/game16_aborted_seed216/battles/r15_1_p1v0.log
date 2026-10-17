@@ -1,0 +1,150 @@
+gained 1 internal_injury. Now have 1 internal_injury
+gained 1 internal_injury. Now have 2 internal_injury
+gained 1 sword_intent. Now have 1 sword_intent
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 2 def. Now have 2 def
+    gained 1 internal_injury. Now have 3 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 103/103, def 2, qi 2) | B(hp 103/103, def 0, qi 0, sword 1, injury 3)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 3 to 100
+  牧逸风(pid0) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 1b: A(hp 103/103, def 2, qi 2) | B(hp 100/103, def 0, qi 0, sword 1, injury 3)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  lost 1 qi. Now have 1 qi
+  谭舒雁(pid1) spent 1 qi to play Ruthless Water (level 2)
+    reduced 牧逸风(pid0) hp by 6 to 94
+    lost 3 hexproof. Now have 0 hexproof
+  谭舒雁(pid1) finished playing Ruthless Water
+  STATE after turn 2a: A(hp 103/103, def 1, qi 1) | B(hp 94/103, def 0, qi 0, sword 1, injury 3)
+turn 2a ends
+turn 2b begins
+  reduced 牧逸风(pid0) hp by 3 to 91
+  牧逸风(pid0) is playing Spiritage Formation (level 2)
+    gained 3 spiritage_formation_stacks. Now have 3 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 2b: A(hp 103/103, def 1, qi 1) | B(hp 91/103, def 0, qi 0, sword 1, injury 3)
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+    gained 1 internal_injury. Now have 4 internal_injury
+    gained 1 internal_injury. Now have 5 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 3a: A(hp 103/103, def 0, qi 3) | B(hp 91/103, def 0, qi 0, sword 1, injury 5)
+turn 3a ends
+turn 3b begins
+  lost 1 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  gained 2 qi. Now have 2 qi
+  reduced 牧逸风(pid0) hp by 5 to 86
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 5 qi
+    reduced 谭舒雁(pid1) hp by 4 to 99
+    gained 1 def. Now have 1 def
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 3 to 96
+    gained 1 def. Now have 1 def
+    lost 1 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 3b: A(hp 96/103, def 1, qi 3) | B(hp 86/103, def 0, qi 5, injury 5)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 6 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 4a: A(hp 96/103, def 0, qi 3) | B(hp 86/103, def 0, qi 5, injury 6)
+turn 4a ends
+turn 4b begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 7 qi
+  reduced 牧逸风(pid0) hp by 6 to 80
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 10 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 4b: A(hp 96/103, def 0, qi 3) | B(hp 80/103, def 0, qi 10, injury 6)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Heavenly Star - Guard (level 1)
+    gained 4 def. Now have 4 def
+    gained 1 def. Now have 5 def
+    healed 4 hp. Went from 96 to 100
+    gained 1 internal_injury. Now have 7 internal_injury
+    gained 1 internal_injury. Now have 8 internal_injury
+  谭舒雁(pid1) finished playing Heavenly Star - Guard
+  STATE after turn 5a: A(hp 100/103, def 5, qi 3) | B(hp 80/103, def 0, qi 10, injury 8)
+turn 5a ends
+turn 5b begins
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 12 qi
+  reduced 牧逸风(pid0) hp by 8 to 72
+  牧逸风(pid0) is playing Cloud Sword - Pierce the Star (level 2)
+    gained 3 qi. Now have 15 qi
+    lost 5 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 10 to 90
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Cloud Sword - Pierce the Star
+  STATE after turn 5b: A(hp 90/103, def 1, qi 3) | B(hp 72/103, def 0, qi 15, injury 8)
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Disaster of Bloodshed (level 1)
+    gained 1 internal_injury. Now have 9 internal_injury
+  谭舒雁(pid1) finished playing Disaster of Bloodshed
+  STATE after turn 6a: A(hp 90/103, def 0, qi 3) | B(hp 72/103, def 0, qi 15, injury 9)
+turn 6a ends
+turn 6b begins
+  reduced 牧逸风(pid0) hp by 9 to 63
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 1)
+    gained 3 qi. Now have 18 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 6b: A(hp 90/103, def 0, qi 3) | B(hp 63/103, def 0, qi 18, injury 9)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Strike Twice (level 1)
+    gained 1 def. Now have 1 def
+    healed 2 hp. Went from 90 to 92
+    gained 1 strike_twice_stacks. Now have 1 strike_twice_stacks
+  谭舒雁(pid1) finished playing Strike Twice
+  STATE after turn 7a: A(hp 92/103, def 1, qi 2) | B(hp 63/103, def 0, qi 18, injury 9)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 9 to 54
+  lost 1 qi. Now have 17 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    lost 1 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 38 to 54
+    gained 1 def. Now have 1 def
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 7b: A(hp 54/103, def 1, qi 2) | B(hp 54/103, def 0, qi 17, injury 9)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+  lost 1 strike_twice_stacks. Now have 0 strike_twice_stacks
+    gained 2 internal_injury. Now have 11 internal_injury
+    reduced 牧逸风(pid0) hp by 11 to 43
+    gained 2 internal_injury. Now have 13 internal_injury
+    reduced 牧逸风(pid0) hp by 13 to 30
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 8a: A(hp 54/103, def 0, qi 2) | B(hp 30/103, def 0, qi 17, injury 13)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 13 to 17
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 1)
+    lost 17 qi. Now have 0 qi
+    reduced 谭舒雁(pid1) hp by 90 to -36
+    gained 1 def. Now have 1 def
+  STATE after turn 8b: A(hp -36/103, def 1, qi 2) | B(hp 17/103, def 0, qi 0, injury 13)
+turn 8b ends
+谭舒雁(pid1) loses 24 destiny, now at 21
+牧逸风(pid0) (Mu Yifeng) wins

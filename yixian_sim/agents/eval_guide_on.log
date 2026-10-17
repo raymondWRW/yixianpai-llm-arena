@@ -1,0 +1,4 @@
+[oracle] eval pool ready: 5 workers
+game 1: sects=云云云云云云云云 rounds=20 winner=pid0 claude ranks=[1, 7, 3, 6] opp ranks=[8, 4, 2, 5] realms=[5, 5, 5, 5, 5, 5, 5, 5] (106s)
+game 2: sects=云云云云云云云云 rounds=20 winner=pid2 claude ranks=[2, 6, 1, 8] opp ranks=[5, 4, 3, 7] realms=[5, 5, 5, 5, 5, 5, 5, 5] (164s)
+game 3: sects=云云云云云云云云 rounds=20 winner=pid1 claude ranks=[2, 1, 5, 4] opp ranks=[3, 8, 6, 7] realms=[5, 5, 5, 5, 5, 4, 5, 5] (221s)

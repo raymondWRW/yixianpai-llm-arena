@@ -1,0 +1,24 @@
+{
+ "game": 19,
+ "seed": 219,
+ "rounds": 17,
+ "winner": 2,
+ "winner_name": "吾行之",
+ "tie": false,
+ "co_winners": [
+  2
+ ],
+ "unfinished": false,
+ "standings": {
+  "0": 0,
+  "1": 0,
+  "2": 31,
+  "3": 0
+ },
+ "sidejobs": {
+  "3": 5,
+  "2": 5,
+  "1": 7,
+  "0": 5
+ }
+}

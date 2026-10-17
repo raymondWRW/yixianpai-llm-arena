@@ -1,0 +1,30 @@
+{
+ "game": 17,
+ "seed": 217,
+ "rounds": 20,
+ "winner": 1,
+ "winner_name": "谭舒雁",
+ "standings": {
+  "0": 0,
+  "1": 1,
+  "2": 0,
+  "3": 1
+ },
+ "sidejobs": {
+  "0": 5,
+  "3": 5,
+  "1": 7,
+  "2": 5
+ },
+ "tie": false,
+ "co_winners": [
+  1,
+  3
+ ],
+ "note": "UNFINISHED: stopped by a harness round-20 cap that is NOT a game rule (user ruling 2026-09-27: play continues until one player is left). State at stop: 谭舒雁 命1 vs 小布 命1. No winner; the 'winner' field is only the 命 leader at the stop. Cannot be resumed (no checkpoint, and bots already reviewed it).",
+ "unfinished": true,
+ "alive_at_stop": [
+  1,
+  3
+ ]
+}

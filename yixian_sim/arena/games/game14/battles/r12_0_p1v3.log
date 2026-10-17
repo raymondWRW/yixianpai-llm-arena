@@ -1,0 +1,160 @@
+gained 1 qi. Now have 1 qi
+gained 1 star_power. Now have 1 star_power
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 3 internal_injury
+    reduced 小布(pid3) hp by 3 to 87
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1a: A(hp 97/97, def 0, qi 1, star 1) | B(hp 87/102, def 0, qi 1, injury 3, phys 12)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 3 to 84
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 1b: A(hp 97/97, def 0, qi 1, star 1) | B(hp 84/102, def 0, qi 4, injury 3, phys 12)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 2a: A(hp 97/97, def 0, qi 3, star 1) | B(hp 84/102, def 0, qi 4, injury 3, phys 12)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 81
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 谭舒雁(pid1) hp by 5 to 92
+    gained 1 qi. Now have 5 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2b: A(hp 92/97, def 0, qi 3, star 1) | B(hp 81/102, def 0, qi 5, force 2, injury 3, phys 12)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 4 star_power
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 3a: A(hp 92/97, def 0, qi 3, star 4) | B(hp 81/102, def 0, qi 5, force 2, injury 3, phys 12)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 3 to 78
+  reduced 小布(pid3) hp by 4 to 74
+  小布(pid3) spent 4 hp to play Crash Fist - Truncate (level 1)
+    lost 1 internal_injury. Now have 2 internal_injury
+    gained 1 internal_injury. Now have 1 internal_injury
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 10 to 82
+    gained 1 crash_fist_truncate_stacks. Now have 1 crash_fist_truncate_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Truncate
+  STATE after turn 3b: A(hp 82/97, def 0, qi 3, star 4, injury 1) | B(hp 74/102, def 0, qi 5, force 1, injury 2, phys 12)
+turn 3b ends
+turn 4a begins
+  reduced 谭舒雁(pid1) hp by 1 to 81
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 小布(pid3) hp by 11 to 63
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 4a: A(hp 81/97, def 0, qi 4, star 4, injury 1) | B(hp 63/102, def 0, qi 5, force 1, injury 2, phys 12)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 2 to 61
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 4 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 4b: A(hp 81/97, def 0, qi 4, star 4, injury 1) | B(hp 61/102, def 0, qi 4, force 4, injury 2, phys 12, agi 6)
+turn 4b ends
+turn 5a begins
+  reduced 谭舒雁(pid1) hp by 1 to 80
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 小布(pid3) hp by 12 to 49
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 5a: A(hp 80/97, def 4, qi 4, star 4, injury 1) | B(hp 49/102, def 0, qi 4, force 4, injury 2, phys 12, agi 6)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 2 to 47
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 1 force. Now have 5 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 5b: A(hp 80/97, def 4, qi 4, star 4, injury 1) | B(hp 47/102, def 0, qi 6, force 5, injury 2, phys 12, agi 6)
+turn 5b ends
+turn 6a begins
+  lost 2 def. Now have 2 def
+  reduced 谭舒雁(pid1) hp by 1 to 79
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 小布(pid3) hp by 9 to 38
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 6a: A(hp 79/97, def 2, qi 4, star 4, injury 1) | B(hp 38/102, def 0, qi 6, force 5, injury 2, phys 12, agi 6)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 2 to 36
+  reduced 小布(pid3) hp by 2 to 34
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 5 qi
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 2 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 19 to 60
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 6b: A(hp 60/97, def 0, qi 4, star 4, injury 1) | B(hp 34/102, def 0, qi 5, force 5, injury 2, phys 12, agi 6)
+turn 6b ends
+turn 7a begins
+  reduced 谭舒雁(pid1) hp by 1 to 59
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 小布(pid3) hp by 9 to 25
+    reduced 小布(pid3) hp by 9 to 16
+    reduced 小布(pid3) max_hp by 4 to 98
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 7a: A(hp 59/97, def 0, qi 3, star 4, injury 1) | B(hp 16/98, def 0, qi 5, force 5, injury 2, phys 12, agi 6)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 2 to 14
+  reduced 小布(pid3) hp by 5 to 9
+  小布(pid3) spent 5 hp to play Crash Fist - Inch Force (level 1)
+    lost 1 internal_injury. Now have 1 internal_injury
+    gained 1 internal_injury. Now have 2 internal_injury
+    gained 1 this_card_crash_fist_inch_force_stacks. Now have 1 this_card_crash_fist_inch_force_stacks
+    gained 1 crash_fist_inch_force_stacks. Now have 1 crash_fist_inch_force_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 谭舒雁(pid1) hp by 22 to 37
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Inch Force
+  STATE after turn 7b: A(hp 37/97, def 0, qi 3, star 4, injury 2) | B(hp 9/98, def 0, qi 5, force 5, injury 1, phys 12, agi 6)
+turn 7b ends
+turn 8a begins
+  reduced 谭舒雁(pid1) hp by 2 to 35
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 3 internal_injury
+    reduced 小布(pid3) hp by 3 to 6
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 8a: A(hp 35/97, def 0, qi 3, star 4, injury 2) | B(hp 6/98, def 0, qi 5, force 5, injury 3, phys 12, agi 6)
+turn 8a ends
+turn 8b begins
+  reduced 小布(pid3) hp by 3 to 3
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 4 force
+    reduced 谭舒雁(pid1) hp by 22 to 13
+    gained 1 internal_injury. Now have 4 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 8b: A(hp 13/97, def 0, qi 3, star 4, injury 2) | B(hp 3/98, def 0, qi 4, force 4, injury 4, phys 12, agi 6)
+turn 8b ends
+turn 9a begins
+  reduced 谭舒雁(pid1) hp by 2 to 11
+  谭舒雁(pid1) is playing Snake in Reflection (level 2)
+    gained 3 internal_injury. Now have 7 internal_injury
+    reduced 小布(pid3) hp by 7 to -4
+  STATE after turn 9a: A(hp 11/97, def 0, qi 3, star 4, injury 2) | B(hp -4/98, def 0, qi 4, force 4, injury 7, phys 12, agi 6)
+turn 9a ends
+小布(pid3) loses 16 destiny, now at 28
+谭舒雁(pid1) (Tan Shuyan) wins

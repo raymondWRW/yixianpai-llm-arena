@@ -1,0 +1,157 @@
+gained 1 force. Now have 1 force
+turn 1a begins
+  吾行之(pid2) is playing Octgates Lock Formation (level 1)
+    reduced 小布(pid3) hp by 8 to 81
+    gained 2 octgates_lock_formation_stacks. Now have 2 octgates_lock_formation_stacks
+  吾行之(pid2) finished playing Octgates Lock Formation
+  STATE after turn 1a: A(hp 82/82, def 0, qi 0) | B(hp 81/114, def 0, qi 0, force 1, phys 25)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 5 to 76
+  小布(pid3) spent 5 hp to play Crash Fist - Subdue Dragon (level 1)
+    lost 1 force. Now have 0 force
+    reduced 吾行之(pid2) hp by 11 to 71
+    gained 5 later_crash_fist_poke_stacks. Now have 5 later_crash_fist_poke_stacks
+    gained 5 crash_fist_block_stacks. Now have 5 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Subdue Dragon
+  STATE after turn 1b: A(hp 71/82, def 0, qi 0) | B(hp 76/114, def 0, qi 0, phys 25)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Metal Spirit - Charge (level 2)
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+    gained 6 def. Now have 6 def
+    gained 7 penetrate. Now have 7 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Charge
+  STATE after turn 2a: A(hp 71/82, def 6, qi 0) | B(hp 76/114, def 0, qi 0, phys 25)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sailing through Sky (level 1). They now have 1/1 qi
+  STATE after turn 2b: A(hp 71/82, def 6, qi 0) | B(hp 76/114, def 0, qi 1, phys 25)
+turn 2b ends
+turn 3a begins
+  lost 3 def. Now have 3 def
+  吾行之(pid2) is playing Metal Spirit - Needle (level 2)
+    penetrating 7 damage
+    lost 7 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 14 to 62
+    gained 4 penetrate. Now have 4 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 3a: A(hp 71/82, def 3, qi 0) | B(hp 62/114, def 0, qi 1, phys 25)
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 3 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 3b: A(hp 71/82, def 3, qi 0) | B(hp 62/114, def 0, qi 0, force 3, phys 25, agi 6)
+turn 3b ends
+turn 4a begins
+  lost 2 def. Now have 1 def
+  吾行之(pid2) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  吾行之(pid2) finished playing Endless Sword Formation
+  STATE after turn 4a: A(hp 71/82, def 1, qi 0) | B(hp 62/114, def 0, qi 0, force 3, phys 25, agi 6)
+turn 4a ends
+turn 4b begins
+  小布(pid3) is playing Majestic Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 force. Now have 4 force
+    gained 2 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 4b: A(hp 71/82, def 1, qi 0) | B(hp 62/114, def 0, qi 2, force 4, phys 25, agi 6)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    penetrating 4 damage
+    lost 4 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 11 to 51
+    gained 1 ignore_def. Now have 1 ignore_def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 5 to 46
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 5a: A(hp 71/82, def 0, qi 0) | B(hp 46/114, def 0, qi 2, force 4, phys 25, agi 6)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Gather Force (level 1)
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 吾行之(pid2) hp by 3 to 68
+    gained 1 qi. Now have 3 qi
+    gained 2 force. Now have 6 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 5b: A(hp 68/82, def 0, qi 0) | B(hp 46/114, def 0, qi 3, force 6, phys 25, agi 6)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 小布(pid3) hp by 7 to 39
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 小布(pid3) hp by 5 to 34
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 6a: A(hp 68/82, def 0, qi 0) | B(hp 34/114, def 0, qi 3, force 6, phys 25, agi 6)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 6 to 28
+  小布(pid3) spent 6 hp to play Crash Fist - Continue (level 1)
+    gained 5 bonus_atk_amt. Now have 5 bonus_atk_amt
+    gained 5 def. Now have 5 def
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 def. Now have 6 def
+    gained 1 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    reduced 吾行之(pid2) hp by 25 to 43
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Continue
+  STATE after turn 6b: A(hp 43/82, def 0, qi 0) | B(hp 28/114, def 6, qi 3, force 5, phys 25, agi 6)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Earth Spirit - Quicksand (level 1)
+    lost 6 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 24
+  吾行之(pid2) finished playing Earth Spirit - Quicksand
+  STATE after turn 7a: A(hp 43/82, def 0, qi 0) | B(hp 24/114, def 0, qi 3, force 5, phys 25, agi 6)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 5 force. Now have 0 force
+    gained 20 def. Now have 20 def
+    reduced 吾行之(pid2) hp by 15 to 28
+    gained 5 agility. Now have 11 agility
+  小布(pid3) finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  lost 8 def. Now have 12 def
+  lost 1 octgates_lock_formation_stacks. Now have 1 octgates_lock_formation_stacks
+  chase!!
+  小布(pid3) is playing Vigorous Force (level 2)
+    reduced 吾行之(pid2) hp by 9 to 19
+    lost 1 qi. Now have 2 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Vigorous Force
+  STATE after turn 7b: A(hp 19/82, def 0, qi 0) | B(hp 24/114, def 12, qi 2, force 2, phys 25, agi 1)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Earth Spirit - Quicksand (level 1)
+    lost 10 def. Now have 2 def
+  吾行之(pid2) finished playing Earth Spirit - Quicksand
+  STATE after turn 8a: A(hp 19/82, def 0, qi 0) | B(hp 24/114, def 2, qi 2, force 2, phys 25, agi 1)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 2 to 22
+  小布(pid3) spent 2 hp to play Strong Force (level 2)
+    lost 1 qi. Now have 1 qi
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 20 to -1
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  STATE after turn 8b: A(hp -1/82, def 0, qi 0) | B(hp 22/114, def 1, qi 1, force 1, phys 25, agi 1)
+turn 8b ends
+吾行之(pid2) loses 17 destiny, now at 30
+小布(pid3) (Xiao Bu) wins

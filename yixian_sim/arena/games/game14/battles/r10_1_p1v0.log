@@ -1,0 +1,154 @@
+gained 1 qi. Now have 1 qi
+gained 1 star_power. Now have 1 star_power
+turn 1a begins
+  谭舒雁(pid1) is playing Snake in Reflection (level 1)
+    gained 2 internal_injury. Now have 2 internal_injury
+    reduced 牧逸风(pid0) hp by 2 to 78
+  谭舒雁(pid1) finished playing Snake in Reflection
+  STATE after turn 1a: A(hp 80/80, def 0, qi 1, star 1) | B(hp 78/80, def 0, qi 0, injury 2)
+turn 1a ends
+turn 1b begins
+  reduced 牧逸风(pid0) hp by 2 to 76
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1b: A(hp 80/80, def 0, qi 1, star 1) | B(hp 76/80, def 0, qi 1, injury 2)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Heavenly Star - Pull (level 1)
+    gained 2 qi. Now have 3 qi
+  谭舒雁(pid1) finished playing Heavenly Star - Pull
+  STATE after turn 2a: A(hp 80/80, def 0, qi 3, star 1) | B(hp 76/80, def 0, qi 1, injury 2)
+turn 2a ends
+turn 2b begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 74
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 5 qi
+    reduced 谭舒雁(pid1) hp by 3 to 77
+    reduced 谭舒雁(pid1) hp by 3 to 74
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2b: A(hp 74/80, def 0, qi 3, star 1) | B(hp 74/80, def 0, qi 5, injury 2)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing Starry Moon (level 2)
+    gained 3 star_power. Now have 4 star_power
+  谭舒雁(pid1) finished playing Starry Moon
+  STATE after turn 3a: A(hp 74/80, def 0, qi 3, star 4) | B(hp 74/80, def 0, qi 5, injury 2)
+turn 3a ends
+turn 3b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 72
+  牧逸风(pid0) is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  牧逸风(pid0) finished playing Endless Sword Formation
+  STATE after turn 3b: A(hp 74/80, def 0, qi 3, star 4) | B(hp 72/80, def 0, qi 5, injury 2)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Astral Move - Stand (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 61
+    gained 1 qi. Now have 4 qi
+  谭舒雁(pid1) finished playing Astral Move - Stand
+  STATE after turn 4a: A(hp 74/80, def 0, qi 4, star 4) | B(hp 61/80, def 0, qi 5, injury 2)
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 59
+  牧逸风(pid0) is playing Tri-Peak Sword (level 1)
+    reduced 谭舒雁(pid1) hp by 3 to 71
+    reduced 谭舒雁(pid1) hp by 3 to 68
+    reduced 谭舒雁(pid1) hp by 3 to 65
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 60
+  牧逸风(pid0) finished playing Tri-Peak Sword
+  STATE after turn 4b: A(hp 60/80, def 0, qi 4, star 4) | B(hp 59/80, def 0, qi 6, injury 2)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Astral Move - Block (level 2)
+    reduced 牧逸风(pid0) hp by 12 to 47
+    gained 4 def. Now have 4 def
+  谭舒雁(pid1) finished playing Astral Move - Block
+  STATE after turn 5a: A(hp 60/80, def 4, qi 4, star 4) | B(hp 47/80, def 0, qi 6, injury 2)
+turn 5a ends
+turn 5b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 45
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 1)
+    lost 4 def. Now have 0 def
+    reduced 谭舒雁(pid1) hp by 4 to 56
+    gained 3 sword_intent. Now have 3 sword_intent
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 8 to 48
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 5b: A(hp 48/80, def 0, qi 4, star 4) | B(hp 45/80, def 0, qi 5, injury 2)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Shifting Stars (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 36
+  谭舒雁(pid1) finished playing Shifting Stars
+  STATE after turn 6a: A(hp 48/80, def 0, qi 4, star 4) | B(hp 36/80, def 0, qi 5, injury 2)
+turn 6a ends
+turn 6b begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 34
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    reduced 谭舒雁(pid1) hp by 16 to 32
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced 谭舒雁(pid1) hp by 5 to 27
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 6b: A(hp 27/80, def 0, qi 4, star 4) | B(hp 34/80, def 0, qi 5, injury 2)
+turn 6b ends
+turn 7a begins
+  lost 1 qi. Now have 3 qi
+  谭舒雁(pid1) spent 1 qi to play Cutting Weeds (level 1)
+    reduced 牧逸风(pid0) hp by 9 to 25
+    reduced 牧逸风(pid0) hp by 9 to 16
+    reduced 牧逸风(pid0) max_hp by 10 to 70
+  谭舒雁(pid1) finished playing Cutting Weeds
+  STATE after turn 7a: A(hp 27/80, def 0, qi 3, star 4) | B(hp 16/70, def 0, qi 5, injury 2)
+turn 7a ends
+turn 7b begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 14
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 12 to 15
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 4
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 7b: A(hp 4/80, def 0, qi 3, star 4) | B(hp 14/70, def 0, qi 2, injury 2)
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 2 qi
+  谭舒雁(pid1) spent 1 qi to play Revitalized (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 4
+  谭舒雁(pid1) finished playing Revitalized
+  STATE after turn 8a: A(hp 4/80, def 0, qi 2, star 4) | B(hp 4/70, def 0, qi 2, injury 2)
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 2 to 2
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced 谭舒雁(pid1) hp by 3 to 1
+    reduced 谭舒雁(pid1) hp by 3 to -2
+  STATE after turn 8b: A(hp -2/80, def 0, qi 2, star 4) | B(hp 2/70, def 0, qi 6, injury 2)
+turn 8b ends
+谭舒雁(pid1) loses 12 destiny, now at 59
+牧逸风(pid0) (Mu Yifeng) wins

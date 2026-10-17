@@ -1,0 +1,219 @@
+turn 1a begins
+  player 0 is playing Cacopoisonous Formation (level 1)
+    gained 2 cacopoisonous_formation_stacks. Now have 2 cacopoisonous_formation_stacks
+  player 0 finished playing Cacopoisonous Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Polaris Citta-Dharma (level 1)
+    gained 2 star_power. Now have 2 star_power
+  player 0 finished playing Polaris Citta-Dharma
+turn 1b ends
+turn 2a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 1 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 1 internal_injury
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Transforming Spirits Rhythm
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 1 to 113
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 4 star_power
+    gained 1 qi. Now have 1 qi
+    gained 1 qi. Now have 2 qi
+  player 0 finished playing Starry Moon
+turn 2b ends
+turn 3a begins
+  lost 1 cacopoisonous_formation_stacks. Now have 0 cacopoisonous_formation_stacks
+  gained 1 internal_injury. Now have 2 internal_injury
+  player 0 is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 10 def
+  player 0 finished playing Hexproof Formation
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 2 to 111
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 10 def. Now have 0 def
+    reduced player 1 hp by 1 to 128
+    reduced player 1 hp by 11 to 117
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  player 0 is playing Fraccide Formation (level 2)
+    gained 3 fraccide_formation_stacks. Now have 3 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 4a ends
+turn 4b begins
+  reduced player 0 hp by 2 to 109
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    reduced player 1 hp by 9 to 108
+    reduced player 1 hp by 9 to 99
+    reduced player 1 hp by 9 to 90
+  player 0 finished playing Astral Move - Hit
+turn 4b ends
+turn 5a begins
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+    reduced player 1 hp by 19 to 90
+  player 0 finished playing Giant Whale Spirit Sword
+turn 5a ends
+turn 5b begins
+  reduced player 0 hp by 2 to 88
+  player 0 is playing Shifting Stars (level 2)
+    reduced player 1 hp by 12 to 78
+    gained 1 qi. Now have 1 qi
+  player 0 finished playing Shifting Stars
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Earth Evil Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    reduced player 1 hp by 11 to 77
+    gained 11 def. Now have 11 def
+  player 0 finished playing Earth Evil Sword
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 2 to 75
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 3 to 75
+  player 0 finished playing Sparrow's Tail
+turn 6b ends
+turn 7a begins
+  player 0 is playing Endless Sword Formation (level 2)
+    gained 3 endless_sword_formation_stacks. Now have 3 endless_sword_formation_stacks
+  player 0 finished playing Endless Sword Formation
+turn 7a ends
+turn 7b begins
+  reduced player 0 hp by 2 to 73
+  player 0 is playing Thunder Fulu (level 3)
+    reduced player 1 hp by 10 to 65
+  player 0 finished playing Thunder Fulu
+turn 7b ends
+turn 8a begins
+  player 0 is playing Scutturtle Formation (level 2)
+    gained 6 scutturtle_formation_stacks. Now have 6 scutturtle_formation_stacks
+  player 0 finished playing Scutturtle Formation
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 5 scutturtle_formation_stacks
+turn 8a ends
+turn 8b begins
+  reduced player 0 hp by 2 to 71
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Cloud Fulu (level 2). They now have 1/1 qi
+turn 8b ends
+turn 9a begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  player 0 finished playing Transforming Spirits Rhythm
+  gained 3 def. Now have 4 def
+  lost 1 scutturtle_formation_stacks. Now have 4 scutturtle_formation_stacks
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 2 to 69
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 49
+    reduced player 1 max_hp by 16 to 113
+  player 0 finished playing Fire Cloud Fulu
+turn 9b ends
+turn 10a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 6 hexproof
+    gained 10 def. Now have 12 def
+  player 0 finished playing Hexproof Formation
+  gained 3 def. Now have 15 def
+  lost 1 scutturtle_formation_stacks. Now have 3 scutturtle_formation_stacks
+turn 10a ends
+turn 10b begins
+  reduced player 0 hp by 2 to 67
+  player 0 is playing Starry Moon (level 1)
+    gained 2 star_power. Now have 6 star_power
+    gained 1 qi. Now have 1 qi
+    gained 1 qi. Now have 2 qi
+  player 0 finished playing Starry Moon
+turn 10b ends
+turn 11a begins
+  lost 8 def. Now have 7 def
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 19 to 48
+    lost 1 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 43
+  player 0 finished playing Giant Whale Spirit Sword
+  gained 3 def. Now have 10 def
+  lost 1 scutturtle_formation_stacks. Now have 2 scutturtle_formation_stacks
+turn 11a ends
+turn 11b begins
+  reduced player 0 hp by 2 to 41
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    lost 10 def. Now have 0 def
+    reduced player 1 hp by 3 to 46
+    reduced player 1 hp by 13 to 33
+  player 0 finished playing Astral Move - Flank
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Earth Evil Sword (level 1)
+    reduced player 1 hp by 8 to 33
+    gained 8 def. Now have 8 def
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    reduced player 1 hp by 5 to 28
+  player 0 finished playing Earth Evil Sword
+  gained 3 def. Now have 11 def
+  lost 1 scutturtle_formation_stacks. Now have 1 scutturtle_formation_stacks
+turn 12a ends
+turn 12b begins
+  reduced player 0 hp by 2 to 26
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Hit (level 1)
+    lost 11 def. Now have 0 def
+    reduced player 1 hp by 11 to 22
+    reduced player 1 hp by 11 to 11
+  player 0 finished playing Astral Move - Hit
+turn 12b ends
+turn 13a begins
+  player 0 is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 6 qi
+  player 0 finished playing Transforming Spirits Rhythm
+  gained 3 def. Now have 3 def
+  lost 1 scutturtle_formation_stacks. Now have 0 scutturtle_formation_stacks
+turn 13a ends
+turn 13b begins
+  reduced player 0 hp by 2 to 24
+  player 0 is playing Shifting Stars (level 2)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 11 to 0
+    gained 1 qi. Now have 1 qi
+turn 13b ends
+player 0 loses 20 destiny, now at 57
+player 1 (Tan Shuyan) wins
+Player 0's deck:
+  Cacopoisonous Formation (level 1)
+  Transforming Spirits Rhythm (level 2)
+  Hexproof Formation (level 1)
+  Fraccide Formation (level 2)
+  Giant Whale Spirit Sword (level 1)
+  Earth Evil Sword (level 1)
+  Endless Sword Formation (level 2)
+  Scutturtle Formation (level 2)
+Player 1's deck:
+  Polaris Citta-Dharma (level 1)
+  Starry Moon (level 1)
+  Astral Move - Flank (level 2)
+  Astral Move - Hit (level 1)
+  Shifting Stars (level 2)
+  Sparrow's Tail (level 2)
+  Thunder Fulu (level 3)
+  Fire Cloud Fulu (level 2)

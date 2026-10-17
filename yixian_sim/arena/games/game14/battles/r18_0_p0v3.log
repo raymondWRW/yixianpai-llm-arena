@@ -1,0 +1,316 @@
+gained 2 sword_intent. Now have 2 sword_intent
+小布(pid3) downgrades Spirit Gather Citta-Dharma (level 2) to Spirit Gather Citta-Dharma (level 1)
+gained 1 qi. Now have 1 qi
+gained 4 def. Now have 4 def
+turn 1a begins
+  牧逸风(pid0) is playing Spirit Gather Citta-Dharma (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 spirit_gather_citta_dharma_stacks. Now have 1 spirit_gather_citta_dharma_stacks
+  牧逸风(pid0) finished playing Spirit Gather Citta-Dharma
+  STATE after turn 1a: A(hp 109/109, def 0, qi 1, sword 2) | B(hp 115/121, def 4, qi 1, phys 6)
+turn 1a ends
+turn 1b begins
+  lost 2 def. Now have 2 def
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  小布(pid3) finished playing Envelop In Disaster
+  STATE after turn 1b: A(hp 109/109, def 0, qi 1, sword 2, injury 4) | B(hp 115/121, def 2, qi 0, phys 6)
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 2 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 105
+  牧逸风(pid0) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 4 hexproof
+    gained 14 def. Now have 14 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 2a: A(hp 105/109, def 14, qi 2, sword 2, injury 4) | B(hp 115/121, def 2, qi 0, phys 6)
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 3 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 2b: A(hp 105/109, def 14, qi 2, sword 2, injury 4) | B(hp 115/121, def 1, qi 3, phys 6)
+turn 2b ends
+turn 3a begins
+  lost 7 def. Now have 7 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 101
+  牧逸风(pid0) is playing Heavenly Spirit Forceage Formation (level 1)
+    gained 2 heavenly_spirit_forceage_formation_stacks. Now have 2 heavenly_spirit_forceage_formation_stacks
+  牧逸风(pid0) finished playing Heavenly Spirit Forceage Formation
+  STATE after turn 3a: A(hp 101/109, def 7, qi 2, sword 2, injury 4) | B(hp 115/121, def 1, qi 3, phys 6)
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 0 def
+  小布(pid3) is playing Gather Force (level 2)
+    lost 5 def. Now have 2 def
+    gained 1 qi. Now have 4 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 3b: A(hp 101/109, def 2, qi 2, sword 2, injury 4) | B(hp 115/121, def 0, qi 4, force 2, phys 6)
+turn 3b ends
+turn 4a begins
+  lost 1 def. Now have 1 def
+  gained 1 qi. Now have 3 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 1 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 1 increase_atk
+  reduced 牧逸风(pid0) hp by 4 to 97
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced 小布(pid3) hp by 6 to 109
+    reduced 小布(pid3) hp by 6 to 103
+    lost 2 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 4a: A(hp 97/109, def 1, qi 6, injury 4) | B(hp 103/121, def 0, qi 4, force 2, phys 6)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 3 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 5 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 4b: A(hp 97/109, def 1, qi 6, injury 4) | B(hp 103/121, def 0, qi 3, force 5, phys 6, agi 6)
+turn 4b ends
+turn 5a begins
+  lost 1 def. Now have 0 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  lost 1 heavenly_spirit_forceage_formation_stacks. Now have 0 heavenly_spirit_forceage_formation_stacks
+  gained 1 increase_atk. Now have 2 increase_atk
+  reduced 牧逸风(pid0) hp by 4 to 93
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    reduced 小布(pid3) hp by 17 to 86
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 5a: A(hp 93/109, def 0, qi 5, injury 4) | B(hp 86/121, def 0, qi 3, force 5, phys 6, agi 6)
+turn 5a ends
+turn 5b begins
+  小布(pid3) is playing Everything is Unadvisable (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+  小布(pid3) finished playing Everything is Unadvisable
+  STATE after turn 5b: A(hp 93/109, def 0, qi 5, injury 4) | B(hp 86/121, def 4, qi 3, force 5, phys 6, agi 6)
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 6 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 89
+  lost 2 qi. Now have 4 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 4 to 82
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 3 qi. Now have 1 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced 小布(pid3) hp by 9 to 73
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  STATE after turn 6a: A(hp 89/109, def 13, qi 1, injury 4) | B(hp 73/121, def 0, qi 3, force 5, phys 6, agi 6)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 2 to 71
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 0 qi
+    gained 2 def. Now have 2 def
+    gained 3 force. Now have 6 force
+    lost 1 force. Now have 5 force
+    lost 13 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 19 to 70
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 6b: A(hp 70/109, def 0, qi 1, injury 4) | B(hp 71/121, def 2, qi 0, force 5, phys 6, agi 6)
+turn 6b ends
+turn 7a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 66
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 2)
+    lost 1 qi. Now have 0 qi
+    lost 2 def. Now have 0 def
+    reduced 小布(pid3) hp by 11 to 60
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 7a: A(hp 66/109, def 0, qi 0, injury 4) | B(hp 60/121, def 0, qi 0, force 5, phys 6, agi 6)
+turn 7a ends
+turn 7b begins
+  小布(pid3) is playing Cycle of Fate (level 1)
+    gained 8 max_hp. Now have 129 max_hp
+    healed 8 hp. Went from 60 to 68
+    gained 4 fate_reincarnates_stacks. Now have 4 fate_reincarnates_stacks
+  小布(pid3) finished playing Cycle of Fate
+  STATE after turn 7b: A(hp 66/109, def 0, qi 0, injury 4) | B(hp 68/129, def 0, qi 0, force 5, phys 6, agi 6)
+turn 7b ends
+turn 8a begins
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 62
+  牧逸风(pid0) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 8 hexproof
+    gained 14 def. Now have 14 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 8a: A(hp 62/109, def 14, qi 1, injury 4) | B(hp 68/129, def 0, qi 0, force 5, phys 6, agi 6)
+turn 8a ends
+turn 8b begins
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 5 force. Now have 0 force
+    gained 20 def. Now have 20 def
+    lost 14 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 1 to 61
+    gained 5 agility. Now have 11 agility
+  小布(pid3) finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 1
+  incremented chases to 1
+  chase!!
+  小布(pid3) is spending 3 hp and 1 physique to play Envelop In Disaster (level 1)
+  reduced 小布(pid3) hp by 3 to 65
+  lost 1 physique. Now have 5 physique
+  reduced 小布(pid3) max_hp by 1 to 128
+  小布(pid3) is playing Envelop In Disaster (level 1)
+    lost 4 hexproof. Now have 4 hexproof
+  小布(pid3) finished playing Envelop In Disaster
+  STATE after turn 8b: A(hp 61/109, def 0, qi 1, injury 4) | B(hp 65/128, def 20, qi 0, phys 5, agi 1)
+turn 8b ends
+turn 9a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 57
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    lost 5 def. Now have 15 def
+    lost 5 def. Now have 10 def
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9a: A(hp 57/109, def 0, qi 4, injury 4) | B(hp 65/128, def 10, qi 0, phys 5, agi 1)
+turn 9a ends
+turn 9b begins
+  lost 5 def. Now have 5 def
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 3 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 9b: A(hp 57/109, def 0, qi 4, injury 4) | B(hp 65/128, def 5, qi 3, phys 5, agi 1)
+turn 9b ends
+turn 10a begins
+  gained 1 qi. Now have 5 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 53
+  lost 1 qi. Now have 4 qi
+  牧逸风(pid0) spent 1 qi to play Egret Spirit Sword (level 1)
+    lost 5 def. Now have 0 def
+    reduced 小布(pid3) hp by 10 to 55
+  牧逸风(pid0) finished playing Egret Spirit Sword
+  STATE after turn 10a: A(hp 53/109, def 0, qi 4, injury 4) | B(hp 55/128, def 0, qi 3, phys 5, agi 1)
+turn 10a ends
+turn 10b begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 牧逸风(pid0) hp by 5 to 48
+    gained 1 qi. Now have 4 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 10b: A(hp 48/109, def 0, qi 4, injury 4) | B(hp 55/128, def 0, qi 4, force 2, phys 5, agi 1)
+turn 10b ends
+turn 11a begins
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 44
+  lost 2 qi. Now have 2 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 14 to 41
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 3 qi
+  牧逸风(pid0) gained qi instead of playing Giant Kun Spirit Sword (level 2). They now have 3/3 qi
+  STATE after turn 11a: A(hp 44/109, def 0, qi 3, injury 4) | B(hp 41/128, def 0, qi 4, force 2, phys 5, agi 1)
+turn 11a ends
+turn 11b begins
+  lost 1 fate_reincarnates_stacks. Now have 3 fate_reincarnates_stacks
+  lost 1 fate_reincarnates_stacks. Now have 2 fate_reincarnates_stacks
+  gained 4 def. Now have 4 def
+  reduced 小布(pid3) hp by 2 to 39
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 3 qi. Now have 1 qi
+    gained 3 force. Now have 5 force
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 30 to 14
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 11b: A(hp 14/109, def 0, qi 3, injury 4) | B(hp 39/128, def 4, qi 1, force 4, phys 5, agi 1)
+turn 11b ends
+turn 12a begins
+  gained 1 qi. Now have 4 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 10
+  lost 3 qi. Now have 1 qi
+  牧逸风(pid0) spent 3 qi to play Giant Kun Spirit Sword (level 2)
+    lost 4 def. Now have 0 def
+    reduced 小布(pid3) hp by 11 to 28
+    gained 13 def. Now have 13 def
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Kun Spirit Sword
+  incremented chases to 1
+  chase!!
+  牧逸风(pid0) is playing Dharma Spirit Sword (level 2)
+    lost 1 qi. Now have 0 qi
+    reduced 小布(pid3) hp by 13 to 15
+  牧逸风(pid0) finished playing Dharma Spirit Sword
+  STATE after turn 12a: A(hp 10/109, def 13, qi 0, injury 4) | B(hp 15/128, def 0, qi 1, force 4, phys 5, agi 1)
+turn 12a ends
+turn 12b begins
+  小布(pid3) is playing Overwhelming Force (level 1)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 12 def. Now have 1 def
+    gained 5 agility. Now have 6 agility
+  小布(pid3) finished playing Overwhelming Force
+  STATE after turn 12b: A(hp 10/109, def 1, qi 0, injury 4) | B(hp 15/128, def 16, qi 1, phys 5, agi 6)
+turn 12b ends
+turn 13a begins
+  lost 1 def. Now have 0 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 6
+  牧逸风(pid0) is playing Hexproof Formation (level 2)
+    gained 4 hexproof. Now have 8 hexproof
+    gained 14 def. Now have 14 def
+  牧逸风(pid0) finished playing Hexproof Formation
+  STATE after turn 13a: A(hp 6/109, def 14, qi 0, injury 4) | B(hp 15/128, def 16, qi 1, phys 5, agi 6)
+turn 13a ends
+turn 13b begins
+  lost 8 def. Now have 8 def
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Envelop In Disaster (level 1)
+    lost 4 hexproof. Now have 4 hexproof
+  小布(pid3) finished playing Envelop In Disaster
+  STATE after turn 13b: A(hp 6/109, def 14, qi 0, injury 4) | B(hp 15/128, def 8, qi 0, phys 5, agi 6)
+turn 13b ends
+turn 14a begins
+  lost 7 def. Now have 7 def
+  gained 1 qi. Now have 1 qi
+  gained 1 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to 2
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    lost 5 def. Now have 3 def
+    lost 3 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 13
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 14a: A(hp 2/109, def 7, qi 4, injury 4) | B(hp 13/128, def 0, qi 0, phys 5, agi 6)
+turn 14a ends
+turn 14b begins
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 3 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 14b: A(hp 2/109, def 7, qi 4, injury 4) | B(hp 13/128, def 0, qi 3, phys 5, agi 6)
+turn 14b ends
+turn 15a begins
+  lost 4 def. Now have 3 def
+  gained 0 qi from spirit_gather_citta_dharma_stacks
+  reduced 牧逸风(pid0) hp by 4 to -2
+  STATE after turn 15a: A(hp -2/109, def 3, qi 4, injury 4) | B(hp 13/128, def 0, qi 3, phys 5, agi 6)
+turn 15a ends
+牧逸风(pid0) loses 22 destiny, now at 13
+小布(pid3) (Xiao Bu) wins

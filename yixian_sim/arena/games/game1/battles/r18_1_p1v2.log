@@ -1,0 +1,466 @@
+gained 5 def. Now have 5 def
+gained 1 smash_def. Now have 1 smash_def
+gained 5 def. Now have 5 def
+player 1 downgrades Astral Move - Cide (level 2) to Astral Move - Cide (level 1)
+turn 1a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 134 max_hp
+    healed 4 hp. Went from 130 to 134
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  player 0 finished playing Repel Citta-Dharma
+turn 2a ends
+turn 2b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 2b ends
+turn 3a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 3 def
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 1 qi
+    healed 4 hp. Went from 114 to 114
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 3b ends
+turn 4a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 4 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 4a ends
+turn 4b begins
+  lost 2 def. Now have 1 def
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 2 def. Now have 2 def
+    lost 1 def. Now have 0 def
+    reduced player 0 hp by 1 to 113
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 1 def
+    reduced player 0 hp by 2 to 111
+    healed 5 hp. Went from 111 to 114
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 1 to 133
+    reduced player 0 hp by 2 to 112
+  player 0 finished playing Wood Spirit - Bud
+turn 4b ends
+turn 5a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    reduced player 1 hp by 2 to 110
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 133 to 134
+  player 0 finished playing White Crane Bright Wings
+turn 5a ends
+turn 5b begins
+  player 0 is playing Water Spirit Formation (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  player 0 finished playing Water Spirit Formation
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 134 to 134
+  player 0 finished playing Escape Plan
+turn 6a ends
+turn 6b begins
+  player 0 is playing Earth Spirit - Cliff (level 2)
+    gained 15 def. Now have 15 def
+  player 0 finished playing Earth Spirit - Cliff
+turn 6b ends
+turn 7a begins
+  lost 5 def. Now have 4 def
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 10 def. Now have 5 def
+  player 0 finished playing Astral Move - Cide
+turn 7a ends
+turn 7b begins
+  lost 3 def. Now have 2 def
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  player 0 finished playing Envelop In Disaster
+turn 7b ends
+turn 8a begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 4 to 130
+  player 0 is playing Thunder And Lighting (level 2)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 5 to 105
+    gained 1 qi. Now have 1 qi
+    healed 2 hp. Went from 130 to 132
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 13 to 92
+    gained 1 qi. Now have 2 qi
+    healed 2 hp. Went from 132 to 134
+  player 0 finished playing Thunder And Lighting
+turn 8a ends
+turn 8b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Fire Spirit - Blazing Prairie (level 2). They now have 2/2 qi
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 4 to 130
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 6 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 9a ends
+turn 9b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Fire Spirit - Blazing Prairie (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 2 def. Now have 4 def
+    reduced player 0 hp by 2 to 90
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 2 def. Now have 2 def
+    reduced player 0 hp by 2 to 88
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 2 def. Now have 0 def
+    reduced player 0 hp by 2 to 86
+  player 0 finished playing Fire Spirit - Blazing Prairie
+turn 9b ends
+turn 10a begins
+  reduced player 0 hp by 4 to 126
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 10a ends
+turn 10b begins
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 10b ends
+turn 11a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 4 to 122
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 78
+    gained 2 qi. Now have 4 qi
+    healed 4 hp. Went from 122 to 126
+  player 0 finished playing White Crane Bright Wings
+turn 11a ends
+turn 11b begins
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 11b ends
+turn 12a begins
+  lost 1 def. Now have 0 def
+  reduced player 0 hp by 4 to 122
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 122 to 131
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 12a ends
+turn 12b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 1 qi
+    healed 4 hp. Went from 78 to 82
+    gained 1 activate_wood_spirit_stacks. Now have 2 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 12b ends
+turn 13a begins
+  lost 5 def. Now have 4 def
+  prevented 4 damage to hp with guard up. 0 guard up remaining
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 8 to 74
+  player 0 finished playing Astral Move - Cide
+turn 13a ends
+turn 13b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 1)
+    lost 3 def. Now have 1 def
+    reduced player 0 hp by 2 to 72
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 2 to 129
+    reduced player 0 hp by 2 to 70
+    healed 5 hp. Went from 70 to 75
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    reduced player 1 hp by 8 to 121
+    reduced player 0 hp by 2 to 73
+  player 0 finished playing Wood Spirit - Bud
+turn 13b ends
+turn 14a begins
+  reduced player 0 hp by 4 to 117
+  player 0 is playing Thunder And Lighting (level 2)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    reduced player 1 hp by 7 to 66
+    gained 1 qi. Now have 3 qi
+    healed 2 hp. Went from 117 to 119
+    lost 1 hexagram. Now have 0 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced player 1 hp by 7 to 59
+    gained 1 qi. Now have 4 qi
+    healed 2 hp. Went from 119 to 121
+  player 0 finished playing Thunder And Lighting
+turn 14a ends
+turn 14b begins
+  player 0 is playing Earth Spirit - Cliff (level 2)
+    gained 15 def. Now have 15 def
+  player 0 finished playing Earth Spirit - Cliff
+turn 14b ends
+turn 15a begins
+  reduced player 0 hp by 4 to 117
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 15a ends
+turn 15b begins
+  lost 8 def. Now have 7 def
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+turn 15b ends
+turn 16a begins
+  lost 3 def. Now have 2 def
+  reduced player 0 hp by 4 to 113
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 4 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 16a ends
+turn 16b begins
+  lost 4 def. Now have 3 def
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 8 internal_injury
+  player 0 finished playing Envelop In Disaster
+turn 16b ends
+turn 17a begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 8 to 105
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 54
+    gained 2 qi. Now have 6 qi
+    healed 4 hp. Went from 105 to 109
+  player 0 finished playing White Crane Bright Wings
+turn 17a ends
+turn 17b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Fire Spirit - Blazing Prairie (level 2). They now have 1/2 qi
+turn 17b ends
+turn 18a begins
+  lost 1 def. Now have 1 def
+  reduced player 0 hp by 8 to 101
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 10 def
+    healed 9 hp. Went from 101 to 110
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 18a ends
+turn 18b begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Fire Spirit - Blazing Prairie (level 2). They now have 2/2 qi
+turn 18b ends
+turn 19a begins
+  lost 5 def. Now have 5 def
+  prevented 8 damage to hp with guard up. 0 guard up remaining
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    reduced player 1 hp by 16 to 38
+  player 0 finished playing Astral Move - Cide
+turn 19a ends
+turn 19b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Fire Spirit - Blazing Prairie (level 2)
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 2 def. Now have 3 def
+    reduced player 0 hp by 2 to 36
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 2 def. Now have 1 def
+    reduced player 0 hp by 2 to 34
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 1 to 109
+    reduced player 0 hp by 2 to 32
+  player 0 finished playing Fire Spirit - Blazing Prairie
+turn 19b ends
+turn 20a begins
+  reduced player 0 hp by 8 to 101
+  player 0 is playing Thunder And Lighting (level 2)
+    lost 1 hexagram. Now have 1 hexagram
+    reduced player 1 hp by 13 to 19
+    gained 1 qi. Now have 5 qi
+    healed 2 hp. Went from 101 to 103
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 13 to 6
+    gained 1 qi. Now have 6 qi
+    healed 2 hp. Went from 103 to 105
+  player 0 finished playing Thunder And Lighting
+turn 20a ends
+turn 20b begins
+  player 0 is playing Examine Body (level 2)
+    gained 8 observe_body_stacks. Now have 8 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 20b ends
+turn 21a begins
+  reduced player 0 hp by 8 to 97
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 21a ends
+turn 21b begins
+  player 0 is playing Everything is Unadvisable (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 nothing_is_appropriate_stacks. Now have 3 nothing_is_appropriate_stacks
+  player 0 finished playing Everything is Unadvisable
+turn 21b ends
+turn 22a begins
+  lost 3 def. Now have 2 def
+  reduced player 0 hp by 8 to 89
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 4 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 22a ends
+turn 22b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Wood Spirit Seal (level 1)
+    gained 1 qi. Now have 1 qi
+    healed 4 hp. Went from 6 to 10
+    gained 1 activate_wood_spirit_stacks. Now have 3 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 22b ends
+turn 23a begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 8 to 81
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 2 def. Now have 0 def
+    gained 2 qi. Now have 8 qi
+    healed 4 hp. Went from 81 to 85
+  player 0 finished playing White Crane Bright Wings
+turn 23a ends
+turn 23b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wood Spirit - Bud (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 2 nothing_is_appropriate_stacks
+    lost 1 def. Now have 1 def
+    reduced player 0 hp by 2 to 8
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 1 def. Now have 0 def
+    reduced player 0 hp by 2 to 6
+    healed 5 hp. Went from 6 to 11
+    lost 8 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 8 from observe body.
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    reduced player 1 hp by 2 to 83
+    reduced player 0 hp by 2 to 9
+  player 0 finished playing Wood Spirit - Bud
+turn 23b ends
+turn 24a begins
+  reduced player 0 hp by 8 to 75
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Escape Plan (level 1)
+    gained 9 def. Now have 9 def
+    healed 9 hp. Went from 75 to 84
+    gained 1 guard_up. Now have 1 guard_up
+  player 0 finished playing Escape Plan
+turn 24a ends
+turn 24b begins
+  player 0 is playing Earth Spirit - Cliff (level 2)
+    gained 15 def. Now have 15 def
+  player 0 finished playing Earth Spirit - Cliff
+turn 24b ends
+turn 25a begins
+  lost 5 def. Now have 4 def
+  prevented 8 damage to hp with guard up. 0 guard up remaining
+  lost 1 qi. Now have 6 qi
+  player 0 spent 1 qi to play Astral Move - Cide (level 1)
+    lost 1 nothing_is_appropriate_stacks. Now have 1 nothing_is_appropriate_stacks
+    lost 10 def. Now have 5 def
+  player 0 finished playing Astral Move - Cide
+turn 25a ends
+turn 25b begins
+  lost 3 def. Now have 2 def
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+turn 25b ends
+turn 26a begins
+  lost 2 def. Now have 2 def
+  reduced player 0 hp by 8 to 76
+  player 0 is playing Thunder And Lighting (level 2)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 1 nothing_is_appropriate_stacks. Now have 0 nothing_is_appropriate_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 5 to 4
+    gained 1 qi. Now have 7 qi
+    healed 2 hp. Went from 76 to 78
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 13 to -9
+    gained 1 qi. Now have 8 qi
+    healed 2 hp. Went from 78 to 80
+turn 26a ends
+player 1 loses 30 destiny, now at -30
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Repel Citta-Dharma (level 1)
+  Everything is Unadvisable (level 2)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Escape Plan (level 1)
+  Astral Move - Cide (level 1)
+  Thunder And Lighting (level 2)
+Player 1's deck:
+  Examine Body (level 2)
+  Everything is Unadvisable (level 2)
+  Wood Spirit Seal (level 1)
+  Wood Spirit - Bud (level 1)
+  Water Spirit Formation (level 1)
+  Earth Spirit - Cliff (level 2)
+  Envelop In Disaster (level 1)
+  Fire Spirit - Blazing Prairie (level 2)

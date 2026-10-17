@@ -1,0 +1,144 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  谭舒雁(pid1) is playing Flower Sentient (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 1 def. Now have 1 def
+    gained 1 internal_injury. Now have 1 internal_injury
+  谭舒雁(pid1) finished playing Flower Sentient
+  STATE after turn 1a: A(hp 76/76, def 1, qi 1) | B(hp 66/81, def 0, qi 0, injury 1, phys 15)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 1 to 65
+  小布(pid3) is playing Majestic Qi (level 2)
+    gained 1 physique. Now have 16 physique
+    gained 1 max_hp. Now have 82 max_hp
+    healed 1 hp. Went from 65 to 66
+    gained 3 qi. Now have 3 qi
+    gained 1 force. Now have 1 force
+    gained 3 majestic_qi_stacks. Now have 3 majestic_qi_stacks
+  小布(pid3) finished playing Majestic Qi
+  STATE after turn 1b: A(hp 76/76, def 1, qi 1) | B(hp 66/82, def 0, qi 3, force 1, injury 1, phys 16)
+turn 1b ends
+turn 2a begins
+  lost 1 def. Now have 0 def
+  谭舒雁(pid1) is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  谭舒雁(pid1) finished playing Examine Body
+  STATE after turn 2a: A(hp 76/76, def 0, qi 1) | B(hp 66/82, def 0, qi 3, force 1, injury 1, phys 16)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 1 to 65
+  reduced 小布(pid3) hp by 4 to 61
+  小布(pid3) spent 4 hp to play Crash Fist - Shake (level 1)
+    lost 1 majestic_qi_stacks. Now have 2 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 12 to 64
+    gained 2 crash_fist_shake_stacks. Now have 2 crash_fist_shake_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Shake
+  STATE after turn 2b: A(hp 64/76, def 0, qi 1) | B(hp 61/82, def 0, qi 3, force 1, injury 1, phys 16)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Astral Move - Hit (level 1)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced 小布(pid3) hp by 5 to 56
+    reduced 小布(pid3) hp by 5 to 51
+    reduced 小布(pid3) hp by 5 to 46
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced 小布(pid3) hp by 5 to 41
+  谭舒雁(pid1) finished playing Astral Move - Hit
+  STATE after turn 3a: A(hp 64/76, def 0, qi 0) | B(hp 41/82, def 0, qi 3, force 1, injury 1, phys 16)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 1 to 40
+  reduced 小布(pid3) hp by 2 to 38
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 2 qi
+    lost 1 majestic_qi_stacks. Now have 1 majestic_qi_stacks
+    gained 1 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 15 to 49
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 3b: A(hp 49/76, def 0, qi 0) | B(hp 38/82, def 0, qi 2, force 1, injury 1, phys 16)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  谭舒雁(pid1) gained qi instead of playing Sparrow's Tail (level 2). They now have 1/1 qi
+  STATE after turn 4a: A(hp 49/76, def 0, qi 1) | B(hp 38/82, def 0, qi 2, force 1, injury 1, phys 16)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 1 to 37
+  小布(pid3) is playing Endless Sword Formation (level 1)
+    gained 2 endless_sword_formation_stacks. Now have 2 endless_sword_formation_stacks
+  小布(pid3) finished playing Endless Sword Formation
+  STATE after turn 4b: A(hp 49/76, def 0, qi 1) | B(hp 37/82, def 0, qi 2, force 1, injury 1, phys 16)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  谭舒雁(pid1) spent 1 qi to play Sparrow's Tail (level 2)
+    reduced 小布(pid3) hp by 10 to 27
+    reduced 小布(pid3) hp by 7 to 20
+  谭舒雁(pid1) finished playing Sparrow's Tail
+  STATE after turn 5a: A(hp 49/76, def 0, qi 0) | B(hp 20/82, def 0, qi 2, force 1, injury 1, phys 16)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 1 to 19
+  reduced 小布(pid3) hp by 4 to 15
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 2 force. Now have 3 force
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 majestic_qi_stacks. Now have 0 majestic_qi_stacks
+    gained 1 force. Now have 4 force
+    lost 1 force. Now have 3 force
+    reduced 谭舒雁(pid1) hp by 19 to 30
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    lost 1 endless_sword_formation_stacks. Now have 1 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 force. Now have 2 force
+    reduced 谭舒雁(pid1) hp by 6 to 24
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 5b: A(hp 24/76, def 0, qi 0) | B(hp 15/82, def 0, qi 2, force 2, injury 1, phys 16)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Thunder Hexagram Rhythm (level 1)
+    reduced 小布(pid3) hp by 7 to 8
+  谭舒雁(pid1) finished playing Thunder Hexagram Rhythm
+  STATE after turn 6a: A(hp 24/76, def 0, qi 0) | B(hp 8/82, def 0, qi 2, force 2, injury 1, phys 16)
+turn 6a ends
+turn 6b begins
+  reduced 小布(pid3) hp by 1 to 7
+  小布(pid3) is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  小布(pid3) finished playing Fraccide Formation
+  STATE after turn 6b: A(hp 24/76, def 0, qi 0) | B(hp 7/82, def 0, qi 2, force 2, injury 1, phys 16)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 小布(pid3) hp by 3 to 4
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 24/76, def 0, qi 0) | B(hp 4/82, def 0, qi 2, force 2, injury 1, phys 16)
+turn 7a ends
+turn 7b begins
+  reduced 小布(pid3) hp by 1 to 3
+  reduced 小布(pid3) hp by 3 to 0
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 1 force. Now have 1 force
+    reduced 谭舒雁(pid1) hp by 14 to 10
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    lost 1 endless_sword_formation_stacks. Now have 0 endless_sword_formation_stacks
+    Attacking for 5 from endless sword formation.
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    lost 1 force. Now have 0 force
+    reduced 谭舒雁(pid1) hp by 8 to 2
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  STATE after turn 7b: A(hp 2/76, def 0, qi 0) | B(hp 0/82, def 0, qi 2, injury 1, phys 16)
+turn 7b ends
+小布(pid3) loses 9 destiny, now at 76
+谭舒雁(pid1) (Tan Shuyan) wins

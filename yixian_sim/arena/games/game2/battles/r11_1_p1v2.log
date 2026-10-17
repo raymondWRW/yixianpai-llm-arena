@@ -1,0 +1,335 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Cloud Fulu (level 2)
+    reduced player 1 hp by 16 to 66
+    reduced player 1 max_hp by 16 to 66
+  player 0 finished playing Fire Cloud Fulu
+turn 1a ends
+turn 1b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 66 to 66
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 1b ends
+turn 2a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 62
+    reduced player 1 hp by 4 to 58
+  player 0 finished playing Ice Incantation
+turn 2a ends
+turn 2b begins
+  player 0 is playing Regen Tune (level 1)
+    gained 4 regen_tune_stacks. Now have 4 regen_tune_stacks
+    gained 4 regen_tune_stacks. Now have 4 regen_tune_stacks
+  player 0 finished playing Regen Tune
+  gained 4 max_hp. Now have 70 max_hp
+  healed 4 hp. Went from 58 to 62
+turn 2b ends
+turn 3a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 59
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 99 max_hp
+  healed 4 hp. Went from 95 to 99
+turn 3a ends
+turn 3b begins
+  player 0 is playing Wood Spirit - Fragrant (level 1)
+    gained 2 qi. Now have 4 qi
+    healed 2 hp. Went from 59 to 61
+    gained 1 increase_atk. Now have 1 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 74 max_hp
+  healed 4 hp. Went from 61 to 65
+turn 3b ends
+turn 4a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 62
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 103 max_hp
+  healed 4 hp. Went from 99 to 103
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+  player 0 upgrades Fire Spirit - Blast (level 1) to Fire Spirit - Blast (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    gained 2 increase_atk. Now have 3 increase_atk
+    reduced player 1 hp by 10 to 93
+    reduced player 1 max_hp by 10 to 93
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 78 max_hp
+  healed 4 hp. Went from 62 to 66
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 63
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 97 max_hp
+  healed 4 hp. Went from 93 to 97
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 4 increase_atk
+    reduced player 1 hp by 11 to 86
+    reduced player 1 max_hp by 11 to 86
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 82 max_hp
+  healed 4 hp. Went from 63 to 67
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 64
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 90 max_hp
+  healed 4 hp. Went from 86 to 90
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 17 to 73
+  player 0 finished playing Water Spirit - Waves
+  gained 4 max_hp. Now have 86 max_hp
+  healed 4 hp. Went from 64 to 68
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 65
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 94 max_hp
+  healed 4 hp. Went from 73 to 77
+turn 7a ends
+turn 7b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 11 to 66
+  player 0 finished playing Earth Spirit - Smash
+  gained 4 max_hp. Now have 90 max_hp
+  healed 4 hp. Went from 65 to 69
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 66
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 98 max_hp
+  healed 4 hp. Went from 66 to 70
+turn 8a ends
+turn 8b begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 2 qi. Now have 2 qi
+    healed 7 hp. Went from 66 to 73
+  player 0 finished playing Wood Spirit - Recovery
+  gained 4 max_hp. Now have 94 max_hp
+  healed 4 hp. Went from 73 to 77
+turn 8b ends
+turn 9a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 73
+    reduced player 1 hp by 4 to 69
+  player 0 finished playing Ice Incantation
+  gained 4 max_hp. Now have 102 max_hp
+  healed 4 hp. Went from 70 to 74
+turn 9a ends
+turn 9b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 4 qi
+    healed 4 hp. Went from 69 to 73
+    gained 1 activate_wood_spirit_stacks. Now have 2 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  gained 4 max_hp. Now have 98 max_hp
+  healed 4 hp. Went from 73 to 77
+turn 9b ends
+turn 10a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 74
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 106 max_hp
+  healed 4 hp. Went from 74 to 78
+turn 10a ends
+turn 10b begins
+  player 0 is playing Wood Spirit - Fragrant (level 1)
+    gained 2 qi. Now have 6 qi
+    healed 2 hp. Went from 74 to 76
+    gained 2 increase_atk. Now have 6 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 102 max_hp
+  healed 4 hp. Went from 76 to 80
+turn 10b ends
+turn 11a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 77
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 110 max_hp
+  healed 4 hp. Went from 78 to 82
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 8 increase_atk
+    reduced player 1 hp by 15 to 67
+    reduced player 1 max_hp by 15 to 95
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 106 max_hp
+  healed 4 hp. Went from 77 to 81
+turn 11b ends
+turn 12a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 78
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 99 max_hp
+  healed 4 hp. Went from 67 to 71
+turn 12a ends
+turn 12b begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 9 increase_atk
+    reduced player 1 hp by 16 to 55
+    reduced player 1 max_hp by 16 to 83
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 110 max_hp
+  healed 4 hp. Went from 78 to 82
+turn 12b ends
+turn 13a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 79
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 87 max_hp
+  healed 4 hp. Went from 55 to 59
+turn 13a ends
+turn 13b begins
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 22 to 37
+  player 0 finished playing Water Spirit - Waves
+  gained 4 max_hp. Now have 114 max_hp
+  healed 4 hp. Went from 79 to 83
+turn 13b ends
+turn 14a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 80
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 91 max_hp
+  healed 4 hp. Went from 37 to 41
+turn 14a ends
+turn 14b begins
+  player 0 is playing Earth Spirit - Smash (level 2)
+    reduced player 1 hp by 16 to 25
+  player 0 finished playing Earth Spirit - Smash
+  gained 4 max_hp. Now have 118 max_hp
+  healed 4 hp. Went from 80 to 84
+turn 14b ends
+turn 15a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 81
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 95 max_hp
+  healed 4 hp. Went from 25 to 29
+turn 15a ends
+turn 15b begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 2 qi. Now have 4 qi
+    healed 12 hp. Went from 81 to 93
+  player 0 finished playing Wood Spirit - Recovery
+  gained 4 max_hp. Now have 122 max_hp
+  healed 4 hp. Went from 93 to 97
+turn 15b ends
+turn 16a begins
+  player 0 is playing Ice Incantation (level 1)
+    reduced player 1 hp by 4 to 93
+    reduced player 1 hp by 4 to 89
+  player 0 finished playing Ice Incantation
+  gained 4 max_hp. Now have 99 max_hp
+  healed 4 hp. Went from 29 to 33
+turn 16a ends
+turn 16b begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 6 qi
+    healed 4 hp. Went from 89 to 93
+    gained 1 activate_wood_spirit_stacks. Now have 3 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  gained 4 max_hp. Now have 126 max_hp
+  healed 4 hp. Went from 93 to 97
+turn 16b ends
+turn 17a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 94
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 103 max_hp
+  healed 4 hp. Went from 33 to 37
+turn 17a ends
+turn 17b begins
+  player 0 is playing Wood Spirit - Fragrant (level 1)
+    gained 2 qi. Now have 8 qi
+    healed 2 hp. Went from 94 to 96
+    gained 2 increase_atk. Now have 11 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 130 max_hp
+  healed 4 hp. Went from 96 to 100
+turn 17b ends
+turn 18a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 97
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 107 max_hp
+  healed 4 hp. Went from 37 to 41
+turn 18a ends
+turn 18b begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 13 increase_atk
+    reduced player 1 hp by 20 to 21
+    reduced player 1 max_hp by 20 to 87
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 134 max_hp
+  healed 4 hp. Went from 97 to 101
+turn 18b ends
+turn 19a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 98
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 91 max_hp
+  healed 4 hp. Went from 21 to 25
+turn 19a ends
+turn 19b begins
+  lost 1 qi. Now have 6 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 14 increase_atk
+    reduced player 1 hp by 21 to 4
+    reduced player 1 max_hp by 21 to 70
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 138 max_hp
+  healed 4 hp. Went from 98 to 102
+turn 19b ends
+turn 20a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 99
+  player 0 finished playing Normal Attack
+  gained 4 max_hp. Now have 74 max_hp
+  healed 4 hp. Went from 4 to 8
+turn 20a ends
+turn 20b begins
+  lost 2 qi. Now have 4 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 27 to -19
+turn 20b ends
+player 0 loses 23 destiny, now at 72
+player 1 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Cloud Fulu (level 2)
+  Ice Incantation (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Wood Spirit Seal (level 2)
+  Regen Tune (level 1)
+  Wood Spirit - Fragrant (level 1)
+  Fire Spirit - Blast (level 2)
+  Fire Spirit - Blast (level 1)
+  Water Spirit - Waves (level 2)
+  Earth Spirit - Smash (level 2)
+  Wood Spirit - Recovery (level 1)

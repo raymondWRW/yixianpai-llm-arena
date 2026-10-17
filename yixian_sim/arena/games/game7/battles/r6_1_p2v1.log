@@ -1,0 +1,301 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Fraccide Formation (level 1)
+    gained 2 fraccide_formation_stacks. Now have 2 fraccide_formation_stacks
+  player 0 finished playing Fraccide Formation
+turn 1a ends
+turn 1b begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1b ends
+turn 2a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 2 qi
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 2a ends
+turn 2b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 max_hp. Now have 68 max_hp
+    healed 4 hp. Went from 65 to 68
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 2b ends
+turn 3a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 4 qi
+    reduced player 1 hp by 3 to 65
+    reduced player 1 max_hp by 3 to 65
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 3a ends
+turn 3b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 5 qi
+    gained 3 max_hp. Now have 68 max_hp
+    healed 4 hp. Went from 65 to 68
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 fraccide_formation_stacks. Now have 1 fraccide_formation_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 14 to 54
+    lost 1 fraccide_formation_stacks. Now have 0 fraccide_formation_stacks
+    reduced player 1 hp by 6 to 48
+  player 0 finished playing Fire Spirit - Rush
+turn 4a ends
+turn 4b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+  player 0 finished playing Water Hexagram
+turn 4b ends
+turn 5a begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 13 to 35
+  player 0 finished playing Water Spirit - Waves
+turn 5a ends
+turn 5b begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 6 to 56
+    gained 1 qi. Now have 6 qi
+    gained 3 max_hp. Now have 71 max_hp
+    healed 2 hp. Went from 35 to 37
+  player 0 finished playing Shifting Stars
+turn 5b ends
+turn 6a begins
+  player 0 is playing Earth Spirit Seal (level 2)
+    reduced player 1 hp by 5 to 32
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 6 to 50
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 6b ends
+turn 7a begins
+  player 0 is playing Earth Spirit - Mountains (level 2)
+    reduced player 1 hp by 3 to 29
+    gained 3 def. Now have 3 def
+    gained 6 next_turn_def. Now have 6 next_turn_def
+  player 0 finished playing Earth Spirit - Mountains
+  lost 1 weaken. Now have 0 weaken
+turn 7a ends
+turn 7b begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 45
+    gained 3 qi. Now have 8 qi
+    gained 3 max_hp. Now have 74 max_hp
+    healed 6 hp. Went from 29 to 35
+  player 0 finished playing White Crane Bright Wings
+turn 7b ends
+turn 8a begins
+  lost 6 next_turn_def. Now have 0 next_turn_def
+  gained 6 def. Now have 6 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 32
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 3 to 42
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 5 to 37
+  player 0 finished playing Sparrow's Tail
+turn 8b ends
+turn 9a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 3 qi
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 9a ends
+turn 9b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 9 qi
+    gained 3 max_hp. Now have 77 max_hp
+    healed 4 hp. Went from 32 to 36
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9b ends
+turn 10a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 5 qi
+    reduced player 1 hp by 3 to 33
+    reduced player 1 max_hp by 3 to 74
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 10a ends
+turn 10b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 11 qi
+    gained 3 max_hp. Now have 77 max_hp
+    healed 4 hp. Went from 33 to 37
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 10 to 27
+    reduced player 1 hp by 3 to 24
+  player 0 finished playing Fire Spirit - Rush
+turn 11a ends
+turn 11b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 12 qi
+    gained 3 max_hp. Now have 80 max_hp
+    healed 2 hp. Went from 24 to 26
+  player 0 finished playing Water Hexagram
+turn 11b ends
+turn 12a begins
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 13 to 13
+  player 0 finished playing Water Spirit - Waves
+turn 12a ends
+turn 12b begins
+  player 0 is playing Shifting Stars (level 1)
+    reduced player 1 hp by 7 to 30
+    gained 1 qi. Now have 13 qi
+    gained 3 max_hp. Now have 83 max_hp
+    healed 2 hp. Went from 13 to 15
+  player 0 finished playing Shifting Stars
+turn 12b ends
+turn 13a begins
+  player 0 is playing Earth Spirit Seal (level 2)
+    reduced player 1 hp by 5 to 10
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 2 activate_earth_spirit_stacks
+  player 0 finished playing Earth Spirit Seal
+turn 13a ends
+turn 13b begins
+  lost 1 qi. Now have 12 qi
+  player 0 spent 1 qi to play Golden Rooster Independence (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 7 to 23
+    lost 1 hexagram. Now have 2 hexagram
+    gained 1 weaken. Now have 1 weaken
+  player 0 finished playing Golden Rooster Independence
+turn 13b ends
+turn 14a begins
+  player 0 is playing Earth Spirit - Mountains (level 2)
+    reduced player 1 hp by 3 to 7
+    gained 3 def. Now have 3 def
+    gained 6 next_turn_def. Now have 6 next_turn_def
+  player 0 finished playing Earth Spirit - Mountains
+  lost 1 weaken. Now have 0 weaken
+turn 14a ends
+turn 14b begins
+  player 0 is playing White Crane Bright Wings (level 3)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 5 to 18
+    gained 3 qi. Now have 15 qi
+    gained 3 max_hp. Now have 86 max_hp
+    healed 6 hp. Went from 7 to 13
+  player 0 finished playing White Crane Bright Wings
+turn 14b ends
+turn 15a begins
+  lost 6 next_turn_def. Now have 0 next_turn_def
+  gained 6 def. Now have 6 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 15a ends
+turn 15b begins
+  lost 1 qi. Now have 14 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 1)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 3 to 15
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 5 to 10
+  player 0 finished playing Sparrow's Tail
+turn 15b ends
+turn 16a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 4 qi
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 16a ends
+turn 16b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 16 qi
+    gained 3 max_hp. Now have 89 max_hp
+    healed 4 hp. Went from 10 to 14
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 3 star_power
+  player 0 finished playing Dotted Around
+turn 16b ends
+turn 17a begins
+  player 0 is playing Fire Spirit - Flame Eater (level 1)
+    gained 2 qi. Now have 6 qi
+    reduced player 1 hp by 3 to 11
+    reduced player 1 max_hp by 3 to 86
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 17a ends
+turn 17b begins
+  lost 2 def. Now have 1 def
+  player 0 is playing Wind Hexagram (level 2)
+    gained 2 qi. Now have 18 qi
+    gained 3 max_hp. Now have 89 max_hp
+    healed 4 hp. Went from 11 to 15
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 17b ends
+turn 18a begins
+  lost 1 qi. Now have 5 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 10 to 5
+    reduced player 1 hp by 3 to 2
+  player 0 finished playing Fire Spirit - Rush
+turn 18a ends
+turn 18b begins
+  player 0 is playing Water Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 1 qi. Now have 19 qi
+    gained 3 max_hp. Now have 92 max_hp
+    healed 2 hp. Went from 2 to 4
+  player 0 finished playing Water Hexagram
+turn 18b ends
+turn 19a begins
+  lost 2 qi. Now have 3 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    reduced player 1 hp by 13 to -9
+turn 19a ends
+player 1 loses 10 destiny, now at 77
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fraccide Formation (level 1)
+  Fire Spirit - Flame Eater (level 1)
+  Fire Spirit - Flame Eater (level 1)
+  Fire Spirit - Rush (level 2)
+  Water Spirit - Waves (level 2)
+  Earth Spirit Seal (level 2)
+  Earth Spirit - Mountains (level 2)
+  Normal Attack (level 1)
+Player 1's deck:
+  Stillness Citta-Dharma (level 1)
+  Dotted Around (level 2)
+  Wind Hexagram (level 2)
+  Water Hexagram (level 1)
+  Shifting Stars (level 1)
+  Golden Rooster Independence (level 1)
+  White Crane Bright Wings (level 3)
+  Sparrow's Tail (level 1)

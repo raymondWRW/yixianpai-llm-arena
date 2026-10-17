@@ -1,0 +1,24 @@
+{
+ "game": 20,
+ "seed": 220,
+ "rounds": 18,
+ "winner": 3,
+ "winner_name": "小布",
+ "tie": false,
+ "co_winners": [
+  3
+ ],
+ "unfinished": false,
+ "standings": {
+  "0": 0,
+  "1": 0,
+  "2": 0,
+  "3": 49
+ },
+ "sidejobs": {
+  "1": 7,
+  "0": 5,
+  "2": 5,
+  "3": 5
+ }
+}

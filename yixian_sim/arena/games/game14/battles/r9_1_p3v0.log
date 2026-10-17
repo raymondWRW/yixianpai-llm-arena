@@ -1,0 +1,193 @@
+gained 1 qi. Now have 1 qi
+reduced 牧逸风(pid0) hp by 2 to 76
+turn 1a begins
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 1a: A(hp 84/87, def 0, qi 4, phys 3) | B(hp 76/78, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 4 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 1b: A(hp 84/87, def 0, qi 4, phys 3) | B(hp 76/78, def 0, qi 4)
+turn 1b ends
+turn 2a begins
+  小布(pid3) is playing Gather Force (level 2)
+    reduced 牧逸风(pid0) hp by 5 to 71
+    gained 1 qi. Now have 5 qi
+    gained 2 force. Now have 2 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 2a: A(hp 84/87, def 0, qi 5, force 2, phys 3) | B(hp 71/78, def 0, qi 4)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 7 qi
+    reduced 小布(pid3) hp by 3 to 81
+    reduced 小布(pid3) hp by 3 to 78
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 2b: A(hp 78/87, def 0, qi 5, force 2, phys 3) | B(hp 71/78, def 0, qi 7)
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 5 force
+    gained 6 agility. Now have 6 agility
+  小布(pid3) finished playing Sailing through Sky
+  STATE after turn 3a: A(hp 78/87, def 0, qi 4, force 5, phys 3, agi 6) | B(hp 71/78, def 0, qi 7)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 5 to 73
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 3b: A(hp 73/87, def 0, qi 4, force 5, phys 3, agi 6) | B(hp 71/78, def 0, qi 7, sword 3)
+turn 3b ends
+turn 4a begins
+  reduced 小布(pid3) hp by 2 to 71
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 3 qi
+    lost 1 force. Now have 4 force
+    reduced 牧逸风(pid0) hp by 19 to 52
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Strong Force
+  STATE after turn 4a: A(hp 71/87, def 0, qi 3, force 4, phys 3, agi 6) | B(hp 52/78, def 0, qi 7, sword 3)
+turn 4a ends
+turn 4b begins
+  lost 1 qi. Now have 6 qi
+  牧逸风(pid0) spent 1 qi to play Form-Intention Sword (level 1)
+    reduced 小布(pid3) hp by 11 to 60
+    gained 3 sword_intent. Now have 6 sword_intent
+    lost 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Form-Intention Sword
+  STATE after turn 4b: A(hp 60/87, def 0, qi 3, force 4, phys 3, agi 6) | B(hp 52/78, def 0, qi 6, sword 3)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Bearing the Load (level 1)
+    gained 3 physique. Now have 6 physique
+    gained 3 max_hp. Now have 90 max_hp
+    gained 2 entangle. Now have 2 entangle
+    gained 10 def. Now have 10 def
+  小布(pid3) finished playing Bearing the Load
+  lost 1 entangle. Now have 1 entangle
+  STATE after turn 5a: A(hp 60/90, def 10, qi 3, force 4, phys 6, agi 6) | B(hp 52/78, def 0, qi 6, sword 3)
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 5 qi
+  牧逸风(pid0) spent 1 qi to play Giant Tiger Spirit Sword (level 3)
+    lost 10 def. Now have 0 def
+    reduced 小布(pid3) hp by 9 to 51
+    lost 3 sword_intent. Now have 0 sword_intent
+  牧逸风(pid0) finished playing Giant Tiger Spirit Sword
+  STATE after turn 5b: A(hp 51/90, def 0, qi 3, force 4, phys 6, agi 6) | B(hp 52/78, def 0, qi 5)
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 2)
+    lost 1 force. Now have 3 force
+    reduced 牧逸风(pid0) hp by 21 to 31
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  lost 1 entangle. Now have 0 entangle
+  STATE after turn 6a: A(hp 51/90, def 0, qi 2, force 3, injury 1, phys 6, agi 6) | B(hp 31/78, def 0, qi 5)
+turn 6a ends
+turn 6b begins
+  lost 2 qi. Now have 3 qi
+  牧逸风(pid0) spent 2 qi to play Giant Roc Spirit Sword (level 2)
+    reduced 小布(pid3) hp by 12 to 39
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  牧逸风(pid0) finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  lost 1 qi. Now have 2 qi
+  牧逸风(pid0) spent 1 qi to play Flying Fang Sword (level 2)
+    reduced 小布(pid3) hp by 11 to 28
+  牧逸风(pid0) finished playing Flying Fang Sword
+  STATE after turn 6b: A(hp 28/90, def 0, qi 2, force 3, injury 1, phys 6, agi 6) | B(hp 31/78, def 0, qi 2)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 1 to 27
+  reduced 小布(pid3) hp by 4 to 23
+  小布(pid3) spent 4 hp to play Crash Fist - Truncate (level 1)
+    lost 1 internal_injury. Now have 0 internal_injury
+    gained 1 internal_injury. Now have 1 internal_injury
+    lost 1 force. Now have 2 force
+    reduced 牧逸风(pid0) hp by 11 to 20
+    gained 1 crash_fist_truncate_stacks. Now have 1 crash_fist_truncate_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Truncate
+  STATE after turn 7a: A(hp 23/90, def 0, qi 2, force 2, phys 6, agi 6) | B(hp 20/78, def 0, qi 2, injury 1)
+turn 7a ends
+turn 7b begins
+  reduced 牧逸风(pid0) hp by 1 to 19
+  lost 1 qi. Now have 1 qi
+  牧逸风(pid0) spent 1 qi to play Burst Sword (level 1)
+    reduced 小布(pid3) hp by 11 to 12
+    lost 1 qi. Now have 1 qi
+  牧逸风(pid0) finished playing Burst Sword
+  STATE after turn 7b: A(hp 12/90, def 0, qi 1, force 2, phys 6, agi 6) | B(hp 19/78, def 0, qi 1, injury 1)
+turn 7b ends
+turn 8a begins
+  小布(pid3) is playing Foretell Fate (level 1)
+    reduced 牧逸风(pid0) hp by 6 to 13
+  小布(pid3) finished playing Foretell Fate
+  STATE after turn 8a: A(hp 12/90, def 0, qi 1, force 2, phys 6, agi 6) | B(hp 13/78, def 0, qi 1, injury 1)
+turn 8a ends
+turn 8b begins
+  reduced 牧逸风(pid0) hp by 1 to 12
+  牧逸风(pid0) is playing Transforming Spirits Rhythm (level 2)
+    gained 4 qi. Now have 5 qi
+  牧逸风(pid0) finished playing Transforming Spirits Rhythm
+  STATE after turn 8b: A(hp 12/90, def 0, qi 1, force 2, phys 6, agi 6) | B(hp 12/78, def 0, qi 5, injury 1)
+turn 8b ends
+turn 9a begins
+  小布(pid3) is playing Detect Qi (level 2)
+    gained 3 qi. Now have 4 qi
+  小布(pid3) finished playing Detect Qi
+  STATE after turn 9a: A(hp 12/90, def 0, qi 4, force 2, phys 6, agi 6) | B(hp 12/78, def 0, qi 5, injury 1)
+turn 9a ends
+turn 9b begins
+  reduced 牧逸风(pid0) hp by 1 to 11
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 8 qi
+    reduced 小布(pid3) hp by 3 to 9
+    reduced 小布(pid3) hp by 3 to 6
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9b: A(hp 6/90, def 0, qi 4, force 2, phys 6, agi 6) | B(hp 11/78, def 0, qi 8, injury 1)
+turn 9b ends
+turn 10a begins
+  小布(pid3) is playing Gather Force (level 2)
+    lost 1 force. Now have 1 force
+    reduced 牧逸风(pid0) hp by 6 to 5
+    gained 1 qi. Now have 5 qi
+    gained 2 force. Now have 3 force
+  小布(pid3) finished playing Gather Force
+  STATE after turn 10a: A(hp 6/90, def 0, qi 5, force 3, phys 6, agi 6) | B(hp 5/78, def 0, qi 8, injury 1)
+turn 10a ends
+turn 10b begins
+  reduced 牧逸风(pid0) hp by 1 to 4
+  牧逸风(pid0) is playing Sword Slash (level 2)
+    reduced 小布(pid3) hp by 5 to 1
+    gained 3 sword_intent. Now have 3 sword_intent
+  牧逸风(pid0) finished playing Sword Slash
+  STATE after turn 10b: A(hp 1/90, def 0, qi 5, force 3, phys 6, agi 6) | B(hp 4/78, def 0, qi 8, sword 3, injury 1)
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 4 qi
+  小布(pid3) spent 1 qi to play Sailing through Sky (level 1)
+    gained 3 force. Now have 6 force
+    gained 6 agility. Now have 12 agility
+  小布(pid3) finished playing Sailing through Sky
+  Spent 10 agility to chase. Agility is now 2
+  incremented chases to 1
+  chase!!
+  reduced 小布(pid3) hp by 2 to -1
+  小布(pid3) spent 2 hp to play Strong Force (level 1)
+    lost 1 qi. Now have 3 qi
+    lost 1 force. Now have 5 force
+    reduced 牧逸风(pid0) hp by 20 to -16
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  STATE after turn 11a: A(hp -1/90, def 0, qi 3, force 5, phys 6, agi 2) | B(hp -16/78, def 0, qi 8, sword 3, injury 1)
+turn 11a ends
+牧逸风(pid0) loses 12 destiny, now at 58
+小布(pid3) (Xiao Bu) wins

@@ -1,0 +1,134 @@
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 41
+    reduced player 1 max_hp by 3 to 41
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 1 star_power
+  player 0 finished playing Dotted Around
+turn 1b ends
+turn 2a begins
+  player 0 is playing Five Elements Fleche (level 3)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 11 to 30
+  player 0 finished playing Five Elements Fleche
+turn 2a ends
+turn 2b begins
+  player 0 is playing Astral Move - Block (level 1)
+    reduced player 1 hp by 6 to 38
+  player 0 finished playing Astral Move - Block
+turn 2b ends
+turn 3a begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+    reduced player 1 hp by 6 to 24
+  player 0 finished playing Metal Spirit - Needle
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Astral Move - Flank (level 2)
+    reduced player 1 hp by 8 to 30
+    reduced player 1 hp by 8 to 22
+  player 0 finished playing Astral Move - Flank
+turn 3b ends
+turn 4a begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+    reduced player 1 hp by 6 to 18
+    gained 2 penetrate. Now have 2 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 4a ends
+turn 4b begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 13
+  player 0 finished playing Incessant
+turn 4b ends
+turn 5a begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 4 qi
+    healed 4 hp. Went from 13 to 17
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 5a ends
+turn 5b begins
+  player 0 is playing Zhen Hexagram (level 1)
+    reduced player 1 hp by 4 to 13
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Zhen Hexagram
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 5 to 13
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 9
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 10
+  player 0 finished playing Normal Attack
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 6
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 7
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 3
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 4
+    reduced player 1 max_hp by 3 to 38
+    gained 2 qi. Now have 6 qi
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9a ends
+turn 9b begins
+  player 0 is playing Dotted Around (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 3 def. Now have 3 def
+    gained 1 star_power. Now have 2 star_power
+  player 0 finished playing Dotted Around
+turn 9b ends
+turn 10a begins
+  player 0 is playing Five Elements Fleche (level 3)
+    lost 3 def. Now have 0 def
+    reduced player 1 hp by 11 to -7
+turn 10a ends
+player 1 loses 5 destiny, now at 91
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 2)
+  Five Elements Fleche (level 3)
+  Metal Spirit - Needle (level 1)
+  Metal Spirit - Needle (level 1)
+  Wood Spirit Seal (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Dotted Around (level 2)
+  Astral Move - Block (level 1)
+  Astral Move - Flank (level 2)
+  Incessant (level 2)
+  Zhen Hexagram (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

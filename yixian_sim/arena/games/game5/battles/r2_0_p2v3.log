@@ -1,0 +1,96 @@
+turn 1a begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 39
+    reduced player 1 max_hp by 3 to 40
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 33
+    gained 1 physique. Now have 2 physique
+    gained 1 max_hp. Now have 41 max_hp
+  player 0 finished playing Exercise Fist
+turn 1b ends
+turn 2a begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 25
+  player 0 finished playing Five Elements Fleche
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 3 to 22
+  player 0 spent 3 hp to play Crash Fist - Poke (level 1)
+    reduced player 1 hp by 9 to 24
+    gained 2 later_crash_fist_poke_stacks. Now have 2 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 2b ends
+turn 3a begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+    reduced player 1 hp by 6 to 16
+  player 0 finished playing Metal Spirit - Needle
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 3 to 13
+  player 0 spent 3 hp to play Crash Fist - Block (level 1)
+    gained 2 bonus_atk_amt. Now have 2 bonus_atk_amt
+    reduced player 1 hp by 9 to 15
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Block
+turn 3b ends
+turn 4a begins
+  player 0 is playing Metal Spirit - Needle (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 4 to 9
+    gained 2 penetrate. Now have 2 penetrate
+  player 0 finished playing Metal Spirit - Needle
+turn 4a ends
+turn 4b begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+turn 4b ends
+turn 5a begins
+  player 0 is playing Normal Attack (level 1)
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced player 1 hp by 5 to 4
+  player 0 finished playing Normal Attack
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sky-Piercing Claw (level 1)
+    reduced player 1 hp by 12 to 3
+    gained 1 internal_injury. Now have 1 internal_injury
+  player 0 finished playing Sky-Piercing Claw
+turn 5b ends
+turn 6a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 1
+  player 0 finished playing Normal Attack
+turn 6a ends
+turn 6b begins
+  reduced player 0 hp by 1 to 0
+turn 6b ends
+player 1 loses 3 destiny, now at 97
+player 0 (Wu Xingzhi) wins
+Player 0's deck:
+  Fire Spirit Seal (level 2)
+  Five Elements Fleche (level 3)
+  Metal Spirit - Needle (level 1)
+  Metal Spirit - Needle (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Exercise Fist (level 2)
+  Crash Fist - Poke (level 1)
+  Crash Fist - Block (level 1)
+  Sky-Piercing Claw (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

@@ -1,0 +1,252 @@
+turn 1a begins
+  player 0 is playing Standing Firm (level 2)
+    gained 5 def. Now have 5 def
+    gained 3 force. Now have 3 force
+  player 0 finished playing Standing Firm
+turn 1a ends
+turn 1b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    reduced player 1 hp by 3 to 106
+    reduced player 1 max_hp by 3 to 183
+    gained 2 qi. Now have 2 qi
+    gained 1 activate_fire_spirit_stacks. Now have 1 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 1b ends
+turn 2a begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 6 def
+    gained 2 force. Now have 5 force
+  player 0 finished playing Standing Firm
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 5 to 101
+    reduced player 1 hp by 3 to 98
+  player 0 finished playing Fire Spirit - Rush
+turn 2b ends
+turn 3a begins
+  player 0 is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 79 physique
+    gained 2 max_hp. Now have 185 max_hp
+    healed 1 hp. Went from 98 to 99
+  player 0 finished playing Embracing Qi Technique
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    reduced player 1 hp by 5 to 94
+    reduced player 1 hp by 5 to 89
+    reduced player 1 hp by 6 to 83
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 3b ends
+turn 4a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 21 to 88
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 6 force
+  player 0 finished playing Vigorous Force
+turn 4a ends
+turn 4b begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 69
+  player 0 finished playing Five Elements Fleche
+turn 4b ends
+turn 5a begins
+  player 0 is playing Exercise Soul (level 2)
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 12 to 76
+    gained 4 physique. Now have 83 physique
+    gained 4 max_hp. Now have 189 max_hp
+    healed 1 hp. Went from 69 to 70
+    gained 1 increase_atk. Now have 1 increase_atk
+    gained 6 agility. Now have 6 agility
+  player 0 finished playing Exercise Soul
+turn 5a ends
+turn 5b begins
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 3 qi
+    reduced player 1 hp by 4 to 66
+    reduced player 1 max_hp by 4 to 185
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 5b ends
+turn 6a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Vast Universe (level 1). They now have 1/2 qi
+turn 6a ends
+turn 6b begins
+  player 0 is playing Earth Spirit - Dust (level 2)
+  player 0 upgrades Earth Spirit - Dust (level 2) to Earth Spirit - Dust (level 3)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    reduced player 1 hp by 16 to 50
+    gained 19 def. Now have 19 def
+    gained 19 next_turn_def. Now have 19 next_turn_def
+  player 0 finished playing Earth Spirit - Dust
+turn 6b ends
+turn 7a begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Vast Universe (level 1). They now have 2/2 qi
+turn 7a ends
+turn 7b begins
+  lost 10 def. Now have 9 def
+  lost 19 next_turn_def. Now have 0 next_turn_def
+  gained 19 def. Now have 28 def
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play World Smash (level 2)
+    reduced player 1 hp by 17 to 33
+  player 0 finished playing World Smash
+turn 7b ends
+turn 8a begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Vast Universe (level 1)
+    lost 1 force. Now have 4 force
+    lost 16 def. Now have 12 def
+    healed 4 hp. Went from 33 to 37
+    gained 12 agility. Now have 18 agility
+  player 0 finished playing Vast Universe
+  Spent 10 agility to chase. Agility is now 8
+  incremented chases to 1
+  chase!!
+  player 0 is playing Sinking Qi (level 1)
+    gained 2 qi. Now have 2 qi
+    healed 2 hp. Went from 37 to 39
+  player 0 finished playing Sinking Qi
+turn 8a ends
+turn 8b begins
+  lost 6 def. Now have 6 def
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 5 to 34
+    gained 1 qi. Now have 3 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+turn 8b ends
+turn 9a begins
+  player 0 is playing Overwhelming Force (level 2)
+    lost 4 force. Now have 0 force
+    gained 16 def. Now have 16 def
+    lost 6 def. Now have 0 def
+    reduced player 1 hp by 10 to 66
+    gained 6 agility. Now have 14 agility
+  player 0 finished playing Overwhelming Force
+  Spent 10 agility to chase. Agility is now 4
+  incremented chases to 1
+  chase!!
+  player 0 is playing Standing Firm (level 2)
+    gained 5 def. Now have 21 def
+    gained 3 force. Now have 3 force
+    lost 1 qi. Now have 1 qi
+    healed 5 hp. Went from 34 to 39
+  player 0 finished playing Standing Firm
+turn 9a ends
+turn 9b begins
+  player 0 is playing Fire Spirit Seal (level 2)
+    gained 1 activate_fire_spirit_stacks. Now have 2 activate_fire_spirit_stacks
+    reduced player 1 hp by 3 to 36
+    reduced player 1 max_hp by 3 to 182
+    gained 2 qi. Now have 5 qi
+    gained 1 activate_fire_spirit_stacks. Now have 3 activate_fire_spirit_stacks
+  player 0 finished playing Fire Spirit Seal
+turn 9b ends
+turn 10a begins
+  lost 11 def. Now have 10 def
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 14 def
+    gained 2 force. Now have 5 force
+    lost 1 qi. Now have 0 qi
+    healed 5 hp. Went from 36 to 41
+  player 0 finished playing Standing Firm
+turn 10a ends
+turn 10b begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Rush (level 2)
+    lost 11 def. Now have 3 def
+    lost 3 def. Now have 0 def
+  player 0 finished playing Fire Spirit - Rush
+turn 10b ends
+turn 11a begins
+  player 0 is playing Embracing Qi Technique (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 85 physique
+    gained 2 max_hp. Now have 184 max_hp
+    healed 2 hp. Went from 41 to 43
+    healed 1 hp. Went from 43 to 44
+  player 0 finished playing Embracing Qi Technique
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Scarlet Flame (level 2)
+    reduced player 1 hp by 5 to 39
+    reduced player 1 hp by 5 to 34
+    reduced player 1 hp by 6 to 28
+  player 0 finished playing Fire Spirit - Scarlet Flame
+turn 11b ends
+turn 12a begins
+  player 0 is playing Vigorous Force (level 2)
+    lost 1 force. Now have 4 force
+    reduced player 1 hp by 22 to 44
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 6 force
+  player 0 finished playing Vigorous Force
+turn 12a ends
+turn 12b begins
+  player 0 is playing Five Elements Fleche (level 3)
+    reduced player 1 hp by 14 to 14
+  player 0 finished playing Five Elements Fleche
+turn 12b ends
+turn 13a begins
+  player 0 is playing Exercise Soul (level 2)
+    lost 1 force. Now have 5 force
+    reduced player 1 hp by 14 to 30
+    gained 4 physique. Now have 89 physique
+    gained 4 max_hp. Now have 188 max_hp
+    healed 4 hp. Went from 14 to 18
+    gained 1 increase_atk. Now have 2 increase_atk
+    gained 6 agility. Now have 10 agility
+  player 0 finished playing Exercise Soul
+  Spent 10 agility to chase. Agility is now 0
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Vast Universe (level 1). They now have 1/2 qi
+turn 13a ends
+turn 13b begins
+  player 0 is playing Fire Spirit - Flame Eater (level 2)
+    gained 3 qi. Now have 6 qi
+    reduced player 1 hp by 4 to 14
+    reduced player 1 max_hp by 4 to 184
+  player 0 finished playing Fire Spirit - Flame Eater
+turn 13b ends
+turn 14a begins
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Vast Universe (level 1). They now have 2/2 qi
+turn 14a ends
+turn 14b begins
+  player 0 is playing Earth Spirit - Dust (level 3)
+    reduced player 1 hp by 16 to -2
+    gained 18 def. Now have 18 def
+    gained 18 next_turn_def. Now have 18 next_turn_def
+turn 14b ends
+player 0 loses 22 destiny, now at 19
+player 1 (Wu Xingzhi) wins
+Player 0's deck:
+  Standing Firm (level 2)
+  Standing Firm (level 1)
+  Embracing Qi Technique (level 1)
+  Vigorous Force (level 2)
+  Exercise Soul (level 2)
+  Vast Universe (level 1)
+  Sinking Qi (level 1)
+  Overwhelming Force (level 2)
+Player 1's deck:
+  Fire Spirit Seal (level 2)
+  Fire Spirit - Rush (level 2)
+  Fire Spirit - Scarlet Flame (level 2)
+  Five Elements Fleche (level 3)
+  Fire Spirit - Flame Eater (level 2)
+  Earth Spirit - Dust (level 3)
+  World Smash (level 2)
+  Cosmos Seal (level 1)

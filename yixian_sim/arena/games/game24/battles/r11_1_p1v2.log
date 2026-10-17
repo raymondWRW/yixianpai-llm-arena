@@ -1,0 +1,270 @@
+turn 1a begins
+  谭舒雁(pid1) is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  谭舒雁(pid1) finished playing Stillness Citta-Dharma
+  STATE after turn 1a: A(hp 103/103, def 0, qi 0) | B(hp 82/82, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Earth Spirit Formation (level 1)
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+    gained 4 def. Now have 4 def
+    gained 2 earth_spirit_formation_stacks. Now have 2 earth_spirit_formation_stacks
+  吾行之(pid2) finished playing Earth Spirit Formation
+  STATE after turn 1b: A(hp 103/103, def 0, qi 0) | B(hp 82/82, def 4, qi 0)
+turn 1b ends
+turn 2a begins
+  谭舒雁(pid1) is playing Mountain Hexagram (level 1)
+    gained 2 hexagram. Now have 2 hexagram
+    gained 2 max_hp. Now have 105 max_hp
+    healed 2 hp. Went from 103 to 105
+  谭舒雁(pid1) finished playing Mountain Hexagram
+  STATE after turn 2a: A(hp 105/105, def 0, qi 0, hex 2) | B(hp 82/82, def 4, qi 0)
+turn 2a ends
+turn 2b begins
+  lost 2 def. Now have 2 def
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 3 hexproof
+    gained 10 def. Now have 12 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 2b: A(hp 105/105, def 0, qi 0, hex 2) | B(hp 82/82, def 12, qi 0)
+turn 2b ends
+turn 3a begins
+  谭舒雁(pid1) is playing White Snake (level 1)
+    lost 1 hexagram. Now have 1 hexagram
+    lost 2 hexproof. Now have 1 hexproof
+    lost 6 def. Now have 6 def
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 3a: A(hp 105/105, def 0, qi 0, hex 1) | B(hp 82/82, def 6, qi 0)
+turn 3a ends
+turn 3b begins
+  lost 3 def. Now have 3 def
+  吾行之(pid2) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  吾行之(pid2) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 89 max_hp
+  healed 7 hp. Went from 82 to 89
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 3b: A(hp 105/105, def 0, qi 0, hex 1) | B(hp 89/89, def 10, qi 0)
+turn 3b ends
+turn 4a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 7 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 4a: A(hp 105/105, def 0, qi 0, hex 1) | B(hp 89/89, def 7, qi 0)
+turn 4a ends
+turn 4b begins
+  lost 4 def. Now have 3 def
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 94
+  吾行之(pid2) finished playing Five Elements Fleche
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 96 max_hp
+  healed 7 hp. Went from 89 to 96
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 4b: A(hp 94/105, def 0, qi 0, hex 1) | B(hp 96/96, def 10, qi 0)
+turn 4b ends
+turn 5a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 7 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 5a: A(hp 94/105, def 0, qi 0, hex 1) | B(hp 96/96, def 7, qi 0)
+turn 5a ends
+turn 5b begins
+  lost 4 def. Now have 3 def
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 87
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 5b: A(hp 87/105, def 0, qi 0, hex 1) | B(hp 96/96, def 3, qi 0)
+turn 5b ends
+turn 6a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 6a: A(hp 87/105, def 0, qi 0, hex 1) | B(hp 96/96, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 9 to 78
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 6b: A(hp 78/105, def 0, qi 0, hex 1) | B(hp 96/96, def 2, qi 0)
+turn 6b ends
+turn 7a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 95
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 7a: A(hp 78/105, def 0, qi 0, hex 1) | B(hp 95/96, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Earth Spirit - Mountains (level 1)
+    gained 2 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 5 to 73
+    gained 2 def. Now have 4 def
+    gained 3 next_turn_def. Now have 3 next_turn_def
+  吾行之(pid2) finished playing Earth Spirit - Mountains
+  STATE after turn 7b: A(hp 73/105, def 0, qi 0, hex 1) | B(hp 95/96, def 4, qi 0)
+turn 7b ends
+turn 8a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 1 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 8a: A(hp 73/105, def 0, qi 0, hex 1) | B(hp 95/96, def 1, qi 0)
+turn 8a ends
+turn 8b begins
+  lost 1 def. Now have 0 def
+  lost 3 next_turn_def. Now have 0 next_turn_def
+  gained 3 def. Now have 3 def
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 5 def
+    reduced 谭舒雁(pid1) hp by 9 to 64
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 8b: A(hp 64/105, def 0, qi 0, hex 1) | B(hp 95/96, def 5, qi 0)
+turn 8b ends
+turn 9a begins
+  谭舒雁(pid1) is playing Mountain Hexagram (level 1)
+    gained 2 hexagram. Now have 3 hexagram
+    gained 2 max_hp. Now have 107 max_hp
+    healed 2 hp. Went from 64 to 66
+  谭舒雁(pid1) finished playing Mountain Hexagram
+  STATE after turn 9a: A(hp 66/107, def 0, qi 0, hex 3) | B(hp 95/96, def 5, qi 0)
+turn 9a ends
+turn 9b begins
+  lost 3 def. Now have 2 def
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 4 hexproof
+    gained 10 def. Now have 12 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 9b: A(hp 66/107, def 0, qi 0, hex 3) | B(hp 95/96, def 12, qi 0)
+turn 9b ends
+turn 10a begins
+  谭舒雁(pid1) is playing White Snake (level 1)
+    lost 1 hexagram. Now have 2 hexagram
+    lost 2 hexproof. Now have 2 hexproof
+    lost 6 def. Now have 6 def
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 10a: A(hp 66/107, def 0, qi 0, hex 2) | B(hp 95/96, def 6, qi 0)
+turn 10a ends
+turn 10b begins
+  lost 3 def. Now have 3 def
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 55
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 10b: A(hp 55/107, def 0, qi 0, hex 2) | B(hp 95/96, def 3, qi 0)
+turn 10b ends
+turn 11a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 0 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 11a: A(hp 55/107, def 0, qi 0, hex 2) | B(hp 95/96, def 0, qi 0)
+turn 11a ends
+turn 11b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 48
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 11b: A(hp 48/107, def 0, qi 0, hex 2) | B(hp 95/96, def 0, qi 0)
+turn 11b ends
+turn 12a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 92
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 12a: A(hp 48/107, def 0, qi 0, hex 2) | B(hp 92/96, def 0, qi 0)
+turn 12a ends
+turn 12b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 9 to 39
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 12b: A(hp 39/107, def 0, qi 0, hex 2) | B(hp 92/96, def 2, qi 0)
+turn 12b ends
+turn 13a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 91
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 13a: A(hp 39/107, def 0, qi 0, hex 2) | B(hp 91/96, def 0, qi 0)
+turn 13a ends
+turn 13b begins
+  吾行之(pid2) is playing Earth Spirit - Mountains (level 1)
+    gained 2 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 5 to 34
+    gained 2 def. Now have 4 def
+    gained 3 next_turn_def. Now have 3 next_turn_def
+  吾行之(pid2) finished playing Earth Spirit - Mountains
+  STATE after turn 13b: A(hp 34/107, def 0, qi 0, hex 2) | B(hp 91/96, def 4, qi 0)
+turn 13b ends
+turn 14a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 1 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 14a: A(hp 34/107, def 0, qi 0, hex 2) | B(hp 91/96, def 1, qi 0)
+turn 14a ends
+turn 14b begins
+  lost 1 def. Now have 0 def
+  lost 3 next_turn_def. Now have 0 next_turn_def
+  gained 3 def. Now have 3 def
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 5 def
+    reduced 谭舒雁(pid1) hp by 9 to 25
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 14b: A(hp 25/107, def 0, qi 0, hex 2) | B(hp 91/96, def 5, qi 0)
+turn 14b ends
+turn 15a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 15a: A(hp 25/107, def 0, qi 0, hex 2) | B(hp 91/96, def 2, qi 0)
+turn 15a ends
+turn 15b begins
+  lost 1 def. Now have 1 def
+  吾行之(pid2) is playing Hexproof Formation (level 1)
+    gained 3 hexproof. Now have 5 hexproof
+    gained 10 def. Now have 11 def
+  吾行之(pid2) finished playing Hexproof Formation
+  STATE after turn 15b: A(hp 25/107, def 0, qi 0, hex 2) | B(hp 91/96, def 11, qi 0)
+turn 15b ends
+turn 16a begins
+  谭舒雁(pid1) is playing Mountain Hexagram (level 1)
+    gained 2 hexagram. Now have 4 hexagram
+    gained 2 max_hp. Now have 109 max_hp
+    healed 2 hp. Went from 25 to 27
+  谭舒雁(pid1) finished playing Mountain Hexagram
+  STATE after turn 16a: A(hp 27/109, def 0, qi 0, hex 4) | B(hp 91/96, def 11, qi 0)
+turn 16a ends
+turn 16b begins
+  lost 6 def. Now have 5 def
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    reduced 谭舒雁(pid1) hp by 11 to 16
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 16b: A(hp 16/109, def 0, qi 0, hex 4) | B(hp 91/96, def 5, qi 0)
+turn 16b ends
+turn 17a begins
+  谭舒雁(pid1) is playing White Snake (level 1)
+    lost 1 hexagram. Now have 3 hexagram
+    lost 2 hexproof. Now have 3 hexproof
+    lost 5 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 1 to 90
+  谭舒雁(pid1) finished playing White Snake
+  STATE after turn 17a: A(hp 16/109, def 0, qi 0, hex 3) | B(hp 90/96, def 0, qi 0)
+turn 17a ends
+turn 17b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    reduced 谭舒雁(pid1) hp by 7 to 9
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 17b: A(hp 9/109, def 0, qi 0, hex 3) | B(hp 90/96, def 0, qi 0)
+turn 17b ends
+turn 18a begins
+  谭舒雁(pid1) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 87
+  谭舒雁(pid1) finished playing Normal Attack
+  STATE after turn 18a: A(hp 9/109, def 0, qi 0, hex 3) | B(hp 87/96, def 0, qi 0)
+turn 18a ends
+turn 18b begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 1)
+    gained 2 def. Now have 2 def
+    reduced 谭舒雁(pid1) hp by 9 to 0
+  STATE after turn 18b: A(hp 0/109, def 0, qi 0, hex 3) | B(hp 87/96, def 2, qi 0)
+turn 18b ends
+谭舒雁(pid1) loses 23 destiny, now at 42
+吾行之(pid2) (Wu Xingzhi) wins

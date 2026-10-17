@@ -1,0 +1,155 @@
+turn 1a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 1a ends
+turn 1b begins
+  reduced player 0 hp by 3 to 50
+  player 0 spent 3 hp to play Crash Fist - Poke (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 9 to 50
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Crash Fist - Poke
+turn 1b ends
+turn 2a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 42
+    gained 2 qi. Now have 2 qi
+  player 0 finished playing White Crane Bright Wings
+turn 2a ends
+turn 2b begins
+  reduced player 0 hp by 2 to 40
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 2)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    reduced player 1 hp by 14 to 36
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 36
+    reduced player 1 hp by 4 to 32
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 3a ends
+turn 3b begins
+  reduced player 0 hp by 4 to 28
+  player 0 spent 4 hp to play Crash Fist - Blitz (level 1)
+  healed 4 hp. Went from 28 to 32
+  player 0 healed 4 hp from crash fist bounce
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 12 def. Now have 0 def
+    reduced player 1 hp by 4 to 32
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  player 0 finished playing Crash Fist - Blitz
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 22
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 15
+  player 0 finished playing Sparrow's Tail
+turn 4a ends
+turn 4b begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 23
+    gained 1 physique. Now have 18 physique
+    gained 1 max_hp. Now have 71 max_hp
+  player 0 finished playing Exercise Fist
+turn 4b ends
+turn 5a begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 6
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 5a ends
+turn 5b begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 20 physique
+    gained 2 max_hp. Now have 73 max_hp
+    healed 4 hp. Went from 6 to 10
+  player 0 finished playing Embracing Qi Technique
+turn 5b ends
+turn 6a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 4 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 6a ends
+turn 6b begins
+  player 0 is playing Exercise Tendons (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 1 to 22
+    gained 2 physique. Now have 22 physique
+    gained 2 max_hp. Now have 75 max_hp
+    gained 4 def. Now have 4 def
+  player 0 finished playing Exercise Tendons
+turn 6b ends
+turn 7a begins
+  player 0 is playing Astral Move - Point (level 1)
+    lost 4 def. Now have 0 def
+    reduced player 1 hp by 2 to 8
+  player 0 finished playing Astral Move - Point
+turn 7a ends
+turn 7b begins
+  player 0 is playing Rakshasa Pouncing (level 2)
+    reduced player 1 hp by 11 to 11
+    gained 1 qi. Now have 2 qi
+    gained 1 wound. Now have 1 wound
+  player 0 finished playing Rakshasa Pouncing
+turn 7b ends
+turn 8a begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 4 to 4
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 6 hexagram
+  player 0 finished playing Earth Hexagram
+turn 9a ends
+turn 9b begins
+  reduced player 0 hp by 3 to 1
+  player 0 spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 10 to -2
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+turn 9b ends
+player 0 loses 6 destiny, now at 88
+player 1 (Xiao Bu) wins
+Player 0's deck:
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Wild Horses Part the Mane (level 2)
+  Sparrow's Tail (level 2)
+  Heavenly Decree - Attack (level 2)
+  Earth Hexagram (level 2)
+  Astral Move - Point (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Crash Fist - Poke (level 2)
+  Crash Fist - Bounce (level 2)
+  Crash Fist - Blitz (level 1)
+  Exercise Fist (level 2)
+  Embracing Qi Technique (level 2)
+  Exercise Tendons (level 1)
+  Rakshasa Pouncing (level 2)
+  Normal Attack (level 1)

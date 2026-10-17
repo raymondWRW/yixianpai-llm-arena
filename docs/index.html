@@ -1,0 +1,242 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>弈仙牌 LLM Arena</title>
+<meta name="description" content="Thirty games of self-play: four LLM bots learn the auto-battler 弈仙牌 (YiXianPai) from a rulebook, a combat simulator and their own notes.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🀄</text></svg>">
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1f23;--muted:#5f6670;--line:#e3e0d8;--card:#ffffff;
+--accent:#b8862b;--grid:#ebe8e0;--bar:#9aa3ad;--dot:#c2416b}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#15171b;
+--fg:#e8e6e1;--muted:#a0a6ae;--line:#2c3037;--card:#1d2026;--accent:#d8a948;
+--grid:#262a31;--bar:#5d6670;--dot:#e0567f}}
+:root[data-theme="dark"]{--bg:#15171b;--fg:#e8e6e1;--muted:#a0a6ae;--line:#2c3037;
+--card:#1d2026;--accent:#d8a948;--grid:#262a31;--bar:#5d6670;--dot:#e0567f}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.65 -apple-system,
+"Segoe UI",Roboto,"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif}
+main{max-width:860px;margin:0 auto;padding:0 16px 80px}
+nav.top{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid
+var(--line)}
+nav.top div{max-width:860px;margin:0 auto;padding:10px 16px;display:flex;gap:18px;
+flex-wrap:wrap;font-size:14px}
+nav.top a{color:var(--muted);text-decoration:none}nav.top a:hover{color:var(--fg)}
+nav.top a.home{color:var(--fg);font-weight:700;margin-right:auto}
+header.hero{padding:56px 0 28px;border-bottom:1px solid var(--line)}
+.eyebrow{color:var(--accent);font-size:13px;letter-spacing:.12em;text-transform:uppercase;
+font-weight:700}
+h1{font-size:clamp(32px,6vw,48px);line-height:1.15;margin:.3em 0 .4em;letter-spacing:-.01em}
+.lede{font-size:19px;color:var(--muted);max-width:680px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;
+margin:28px 0 0}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.stat b{display:block;font-size:24px}.stat span{color:var(--muted);font-size:13px}
+h2{font-size:27px;margin:56px 0 10px;letter-spacing:-.01em}
+h3{font-size:19px;margin:30px 0 6px}
+h3 small{color:var(--muted);font-weight:400;font-size:14px;margin-left:6px}
+p{margin:.6em 0}a{color:var(--accent)}
+.fig{background:var(--card);border:1px solid var(--line);border-radius:12px;
+padding:16px;margin:18px 0}
+.fig figcaption{color:var(--muted);font-size:14px;margin-top:8px}
+.chart{width:100%;height:auto;display:block}
+.chart .grid{stroke:var(--grid);stroke-width:1}
+.chart .axis{fill:var(--muted);font-size:12px}
+.chart .lbl{font-size:13px;font-weight:700}
+.chart .bar{fill:var(--bar)}.chart .bar.dot{fill:var(--dot)}
+.strip{display:grid;grid-template-columns:repeat(15,minmax(0,1fr));gap:4px}
+.cell{display:flex;flex-direction:column;align-items:center;justify-content:center;
+background:color-mix(in srgb,var(--c) 26%,var(--card));border:2px solid var(--c);
+border-radius:6px;padding:3px 0;text-decoration:none;color:var(--fg);min-height:46px}
+.cell span{font-size:10px;color:var(--muted)}.cell b{font-size:15px}
+.cell.void{--c:var(--line);background:transparent;border-style:dashed}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:10px;font-size:13px;color:var(--muted)}
+.key i{display:inline-block;width:11px;height:11px;border-radius:3px;margin-right:5px;
+vertical-align:-1px}.key i.voidkey{border:1.5px dashed var(--muted)}
+.heat .hrow{display:grid;grid-template-columns:62px 1fr;align-items:center;gap:8px;margin:3px 0}
+.heat .hrow span{font-size:14px;font-weight:600}
+.hcells{display:grid;grid-template-columns:repeat(30,minmax(0,1fr));gap:2px}
+.hcells>*{min-width:0;overflow:hidden}.heat{overflow-x:auto}
+.strip>*{min-width:0}main{overflow-wrap:anywhere}
+.hcells i{height:18px;border-radius:2px}
+.hcells.axisrow em{font-size:10px;color:var(--muted);font-style:normal;text-align:center}
+.era{border-left:3px solid var(--accent);padding-left:16px;margin:26px 0}
+table{width:100%;border-collapse:collapse;font-size:15px;margin:14px 0}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:13px}
+.tablewrap{overflow-x:auto}
+.callout{background:var(--card);border:1px solid var(--line);border-left:4px solid
+var(--accent);border-radius:8px;padding:14px 18px;margin:18px 0}
+.callout .who{font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.bots{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:16px 0}
+.bot{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--bc);
+border-radius:10px;padding:10px 12px;font-size:14px}
+.bot b{font-size:18px;display:block}
+.cta{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;
+padding:10px 18px;border-radius:8px;font-weight:600;margin-top:12px}
+footer{color:var(--muted);font-size:14px;border-top:1px solid var(--line);margin-top:60px;padding-top:18px}
+@media (max-width:600px){.strip{grid-template-columns:repeat(10,minmax(0,1fr))}.hcells.axisrow em{font-size:8px}
+.heat .hrow{grid-template-columns:52px 1fr}body{font-size:16px}}
+</style></head><body>
+<nav class="top"><div><a class="home" href="index.html">弈仙牌 LLM Arena</a>
+<a href="#eras">Strategy over time</a><a href="#counters">Key counters</a>
+<a href="#real">vs real players</a><a href="replays.html">Replays</a>
+<a href="https://github.com/raymondWRW/yixianpai-llm-arena">GitHub</a></div></nav>
+<main>
+<header class="hero">
+<div class="eyebrow">An experiment in AI self-play</div>
+<h1>Four AI bots teach themselves 弈仙牌</h1>
+<p class="lede">Thirty games of a 4-player card auto-battler, played by four language-model
+bots that started with nothing but the rules, a combat simulator and an empty notebook.
+After every game each bot studied its losses and rewrote its own strategy. This is how
+their play changed.</p>
+<div class="stats">
+<div class="stat"><b>30</b><span>games played</span></div>
+<div class="stat"><b>28</b><span>decided (2 unfinished)</span></div>
+<div class="stat"><b>28</b><span>titles shared by 4 bots</span></div>
+<div class="stat"><b>~$0.53</b><span>API cost per game (late games)</span></div>
+</div>
+<div class="bots"><div class="bot" style="--bc:#2f6fd6"><b>牧逸风</b>Mu Yifeng · 云灵剑宗 Cloud Spirit Sword<br><strong>6</strong> titles</div><div class="bot" style="--bc:#8a4fd1"><b>谭舒雁</b>Tan Shuyan · 七星阁 Heptastar<br><strong>11</strong> titles</div><div class="bot" style="--bc:#1f9e73"><b>吾行之</b>Wu Xingzhi · 五行道盟 Five Elements<br><strong>4</strong> titles</div><div class="bot" style="--bc:#d9622b"><b>小布</b>Xiao Bu · 锻玄宗 Body Tempering<br><strong>7</strong> titles</div></div>
+<a class="cta" href="replays.html">Watch the replays →</a>
+</header>
+
+<h2 id="setup">The setup</h2>
+<p>Four seats, one per sect. Each seat is an LLM agent (DeepSeek <code>deepseek-chat</code>)
+playing the whole game through tools: rolling and absorbing cards, merging copies, fielding
+its board, breaking through realms, choosing a sidejob in round 2 and a fate at every realm gate.
+Battles are resolved by <a href="https://github.com/sharpobject/yisim">yisim</a>, an open-source
+reimplementation of the game's combat, which the bots can also call to test any board before
+committing to it.</p>
+<p>During a game each bot sees only what a human player would: its own hand and board, its
+opponents' boards from the previous round, and who it fights this round. After the game it gets a
+long review with full replays of every battle, a per-card damage audit, its roll history, and a
+board-search tool. It then rewrites its playbook and adds an entry to a permanent ledger. Its
+memory of the conversation is wiped between games; only those files survive. From game 16 the
+reviews were open: every bot could read every rival's playbook and watch every battle.</p>
+
+<h2 id="results">Results at a glance</h2>
+<figure class="fig"><svg viewBox="0 0 760 280" class="chart" role="img" aria-label="Cumulative titles per bot across 30 games"><line x1="44" x2="640" y1="246.0" y2="246.0" class="grid"/><text x="36" y="250.0" class="axis" text-anchor="end">0</text><line x1="44" x2="640" y1="207.7" y2="207.7" class="grid"/><text x="36" y="211.7" class="axis" text-anchor="end">2</text><line x1="44" x2="640" y1="169.3" y2="169.3" class="grid"/><text x="36" y="173.3" class="axis" text-anchor="end">4</text><line x1="44" x2="640" y1="131.0" y2="131.0" class="grid"/><text x="36" y="135.0" class="axis" text-anchor="end">6</text><line x1="44" x2="640" y1="92.7" y2="92.7" class="grid"/><text x="36" y="96.7" class="axis" text-anchor="end">8</text><line x1="44" x2="640" y1="54.3" y2="54.3" class="grid"/><text x="36" y="58.3" class="axis" text-anchor="end">10</text><line x1="44" x2="640" y1="16.0" y2="16.0" class="grid"/><text x="36" y="20.0" class="axis" text-anchor="end">12</text><text x="44.0" y="268" class="axis" text-anchor="middle">g1</text><text x="126.2" y="268" class="axis" text-anchor="middle">g5</text><text x="229.0" y="268" class="axis" text-anchor="middle">g10</text><text x="331.7" y="268" class="axis" text-anchor="middle">g15</text><text x="434.5" y="268" class="axis" text-anchor="middle">g20</text><text x="537.2" y="268" class="axis" text-anchor="middle">g25</text><text x="640.0" y="268" class="axis" text-anchor="middle">g30</text><polyline points="44.0,246.0 64.6,246.0 85.1,246.0 105.7,246.0 126.2,246.0 146.8,246.0 167.3,246.0 187.9,226.8 208.4,226.8 229.0,226.8 249.5,226.8 270.1,226.8 290.6,226.8 311.2,207.7 331.7,207.7 352.3,188.5 372.8,188.5 393.4,188.5 413.9,188.5 434.5,188.5 455.0,169.3 475.6,169.3 496.1,169.3 516.7,169.3 537.2,169.3 557.8,169.3 578.3,150.2 598.9,131.0 619.4,131.0 640.0,131.0" fill="none" stroke="#2f6fd6" stroke-width="2.5" stroke-linejoin="round"/><text x="648" y="135.0" fill="#2f6fd6" class="lbl">牧逸风 6</text><polyline points="44.0,226.8 64.6,207.7 85.1,207.7 105.7,188.5 126.2,169.3 146.8,169.3 167.3,169.3 187.9,169.3 208.4,169.3 229.0,150.2 249.5,131.0 270.1,111.8 290.6,92.7 311.2,92.7 331.7,92.7 352.3,92.7 372.8,92.7 393.4,92.7 413.9,92.7 434.5,92.7 455.0,92.7 475.6,92.7 496.1,92.7 516.7,92.7 537.2,73.5 557.8,73.5 578.3,73.5 598.9,73.5 619.4,54.3 640.0,35.2" fill="none" stroke="#8a4fd1" stroke-width="2.5" stroke-linejoin="round"/><text x="648" y="39.2" fill="#8a4fd1" class="lbl">谭舒雁 11</text><polyline points="44.0,246.0 64.6,246.0 85.1,226.8 105.7,226.8 126.2,226.8 146.8,226.8 167.3,226.8 187.9,226.8 208.4,226.8 229.0,226.8 249.5,226.8 270.1,226.8 290.6,226.8 311.2,226.8 331.7,226.8 352.3,226.8 372.8,226.8 393.4,226.8 413.9,207.7 434.5,207.7 455.0,207.7 475.6,207.7 496.1,188.5 516.7,169.3 537.2,169.3 557.8,169.3 578.3,169.3 598.9,169.3 619.4,169.3 640.0,169.3" fill="none" stroke="#1f9e73" stroke-width="2.5" stroke-linejoin="round"/><text x="648" y="173.3" fill="#1f9e73" class="lbl">吾行之 4</text><polyline points="44.0,246.0 64.6,246.0 85.1,246.0 105.7,246.0 126.2,246.0 146.8,226.8 167.3,207.7 187.9,207.7 208.4,207.7 229.0,207.7 249.5,207.7 270.1,207.7 290.6,207.7 311.2,207.7 331.7,188.5 352.3,188.5 372.8,188.5 393.4,169.3 413.9,169.3 434.5,150.2 455.0,150.2 475.6,131.0 496.1,131.0 516.7,131.0 537.2,131.0 557.8,111.8 578.3,111.8 598.9,111.8 619.4,111.8 640.0,111.8" fill="none" stroke="#d9622b" stroke-width="2.5" stroke-linejoin="round"/><text x="648" y="115.8" fill="#d9622b" class="lbl">小布 7</text></svg>
+<figcaption>Cumulative titles per bot. 谭舒雁 led early with two dynasties (games 1–5 and
+10–13); the field evened out after game 14, and all four bots won at least twice in the last
+nine games.</figcaption></figure>
+<figure class="fig"><div class="strip"><a class="cell" href="replays.html#g1-p1" style="--c:#7d8c99" title="Game 1: 谭舒雁 — Sustain / reflect"><span>g1</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g2-p1" style="--c:#8a63d2" title="Game 2: 谭舒雁 — Star (星弈)"><span>g2</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g3-p2" style="--c:#6b9e3a" title="Game 3: 吾行之 — Five-element seals"><span>g3</span><b style="color:#1f9e73">吾</b></a><a class="cell" href="replays.html#g4-p1" style="--c:#8a63d2" title="Game 4: 谭舒雁 — Star (星弈)"><span>g4</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g5-p1" style="--c:#8a63d2" title="Game 5: 谭舒雁 — Star (星弈)"><span>g5</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g6-p3" style="--c:#e07b39" title="Game 6: 小布 — Force fist (崩拳)"><span>g6</span><b style="color:#d9622b">小</b></a><a class="cell" href="replays.html#g7-p3" style="--c:#e07b39" title="Game 7: 小布 — Force fist (崩拳)"><span>g7</span><b style="color:#d9622b">小</b></a><a class="cell" href="replays.html#g8-p0" style="--c:#3a7bd5" title="Game 8: 牧逸风 — Qi-dump swords"><span>g8</span><b style="color:#2f6fd6">牧</b></a><a class="cell void" href="replays.html#g9" title="Game 9: unfinished (stopped by a harness round cap)"><span>g9</span><b>—</b></a><a class="cell" href="replays.html#g10-p1" style="--c:#c2416b" title="Game 10: 谭舒雁 — 内伤 clock"><span>g10</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g11-p1" style="--c:#c2416b" title="Game 11: 谭舒雁 — 内伤 clock"><span>g11</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g12-p1" style="--c:#c2416b" title="Game 12: 谭舒雁 — 内伤 clock"><span>g12</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g13-p1" style="--c:#c2416b" title="Game 13: 谭舒雁 — 内伤 clock"><span>g13</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g14-p0" style="--c:#3a7bd5" title="Game 14: 牧逸风 — Qi-dump swords"><span>g14</span><b style="color:#2f6fd6">牧</b></a><a class="cell" href="replays.html#g15-p3" style="--c:#e07b39" title="Game 15: 小布 — Force fist (崩拳)"><span>g15</span><b style="color:#d9622b">小</b></a><a class="cell" href="replays.html#g16-p0" style="--c:#3a7bd5" title="Game 16: 牧逸风 — Qi-dump swords"><span>g16</span><b style="color:#2f6fd6">牧</b></a><a class="cell void" href="replays.html#g17" title="Game 17: unfinished (stopped by a harness round cap)"><span>g17</span><b>—</b></a><a class="cell" href="replays.html#g18-p3" style="--c:#e07b39" title="Game 18: 小布 — Force fist (崩拳)"><span>g18</span><b style="color:#d9622b">小</b></a><a class="cell" href="replays.html#g19-p2" style="--c:#1aa0a8" title="Game 19: 吾行之 — Water drain"><span>g19</span><b style="color:#1f9e73">吾</b></a><a class="cell" href="replays.html#g20-p3" style="--c:#e07b39" title="Game 20: 小布 — Force fist (崩拳)"><span>g20</span><b style="color:#d9622b">小</b></a><a class="cell" href="replays.html#g21-p0" style="--c:#3a7bd5" title="Game 21: 牧逸风 — Qi-dump swords"><span>g21</span><b style="color:#2f6fd6">牧</b></a><a class="cell" href="replays.html#g22-p3" style="--c:#e07b39" title="Game 22: 小布 — Force fist (崩拳)"><span>g22</span><b style="color:#d9622b">小</b></a><a class="cell" href="replays.html#g23-p2" style="--c:#1aa0a8" title="Game 23: 吾行之 — Water drain"><span>g23</span><b style="color:#1f9e73">吾</b></a><a class="cell" href="replays.html#g24-p2" style="--c:#1aa0a8" title="Game 24: 吾行之 — Water drain"><span>g24</span><b style="color:#1f9e73">吾</b></a><a class="cell" href="replays.html#g25-p1" style="--c:#c2416b" title="Game 25: 谭舒雁 — 内伤 clock"><span>g25</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g26-p3" style="--c:#e07b39" title="Game 26: 小布 — Force fist (崩拳)"><span>g26</span><b style="color:#d9622b">小</b></a><a class="cell" href="replays.html#g27-p0" style="--c:#3a7bd5" title="Game 27: 牧逸风 — Qi-dump swords"><span>g27</span><b style="color:#2f6fd6">牧</b></a><a class="cell" href="replays.html#g28-p0" style="--c:#3a7bd5" title="Game 28: 牧逸风 — Qi-dump swords"><span>g28</span><b style="color:#2f6fd6">牧</b></a><a class="cell" href="replays.html#g29-p1" style="--c:#c2416b" title="Game 29: 谭舒雁 — 内伤 clock"><span>g29</span><b style="color:#8a4fd1">谭</b></a><a class="cell" href="replays.html#g30-p1" style="--c:#c2416b" title="Game 30: 谭舒雁 — 内伤 clock"><span>g30</span><b style="color:#8a4fd1">谭</b></a></div><div class="legend"><span class="key"><i style="background:#7d8c99"></i>Sustain / reflect</span><span class="key"><i style="background:#8a63d2"></i>Star (星弈)</span><span class="key"><i style="background:#6b9e3a"></i>Five-element seals</span><span class="key"><i style="background:#e07b39"></i>Force fist (崩拳)</span><span class="key"><i style="background:#3a7bd5"></i>Qi-dump swords</span><span class="key"><i style="background:#c2416b"></i>内伤 clock</span><span class="key"><i style="background:#1aa0a8"></i>Water drain</span><span class="key"><i class="voidkey"></i>unfinished</span></div>
+<figcaption>Every game's winner, coloured by the archetype of its winning board (letter =
+winning bot). Click a game to open its replay.</figcaption></figure>
+
+<h2 id="eras">How strategy changed over time</h2>
+
+<div class="era"><h3>Games 1–5 · Sustain, then stars <small>谭舒雁 wins 4 of 5</small></h3>
+<p>Early bots fielded whatever they drew and spent heavily on cultivation without a plan.
+谭舒雁 won game 1 with a sustain wall (静气心法 healing per qi, 反震心法 reflection, 金蝉脱壳
+guard), then in game 2 pivoted mid-game to a <b>star engine</b>: 天元心法 in slot 1 turns every
+slot into a star point, and 聚气咒's qi-to-defense floor fixed its losses when acting second.
+By game 2, three bots had independently read the destiny-damage formula out of the engine
+source and reached the same conclusion: winning the round matters far more than the margin.
+吾行之 took game 3 by committing to one engine early and banking 命 while rivals were weak,
+closing with 土灵·扬尘 against 小布's growing HP wall.</p></div>
+
+<div class="era"><h3>Games 6–9 · Engines, force and physique <small>小布 rises</small></h3>
+<p>小布's game-5 review proved its losses came from card levels and seat order, not its build;
+it won games 6 and 7 with a <b>force-stacking 崩拳 engine</b> on top of a physique (体魄) HP wall.
+Reviews got deeper: bots began citing engine source lines, and 谭舒雁 discovered that slots 3
+and 6 are star points by default. In game 7 小布 found that 厄劫缠身's opening downgrades the
+opponent's card in the same slot, and used it to cripple 谭舒雁's finisher. 牧逸风 took its
+first title in game 8 with a qi-battery burst (聚灵心法 → 灵犀剑阵 → 白鹭灵剑 →
+万法归灵剑), surviving four straight rounds at 命1.</p></div>
+
+<div class="era"><h3>Games 10–13 · The 内伤 clock <small>谭舒雁 wins four straight</small></h3>
+<p>谭舒雁's game-9 review produced the key insight of the series: pure sustain and pure stars
+both lose to 小布's burst, but <b>internal injury (内伤)</b> ticks at the start of the victim's
+turn — a clock that kills straight through defense and healing. In game 10 it fielded exactly
+that board (厄劫缠身 ×2, 杯弓蛇影 ×2): a counter designed in one review and executed the next
+game. It won four in a row, the last by a record 命63.</p></div>
+
+<div class="era"><h3>Games 14–21 · Counters and synthesis <small>the dynasty falls</small></h3>
+<p>牧逸风 broke the dynasty in game 14 with a <b>levelled qi burst</b> (巨鲲灵剑+2,
+万法归灵剑+2) that killed before the 内伤 clock could finish, with 辟邪阵纹 in slot 1 to blank
+the injury ticks. In game 15 小布 won with a <b>synthesis</b>: an 内伤 splash (血光之灾) taken
+from its rival's toolkit, its own force core, and 踏破九霄 for tempo — once the bots had been
+taught that 10 agility (身法) buys an extra card each turn. 吾行之 invented a <b>drain
+engine</b> in game 19 (万花迷魂阵 retriggered by 回响阵纹) that ignores defense and force.
+The same game, 小布 rediscovered that force caps at 6 and 威震四方 raises it — a lesson its
+game-6 notebook already contained but had lost when notebooks were still rewritten from
+scratch, which is why permanent ledgers were added. In game 20 the leader lost with an
+empty hand: 谭舒雁 had absorbed every card to win the cultivation race and could no longer
+field its own recipe.</p></div>
+
+<div class="era"><h3>Games 22–30 · Balance <small>every bot wins at least twice</small></h3>
+<p>The last nine games were the most even of the series, and nearly every win executed a lesson
+written in an earlier review. 小布 played a perfect game 22 (no 命 lost) and finally fielded
+威震四方 in game 26. 吾行之 won games 23–24 back to back on water boards anchored by
+不动金刚阵 — a card its own playbook had wrongly listed as illegal until game 18 — and its
+reviews turned on slot order: swapping 潜遁 before 腾浪 was worth 50% against 小布.
+牧逸风 won games 27–28 with 聚灵心法 + 回响阵纹 feeding a 万法归灵剑 one-shot; 回响阵纹
+first appeared in 吾行之's drain board, so it was very likely picked up by reading rival files.
+谭舒雁 won three of the last six with 诸事不宜 in every winning board, and in game 30 showed
+from the engine source that 厄劫缠身 belongs in slot 1.</p></div>
+
+<h2 id="counters">Key cards and counters the bots found</h2>
+<p>Each of these was found by a bot in its own post-game review, usually by replaying the battle
+it lost and searching for a board that would have won it.</p>
+<div class="tablewrap"><table><thead><tr><th>Card / combo</th><th>Found by</th>
+<th>Game</th><th>Why it mattered</th></tr></thead><tbody><tr><td><b>聚气咒</b></td><td>谭舒雁</td><td>2</td><td>Turns qi into defense. Fixed the star board&#x27;s losses when it had to act second.</td></tr><tr><td><b>天元心法 in slot 1</b></td><td>谭舒雁</td><td>2</td><td>Makes every slot a star point, so every attack gets the star-power bonus.</td></tr><tr><td><b>土灵·扬尘</b></td><td>吾行之</td><td>3</td><td>Defense that scales with the opponent&#x27;s max-HP lead — the answer to a physique HP wall.</td></tr><tr><td><b>破气剑 early in the cycle</b></td><td>牧逸风</td><td>4</td><td>Strips the opponent&#x27;s qi on hit; the first counter that beat the star engine.</td></tr><tr><td><b>梅开二度 → 镇魂封元符</b></td><td>谭舒雁</td><td>5</td><td>Doubles a 40% max-HP strip plus a qi drain on the next card.</td></tr><tr><td><b>威震四方</b></td><td>小布</td><td>6 · 19 · 26</td><td>Raises the force (气势) cap from 6 to 9. Found in game 6, forgotten, rediscovered in game 19, finally fielded in a winning board in game 26.</td></tr><tr><td><b>厄劫缠身</b></td><td>小布 · 谭舒雁</td><td>7 · 30</td><td>Its opening downgrades the opponent&#x27;s card in the same slot. In game 30 the bot showed from the engine source that it belongs in slot 1.</td></tr><tr><td><b>杯弓蛇影 + 厄劫缠身 (内伤 clock)</b></td><td>谭舒雁</td><td>10</td><td>Internal injury ticks at the start of the victim&#x27;s turn, so it kills through defense and healing. Four straight titles.</td></tr><tr><td><b>辟邪阵纹 in slot 1</b></td><td>牧逸风</td><td>14</td><td>Blanks internal-injury ticks — the hard counter that ended the 内伤 dynasty.</td></tr><tr><td><b>踏破九霄 / 冲霄破浪 (身法)</b></td><td>小布</td><td>15 · 18</td><td>Builds agility to 10, which buys an automatic extra card every turn.</td></tr><tr><td><b>万花迷魂阵 + 回响阵纹</b></td><td>吾行之</td><td>19</td><td>A drain retriggered every turn that ignores defense and force, while its attack-down stacks shrink burst damage.</td></tr><tr><td><b>诸事不宜</b></td><td>谭舒雁</td><td>20</td><td>−6 attack on the opponent&#x27;s next two hits; the key anti-burst slot in every one of its later wins.</td></tr><tr><td><b>不动金刚阵</b></td><td>吾行之</td><td>18 → 23</td><td>Defense and max HP at turn end for several turns; lets the water board survive burst. Its own notes had wrongly called it illegal.</td></tr><tr><td><b>万法归灵剑</b></td><td>牧逸风</td><td>8 · 14 · 21</td><td>Dumps all banked qi into one hit — 15 qi became 95 damage in game 21. Rare: about one copy per game at phase 5.</td></tr></tbody></table></div>
+
+<h2 id="learning">What made the learning work</h2>
+<p><b>Memory that survives.</b> Bots originally rewrote one notebook from scratch after every
+game, and lessons kept vanishing (威震四方 is the clearest case). From game 13 each bot kept a
+playbook rebuilt by merging plus an append-only ledger with one entry per game. Rules that
+held for three games were promoted to a "core principles" section, tagged with the games that
+proved them.</p>
+<p><b>Seeing the fight.</b> Reviews gained turn-by-turn battle logs with real player names and
+HP/defense/resources after every turn, a per-card contribution audit, the bot's own roll
+history, a database of every board ever fielded, and a board search that explores with the
+game's own combat code and lets yisim pick the winner.</p>
+<p><b>Guardrails against false lessons.</b> Bots sometimes wrote down wrong conclusions — one
+claimed a merge would have won a game when it didn't own enough copies to make it. Reviews now
+require checking that a fix was actually reachable, and every claim carries its evidence or
+is marked as a guess.</p>
+<p><b>Fate choices.</b> Until game 8 the fate-offer preview silently failed, so most picks fell to
+a generic default. Once fixed, bots ranked every fate deliberately — 346
+of 352 picks from game 9 on.</p>
+
+<h2 id="real">How close is this to real players?</h2>
+<div class="callout"><div class="who">Author's assessment</div>
+<p>The bots found a lot of good counters, but there are a few things to point out.</p>
+<p>Their boards are still evolving, and are not yet as strong as real players' boards. Because of
+that, the bots evolved a completely different strategy from normal player boards. The weaker
+overall power level means each combat takes much longer than in a real game, which favours
+strategies that deal damage over time, such as internal-injury (内伤) and water-spirit (水灵) decks.</p>
+<p>This is probably also why several bots chose formation master (阵法师) as their sidejob, even
+though in real games it is often considered a weaker sidejob. The lower overall power level lets
+the bots take advantage of every benefit of formation master's continuous (持续) cards.</p></div>
+<p>The arena data is consistent with this:</p>
+<ul>
+<li>Damage-over-time boards (内伤 clock or water drain) won <b>10 of the 28</b>
+decided games, including 6 of the last 12.</li>
+<li>From game 17 on, three of the four bots picked 阵法师 in every game:
+42 of 56 sidejob choices across those 14 games.</li>
+<li>Late-game battles regularly ran 8–17 turns (chart below). Bars in red are games won by a
+damage-over-time board.</li></ul>
+<figure class="fig"><svg viewBox="0 0 760 230" class="chart" role="img" aria-label="Average battle length in rounds 13 and later, per game"><line x1="44" x2="740" y1="196.0" y2="196.0" class="grid"/><text x="36" y="200.0" class="axis" text-anchor="end">0</text><line x1="44" x2="740" y1="150.5" y2="150.5" class="grid"/><text x="36" y="154.5" class="axis" text-anchor="end">5</text><line x1="44" x2="740" y1="105.0" y2="105.0" class="grid"/><text x="36" y="109.0" class="axis" text-anchor="end">10</text><line x1="44" x2="740" y1="59.5" y2="59.5" class="grid"/><text x="36" y="63.5" class="axis" text-anchor="end">15</text><line x1="44" x2="740" y1="14.0" y2="14.0" class="grid"/><text x="36" y="18.0" class="axis" text-anchor="end">20</text><rect x="47.5" y="57.4" width="16.2" height="138.6" class="bar" rx="2"><title>Game 1: 15.2 turns per late battle</title></rect><text x="55.6" y="218" class="axis" text-anchor="middle">g1</text><rect x="70.7" y="44.6" width="16.2" height="151.4" class="bar" rx="2"><title>Game 2: 16.6 turns per late battle</title></rect><rect x="93.9" y="40.3" width="16.2" height="155.7" class="bar" rx="2"><title>Game 3: 17.1 turns per late battle</title></rect><rect x="117.1" y="86.8" width="16.2" height="109.2" class="bar" rx="2"><title>Game 4: 12.0 turns per late battle</title></rect><rect x="140.3" y="102.7" width="16.2" height="93.3" class="bar" rx="2"><title>Game 5: 10.2 turns per late battle</title></rect><text x="148.4" y="218" class="axis" text-anchor="middle">g5</text><rect x="163.5" y="103.9" width="16.2" height="92.1" class="bar" rx="2"><title>Game 6: 10.1 turns per late battle</title></rect><rect x="186.7" y="90.2" width="16.2" height="105.8" class="bar" rx="2"><title>Game 7: 11.6 turns per late battle</title></rect><rect x="209.9" y="95.1" width="16.2" height="100.9" class="bar" rx="2"><title>Game 8: 11.1 turns per late battle</title></rect><rect x="233.1" y="103.5" width="16.2" height="92.5" class="bar" rx="2"><title>Game 9: 10.2 turns per late battle</title></rect><rect x="256.3" y="97.1" width="16.2" height="98.9" class="bar dot" rx="2"><title>Game 10: 10.9 turns per late battle</title></rect><text x="264.4" y="218" class="axis" text-anchor="middle">g10</text><rect x="279.5" y="94.4" width="16.2" height="101.6" class="bar dot" rx="2"><title>Game 11: 11.2 turns per late battle</title></rect><rect x="302.7" y="103.6" width="16.2" height="92.4" class="bar dot" rx="2"><title>Game 12: 10.2 turns per late battle</title></rect><rect x="325.9" y="122.5" width="16.2" height="73.5" class="bar dot" rx="2"><title>Game 13: 8.1 turns per late battle</title></rect><rect x="349.1" y="102.7" width="16.2" height="93.3" class="bar" rx="2"><title>Game 14: 10.2 turns per late battle</title></rect><rect x="372.3" y="101.0" width="16.2" height="95.0" class="bar" rx="2"><title>Game 15: 10.4 turns per late battle</title></rect><text x="380.4" y="218" class="axis" text-anchor="middle">g15</text><rect x="395.5" y="85.5" width="16.2" height="110.5" class="bar" rx="2"><title>Game 16: 12.1 turns per late battle</title></rect><rect x="418.7" y="103.7" width="16.2" height="92.3" class="bar" rx="2"><title>Game 17: 10.1 turns per late battle</title></rect><rect x="441.9" y="122.2" width="16.2" height="73.8" class="bar" rx="2"><title>Game 18: 8.1 turns per late battle</title></rect><rect x="465.1" y="116.1" width="16.2" height="79.9" class="bar dot" rx="2"><title>Game 19: 8.8 turns per late battle</title></rect><rect x="488.3" y="121.4" width="16.2" height="74.6" class="bar" rx="2"><title>Game 20: 8.2 turns per late battle</title></rect><text x="496.4" y="218" class="axis" text-anchor="middle">g20</text><rect x="511.5" y="121.5" width="16.2" height="74.5" class="bar" rx="2"><title>Game 21: 8.2 turns per late battle</title></rect><rect x="534.7" y="92.3" width="16.2" height="103.7" class="bar" rx="2"><title>Game 22: 11.4 turns per late battle</title></rect><rect x="557.9" y="52.2" width="16.2" height="143.8" class="bar dot" rx="2"><title>Game 23: 15.8 turns per late battle</title></rect><rect x="581.1" y="90.3" width="16.2" height="105.7" class="bar dot" rx="2"><title>Game 24: 11.6 turns per late battle</title></rect><rect x="604.3" y="89.8" width="16.2" height="106.2" class="bar dot" rx="2"><title>Game 25: 11.7 turns per late battle</title></rect><text x="612.4" y="218" class="axis" text-anchor="middle">g25</text><rect x="627.5" y="104.3" width="16.2" height="91.7" class="bar" rx="2"><title>Game 26: 10.1 turns per late battle</title></rect><rect x="650.7" y="102.3" width="16.2" height="93.7" class="bar" rx="2"><title>Game 27: 10.3 turns per late battle</title></rect><rect x="673.9" y="110.3" width="16.2" height="85.7" class="bar" rx="2"><title>Game 28: 9.4 turns per late battle</title></rect><rect x="697.1" y="82.2" width="16.2" height="113.8" class="bar dot" rx="2"><title>Game 29: 12.5 turns per late battle</title></rect><rect x="720.3" y="115.6" width="16.2" height="80.4" class="bar dot" rx="2"><title>Game 30: 8.8 turns per late battle</title></rect><text x="728.4" y="218" class="axis" text-anchor="middle">g30</text></svg>
+<figcaption>Average battle length in rounds 13 and later, per game (turns). Red = the game was won
+by a damage-over-time board.</figcaption></figure>
+<figure class="fig"><div class="heat"><div class="hrow"><span style="color:#2f6fd6">牧逸风</span><div class="hcells"><i style="background:#d1495b" title="Game 1: 牧逸风 → 炼丹师"></i><i style="background:#8ac926" title="Game 2: 牧逸风 → 灵植师"></i><i style="background:#8ac926" title="Game 3: 牧逸风 → 灵植师"></i><i style="background:#8ac926" title="Game 4: 牧逸风 → 灵植师"></i><i style="background:#2e86ab" title="Game 5: 牧逸风 → 阵法师"></i><i style="background:#6c757d" title="Game 6: 牧逸风 → 命理师"></i><i style="background:#6c757d" title="Game 7: 牧逸风 → 命理师"></i><i style="background:#edae49" title="Game 8: 牧逸风 → 符咒师"></i><i style="background:#2e86ab" title="Game 9: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 10: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 11: 牧逸风 → 阵法师"></i><i style="background:#d1495b" title="Game 12: 牧逸风 → 炼丹师"></i><i style="background:#2e86ab" title="Game 13: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 14: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 15: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 16: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 17: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 18: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 19: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 20: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 21: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 22: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 23: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 24: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 25: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 26: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 27: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 28: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 29: 牧逸风 → 阵法师"></i><i style="background:#2e86ab" title="Game 30: 牧逸风 → 阵法师"></i></div></div><div class="hrow"><span style="color:#8a4fd1">谭舒雁</span><div class="hcells"><i style="background:#6c757d" title="Game 1: 谭舒雁 → 命理师"></i><i style="background:#8ac926" title="Game 2: 谭舒雁 → 灵植师"></i><i style="background:#8ac926" title="Game 3: 谭舒雁 → 灵植师"></i><i style="background:#6c757d" title="Game 4: 谭舒雁 → 命理师"></i><i style="background:#edae49" title="Game 5: 谭舒雁 → 符咒师"></i><i style="background:#edae49" title="Game 6: 谭舒雁 → 符咒师"></i><i style="background:#edae49" title="Game 7: 谭舒雁 → 符咒师"></i><i style="background:#6c757d" title="Game 8: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 9: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 10: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 11: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 12: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 13: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 14: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 15: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 16: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 17: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 18: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 19: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 20: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 21: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 22: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 23: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 24: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 25: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 26: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 27: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 28: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 29: 谭舒雁 → 命理师"></i><i style="background:#6c757d" title="Game 30: 谭舒雁 → 命理师"></i></div></div><div class="hrow"><span style="color:#1f9e73">吾行之</span><div class="hcells"><i style="background:#6c757d" title="Game 1: 吾行之 → 命理师"></i><i style="background:#6c757d" title="Game 2: 吾行之 → 命理师"></i><i style="background:#8ac926" title="Game 3: 吾行之 → 灵植师"></i><i style="background:#8ac926" title="Game 4: 吾行之 → 灵植师"></i><i style="background:#6c757d" title="Game 5: 吾行之 → 命理师"></i><i style="background:#6c757d" title="Game 6: 吾行之 → 命理师"></i><i style="background:#2e86ab" title="Game 7: 吾行之 → 阵法师"></i><i style="background:#66a182" title="Game 8: 吾行之 → 琴师"></i><i style="background:#2e86ab" title="Game 9: 吾行之 → 阵法师"></i><i style="background:#6c757d" title="Game 10: 吾行之 → 命理师"></i><i style="background:#2e86ab" title="Game 11: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 12: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 13: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 14: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 15: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 16: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 17: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 18: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 19: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 20: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 21: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 22: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 23: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 24: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 25: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 26: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 27: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 28: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 29: 吾行之 → 阵法师"></i><i style="background:#2e86ab" title="Game 30: 吾行之 → 阵法师"></i></div></div><div class="hrow"><span style="color:#d9622b">小布</span><div class="hcells"><i style="background:#d1495b" title="Game 1: 小布 → 炼丹师"></i><i style="background:#d1495b" title="Game 2: 小布 → 炼丹师"></i><i style="background:#8ac926" title="Game 3: 小布 → 灵植师"></i><i style="background:#8ac926" title="Game 4: 小布 → 灵植师"></i><i style="background:#6c757d" title="Game 5: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 6: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 7: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 8: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 9: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 10: 小布 → 命理师"></i><i style="background:#2e86ab" title="Game 11: 小布 → 阵法师"></i><i style="background:#6c757d" title="Game 12: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 13: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 14: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 15: 小布 → 命理师"></i><i style="background:#6c757d" title="Game 16: 小布 → 命理师"></i><i style="background:#2e86ab" title="Game 17: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 18: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 19: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 20: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 21: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 22: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 23: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 24: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 25: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 26: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 27: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 28: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 29: 小布 → 阵法师"></i><i style="background:#2e86ab" title="Game 30: 小布 → 阵法师"></i></div></div><div class="hrow"><span></span><div class="hcells axisrow"><em>1</em><em></em><em></em><em></em><em>5</em><em></em><em></em><em></em><em></em><em>10</em><em></em><em></em><em></em><em></em><em>15</em><em></em><em></em><em></em><em></em><em>20</em><em></em><em></em><em></em><em></em><em>25</em><em></em><em></em><em></em><em></em><em>30</em></div></div></div><div class="legend"><span class="key"><i style="background:#d1495b"></i>炼丹师</span><span class="key"><i style="background:#edae49"></i>符咒师</span><span class="key"><i style="background:#66a182"></i>琴师</span><span class="key"><i style="background:#c77dff"></i>画师</span><span class="key"><i style="background:#2e86ab"></i>阵法师</span><span class="key"><i style="background:#8ac926"></i>灵植师</span><span class="key"><i style="background:#6c757d"></i>命理师</span></div>
+<figcaption>Sidejob chosen by each bot in each game. The drift to 阵法师 (blue) from game 16 on is
+the formation-master effect described above.</figcaption></figure>
+
+<h2 id="caveats">Caveats</h2>
+<ul>
+<li>Combat runs on yisim, a community reimplementation from a version-1.5.9 snapshot (base
+game only). In a 36-matchup check against the game's own combat code, the two agreed on the
+winner 83% of the time.</li>
+<li>The economy (deals, rolls, fates, sidejobs) is a simulation built from rulings, not the live
+game. Several harness bugs were found and fixed during the run: sidejob pools were random
+before game 5; the limit of two 消耗/持续 cards was unenforced before game 5; fate previews
+failed before game 9; games 9 and 17 were stopped by a round cap that does not exist in the real
+game and are recorded as unfinished; game 16 was lost to a PC sleep and replayed with a new
+seed; and in games 16–20 the last bot to review saw rivals' freshly updated notes.</li>
+<li>All four bots run the same model; differences come from their sects, their notes and luck.</li>
+</ul>
+
+<footer>Built from the arena's game logs. Code, playbooks, ledgers and per-game reports:
+<a href="https://github.com/raymondWRW/yixianpai-llm-arena">github.com/raymondWRW/yixianpai-llm-arena</a>. Card names are from 弈仙牌
+(YiXianPai); this is an independent fan project.</footer>
+</main></body></html>

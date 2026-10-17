@@ -1,0 +1,175 @@
+gained 3 qi. Now have 3 qi
+吾行之(pid2) downgrades Water Spirit Formation (level 2) to Water Spirit Formation (level 1)
+turn 1a begins
+  lost 1 qi. Now have 2 qi
+  小布(pid3) spent 1 qi to play Envelop In Disaster (level 1)
+    gained 4 internal_injury. Now have 4 internal_injury
+  小布(pid3) finished playing Envelop In Disaster
+  STATE after turn 1a: A(hp 103/135, def 0, qi 2, phys 32) | B(hp 131/131, def 0, qi 0, injury 4)
+turn 1a ends
+turn 1b begins
+  reduced 吾行之(pid2) hp by 4 to 127
+  吾行之(pid2) is playing Water Spirit Formation (level 1)
+    gained 2 qi. Now have 2 qi
+    gained 1 water_spirit_formation_stacks. Now have 1 water_spirit_formation_stacks
+  吾行之(pid2) finished playing Water Spirit Formation
+  STATE after turn 1b: A(hp 103/135, def 0, qi 2, phys 32) | B(hp 127/131, def 0, qi 2, injury 4)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 4 to 99
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 吾行之(pid2) hp by 14 to 113
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 2a: A(hp 99/135, def 0, qi 2, phys 32) | B(hp 113/131, def 0, qi 2, injury 4)
+turn 2a ends
+turn 2b begins
+  reduced 吾行之(pid2) hp by 4 to 109
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 3 qi
+    gained 2 qi. Now have 5 qi
+    gained 1 water_spirit_spring_stacks. Now have 1 water_spirit_spring_stacks
+  吾行之(pid2) finished playing Water Spirit - Spring
+  STATE after turn 2b: A(hp 99/135, def 0, qi 2, phys 32) | B(hp 109/131, def 0, qi 5, injury 4)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 3 to 96
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 2)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 吾行之(pid2) hp by 9 to 100
+    gained 3 def. Now have 3 def
+    gained 3 crash_fist_block_stacks. Now have 3 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 3a: A(hp 96/135, def 3, qi 2, phys 32) | B(hp 100/131, def 0, qi 5, injury 4)
+turn 3a ends
+turn 3b begins
+  reduced 吾行之(pid2) hp by 4 to 96
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 qi. Now have 6 qi
+    gained 2 qi. Now have 8 qi
+    gained 2 max_hp. Now have 133 max_hp
+    healed 2 hp. Went from 96 to 98
+    gained 4 force_of_water. Now have 4 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  lost 3 def. Now have 0 def
+  reduced 小布(pid3) hp by 1 to 95
+  STATE after turn 3b: A(hp 95/135, def 0, qi 2, phys 32) | B(hp 98/133, def 0, qi 8, injury 4)
+turn 3b ends
+turn 4a begins
+  小布(pid3) spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    reduced 吾行之(pid2) hp by 13 to 85
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 4a: A(hp 95/135, def 0, qi 2, phys 32) | B(hp 85/133, def 0, qi 8, injury 4)
+turn 4a ends
+turn 4b begins
+  reduced 吾行之(pid2) hp by 4 to 81
+  lost 1 qi. Now have 7 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 8 qi
+    reduced 小布(pid3) hp by 14 to 81
+    gained 2 force_of_water. Now have 6 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 6 to 75
+  STATE after turn 4b: A(hp 75/135, def 0, qi 2, phys 32) | B(hp 81/133, def 0, qi 8, injury 4)
+turn 4b ends
+turn 5a begins
+  小布(pid3) is playing Windward Palms (level 1)
+    reduced 吾行之(pid2) hp by 7 to 74
+    reduced 吾行之(pid2) hp by 7 to 67
+  小布(pid3) finished playing Windward Palms
+  STATE after turn 5a: A(hp 75/135, def 0, qi 2, phys 32) | B(hp 67/133, def 0, qi 8, injury 4)
+turn 5a ends
+turn 5b begins
+  reduced 吾行之(pid2) hp by 4 to 63
+  lost 1 qi. Now have 7 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 8 qi
+    reduced 小布(pid3) hp by 16 to 59
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 6 to 53
+  STATE after turn 5b: A(hp 53/135, def 0, qi 2, phys 32) | B(hp 63/133, def 0, qi 8, injury 4)
+turn 5b ends
+turn 6a begins
+  小布(pid3) is playing Realm-Killing Palms (level 1)
+    reduced 吾行之(pid2) hp by 3 to 60
+    reduced 吾行之(pid2) hp by 3 to 57
+  小布(pid3) finished playing Realm-Killing Palms
+  STATE after turn 6a: A(hp 53/135, def 0, qi 2, phys 32) | B(hp 57/133, def 0, qi 8, injury 4)
+turn 6a ends
+turn 6b begins
+  reduced 吾行之(pid2) hp by 4 to 53
+  lost 1 qi. Now have 7 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 8 qi
+    reduced 小布(pid3) hp by 16 to 37
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 6 to 31
+  STATE after turn 6b: A(hp 31/135, def 0, qi 2, phys 32) | B(hp 53/133, def 0, qi 8, injury 4)
+turn 6b ends
+turn 7a begins
+  reduced 小布(pid3) hp by 2 to 29
+  小布(pid3) spent 2 hp to play Mighty Force (level 2)
+    lost 2 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+    lost 1 force. Now have 1 force
+    reduced 吾行之(pid2) hp by 20 to 33
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mighty Force
+  STATE after turn 7a: A(hp 29/135, def 0, qi 0, force 1, phys 32) | B(hp 33/133, def 0, qi 8, injury 4)
+turn 7a ends
+turn 7b begins
+  reduced 吾行之(pid2) hp by 4 to 29
+  吾行之(pid2) is playing Meru Formation (level 1)
+    gained 1 skip_next_card_stacks. Now have 1 skip_next_card_stacks
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  吾行之(pid2) finished playing Meru Formation
+  incremented chases to 1
+  chase!!
+  吾行之(pid2) is playing Water Spirit - Spring (level 1)
+    gained 1 qi. Now have 9 qi
+    gained 2 qi. Now have 11 qi
+  吾行之(pid2) finished playing Water Spirit - Spring
+  reduced 小布(pid3) hp by 6 to 23
+  STATE after turn 7b: A(hp 23/135, def 0, qi 0, force 1, phys 32) | B(hp 29/133, def 0, qi 11, injury 4)
+turn 7b ends
+turn 8a begins
+  小布(pid3) is playing Exercise Marrow (level 2)
+    gained 3 physique. Now have 35 physique
+    gained 3 max_hp. Now have 138 max_hp
+    healed 16 hp. Went from 23 to 39
+  小布(pid3) finished playing Exercise Marrow
+  STATE after turn 8a: A(hp 39/138, def 0, qi 0, force 1, phys 35) | B(hp 29/133, def 0, qi 11, injury 4)
+turn 8a ends
+turn 8b begins
+  reduced 吾行之(pid2) hp by 4 to 25
+  吾行之(pid2) is playing Water Spirit - Great Waves (level 1)
+    gained 1 qi. Now have 12 qi
+    gained 2 qi. Now have 14 qi
+    gained 2 max_hp. Now have 135 max_hp
+    healed 2 hp. Went from 25 to 27
+    gained 7 force_of_water. Now have 13 force_of_water
+  吾行之(pid2) finished playing Water Spirit - Great Waves
+  reduced 小布(pid3) hp by 13 to 26
+  STATE after turn 8b: A(hp 26/138, def 0, qi 0, force 1, phys 35) | B(hp 27/135, def 0, qi 14, injury 4)
+turn 8b ends
+turn 9a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Envelop In Disaster (level 1). They now have 1/1 qi
+  STATE after turn 9a: A(hp 26/138, def 0, qi 1, force 1, phys 35) | B(hp 27/135, def 0, qi 14, injury 4)
+turn 9a ends
+turn 9b begins
+  reduced 吾行之(pid2) hp by 4 to 23
+  lost 1 qi. Now have 13 qi
+  吾行之(pid2) spent 1 qi to play Water Spirit - Turbulent (level 1)
+    gained 1 qi. Now have 14 qi
+    reduced 小布(pid3) hp by 23 to 3
+  吾行之(pid2) finished playing Water Spirit - Turbulent
+  reduced 小布(pid3) hp by 13 to -10
+  STATE after turn 9b: A(hp -10/138, def 0, qi 1, force 1, phys 35) | B(hp 23/135, def 0, qi 14, injury 4)
+turn 9b ends
+小布(pid3) loses 22 destiny, now at 3
+吾行之(pid2) (Wu Xingzhi) wins

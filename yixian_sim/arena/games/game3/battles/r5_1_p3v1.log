@@ -1,0 +1,153 @@
+gained 1 qi. Now have 1 qi
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 29 physique
+    gained 2 max_hp. Now have 95 max_hp
+    healed 4 hp. Went from 66 to 70
+  player 0 finished playing Embracing Qi Technique
+turn 1a ends
+turn 1b begins
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 2 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 1b ends
+turn 2a begins
+  player 0 is playing Exercise Fist (level 2)
+    reduced player 1 hp by 9 to 44
+    gained 1 physique. Now have 30 physique
+    gained 1 max_hp. Now have 96 max_hp
+  player 0 finished playing Exercise Fist
+turn 2a ends
+turn 2b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    lost 1 smash_def. Now have 0 smash_def
+    reduced player 1 hp by 10 to 60
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 53
+  player 0 finished playing Sparrow's Tail
+turn 2b ends
+turn 3a begins
+  player 0 is playing Vigorous Force (level 2)
+    reduced player 1 hp by 9 to 35
+    lost 1 qi. Now have 0 qi
+    gained 2 force. Now have 2 force
+  player 0 finished playing Vigorous Force
+turn 3a ends
+turn 3b begins
+  player 0 is playing Incessant (level 2)
+    reduced player 1 hp by 9 to 44
+  player 0 finished playing Incessant
+turn 3b ends
+turn 4a begins
+  player 0 is playing Sword Bamboo (level 2)
+    lost 1 force. Now have 1 force
+    reduced player 1 hp by 4 to 31
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 4 to 27
+  player 0 finished playing Sword Bamboo
+turn 4a ends
+turn 4b begins
+  player 0 is playing Palm Thunder (level 2)
+    reduced player 1 hp by 6 to 38
+  player 0 finished playing Palm Thunder
+turn 4b ends
+turn 5a begins
+  player 0 spent 0 hp to play Mountain-Cleaving Palms (level 2)
+    reduced player 1 hp by 13 to 14
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  player 0 finished playing Mountain-Cleaving Palms
+turn 5a ends
+turn 5b begins
+  player 0 is playing Imposing (level 2)
+    gained 3 qi. Now have 4 qi
+  player 0 finished playing Imposing
+turn 5b ends
+turn 6a begins
+  reduced player 0 hp by 2 to 36
+  player 0 spent 2 hp to play Crash Fist - Bounce (level 1)
+    reduced player 1 hp by 8 to 6
+    gained 1 crash_fist_bounce_stacks. Now have 1 crash_fist_bounce_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  player 0 finished playing Crash Fist - Bounce
+turn 6a ends
+turn 6b begins
+  player 0 is playing Heavenly Decree - Attack (level 2)
+    reduced player 1 hp by 9 to 27
+    gained 4 def. Now have 4 def
+  player 0 finished playing Heavenly Decree - Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Standing Firm (level 1)
+    gained 4 def. Now have 4 def
+    gained 2 force. Now have 2 force
+  player 0 finished playing Standing Firm
+turn 7a ends
+turn 7b begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 7b ends
+turn 8a begins
+  lost 2 def. Now have 2 def
+  player 0 is playing Normal Attack (level 1)
+    lost 1 force. Now have 1 force
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 1 to 5
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 1 to 26
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 21
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  player 0 is playing Embracing Qi Technique (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 2 physique. Now have 32 physique
+    gained 2 max_hp. Now have 98 max_hp
+    healed 4 hp. Went from 21 to 25
+  player 0 finished playing Embracing Qi Technique
+turn 9a ends
+turn 9b begins
+  player 0 is playing Wind Hexagram (level 1)
+    gained 1 qi. Now have 5 qi
+    gained 1 hexagram. Now have 1 hexagram
+  player 0 finished playing Wind Hexagram
+turn 9b ends
+turn 10a begins
+  player 0 is playing Exercise Fist (level 2)
+    lost 1 force. Now have 0 force
+    reduced player 1 hp by 9 to -4
+    gained 1 physique. Now have 33 physique
+    gained 1 max_hp. Now have 99 max_hp
+    healed 1 hp. Went from 25 to 26
+turn 10a ends
+player 1 loses 10 destiny, now at 83
+player 0 (Xiao Bu) wins
+Player 0's deck:
+  Embracing Qi Technique (level 2)
+  Exercise Fist (level 2)
+  Vigorous Force (level 2)
+  Sword Bamboo (level 2)
+  Mountain-Cleaving Palms (level 2)
+  Crash Fist - Bounce (level 1)
+  Standing Firm (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Wind Hexagram (level 1)
+  Sparrow's Tail (level 2)
+  Incessant (level 2)
+  Palm Thunder (level 2)
+  Imposing (level 2)
+  Heavenly Decree - Attack (level 2)
+  Examine Body (level 1)
+  Normal Attack (level 1)

@@ -1,0 +1,156 @@
+gained 1 smash_def. Now have 1 smash_def
+turn 1a begins
+  player 0 is playing Incessant (level 1)
+    reduced player 1 hp by 6 to 38
+  player 0 finished playing Incessant
+turn 1a ends
+turn 1b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 1b ends
+turn 2a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Wild Horses Part the Mane (level 2). They now have 1/1 qi
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 2b ends
+turn 3a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 2 to 36
+    reduced player 1 hp by 4 to 32
+    gained 8 def. Now have 8 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 3a ends
+turn 3b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    lost 1 smash_def. Now have 0 smash_def
+    lost 8 def. Now have 0 def
+    reduced player 1 hp by 9 to 35
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to 30
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 3b ends
+turn 4a begins
+  player 0 is playing Shifting Stars (level 2)
+    reduced player 1 hp by 8 to 24
+  player 0 finished playing Shifting Stars
+turn 4a ends
+turn 4b begins
+  player 0 is playing Sword Slash (level 1)
+    reduced player 1 hp by 4 to 26
+    gained 2 sword_intent. Now have 2 sword_intent
+  player 0 finished playing Sword Slash
+turn 4b ends
+turn 5a begins
+  gained 1 qi. Now have 1 qi
+  player 0 gained qi instead of playing Sparrow's Tail (level 1). They now have 1/1 qi
+turn 5a ends
+turn 5b begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Thunder Sword (level 1)
+    reduced player 1 hp by 7 to 19
+    reduced player 1 hp by 8 to 11
+    lost 2 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Thunder Sword
+turn 5b ends
+turn 6a begins
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 1)
+    reduced player 1 hp by 9 to 15
+  player 0 finished playing Sparrow's Tail
+turn 6a ends
+turn 6b begins
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 8
+  player 0 finished playing Normal Attack
+turn 6b ends
+turn 7a begins
+  player 0 is playing Guard Spirit Fulu (level 2)
+    gained 1 qi. Now have 1 qi
+    gained 11 def. Now have 11 def
+  player 0 finished playing Guard Spirit Fulu
+turn 7a ends
+turn 7b begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 8 def
+  player 0 finished playing Normal Attack
+turn 7b ends
+turn 8a begins
+  lost 4 def. Now have 4 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 12
+  player 0 finished playing Normal Attack
+turn 8a ends
+turn 8b begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 1 def
+  player 0 finished playing Normal Attack
+turn 8b ends
+turn 9a begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Normal Attack (level 1)
+    reduced player 1 hp by 3 to 9
+  player 0 finished playing Normal Attack
+turn 9a ends
+turn 9b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 2 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 9b ends
+turn 10a begins
+  player 0 is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  player 0 finished playing Normal Attack
+turn 10a ends
+turn 10b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Examine Body (level 1)
+    gained 5 observe_body_stacks. Now have 5 observe_body_stacks
+  player 0 finished playing Examine Body
+turn 10b ends
+turn 11a begins
+  player 0 is playing Incessant (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 5 to 4
+    healed 2 hp. Went from 8 to 10
+  player 0 finished playing Incessant
+turn 11a ends
+turn 11b begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to -3
+    lost 5 observe_body_stacks. Now have 0 observe_body_stacks
+    Attacking for 5 from observe body.
+    reduced player 1 hp by 5 to -8
+turn 11b ends
+player 0 loses 6 destiny, now at 94
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Incessant (level 1)
+  Wild Horses Part the Mane (level 2)
+  Shifting Stars (level 2)
+  Sparrow's Tail (level 1)
+  Guard Spirit Fulu (level 2)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+Player 1's deck:
+  Guard Qi (level 2)
+  Examine Body (level 1)
+  Giant Tiger Spirit Sword (level 2)
+  Sword Slash (level 1)
+  Thunder Sword (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)
+  Normal Attack (level 1)

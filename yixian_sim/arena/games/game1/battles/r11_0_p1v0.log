@@ -1,0 +1,236 @@
+turn 1a begins
+  player 0 is playing Stillness Citta-Dharma (level 1)
+    gained 2 stillness_citta_dharma_stacks. Now have 2 stillness_citta_dharma_stacks
+  player 0 finished playing Stillness Citta-Dharma
+turn 1a ends
+turn 1b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 108
+  player 0 finished playing Cloud Sword - Riddle
+turn 1b ends
+turn 2a begins
+  player 0 is playing Repel Citta-Dharma (level 1)
+    gained 4 max_hp. Now have 120 max_hp
+    healed 4 hp. Went from 108 to 112
+    gained 2 repel_citta_dharma_stacks. Now have 2 repel_citta_dharma_stacks
+  player 0 finished playing Repel Citta-Dharma
+turn 2a ends
+turn 2b begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 103
+    reduced player 0 hp by 2 to 96
+  player 0 finished playing Cloud Sword - Conceal
+turn 2b ends
+turn 3a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 3a ends
+turn 3b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 10 to 93
+    reduced player 0 hp by 2 to 94
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 3b ends
+turn 4a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 86
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 93 to 97
+  player 0 finished playing White Crane Bright Wings
+turn 4a ends
+turn 4b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 91
+    reduced player 0 hp by 2 to 84
+    reduced player 1 hp by 5 to 86
+    reduced player 0 hp by 2 to 82
+  player 0 finished playing Cloud Sword - Fleche
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 78
+    reduced player 1 hp by 4 to 74
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    lost 11 def. Now have 1 def
+    reduced player 0 hp by 2 to 72
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 5b ends
+turn 6a begins
+  lost 1 def. Now have 0 def
+  lost 1 qi. Now have 0 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 62
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 55
+  player 0 finished playing Sparrow's Tail
+turn 6a ends
+turn 6b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 73
+    reduced player 0 hp by 2 to 53
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 6b ends
+turn 7a begins
+  player 0 is playing Imposing (level 1)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 73 to 77
+  player 0 finished playing Imposing
+turn 7a ends
+turn 7b begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 9 to 68
+    reduced player 0 hp by 2 to 51
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  gained 1 qi. Now have 2 qi
+  player 0 gained qi instead of playing Giant Whale Spirit Sword (level 1). They now have 2/2 qi
+turn 7b ends
+turn 8a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 132 max_hp
+    healed 15 hp. Went from 68 to 83
+  player 0 finished playing Qi Therapy
+turn 8a ends
+turn 8b begins
+  lost 2 qi. Now have 0 qi
+  player 0 spent 2 qi to play Giant Whale Spirit Sword (level 1)
+    reduced player 1 hp by 16 to 67
+    reduced player 0 hp by 2 to 49
+  player 0 finished playing Giant Whale Spirit Sword
+turn 8b ends
+turn 9a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 9a ends
+turn 9b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 6 to 61
+    reduced player 0 hp by 2 to 47
+  player 0 finished playing Cloud Sword - Riddle
+turn 9b ends
+turn 10a begins
+  player 0 is playing White Crane Bright Wings (level 2)
+    lost 1 hexagram. Now have 2 hexagram
+    reduced player 1 hp by 8 to 39
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 61 to 65
+  player 0 finished playing White Crane Bright Wings
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Conceal (level 1)
+    reduced player 1 hp by 9 to 56
+    reduced player 0 hp by 2 to 37
+  player 0 finished playing Cloud Sword - Conceal
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Wild Horses Part the Mane (level 2)
+    reduced player 1 hp by 4 to 33
+    reduced player 1 hp by 4 to 29
+    lost 1 hexagram. Now have 1 hexagram
+    gained 12 def. Now have 12 def
+  player 0 finished playing Wild Horses Part the Mane
+turn 11a ends
+turn 11b begins
+  player 0 is playing Cloud Sword - Touch Sky (level 3)
+    lost 12 def. Now have 0 def
+    reduced player 0 hp by 2 to 27
+  player 0 finished playing Cloud Sword - Touch Sky
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 1 qi
+  player 0 spent 1 qi to play Sparrow's Tail (level 2)
+    reduced player 1 hp by 10 to 17
+    lost 1 hexagram. Now have 0 hexagram
+    reduced player 1 hp by 7 to 10
+  player 0 finished playing Sparrow's Tail
+turn 12a ends
+turn 12b begins
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 50
+    reduced player 0 hp by 2 to 8
+    reduced player 1 hp by 5 to 45
+    reduced player 0 hp by 2 to 6
+  player 0 finished playing Cloud Sword - Fleche
+turn 12b ends
+turn 13a begins
+  player 0 is playing Imposing (level 1)
+    gained 2 qi. Now have 3 qi
+    healed 4 hp. Went from 45 to 49
+    healed 6 hp. Went from 49 to 55
+  player 0 finished playing Imposing
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cloud Sword - Spirit Coercion (level 2)
+    reduced player 1 hp by 11 to 44
+    reduced player 0 hp by 2 to 4
+    gained 4 qi. Now have 4 qi
+  player 0 finished playing Cloud Sword - Spirit Coercion
+turn 13b ends
+turn 14a begins
+  lost 1 qi. Now have 2 qi
+  player 0 spent 1 qi to play Qi Therapy (level 2)
+    gained 12 max_hp. Now have 144 max_hp
+    healed 12 hp. Went from 44 to 56
+  player 0 finished playing Qi Therapy
+turn 14a ends
+turn 14b begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Giant Tiger Spirit Sword (level 2)
+    reduced player 1 hp by 13 to 43
+    reduced player 0 hp by 2 to 2
+  player 0 finished playing Giant Tiger Spirit Sword
+turn 14b ends
+turn 15a begins
+  player 0 is playing Earth Hexagram (level 2)
+    gained 2 def. Now have 2 def
+    gained 3 hexagram. Now have 3 hexagram
+  player 0 finished playing Earth Hexagram
+turn 15a ends
+turn 15b begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    lost 2 def. Now have 0 def
+    reduced player 1 hp by 7 to 36
+    reduced player 0 hp by 2 to 0
+    gained 1 this_card_chases. Now have 1 this_card_chases
+turn 15b ends
+player 1 loses 18 destiny, now at 49
+player 0 (Tan Shuyan) wins
+Player 0's deck:
+  Stillness Citta-Dharma (level 1)
+  Repel Citta-Dharma (level 1)
+  Earth Hexagram (level 2)
+  White Crane Bright Wings (level 2)
+  Wild Horses Part the Mane (level 2)
+  Sparrow's Tail (level 2)
+  Imposing (level 1)
+  Qi Therapy (level 2)
+Player 1's deck:
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Conceal (level 1)
+  Cloud Sword - Touch Sky (level 3)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Spirit Coercion (level 2)
+  Giant Tiger Spirit Sword (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Giant Whale Spirit Sword (level 1)

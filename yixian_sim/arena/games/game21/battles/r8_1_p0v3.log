@@ -1,0 +1,175 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 4 qi
+    reduced 小布(pid3) hp by 3 to 71
+    reduced 小布(pid3) hp by 3 to 68
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 1a: A(hp 76/76, def 0, qi 4) | B(hp 68/78, def 0, qi 0, phys 4)
+turn 1a ends
+turn 1b begins
+  reduced 小布(pid3) hp by 4 to 64
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    reduced 牧逸风(pid0) hp by 10 to 66
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 1b: A(hp 66/76, def 0, qi 4) | B(hp 64/78, def 0, qi 0, phys 4)
+turn 1b ends
+turn 2a begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 6 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 2a: A(hp 66/76, def 0, qi 6) | B(hp 64/78, def 0, qi 0, phys 4)
+turn 2a ends
+turn 2b begins
+  reduced 小布(pid3) hp by 3 to 61
+  小布(pid3) spent 3 hp to play Crash Fist - Poke (level 2)
+    gained 1 wound. Now have 1 wound
+    reduced 牧逸风(pid0) hp by 12 to 54
+    gained 3 later_crash_fist_poke_stacks. Now have 3 later_crash_fist_poke_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Poke
+  STATE after turn 2b: A(hp 54/76, def 0, qi 6) | B(hp 61/78, def 0, qi 0, phys 4)
+turn 2b ends
+turn 3a begins
+  牧逸风(pid0) is playing Consonance Sword Formation (level 1)
+    gained 9 def. Now have 9 def
+  牧逸风(pid0) finished playing Consonance Sword Formation
+  STATE after turn 3a: A(hp 54/76, def 9, qi 6) | B(hp 61/78, def 0, qi 0, phys 4)
+turn 3a ends
+turn 3b begins
+  reduced 小布(pid3) hp by 4 to 57
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 3 bonus_atk_amt. Now have 3 bonus_atk_amt
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    lost 9 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 14 to 40
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 3b: A(hp 40/76, def 0, qi 6) | B(hp 57/78, def 0, qi 0, phys 4)
+turn 3b ends
+turn 4a begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 6 to 51
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 4a: A(hp 40/76, def 0, qi 6) | B(hp 51/78, def 0, qi 0, phys 4)
+turn 4a ends
+turn 4b begins
+  reduced 小布(pid3) hp by 3 to 48
+  小布(pid3) spent 3 hp to play Youthful Vigor (level 2)
+    reduced 牧逸风(pid0) hp by 11 to 29
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Youthful Vigor
+  STATE after turn 4b: A(hp 29/76, def 0, qi 6) | B(hp 48/78, def 0, qi 0, phys 4)
+turn 4b ends
+turn 5a begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 小布(pid3) hp by 5 to 43
+    reduced 小布(pid3) hp by 3 to 40
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 5a: A(hp 29/76, def 0, qi 6) | B(hp 40/78, def 0, qi 0, phys 4)
+turn 5a ends
+turn 5b begins
+  reduced 小布(pid3) hp by 2 to 38
+  小布(pid3) spent 2 hp to play Mountain-Cleaving Palms (level 1)
+    reduced 牧逸风(pid0) hp by 11 to 18
+    gained 1 hp_cost_card_count. Now have 5 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 5b: A(hp 18/76, def 0, qi 6) | B(hp 38/78, def 0, qi 0, phys 4)
+turn 5b ends
+turn 6a begins
+  牧逸风(pid0) is playing Spiritage Formation (level 1)
+    gained 2 spiritage_formation_stacks. Now have 2 spiritage_formation_stacks
+  牧逸风(pid0) finished playing Spiritage Formation
+  STATE after turn 6a: A(hp 18/76, def 0, qi 6) | B(hp 38/78, def 0, qi 0, phys 4)
+turn 6a ends
+turn 6b begins
+  小布(pid3) is playing Detect-Horse Palms (level 1)
+    reduced 牧逸风(pid0) hp by 8 to 10
+    gained 2 def. Now have 2 def
+  小布(pid3) finished playing Detect-Horse Palms
+  STATE after turn 6b: A(hp 10/76, def 0, qi 6) | B(hp 38/78, def 2, qi 0, phys 4)
+turn 6b ends
+turn 7a begins
+  lost 1 spiritage_formation_stacks. Now have 1 spiritage_formation_stacks
+  gained 2 qi. Now have 8 qi
+  牧逸风(pid0) is playing Motionless Tutelary Formation (level 1)
+    gained 2 motionless_tutelary_formation_stacks. Now have 2 motionless_tutelary_formation_stacks
+  牧逸风(pid0) finished playing Motionless Tutelary Formation
+  gained 7 def. Now have 7 def
+  gained 7 max_hp. Now have 83 max_hp
+  healed 7 hp. Went from 10 to 17
+  lost 1 motionless_tutelary_formation_stacks. Now have 1 motionless_tutelary_formation_stacks
+  STATE after turn 7a: A(hp 17/83, def 7, qi 8) | B(hp 38/78, def 2, qi 0, phys 4)
+turn 7a ends
+turn 7b begins
+  lost 1 def. Now have 1 def
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 7b: A(hp 17/83, def 7, qi 8) | B(hp 38/78, def 1, qi 1, phys 4)
+turn 7b ends
+turn 8a begins
+  lost 4 def. Now have 3 def
+  lost 1 spiritage_formation_stacks. Now have 0 spiritage_formation_stacks
+  gained 2 qi. Now have 10 qi
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced 小布(pid3) hp by 2 to 36
+  牧逸风(pid0) finished playing Normal Attack
+  gained 7 def. Now have 10 def
+  gained 7 max_hp. Now have 90 max_hp
+  healed 7 hp. Went from 17 to 24
+  lost 1 motionless_tutelary_formation_stacks. Now have 0 motionless_tutelary_formation_stacks
+  STATE after turn 8a: A(hp 24/90, def 10, qi 10) | B(hp 36/78, def 0, qi 1, phys 4)
+turn 8a ends
+turn 8b begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    lost 10 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 3 to 21
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 8b: A(hp 21/90, def 0, qi 10) | B(hp 36/78, def 0, qi 0, injury 1, phys 4)
+turn 8b ends
+turn 9a begins
+  牧逸风(pid0) is playing Spiritage Sword (level 2)
+    gained 3 qi. Now have 13 qi
+    reduced 小布(pid3) hp by 3 to 33
+    reduced 小布(pid3) hp by 3 to 30
+  牧逸风(pid0) finished playing Spiritage Sword
+  STATE after turn 9a: A(hp 21/90, def 0, qi 13) | B(hp 30/78, def 0, qi 0, injury 1, phys 4)
+turn 9a ends
+turn 9b begins
+  reduced 小布(pid3) hp by 1 to 29
+  小布(pid3) is playing Gale Shadow Claw (level 1)
+    reduced 牧逸风(pid0) hp by 5 to 16
+    reduced 牧逸风(pid0) hp by 5 to 11
+    gained 2 qi. Now have 2 qi
+    gained 3 flaw. Now have 3 flaw
+  小布(pid3) finished playing Gale Shadow Claw
+  lost 1 flaw. Now have 2 flaw
+  STATE after turn 9b: A(hp 11/90, def 0, qi 13) | B(hp 29/78, def 0, qi 2, injury 1, phys 4)
+turn 9b ends
+turn 10a begins
+  牧逸风(pid0) is playing Qi Perfusion (level 1)
+    gained 2 qi. Now have 15 qi
+    gained 1 ignore_def. Now have 1 ignore_def
+  牧逸风(pid0) finished playing Qi Perfusion
+  STATE after turn 10a: A(hp 11/90, def 0, qi 15) | B(hp 29/78, def 0, qi 2, injury 1, phys 4)
+turn 10a ends
+turn 10b begins
+  reduced 小布(pid3) hp by 1 to 28
+  reduced 小布(pid3) hp by 4 to 24
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 牧逸风(pid0) hp by 11 to 0
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 6 hp_cost_card_count
+  STATE after turn 10b: A(hp 0/90, def 0, qi 15) | B(hp 24/78, def 0, qi 2, injury 1, phys 4)
+turn 10b ends
+牧逸风(pid0) loses 13 destiny, now at 87
+小布(pid3) (Xiao Bu) wins

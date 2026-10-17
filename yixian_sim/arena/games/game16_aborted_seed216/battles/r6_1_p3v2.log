@@ -1,0 +1,131 @@
+turn 1a begins
+  小布(pid3) is playing Exercise Bones (level 1)
+    gained 1 physique. Now have 4 physique
+    gained 1 max_hp. Now have 66 max_hp
+    healed 3 hp. Went from 62 to 65
+    gained 2 exercise_bones_stacks. Now have 2 exercise_bones_stacks
+  小布(pid3) finished playing Exercise Bones
+  STATE after turn 1a: A(hp 65/66, def 0, qi 0, phys 4) | B(hp 62/62, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  吾行之(pid2) is playing Metal Spirit Seal (level 1)
+    reduced 小布(pid3) hp by 6 to 59
+    gained 1 activate_metal_spirit_stacks. Now have 1 activate_metal_spirit_stacks
+  吾行之(pid2) finished playing Metal Spirit Seal
+  STATE after turn 1b: A(hp 59/66, def 0, qi 0, phys 4) | B(hp 62/62, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  reduced 小布(pid3) hp by 4 to 55
+  小布(pid3) spent 4 hp to play Crash Fist - Entangle (level 1)
+    gained 1 physique. Now have 5 physique
+    gained 1 max_hp. Now have 67 max_hp
+    lost 1 exercise_bones_stacks. Now have 1 exercise_bones_stacks
+    reduced 吾行之(pid2) hp by 13 to 49
+    gained 1 crash_fist_entangle_stacks. Now have 1 crash_fist_entangle_stacks
+    gained 1 hp_cost_card_count. Now have 1 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Entangle
+  STATE after turn 2a: A(hp 55/67, def 0, qi 0, phys 5) | B(hp 49/62, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    reduced 小布(pid3) hp by 6 to 49
+    gained 2 penetrate. Now have 2 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 2b: A(hp 49/67, def 0, qi 0, phys 5) | B(hp 49/62, def 0, qi 0)
+turn 2b ends
+turn 3a begins
+  reduced 小布(pid3) hp by 4 to 45
+  小布(pid3) spent 4 hp to play Crash Fist - Blitz (level 2)
+    gained 1 wound. Now have 1 wound
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    gained 1 physique. Now have 6 physique
+    gained 1 max_hp. Now have 68 max_hp
+    lost 1 exercise_bones_stacks. Now have 0 exercise_bones_stacks
+    reduced 吾行之(pid2) hp by 18 to 31
+    gained 1 crash_fist_blitz_stacks. Now have 1 crash_fist_blitz_stacks
+    gained 1 hp_cost_card_count. Now have 2 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Blitz
+  STATE after turn 3a: A(hp 45/68, def 0, qi 0, phys 6) | B(hp 31/62, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  吾行之(pid2) is playing Five Elements Fleche (level 2)
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 小布(pid3) hp by 13 to 32
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 3b: A(hp 32/68, def 0, qi 0, phys 6) | B(hp 31/62, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  gained 1 qi. Now have 1 qi
+  小布(pid3) gained qi instead of playing Sky-Piercing Claw (level 1). They now have 1/1 qi
+  STATE after turn 4a: A(hp 32/68, def 0, qi 1, phys 6) | B(hp 31/62, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 2)
+    reduced 小布(pid3) hp by 10 to 22
+    gained 2 ignore_def. Now have 2 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 4b: A(hp 22/68, def 0, qi 1, phys 6) | B(hp 31/62, def 0, qi 0)
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 0 qi
+  小布(pid3) spent 1 qi to play Sky-Piercing Claw (level 1)
+    reduced 吾行之(pid2) hp by 13 to 18
+    gained 1 internal_injury. Now have 1 internal_injury
+  小布(pid3) finished playing Sky-Piercing Claw
+  STATE after turn 5a: A(hp 22/68, def 0, qi 0, injury 1, phys 6) | B(hp 18/62, def 0, qi 0)
+turn 5a ends
+turn 5b begins
+  吾行之(pid2) is playing Metal Spirit - Heart Pierce (level 1)
+    lost 1 ignore_def. Now have 1 ignore_def
+    reduced 小布(pid3) hp by 7 to 15
+    gained 1 ignore_def. Now have 2 ignore_def
+  吾行之(pid2) finished playing Metal Spirit - Heart Pierce
+  STATE after turn 5b: A(hp 15/68, def 0, qi 0, injury 1, phys 6) | B(hp 18/62, def 0, qi 0)
+turn 5b ends
+turn 6a begins
+  reduced 小布(pid3) hp by 1 to 14
+  reduced 小布(pid3) hp by 3 to 11
+  小布(pid3) spent 3 hp to play Crash Fist - Block (level 1)
+    gained 1 this_card_crash_fist_blitz_stacks. Now have 1 this_card_crash_fist_blitz_stacks
+    reduced 吾行之(pid2) hp by 8 to 10
+    gained 2 def. Now have 2 def
+    gained 2 crash_fist_block_stacks. Now have 2 crash_fist_block_stacks
+    gained 1 hp_cost_card_count. Now have 3 hp_cost_card_count
+  小布(pid3) finished playing Crash Fist - Block
+  STATE after turn 6a: A(hp 11/68, def 2, qi 0, injury 1, phys 6) | B(hp 10/62, def 0, qi 0)
+turn 6a ends
+turn 6b begins
+  吾行之(pid2) is playing Earth Spirit Seal (level 2)
+    lost 1 ignore_def. Now have 1 ignore_def
+    reduced 小布(pid3) hp by 5 to 6
+    gained 6 def. Now have 6 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  吾行之(pid2) finished playing Earth Spirit Seal
+  STATE after turn 6b: A(hp 6/68, def 2, qi 0, injury 1, phys 6) | B(hp 10/62, def 6, qi 0)
+turn 6b ends
+turn 7a begins
+  lost 1 def. Now have 1 def
+  reduced 小布(pid3) hp by 1 to 5
+  reduced 小布(pid3) hp by 1 to 4
+  小布(pid3) spent 1 hp to play Mountain-Cleaving Palms (level 2)
+    lost 6 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 8 to 2
+    gained 1 hp_cost_card_count. Now have 4 hp_cost_card_count
+  小布(pid3) finished playing Mountain-Cleaving Palms
+  STATE after turn 7a: A(hp 4/68, def 1, qi 0, injury 1, phys 6) | B(hp 2/62, def 0, qi 0)
+turn 7a ends
+turn 7b begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 ignore_def. Now have 0 ignore_def
+    reduced 小布(pid3) hp by 3 to 1
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7b: A(hp 1/68, def 1, qi 0, injury 1, phys 6) | B(hp 2/62, def 0, qi 0)
+turn 7b ends
+turn 8a begins
+  lost 1 def. Now have 0 def
+  reduced 小布(pid3) hp by 1 to 0
+  STATE after turn 8a: A(hp 0/68, def 0, qi 0, injury 1, phys 6) | B(hp 2/62, def 0, qi 0)
+turn 8a ends
+小布(pid3) loses 7 destiny, now at 86
+吾行之(pid2) (Wu Xingzhi) wins

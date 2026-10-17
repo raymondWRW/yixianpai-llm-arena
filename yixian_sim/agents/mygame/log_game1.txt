@@ -1,0 +1,297 @@
+NEW GAME seed=3 me=林小月 vs ['曜灵', '叶冥冥', '屠馗', '陆剑心', '吾行之', '南宫生', '龙瑶']
+  roll 云剑·探云 -> 轻剑
+  roll 云剑·探云 -> 巨虎灵剑
+  roll 轻剑 -> 灵气灌注
+  board = ['巨虎灵剑', '震雷剑', '震雷剑']
+--- R1 battles:
+  pid2 vs pid0: margin +4 (a won)
+  pid7 vs pid1: margin -2 (b won)
+  pid6 vs pid3: margin -6 (b won)
+  pid4 vs pid5: margin -5 (b won)
+  R1 vs pid2 叶冥冥 (they act first): LOSS margin -4 → my 命 96
+  standings: pid0:96, pid1:100, pid2:100, pid3:100, pid4:95, pid5:100, pid6:94, pid7:98
+  roll 练笔 -> 剑劈
+  roll 练笔 -> 飞牙剑
+  roll 研墨 -> 灵气灌注
+  merge -> 灵气灌注+1 (+1 修为 = 3)
+  board = ['灵气灌注+1', '飞牙剑', '飞牙剑', '巨虎灵剑']
+  absorb 震雷剑 -> 修为 4
+--- R2 battles:
+  pid7 vs pid4: margin +4 (a won)
+  pid6 vs pid0: margin -8 (b won)
+  pid1 vs pid2: margin -6 (b won)
+  pid3 vs pid5: margin +4 (a won)
+  R2 vs pid6 南宫生 (they act first): WIN margin +8 → my 命 96
+  standings: pid0:96, pid1:94, pid2:100, pid3:100, pid4:91, pid5:96, pid6:86, pid7:98
+  roll 云剑·厚土 -> 护身灵气
+  roll 研墨 -> 轻剑
+  roll 轻剑 -> 灵气灌注
+  board = ['灵气灌注+1', '剑劈', '飞牙剑', '飞牙剑', '巨虎灵剑']
+  absorb 护身灵气 -> 修为 7
+--- R3 battles:
+  pid5 vs pid0: margin -6 (b won)
+  pid1 vs pid3: margin -7 (b won)
+  pid4 vs pid2: margin -7 (b won)
+  pid7 vs pid6: margin +9 (a won)
+  R3 vs pid5 吾行之 (they act first): WIN margin +6 → my 命 96
+  standings: pid0:96, pid1:87, pid2:114, pid3:100, pid4:84, pid5:90, pid6:83, pid7:98
+  道韵 offer: [(0, '自在随心(draw 1 now)'), (1000037, '流云乱剑'), (6000014, '落纸云烟'), (6000012, '运笔如飞')]
+  -> picked 自在随心 (draw 1 now)
+  roll 云剑·厚土 -> 云剑·飞刺
+  roll 护身灵气 -> 灵气灌注
+  roll 骤风剑 -> 护身灵气
+  merge -> 灵气灌注+1 (+1 修为 = 10)
+  board = ['剑挡', '灵气灌注+1', '剑劈', '飞牙剑', '震雷剑', '巨虎灵剑']
+  absorb 云剑·飞刺 -> 修为 11
+  absorb 护身灵气 -> 修为 12
+--- R4 battles:
+  pid1 vs pid2: margin -5 (b won)
+  pid4 vs pid6: margin +6 (a won)
+  pid3 vs pid0: margin +7 (a won)
+  pid7 vs pid5: margin +6 (a won)
+  R4 vs pid3 屠馗 (they act first): LOSS margin -7 → my 命 89
+  standings: pid0:89, pid1:82, pid2:114, pid3:100, pid4:84, pid5:84, pid6:77, pid7:98
+  roll 骤风剑 -> 剑挡
+  roll 巨虎灵剑 -> 剑挡
+  merge -> 剑挡+1 (+1 修为 = 15)
+  merge -> 剑劈+1 (+1 修为 = 16)
+  roll 震雷剑 -> 云剑·飞刺
+  天命 offer @realm2: 44:猫爪, 54:云剑传承, 13:储纳灵气, 5:善假于物
+  -> picked 44:猫爪 (preference)
+  BREAKTHROUGH 境1 -> 境2; HP 45; 天命 ['好奇心', '猫爪']
+  board = ['剑挡', '剑劈+1', '剑挡+1', '灵气灌注+1', '飞牙剑', '飞牙剑', '震雷剑']
+  absorb 巨虎灵剑 -> 修为 17
+  absorb 云剑·飞刺 -> 修为 18
+--- R5 battles:
+  pid5 vs pid3: margin -10 (b won)
+  pid6 vs pid0: margin -11 (b won)
+  pid4 vs pid2: margin -9 (b won)
+  pid7 vs pid1: margin -8 (b won)
+  R5 vs pid6 南宫生 (they act first): WIN margin +11 → my 命 89
+  standings: pid0:89, pid1:82, pid2:114, pid3:100, pid4:75, pid5:74, pid6:66, pid7:90
+  absorb 练笔 -> 修为 21
+  天命 offer @realm3: 45:猫魂庇佑, 116:剑阵传承, 8:休养生息, 5:善假于物
+  -> picked 45:猫魂庇佑 (preference)
+  BREAKTHROUGH 境2 -> 境3; HP 52; 天命 ['好奇心', '猫爪', '猫魂庇佑']
+  roll 灵犀剑阵 -> 巨鹏灵剑
+  board = ['剑挡', '剑劈+1', '剑挡+1', '灵气灌注+1', '飞牙剑', '飞牙剑', '震雷剑', '巨鹏灵剑']
+--- R6 battles:
+  pid1 vs pid2: margin -10 (b won)
+  pid7 vs pid6: margin -10 (b won)
+  pid4 vs pid3: margin -10 (b won)
+  pid5 vs pid0: margin -10 (b won)
+  R6 vs pid5 吾行之 (they act first): WIN margin +10 → my 命 89
+  standings: pid0:89, pid1:72, pid2:114, pid3:100, pid4:65, pid5:72, pid6:84, pid7:80
+  board = ['剑挡', '剑劈+1', '剑挡+1', '灵气灌注+1', '飞牙剑', '飞牙剑', '震雷剑', '形意剑']
+  merge -> 云剑·极意+1 (+1 修为 = 24)
+  absorb 巨鹏灵剑 -> 修为 25
+  absorb 灵感迸发 -> 修为 26
+--- R7 battles:
+  pid4 vs pid6: margin -12 (b won)
+  pid3 vs pid5: margin -11 (b won)
+  pid2 vs pid0: margin +11 (a won)
+  pid7 vs pid1: margin -9 (b won)
+  R7 vs pid2 叶冥冥 (they act first): LOSS margin -11 → my 命 78
+  standings: pid0:78, pid1:72, pid2:114, pid3:89, pid4:53, pid5:72, pid6:84, pid7:71
+  roll 云剑·汇灵 -> 云剑·无妄
+  roll 云剑·点星 -> 狂剑·一式
+  board = ['剑挡', '剑劈+1', '剑挡+1', '灵气灌注+1', '飞牙剑', '飞牙剑', '震雷剑', '镜花剑阵']
+  absorb 形意剑 -> 修为 29
+  absorb 灵气灌注+1 -> 修为 30
+  absorb 云剑·无妄 -> 修为 31
+  absorb 狂剑·一式 -> 修为 32
+--- R8 battles:
+  pid1 vs pid5: margin +9 (a won)
+  pid7 vs pid6: margin +16 (a won)
+  pid3 vs pid0: margin -12 (b won)
+  pid4 vs pid2: margin -13 (b won)
+  R8 vs pid3 屠馗 (they act first): WIN margin +12 → my 命 78
+  standings: pid0:78, pid1:72, pid2:114, pid3:77, pid4:40, pid5:63, pid6:68, pid7:83
+  absorb 挥毫泼墨 -> 修为 35
+  absorb 巨鲸灵剑 -> 修为 36
+  天命 offer @realm4: 46:灵猫乱剑, 6:变换之道, 16:剑韵修炼, 4:感悟丛生
+  -> picked 46:灵猫乱剑 (preference)
+  BREAKTHROUGH 境3 -> 境4; HP 62; 天命 ['好奇心', '猫爪', '猫魂庇佑', '灵猫乱剑']
+  roll 三峰剑 -> 巨鲸灵剑
+  roll 巨鲸灵剑 -> 云剑·回守
+  roll 云剑·回守 -> 云剑·汇灵
+  board = ['剑挡', '剑劈+1', '剑挡+1', '灵气灌注+1', '飞牙剑', '飞牙剑', '震雷剑', '云剑·极意+1']
+  absorb 云剑·汇灵 -> 修为 37
+--- R9 battles:
+  pid4 vs pid0: margin -15 (b won)
+  pid3 vs pid5: margin +13 (a won)
+  pid1 vs pid6: margin +11 (a won)
+  pid2 vs pid7: margin -16 (b won)
+  R9 vs pid4 陆剑心 (they act first): WIN margin +15 → my 命 78
+  standings: pid0:78, pid1:72, pid2:98, pid3:77, pid4:25, pid5:50, pid6:57, pid7:83
+  roll 流云乱剑 -> 笔走龙蛇
+  roll 地煞剑 -> 破气剑
+  roll 地煞剑 -> 灵感剑
+  roll 笔走龙蛇 -> 云剑·柔心
+  roll 破气剑 -> 凝意诀
+  board = ['剑挡', '剑劈+1', '剑挡+1', '凝意诀', '灵气灌注+1', '飞牙剑', '飞牙剑', '震雷剑']
+  absorb 云剑·极意+1 -> 修为 40
+  absorb 云剑·柔心 -> 修为 41
+--- R10 battles:
+  pid4 vs pid3: margin -20 (b won)
+  pid5 vs pid6: margin +16 (a won)
+  pid2 vs pid0: margin -14 (b won)
+  pid1 vs pid7: margin -18 (b won)
+  R10 vs pid2 叶冥冥 (they act first): WIN margin +14 → my 命 78
+  standings: pid0:78, pid1:54, pid2:84, pid3:77, pid4:5, pid5:50, pid6:41, pid7:83
+  roll 云剑·极意 -> 触类旁通
+  roll 云剑·柔心 -> 巨鹏灵剑
+  roll 聚灵心法 -> 水月剑阵
+  board = ['水月剑阵', '剑劈+1', '剑挡+1', '凝意诀', '灵气灌注+1', '飞牙剑', '飞牙剑', '震雷剑']
+  roll 触类旁通 -> 云剑·月影
+  roll 巨鹏灵剑 -> 云舞诀
+  absorb 剑挡 -> 修为 44
+  absorb 云剑·月影 -> 修为 45
+--- R11 battles:
+  pid5 vs pid3: margin -17 (b won)
+  pid1 vs pid6: margin +18 (a won)
+  pid4 vs pid0: margin -19 (b won)
+  pid2 vs pid7: margin -17 (b won)
+  R11 vs pid4 陆剑心 (they act first): WIN margin +19 → my 命 78
+  standings: pid0:78, pid1:54, pid2:67, pid3:77, pid4:0, pid5:33, pid6:23, pid7:83
+  merge -> 镜花剑阵+1 (+1 修为 = 48)
+  merge -> 灵犀剑阵+1 (+1 修为 = 49)
+  roll 灵感剑 -> 云剑·飞刺
+  roll 狂剑·二式 -> 笔走龙蛇
+  roll 灵犀剑阵+1 -> 云剑·汇灵
+  roll 云剑·飞刺 -> 挥毫泼墨
+  roll 笔走龙蛇 -> 形意剑
+  roll 云剑·汇灵 -> 挥毫泼墨
+  roll 挥毫泼墨 -> 引气剑
+  roll 挥毫泼墨 -> 反身剑
+  board = ['镜花剑阵+1', '剑劈+1', '剑挡+1', '凝意诀', '灵气灌注+1', '飞牙剑', '飞牙剑', '反身剑']
+  absorb 震雷剑 -> 修为 50
+  absorb 形意剑 -> 修为 51
+  absorb 引气剑 -> 修为 52
+--- R12 battles:
+  pid7 vs pid1: margin +18 (a won)
+  pid5 vs pid0: margin +14 (a won)
+  pid2 vs pid6: margin +21 (a won)
+  R12 vs pid5 吾行之 (they act first): LOSS margin -14 → my 命 64
+  standings: pid0:64, pid1:36, pid2:82, pid3:77, pid4:0, pid5:33, pid6:2, pid7:83
+  absorb 巨鹏灵剑 -> 修为 55
+  天命 offer @realm5: 15:灵猫踏云, 5:善假于物, 1:锻体, 16:剑韵修炼
+  -> picked 16:剑韵修炼 (preference)
+  BREAKTHROUGH 境4 -> 境5; HP 75; 天命 ['好奇心', '猫爪', '猫魂庇佑', '灵猫乱剑', '剑韵修炼']
+  roll 聚灵心法 -> 运笔如飞
+  roll 镜花剑阵 -> 云剑·凌波
+  roll 反身剑 -> 形意剑
+  roll 形意剑 -> 御空剑阵
+  roll 云剑·凌波 -> 云剑·无锋
+  roll 云剑·无锋 -> 反身剑
+  board = ['御空剑阵', '剑劈+1', '剑挡+1', '凝意诀', '灵气灌注+1', '飞牙剑', '飞牙剑', '反身剑']
+  absorb 云舞诀 -> 修为 58
+  absorb 反身剑 -> 修为 59
+--- R13 battles:
+  pid2 vs pid3: margin +15 (a won)
+  pid7 vs pid6: margin +22 (a won)
+  pid1 vs pid0: margin +16 (a won)
+  R13 vs pid1 曜灵 (they act first): LOSS margin -16 → my 命 48
+  standings: pid0:48, pid1:36, pid2:82, pid3:62, pid4:0, pid5:33, pid6:0, pid7:83
+  道韵 offer: [(0, '自在随心(draw 1 now)'), (1000035, '狂剑·二式'), (6000014, '落纸云烟'), (1000043, '飞灵闪影剑')]
+  -> picked 1000043:飞灵闪影剑
+  board = ['剑劈+1', '画龙点睛', '剑挡+1', '凝意诀', '剑意激荡', '灵气灌注+1', '飞牙剑', '飞灵闪影剑']
+  roll 化灵诀 -> 云剑·游龙
+  roll 狂剑·二式 -> 万法归灵剑
+  roll 反身剑 -> 暗鸦灵剑
+  roll 水月剑阵 -> 云剑·闪风
+  roll 运笔如飞 -> 妙笔生花
+  roll 妙笔生花 -> 落纸云烟
+  absorb 暗鸦灵剑 -> 修为 62
+  absorb 云剑·闪风 -> 修为 63
+  absorb 落纸云烟 -> 修为 64
+--- R14 battles:
+  pid7 vs pid3: margin +19 (a won)
+  pid5 vs pid2: margin +16 (a won)
+  pid1 vs pid0: margin -26 (b won)
+  R14 vs pid1 曜灵 (they act first): WIN margin +26 → my 命 48
+  standings: pid0:48, pid1:10, pid2:66, pid3:43, pid4:0, pid5:33, pid6:0, pid7:83
+  merge -> 飞牙剑+1 (+1 修为 = 67)
+  merge -> 御空剑阵+1 (+1 修为 = 68)
+  board = ['御空剑阵+1', '剑劈+1', '画龙点睛', '剑挡+1', '凝意诀', '剑意激荡', '飞牙剑+1', '飞灵闪影剑']
+  roll 破气剑 -> 万法归灵剑
+  roll 巨鲲灵剑 -> 飞灵闪影剑
+  roll 云剑·游龙 -> 化灵诀
+  roll 万法归灵剑 -> 连环剑阵
+  merge -> 飞灵闪影剑+1 (+1 修为 = 69)
+  board = ['御空剑阵+1', '剑劈+1', '画龙点睛', '剑挡+1', '凝意诀', '剑意激荡', '飞牙剑+1', '飞灵闪影剑+1']
+  roll 万法归灵剑 -> 触类旁通
+  roll 灵气灌注+1 -> 巨鲲灵剑
+  absorb 飞牙剑 -> 修为 70
+  absorb 化灵诀 -> 修为 71
+  absorb 触类旁通 -> 修为 72
+  absorb 巨鲲灵剑 -> 修为 73
+--- R15 battles:
+  pid7 vs pid2: margin +19 (a won)
+  pid5 vs pid3: margin -22 (b won)
+  pid1 vs pid0: margin -29 (b won)
+  R15 vs pid1 曜灵 (they act first): WIN margin +29 → my 命 48
+  standings: pid0:48, pid1:0, pid2:47, pid3:43, pid4:0, pid5:11, pid6:0, pid7:83
+  roll 云剑·回守 -> 云舞诀
+  roll 狂剑·一式 -> 云剑·凌波
+  roll 云剑·闪风 -> 流云乱剑
+  roll 云舞诀 -> 连环剑阵
+  roll 云剑·凌波 -> 引气剑
+  roll 流云乱剑 -> 云剑·柔心
+  merge -> 连环剑阵+1 (+1 修为 = 76)
+--- R16 battles:
+  pid3 vs pid0: margin -29 (b won)
+  pid5 vs pid2: margin +18 (a won)
+  R16 vs pid3 屠馗 (they act first): WIN margin +29 → my 命 48
+  standings: pid0:48, pid1:0, pid2:29, pid3:14, pid4:0, pid5:11, pid6:0, pid7:83
+  merge -> 御空剑阵+1 (+1 修为 = 79)
+  board = ['剑劈+1', '画龙点睛', '画龙点睛', '剑挡+1', '凝意诀', '剑意激荡', '飞牙剑+1', '飞灵闪影剑+1']
+  merge -> 御空剑阵+2 (+1 修为 = 80)
+  roll 引气剑 -> 飞灵闪影剑
+  roll 云剑·柔心 -> 笔走龙蛇
+  roll 百鸟灵剑诀 -> 凝意诀
+  roll 落纸云烟 -> 云剑·月影
+  merge -> 凝意诀+1 (+1 修为 = 81)
+  board = ['剑劈+1', '画龙点睛', '画龙点睛', '剑挡+1', '凝意诀+1', '剑意激荡', '飞牙剑+1', '飞灵闪影剑+1']
+  roll 笔走龙蛇 -> 灵气灌注
+  roll 云剑·月影 -> 触类旁通
+  absorb 灵气灌注 -> 修为 82
+  absorb 触类旁通 -> 修为 83
+--- R17 battles:
+  pid2 vs pid0: margin -32 (b won)
+  pid7 vs pid5: margin +24 (a won)
+  R17 vs pid2 叶冥冥 (they act first): WIN margin +32 → my 命 48
+  standings: pid0:48, pid1:0, pid2:0, pid3:14, pid4:0, pid5:0, pid6:0, pid7:83
+  roll 巨鲸灵剑 -> 云剑·点星
+  roll 震雷剑 -> 暗鸦灵剑
+  roll 白鹭灵剑 -> 云剑·飞刺
+  roll 连环剑阵 -> 三峰剑
+  roll 云剑·点星 -> 画饼充饥
+  roll 暗鸦灵剑 -> 神来之笔
+  absorb 云剑·飞刺 -> 修为 86
+  absorb 三峰剑 -> 修为 87
+  absorb 画饼充饥 -> 修为 88
+  absorb 神来之笔 -> 修为 89
+--- R18 battles:
+  pid7 vs pid0: margin -32 (b won)
+  R18 vs pid7 龙瑶 (they act first): WIN margin +32 → my 命 48
+  standings: pid0:48, pid1:0, pid2:0, pid3:14, pid4:0, pid5:0, pid6:0, pid7:51
+  roll 剑挡 -> 三峰剑
+  roll 以画入道 -> 灵感剑
+  roll 剑劈 -> 触类旁通
+  roll 御空剑阵 -> 云剑·无妄
+  roll 三峰剑 -> 凝意诀
+  roll 灵感剑 -> 以画入道
+  absorb 触类旁通 -> 修为 92
+  absorb 云剑·无妄 -> 修为 93
+  absorb 凝意诀 -> 修为 94
+  absorb 以画入道 -> 修为 95
+--- R19 battles:
+  pid7 vs pid3: margin +24 (a won)
+  R18 vs pid7 龙瑶 (they act first): WIN margin +32 → my 命 48
+  standings: pid0:48, pid1:0, pid2:0, pid3:0, pid4:0, pid5:0, pid6:0, pid7:51
+--- R20 battles:
+  pid7 vs pid0: margin -37 (b won)
+  R20 vs pid7 龙瑶 (they act first): WIN margin +37 → my 命 48
+  standings: pid0:48, pid1:0, pid2:0, pid3:0, pid4:0, pid5:0, pid6:0, pid7:14
+GAME OVER after R20. Alive: [(0, 48), (7, 14)]  me alive=True 命=48

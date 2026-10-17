@@ -1,0 +1,307 @@
+gained 1 qi. Now have 1 qi
+turn 1a begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 2 qi
+    healed 4 hp. Went from 97 to 97
+    gained 1 activate_wood_spirit_stacks. Now have 1 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+turn 1a ends
+turn 1b begins
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+turn 1b ends
+turn 2a begins
+  player 0 is playing Regen Tune (level 1)
+    gained 4 regen_tune_stacks. Now have 4 regen_tune_stacks
+    gained 4 regen_tune_stacks. Now have 4 regen_tune_stacks
+  player 0 finished playing Regen Tune
+  gained 4 max_hp. Now have 101 max_hp
+  healed 4 hp. Went from 97 to 101
+turn 2a ends
+turn 2b begins
+  lost 3 def. Now have 2 def
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 9 to 92
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 6 to 86
+    reduced player 1 hp by 6 to 80
+  player 0 finished playing Cloud Sword - Necessity
+  gained 4 max_hp. Now have 106 max_hp
+  healed 4 hp. Went from 102 to 106
+turn 2b ends
+turn 3a begins
+  player 0 is playing Wood Spirit - Fragrant (level 2)
+    gained 3 qi. Now have 5 qi
+    healed 3 hp. Went from 80 to 83
+    gained 1 increase_atk. Now have 1 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 105 max_hp
+  healed 4 hp. Went from 83 to 87
+turn 3a ends
+turn 3b begins
+  lost 1 def. Now have 1 def
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 6 to 81
+    reduced player 1 hp by 5 to 76
+  player 0 finished playing Cloud Sword - Fleche
+  gained 4 max_hp. Now have 110 max_hp
+  healed 4 hp. Went from 106 to 110
+turn 3b ends
+turn 4a begins
+  lost 1 qi. Now have 4 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+  player 0 upgrades Fire Spirit - Blast (level 1) to Fire Spirit - Blast (level 2)
+  lost 1 mutual_growth_stacks. Now have 0 mutual_growth_stacks
+    gained 2 increase_atk. Now have 3 increase_atk
+    reduced player 1 hp by 10 to 100
+    reduced player 1 max_hp by 10 to 100
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 109 max_hp
+  healed 4 hp. Went from 76 to 80
+turn 4a ends
+turn 4b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 13 to 67
+  player 0 finished playing Cloud Sword - Conceal
+  gained 4 max_hp. Now have 104 max_hp
+  healed 4 hp. Went from 100 to 104
+turn 4b ends
+turn 5a begins
+  lost 1 qi. Now have 3 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 4 increase_atk
+    reduced player 1 hp by 11 to 93
+    reduced player 1 max_hp by 11 to 93
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 113 max_hp
+  healed 4 hp. Went from 67 to 71
+turn 5a ends
+turn 5b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 8 to 63
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+  gained 4 max_hp. Now have 97 max_hp
+  healed 4 hp. Went from 93 to 97
+turn 5b ends
+turn 6a begins
+  player 0 is playing Cosmos Seal (level 1)
+    reduced player 1 hp by 9 to 88
+    gained 1 qi. Now have 4 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+  gained 4 max_hp. Now have 117 max_hp
+  healed 4 hp. Went from 63 to 67
+turn 6a ends
+turn 6b begins
+  player 0 is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 2 increase_atk
+  player 0 finished playing Cloud Sword - Moon Shade
+  gained 4 max_hp. Now have 101 max_hp
+  healed 4 hp. Went from 88 to 92
+turn 6b ends
+turn 7a begins
+  lost 2 qi. Now have 2 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 1 activate_water_spirit_stacks
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 16 to 76
+    gained 1 force_of_water. Now have 1 force_of_water
+  player 0 finished playing Water Spirit - Waves
+  gained 4 max_hp. Now have 121 max_hp
+  healed 4 hp. Went from 67 to 71
+  reduced player 1 hp by 1 to 75
+turn 7a ends
+turn 7b begins
+  player 0 is playing Cloud Sword - Flash Wind (level 1)
+    reduced player 1 hp by 9 to 62
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+  gained 4 max_hp. Now have 105 max_hp
+  healed 4 hp. Went from 75 to 79
+turn 7b ends
+turn 8a begins
+  player 0 is playing Wood Spirit - Recovery (level 1)
+    gained 2 qi. Now have 4 qi
+    healed 7 hp. Went from 62 to 69
+  player 0 finished playing Wood Spirit - Recovery
+  gained 4 max_hp. Now have 125 max_hp
+  healed 4 hp. Went from 69 to 73
+  lost 1 def. Now have 4 def
+turn 8a ends
+turn 8b begins
+  lost 2 def. Now have 2 def
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 11 to 62
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 8 to 54
+    reduced player 1 hp by 8 to 46
+  player 0 finished playing Cloud Sword - Necessity
+  gained 4 max_hp. Now have 109 max_hp
+  healed 4 hp. Went from 79 to 83
+turn 8b ends
+turn 9a begins
+  player 0 is playing Wood Spirit Seal (level 2)
+    gained 2 qi. Now have 6 qi
+    healed 4 hp. Went from 46 to 50
+    gained 1 activate_wood_spirit_stacks. Now have 2 activate_wood_spirit_stacks
+  player 0 finished playing Wood Spirit Seal
+  gained 4 max_hp. Now have 129 max_hp
+  healed 4 hp. Went from 50 to 54
+  lost 1 def. Now have 1 def
+turn 9a ends
+turn 9b begins
+  lost 1 def. Now have 0 def
+  player 0 is playing Cloud Sword - Fleche (level 2)
+    reduced player 1 hp by 8 to 46
+    reduced player 1 hp by 7 to 39
+  player 0 finished playing Cloud Sword - Fleche
+  gained 4 max_hp. Now have 113 max_hp
+  healed 4 hp. Went from 83 to 87
+turn 9b ends
+turn 10a begins
+  player 0 is playing Wood Spirit - Fragrant (level 2)
+    gained 3 qi. Now have 9 qi
+    healed 3 hp. Went from 39 to 42
+    gained 3 increase_atk. Now have 7 increase_atk
+  player 0 finished playing Wood Spirit - Fragrant
+  gained 4 max_hp. Now have 133 max_hp
+  healed 4 hp. Went from 42 to 46
+  reduced player 1 hp by 1 to 86
+turn 10a ends
+turn 10b begins
+  player 0 is playing Cloud Sword - Conceal (level 2)
+    reduced player 1 hp by 15 to 31
+  player 0 finished playing Cloud Sword - Conceal
+  gained 4 max_hp. Now have 117 max_hp
+  healed 4 hp. Went from 86 to 90
+turn 10b ends
+turn 11a begins
+  lost 1 qi. Now have 8 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 2)
+    gained 2 increase_atk. Now have 9 increase_atk
+    reduced player 1 hp by 16 to 74
+    reduced player 1 max_hp by 16 to 101
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 137 max_hp
+  healed 4 hp. Went from 31 to 35
+  reduced player 1 hp by 1 to 73
+turn 11a ends
+turn 11b begins
+  player 0 is playing Cloud Sword - Riddle (level 2)
+    reduced player 1 hp by 10 to 25
+    gained 3 sword_intent. Now have 3 sword_intent
+  player 0 finished playing Cloud Sword - Riddle
+  gained 4 max_hp. Now have 105 max_hp
+  healed 4 hp. Went from 73 to 77
+turn 11b ends
+turn 12a begins
+  lost 1 qi. Now have 7 qi
+  player 0 spent 1 qi to play Fire Spirit - Blast (level 1)
+    gained 1 increase_atk. Now have 10 increase_atk
+    reduced player 1 hp by 17 to 60
+    reduced player 1 max_hp by 17 to 88
+  player 0 finished playing Fire Spirit - Blast
+  gained 4 max_hp. Now have 141 max_hp
+  healed 4 hp. Went from 25 to 29
+  reduced player 1 hp by 1 to 59
+turn 12a ends
+turn 12b begins
+  player 0 is playing Cloud Sword - Moon Shade (level 1)
+    gained 1 def. Now have 1 def
+    gained 2 increase_atk. Now have 4 increase_atk
+  player 0 finished playing Cloud Sword - Moon Shade
+  gained 4 max_hp. Now have 92 max_hp
+  healed 4 hp. Went from 59 to 63
+turn 12b ends
+turn 13a begins
+  player 0 is playing Cosmos Seal (level 1)
+    lost 1 def. Now have 0 def
+    reduced player 1 hp by 14 to 49
+    gained 1 qi. Now have 8 qi
+    gained 1 cosmos_seal_stacks. Now have 1 cosmos_seal_stacks
+  player 0 finished playing Cosmos Seal
+  gained 4 max_hp. Now have 145 max_hp
+  healed 4 hp. Went from 29 to 33
+  reduced player 1 hp by 1 to 48
+turn 13a ends
+turn 13b begins
+  player 0 is playing Cloud Sword - Flash Wind (level 1)
+    reduced player 1 hp by 11 to 22
+    gained 1 this_card_chases. Now have 1 this_card_chases
+    lost 3 sword_intent. Now have 0 sword_intent
+  player 0 finished playing Cloud Sword - Flash Wind
+  incremented chases to 1
+  chase!!
+  player 0 is playing Guard Qi (level 2)
+    gained 2 qi. Now have 3 qi
+    gained 5 def. Now have 5 def
+  player 0 finished playing Guard Qi
+  gained 4 max_hp. Now have 96 max_hp
+  healed 4 hp. Went from 48 to 52
+turn 13b ends
+turn 14a begins
+  lost 2 qi. Now have 6 qi
+  player 0 spent 2 qi to play Water Spirit - Waves (level 2)
+    gained 1 activate_water_spirit_stacks. Now have 2 activate_water_spirit_stacks
+    lost 5 def. Now have 0 def
+    reduced player 1 hp by 18 to 34
+    gained 1 force_of_water. Now have 2 force_of_water
+  player 0 finished playing Water Spirit - Waves
+  gained 4 max_hp. Now have 149 max_hp
+  healed 4 hp. Went from 22 to 26
+  reduced player 1 hp by 2 to 32
+turn 14a ends
+turn 14b begins
+  lost 2 qi. Now have 1 qi
+  player 0 spent 2 qi to play Giant Roc Spirit Sword (level 1)
+    reduced player 1 hp by 13 to 13
+    gained 1 this_card_chases. Now have 1 this_card_chases
+  player 0 finished playing Giant Roc Spirit Sword
+  incremented chases to 1
+  chase!!
+  player 0 is playing Cloud Sword - Necessity (level 2)
+    reduced player 1 hp by 10 to 3
+    reduced player 1 hp by 10 to -7
+turn 14b ends
+player 0 loses 19 destiny, now at 12
+player 1 (Mu Yifeng) wins
+Player 0's deck:
+  Wood Spirit Seal (level 2)
+  Regen Tune (level 1)
+  Wood Spirit - Fragrant (level 2)
+  Fire Spirit - Blast (level 2)
+  Fire Spirit - Blast (level 1)
+  Cosmos Seal (level 1)
+  Water Spirit - Waves (level 2)
+  Wood Spirit - Recovery (level 1)
+Player 1's deck:
+  Guard Qi (level 2)
+  Giant Roc Spirit Sword (level 1)
+  Cloud Sword - Necessity (level 2)
+  Cloud Sword - Fleche (level 2)
+  Cloud Sword - Conceal (level 2)
+  Cloud Sword - Riddle (level 2)
+  Cloud Sword - Moon Shade (level 1)
+  Cloud Sword - Flash Wind (level 1)

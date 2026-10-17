@@ -1,0 +1,150 @@
+turn 1a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 35
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 1a: A(hp 42/42, def 0, qi 0) | B(hp 35/42, def 0, qi 0)
+turn 1a ends
+turn 1b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 1)
+    reduced 吾行之(pid2) hp by 6 to 36
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 1b: A(hp 36/42, def 0, qi 0) | B(hp 35/42, def 0, qi 0)
+turn 1b ends
+turn 2a begins
+  吾行之(pid2) is playing Earth Spirit Seal (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 32
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 1 activate_earth_spirit_stacks
+  吾行之(pid2) finished playing Earth Spirit Seal
+  STATE after turn 2a: A(hp 36/42, def 4, qi 0) | B(hp 32/42, def 0, qi 0)
+turn 2a ends
+turn 2b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 34
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 2b: A(hp 34/42, def 0, qi 0) | B(hp 32/42, def 6, qi 0)
+turn 2b ends
+turn 3a begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    lost 6 def. Now have 0 def
+    gained 2 penetrate. Now have 2 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 3a: A(hp 34/42, def 0, qi 0) | B(hp 32/42, def 0, qi 0)
+turn 3a ends
+turn 3b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 吾行之(pid2) hp by 5 to 29
+    reduced 吾行之(pid2) hp by 3 to 26
+  牧逸风(pid0) finished playing Cloud Sword - Fleche
+  STATE after turn 3b: A(hp 26/42, def 0, qi 0) | B(hp 32/42, def 0, qi 0)
+turn 3b ends
+turn 4a begins
+  吾行之(pid2) is playing Five Elements Fleche (level 1)
+    penetrating 2 damage
+    lost 2 penetrate. Now have 0 penetrate
+    reduced 牧逸风(pid0) hp by 10 to 22
+  吾行之(pid2) finished playing Five Elements Fleche
+  STATE after turn 4a: A(hp 26/42, def 0, qi 0) | B(hp 22/42, def 0, qi 0)
+turn 4a ends
+turn 4b begins
+  牧逸风(pid0) is playing Guard Qi (level 1)
+    gained 1 qi. Now have 1 qi
+    gained 5 def. Now have 5 def
+  牧逸风(pid0) finished playing Guard Qi
+  STATE after turn 4b: A(hp 26/42, def 0, qi 0) | B(hp 22/42, def 5, qi 1)
+turn 4b ends
+turn 5a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 3 def. Now have 2 def
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 5a: A(hp 26/42, def 0, qi 0) | B(hp 22/42, def 2, qi 1)
+turn 5a ends
+turn 5b begins
+  lost 1 def. Now have 1 def
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 23
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 5b: A(hp 23/42, def 0, qi 0) | B(hp 22/42, def 1, qi 1)
+turn 5b ends
+turn 6a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    lost 1 def. Now have 0 def
+    reduced 牧逸风(pid0) hp by 2 to 20
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 6a: A(hp 23/42, def 0, qi 0) | B(hp 20/42, def 0, qi 1)
+turn 6a ends
+turn 6b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 20
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 6b: A(hp 20/42, def 0, qi 0) | B(hp 20/42, def 0, qi 1)
+turn 6b ends
+turn 7a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 17
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 7a: A(hp 20/42, def 0, qi 0) | B(hp 17/42, def 0, qi 1)
+turn 7a ends
+turn 7b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 17
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 7b: A(hp 17/42, def 0, qi 0) | B(hp 17/42, def 0, qi 1)
+turn 7b ends
+turn 8a begins
+  吾行之(pid2) is playing Normal Attack (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 14
+  吾行之(pid2) finished playing Normal Attack
+  STATE after turn 8a: A(hp 17/42, def 0, qi 0) | B(hp 14/42, def 0, qi 1)
+turn 8a ends
+turn 8b begins
+  牧逸风(pid0) is playing Normal Attack (level 1)
+    reduced 吾行之(pid2) hp by 3 to 14
+  牧逸风(pid0) finished playing Normal Attack
+  STATE after turn 8b: A(hp 14/42, def 0, qi 0) | B(hp 14/42, def 0, qi 1)
+turn 8b ends
+turn 9a begins
+  吾行之(pid2) is playing Earth Spirit - Smash (level 2)
+    reduced 牧逸风(pid0) hp by 7 to 7
+  吾行之(pid2) finished playing Earth Spirit - Smash
+  STATE after turn 9a: A(hp 14/42, def 0, qi 0) | B(hp 7/42, def 0, qi 1)
+turn 9a ends
+turn 9b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Sky (level 1)
+    reduced 吾行之(pid2) hp by 6 to 8
+  牧逸风(pid0) finished playing Cloud Sword - Touch Sky
+  STATE after turn 9b: A(hp 8/42, def 0, qi 0) | B(hp 7/42, def 0, qi 1)
+turn 9b ends
+turn 10a begins
+  吾行之(pid2) is playing Earth Spirit Seal (level 1)
+    reduced 牧逸风(pid0) hp by 3 to 4
+    gained 4 def. Now have 4 def
+    gained 1 activate_earth_spirit_stacks. Now have 2 activate_earth_spirit_stacks
+  吾行之(pid2) finished playing Earth Spirit Seal
+  STATE after turn 10a: A(hp 8/42, def 4, qi 0) | B(hp 4/42, def 0, qi 1)
+turn 10a ends
+turn 10b begins
+  牧逸风(pid0) is playing Cloud Sword - Touch Earth (level 2)
+    lost 4 def. Now have 0 def
+    reduced 吾行之(pid2) hp by 2 to 6
+    gained 6 def. Now have 6 def
+  牧逸风(pid0) finished playing Cloud Sword - Touch Earth
+  STATE after turn 10b: A(hp 6/42, def 0, qi 0) | B(hp 4/42, def 6, qi 1)
+turn 10b ends
+turn 11a begins
+  吾行之(pid2) is playing Metal Spirit - Needle (level 1)
+    lost 6 def. Now have 0 def
+    gained 2 penetrate. Now have 2 penetrate
+  吾行之(pid2) finished playing Metal Spirit - Needle
+  STATE after turn 11a: A(hp 6/42, def 0, qi 0) | B(hp 4/42, def 0, qi 1)
+turn 11a ends
+turn 11b begins
+  牧逸风(pid0) is playing Cloud Sword - Fleche (level 1)
+    reduced 吾行之(pid2) hp by 5 to 1
+    reduced 吾行之(pid2) hp by 3 to -2
+  STATE after turn 11b: A(hp -2/42, def 0, qi 0) | B(hp 4/42, def 0, qi 1)
+turn 11b ends
+吾行之(pid2) loses 4 destiny, now at 92
+牧逸风(pid0) (Mu Yifeng) wins

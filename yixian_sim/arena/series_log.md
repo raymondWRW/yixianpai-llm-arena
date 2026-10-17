@@ -1,0 +1,21 @@
+# Arena series log
+
+- 2026-10-11 19:06 UTC — game 22 starting — balance $6.45
+- 2026-10-11 20:25 UTC — game 22 done — winner 小布 (命100), 15 rounds; cost $0.45; balance $6.00
+- 2026-10-11 20:26 UTC — game 23 starting — balance $6.00
+- 2026-10-11 21:32 UTC — game 23 done — winner 吾行之 (命1), 18 rounds; cost $0.53; balance $5.47
+- 2026-10-11 21:32 UTC — game 24 starting — balance $5.47
+- 2026-10-11 22:42 UTC — game 24 done — winner 吾行之 (命18), 19 rounds; cost $0.55; balance $4.92
+- 2026-10-11 22:42 UTC — game 25 starting — balance $4.92
+- 2026-10-11 23:54 UTC — game 25 done — winner 谭舒雁 (命40), 17 rounds; cost $0.54; balance $4.38
+- 2026-10-11 23:54 UTC — game 26 starting — balance $4.38
+- 2026-10-12 04:12 UTC — game 26 done — winner 小布 (命17), 19 rounds; cost $0.58; balance $3.80
+- 2026-10-12 04:12 UTC — game 27 starting — balance $3.80
+- 2026-10-12 05:23 UTC — game 27 done — winner 牧逸风 (命59), 18 rounds; cost $0.54; balance $3.26
+- 2026-10-12 05:23 UTC — game 28 starting — balance $3.26
+- 2026-10-13 10:28 UTC — game 28 done — winner 牧逸风 (命1), 19 rounds; cost $0.52; balance $2.74
+- 2026-10-13 10:28 UTC — game 29 starting — balance $2.73
+- 2026-10-13 11:53 UTC — game 29 done — winner 谭舒雁 (命87), 18 rounds; cost $0.55; balance $2.18
+- 2026-10-13 11:53 UTC — game 30 starting — balance $2.18
+- 2026-10-13 13:29 UTC — game 30 done — winner 谭舒雁 (命10), 19 rounds; cost $0.60; balance $1.58
+- 2026-10-13 13:29 UTC — game 31 starting — balance $1.58
